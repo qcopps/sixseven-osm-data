@@ -1,0 +1,99 @@
+name: build-osm-data
+
+# Builds, for each French département, the venue files used by the Six-seven app
+# (bars, pubs, cafés, restaurants + nearby addresses and named roads) from the
+# Geofabrik OpenStreetMap extracts. Data © OpenStreetMap contributors, ODbL.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/build.yml', 'scripts/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-osm-data
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        include:
+          - { region: alsace, deps: "67,68" }
+          - { region: aquitaine, deps: "24,33,40,47,64" }
+          - { region: auvergne, deps: "03,15,43,63" }
+          - { region: bourgogne, deps: "21,58,71,89" }
+          - { region: bretagne, deps: "22,29,35,56" }
+          - { region: centre, deps: "18,28,36,37,41,45" }
+          - { region: champagne-ardenne, deps: "08,10,51,52" }
+          - { region: corse, deps: "2A,2B" }
+          - { region: franche-comte, deps: "25,39,70,90" }
+          - { region: ile-de-france, deps: "77,78,91,92,93,94,95" }
+          - { region: languedoc-roussillon, deps: "11,30,34,48,66" }
+          - { region: limousin, deps: "19,23,87" }
+          - { region: lorraine, deps: "54,55,57,88" }
+          - { region: midi-pyrenees, deps: "09,12,31,32,46,65,81,82" }
+          - { region: nord-pas-de-calais, deps: "59,62" }
+          - { region: pays-de-la-loire, deps: "44,49,53,72,85" }
+          - { region: picardie, deps: "02,60,80" }
+          - { region: poitou-charentes, deps: "16,17,79,86" }
+          - { region: provence-alpes-cote-d-azur, deps: "04,05,06,13,83,84" }
+          - { region: rhone-alpes, deps: "01,07,26,38,42,69,73,74" }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install libraries
+        run: pip install osmium==4.3.2 shapely
+      - name: Download the Geofabrik extract
+        run: |
+          mkdir -p dl out
+          curl -fsSL --retry 3 --retry-delay 30 -A "sixseven-osm-data (GitHub Actions)" \
+            -o dl/region.osm.pbf "https://download.geofabrik.de/europe/france/${{ matrix.region }}-latest.osm.pbf"
+          ls -la dl
+      - name: Extract venues, addresses and roads
+        run: |
+          set -o pipefail
+          python3 -I scripts/extract.py dl/region.osm.pbf out "${{ matrix.deps }}" 2>&1 | tee "out/log_${{ matrix.region }}.txt"
+      - name: Keep the log even on failure
+        if: failure()
+        run: |
+          mkdir -p out
+          echo "FAILED: ${{ matrix.region }}" >> "out/log_${{ matrix.region }}.txt"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: out-${{ matrix.region }}
+          path: out/
+          retention-days: 7
+
+  commit:
+    needs: extract
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: out-*
+          merge-multiple: true
+      - name: Commit the files
+        run: |
+          mkdir -p data logs
+          cp artifacts/fr*_* data/ 2>/dev/null || true
+          cp artifacts/log_* logs/ 2>/dev/null || true
+          (cd data && ls -la) > logs/files.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data logs
+          git commit -m "Venue files per département (data © OpenStreetMap contributors, ODbL)" || echo "nothing to commit"
+          git push
