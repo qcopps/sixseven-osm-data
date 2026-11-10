@@ -1,0 +1,1038 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	107469			Aigné	8	72650	72001					
+node	7489551791	48.0656411	0.1192012	Café des sports				bar	10	72650	Rue de la Mairie	
+way	331401399	48.0783310	0.1154567	Les 3 mousses				restaurant	4	72650	Route de Sillé-le-Guillaume	
+relation	107432			Aillières-Beauvoir	8	72600	72002					
+node	11045511839	48.4046445	0.3261057	L'Orée du Bois				pub				
+relation	107438			Allonnes	8	72700	72003					
+node	1395963652	47.9526084	0.1661214	Le California				pub				
+way	1120304883	47.9726793	0.1469794	Buffalo Grill				restaurant				
+relation	107693			Ancinnes	8	72610	72005					
+node	11045511888	48.3680747	0.1776575	Le café d'Ancinnes				pub				
+relation	107511			Arçonnay	8	72610	72006					
+node	1631841654	48.4094069	0.0864922	Flunch				restaurant				
+node	9739058157	48.4065693	0.0859192	Wok Tchen				restaurant				
+node	13395358246	48.4034623	0.0897132	Afterwork				bar				
+relation	107557			Arnage	8	72230	72008					
+node	2346513798	47.9153642	0.1789401	Auberge des Matfeux				restaurant				
+node	9981522480	47.9351154	0.1881469	Le PN				restaurant				
+node	10117038617	47.9426404	0.1821100	Le Cottage				restaurant				
+node	10179259130	47.9299535	0.1861902	Le Ruisseau				restaurant				
+node	10179259145	47.9291295	0.1858656	L'adresse				restaurant				
+node	10179259148	47.9275505	0.1851363	Le Tandem				restaurant				
+node	10179259163	47.9304201	0.1860786	Le Libanais				restaurant				
+node	10179259167	47.9306433	0.1861687	La Cuisine de Mam				restaurant				
+node	10179259170	47.9309690	0.1866938	La Baraque				restaurant				
+node	11117824396	47.9507449	0.1803088	Le local à bières				bar				
+way	125244126	47.9291210	0.1853265	Bar du centre				bar	106	72230	Avenue Nationale	
+way	125244426	47.9320245	0.1866895	Le Circuit				bar	50	72230	Avenue Nationale	
+way	125244513	47.9432385	0.1824675	Courtepaille				restaurant				
+way	948700473	47.9425766	0.1792661	La Gèmerie Beach				restaurant				
+relation	107396			Asnières-sur-Vègre	8	72430	72010					
+node	13665763778	47.8890015	-0.2347912	Le pavillon d'été				bar				
+node	13665831575	47.8724174	-0.2060916	Chris club				nightclub				
+relation	107415			Aubigné-Racan	8	72800	72013					
+node	4603555946	47.6898690	0.2680151	L'escapade				bar				
+node	11232623821	47.6896050	0.2689216	L'Racan				pub				
+relation	107653			Avezé	8	72400	72020					
+node	475535946	48.2259284	0.6808569	Le Cheval Blanc				restaurant				
+relation	108278			Le Bailleul	8	72200	72022					
+node	5220379171	47.7681195	-0.1611932	Bar Tabac La Belle Étoile				bar	3	72200	Place de la Mairie	
+relation	5812382			Ballon-Saint Mars	8	72290	72023					
+node	11240054059	48.1713331	0.2363187	Au Saint-Laurent				bar				
+node	13356691394	48.1688672	0.2720062	Tous à Table				restaurant				
+way	324467544	48.1723165	0.2464320	O Bistrot du Saint-Ellier				restaurant	3			
+way	324470419	48.1684452	0.2590000	Les Nymphéas				restaurant		72290	L'Auberderie	
+relation	109890			La Bazoge	8	72650	72024					
+node	12881815981	48.1067345	0.1510110	Guiguette				pub				
+way	295252866	48.0990865	0.1542575	Le Deauville				bar				
+way	295253083	48.0950285	0.1564980	Le Grillardin				restaurant	4	72650	Avenue Nationale	
+relation	6838447			Bazouges Cré sur Loir	8	72200	72025					
+node	7621320893	47.6888209	-0.1701573	Le Bon Coin				bar				
+relation	107443			Beaufay	8	72110	72026					
+way	363814446	48.1471400	0.3616325	Auberge de la Tour				restaurant				
+relation	107670			Beaumont-sur-Dême	8	72340	72027					
+node	11194955293	47.6943014	0.5691708	Les Mères Cocottes				restaurant				
+relation	107506			Beaumont-Pied-de-Bœuf	8	72500	72028					
+node	1234846885	47.7593676	0.4017743	L'Auberge de Beaumont				restaurant				
+relation	107401			Beaumont-sur-Sarthe	8	72170	72029					
+node	1773429665	48.2259526	0.1287227	Café de la Mairie				cafe			place de la libération	
+node	1773431920	48.2311522	0.1250158	Auberge de la Croix Margot				restaurant	122	72170	Avenue de la Division Leclerc	
+node	12979994514	48.2255815	0.1307101	Café des Arts				cafe				
+node	13070584695	48.2256152	0.1310145	Aux mille pizzas				restaurant				
+relation	107421			Bérus	8	72610	72034					
+node	14297822750	48.3766077	0.0879197	La Route d'Or				restaurant				
+relation	107441			Bessé-sur-Braye	8	72310	72035					
+node	11922136669	47.8306429	0.7471756	La Gare				restaurant				
+node	12636125323	47.8371106	0.7534962	Pizza à Gogo				restaurant	64	72310	Rue Émile Zola	
+node	12636144604	47.8313158	0.7542248	Le Safran				restaurant	25	72310	rue du Val de Braye	
+node	13125784407	47.8319759	0.7525957	Le Safran				restaurant				
+node	13125784410	47.8344764	0.7526895	Le Courtanvaux				bar				
+node	13125784411	47.8340073	0.7523442	Le Jet D'Eau				bar				
+node	13125784419	47.8329329	0.7496157	Bar des Sports				bar				
+node	13125784423	47.8306884	0.7468839	M&C				restaurant				
+relation	107649			Bouloire	8	72440	72042					
+node	6306399902	47.9729573	0.5551601	Le Belga				bar	3	72440	Place du Château	
+node	6306470639	47.9725441	0.5555823	Bar Tabac Le Reinitas				bar	97	72440	Rue Nationale	
+node	6310316589	47.9731542	0.5555434	Auberge du Château				restaurant	6	72440	Place du Château	
+relation	107428			Bourg-le-Roi	8	72610	72043					
+node	10034216807	48.3460896	0.1328835	L'Olivier Nouveau				restaurant	11		Rue du Point de Beauvais	
+relation	107878			Le Breil-sur-Mérize	8	72370	72046					
+node	9633860111	48.0073013	0.4773034	Cafe-restaurant du Dauphin				restaurant				
+way	168757690	48.0048589	0.4919564	Le Disco-Teck				nightclub				
+relation	107447			Brette-les-Pins	8	72250	72047					
+node	11582567210	47.9115254	0.3365371	O' P'tit Brettois				restaurant	30		Rue des Glycines	
+node	11582567212	47.9122145	0.3371201	Le Baraka				bar	16		Rue des Glycines	
+relation	107466			Briosne-lès-Sables	8	72110	72048					
+way	365402030	48.1742560	0.3946010	Au Bon Laboureur				restaurant				
+relation	109238			La Bruère-sur-Loir	8	72500	72049					
+node	9091075375	47.6511427	0.3484236	La Forge				restaurant				
+relation	107587			Brûlon	8	72350	72050					
+node	6681335494	47.9617063	-0.2264338	Snack Bar Le Septentrion				restaurant		72350	Chemin de Parcaigneau	
+node	11229990582	47.9668468	-0.2336741	Bœuf et Campagne				restaurant				
+way	229982541	47.9674370	-0.2333370	Le Bar du Coin				bar				
+relation	107423			Cérans-Foulletourte	8	72330	72051					
+node	3679796795	47.8278267	0.0763534	Le Croissant				restaurant				
+node	13419247171	47.8274881	0.0751213	L'Antre II				restaurant				
+node	13419247172	47.8274166	0.0748826	Le Penalty				bar				
+node	13419247178	47.8266630	0.0748457	Le new's bar				bar				
+relation	109245			Chahaignes	8	72340	72052					
+node	10274252747	47.7417864	0.5145727	Silex				restaurant	15	72340	Place de l'Église	
+relation	107481			Challes	8	72250	72053					
+node	7747265162	47.9306049	0.4150631	Le Challois				bar				
+way	162606031	47.9306433	0.4149813	Le Challois				restaurant				
+relation	107680			Champagné	8	72470	72054					
+node	4013086547	48.0083739	0.3314157	L'escale				restaurant				
+node	4246655299	48.0262433	0.3321344	Le Guéribat				bar				
+node	4293533451	48.0090637	0.3303298	L'Arpent Blanc				restaurant				
+node	12745475677	48.0154596	0.3272751	L'escapade				restaurant				
+way	174806593	48.0084274	0.3223976	La Clé des Champs				restaurant			Route de Saint-Calais	
+relation	107630			Champfleur	8	72610	72056					
+node	11045511919	48.3856738	0.1257674	L'estaminet				bar				
+relation	107601			Changé	8	72560	72058					
+node	1616820136	47.9672932	0.2712346	Au Bois Martin				restaurant				
+node	4337099136	47.9875968	0.2818035	Le Byblos				bar	5	72560	Place de l'Église	
+node	4337099137	47.9870184	0.2828262	Le Cheval Blanc				restaurant	25	72560	Place de l'Église	
+node	6001215369	47.9899773	0.2495219	Pause Nature				cafe				
+node	12212789199	47.9773437	0.2716957	Bistro Broc Café				restaurant				
+node	12724518482	47.9860558	0.2822046	Le Driver				bar				
+relation	107873			La Chapelle-Saint-Aubin	8	72650	72065					
+node	2744625884	48.0447708	0.1729765	Le Saint-Aubin (Brasserie)				restaurant				
+node	2749658821	48.0420660	0.1744652	Flunch				restaurant				
+node	11071952559	48.0348173	0.1603854	Le Capella				bar	35 bis	72650	Rue de l'Europe	
+node	14078957202	48.0265925	0.1716828	Twin's Beer				bar				
+way	146830426	48.0379351	0.1747587	La Grange				restaurant				
+relation	107475			La Chapelle-Saint-Rémy	8	72160	72067					
+node	11142541180	48.1072798	0.4563390	Café de la Place				cafe				
+relation	108420			La Chartre-sur-le-Loir	8	72340	72068					
+node	12955049264	47.7278599	0.5751805	Le Celtique				bar	6	72340	Place de la République	
+node	12955068852	47.7278843	0.5752404	Le Jasnières				bar	8	72340	Place de la République	
+node	12955071165	47.7276686	0.5752418	B le restaurant				restaurant	1	72340	Place de la République	
+node	12955141046	47.7386311	0.5789267	L'escale				restaurant	66	72340	Avenue des Déportés	
+node	12955144910	47.7285228	0.5734835	Café des Arts				bar	5	72340	Place de la Liberté	
+node	14111142221	47.7276616	0.5754170	Goguette				restaurant				
+way	74530800	47.7270793	0.5731023	La Luna				restaurant	23		Rue Carnot	
+relation	6795114			Montval-sur-Loir	8	72500	72071					
+node	7387294068	47.6955524	0.4176971	Le Grand Hôtel				restaurant				
+node	7519714331	47.6856173	0.4401758	Le Welcome				bar				
+node	7840370518	47.6944982	0.4181772	Aux Papilles de Château				restaurant				
+node	7847368431	47.6836446	0.4147902	Hôtel de la Gare				restaurant				
+node	7847368432	47.6838573	0.4148365	Les Voyageurs				bar				
+node	8043232955	47.6866622	0.4312779	La Brasserie WiFi				restaurant				
+node	11195035055	47.6940993	0.4176500	Le Globe Trotteur				bar				
+node	13124217472	47.6947554	0.4173759	La Michonnière				restaurant				
+node	13124217473	47.6948462	0.4172759	L'Escale				restaurant				
+node	13124217474	47.6953625	0.4174315	Brasserie Castélorienne L'Imprévu				restaurant				
+node	13124217475	47.6958499	0.4176226	Le Celtique				bar				
+node	13124250519	47.6930106	0.4167898	Brasserie Elau				restaurant				
+node	13733561825	47.6931640	0.4196759	Le Relais des Halles				cafe				
+node	13733561827	47.6933748	0.4199213	Le Tanger				restaurant				
+node	14109972658	47.6911243	0.4274757	Le Selfie				restaurant				
+way	240489855	47.6892496	0.4157109	Le Carnot 1895				cafe	4	72500	Rue Henri Dunant	
+relation	107643			Chaufour-Notre-Dame	8	72550	72073					
+node	11796199294	48.0256031	0.0730003	Le Bistrot d'Alex				bar				
+node	11796199297	48.0253089	0.0717638	Le Relais				restaurant				
+relation	107628			Chenu	8	72500	72077					
+node	11232623777	47.6132994	0.3382587	La Pom' Gourmande				restaurant				
+relation	9087019			Cherré-Au	8	72400	72080					
+node	472999767	48.1774934	0.6643355	O Feu d'Bois				restaurant				
+node	5830516659	48.1727663	0.6549835	Les Deux Chandelles				restaurant	12	72400	Rue François Avice	
+way	309756905	48.1740670	0.6560965	Le Monaco				cafe	19	72400	Rue Princesse Alice de Monaco	
+relation	107483			Chevillé	8	72350	72083					
+node	13009372699	47.9485633	-0.2233458	Restaurant de la Place				restaurant				
+relation	107697			Clermont-Créans	8	72200	72084					
+node	6311017447	47.7168845	-0.0176677	Le Créans				restaurant				
+relation	107573			Conflans-sur-Anille	8	72120	72087					
+node	9800328082	47.9464545	0.7449846	Bistrot Poitevin				restaurant				
+node	12953989598	47.9368660	0.7399262	见附件				bar				
+relation	109603			Congé-sur-Orne	8	72290	72088					
+node	8750311132	48.1999581	0.2539314	Chez Cathy				restaurant				
+relation	107687			Conlie	8	72240	72089					
+node	6258715631	48.1227010	-0.0165264	Le Quotidien				cafe	4	72240	Grande Rue	
+node	12368202802	48.1232740	-0.0167356	La Table de Benjamin				restaurant	22	72240	Grande Rue	
+node	12714073716	48.1208908	-0.0083151	La Table de Benjamin				restaurant				
+relation	107394			Connerré	8	72160	72090					
+node	9634475998	48.0602694	0.4934217	Café du Centre				bar				
+node	13250863431	48.0600215	0.4939792	Maison Estel				restaurant				
+relation	107635			Cormes	8	72400	72093					
+node	4471956375	48.1695943	0.7039133	Café de l'Étoile				bar				
+relation	107424			Coulaines	8	72190	72095					
+node	10052562891	48.0238836	0.2022359	Brasserie de la Paix				pub				
+node	10052562892	48.0240469	0.2022345	Pizza Hut				restaurant				
+node	10052562899	48.0275835	0.1998299	Studio 101				restaurant				
+way	88401726	48.0242999	0.2047295	La Tabatière				cafe	48	72190	Rue du Général de Gaulle	
+relation	107448			Coulans-sur-Gée	8	72550	72096					
+node	3668836766	48.0198928	0.0087454	Le Café In				bar				
+node	11796199353	48.0179024	0.0083108	Hangart				pub				
+relation	107588			Coulongé	8	72800	72098					
+node	11298984756	47.6898099	0.2020575	Café de la Mairie				bar				
+relation	107459			Courcebœufs	8	72290	72099					
+node	7004669886	48.1373651	0.2877928	Le Boeusien				cafe				
+relation	107427			Courgains	8	72260	72104					
+node	3840096151	48.2894240	0.2793445	Chez Isa et JuJu				pub	1	72260	Rue du Mans	
+relation	107392			Courgenard	8	72320	72105					
+node	10281244957	48.1520652	0.7363187	Le Croissant				restaurant				
+relation	107600			Crissé	8	72140	72109					
+node	10257695153	48.1683564	-0.0602639	La Renaissance				restaurant	1	72140	Rue du Houdou	
+relation	107688			Dissay-sous-Courcillon	8	72500	72115					
+node	7783633835	47.6506508	0.4697715	Self Express				restaurant				
+relation	107679			Dollon	8	72390	72118					
+node	7223866306	48.0376168	0.5887881	Le Lancelot				restaurant	10	72390	Rue du Parc	
+relation	107482			Domfront-en-Champagne	8	72240	72119					
+node	1780494262	48.1051025	0.0260126	Café du centre				bar				
+relation	107431			Dureil	8	72270	72123					
+node	4605836677	47.8428559	-0.1455259	Auberge des Acacias				restaurant	4	72270	Rue Jules Moreau	
+relation	107507			Écommoy	8	72220	72124					
+node	8290586431	47.8282716	0.2737512	Le Vincennes				pub				
+node	8290586448	47.8276728	0.2731416	Les pierres tournantes				restaurant				
+node	12874029883	47.8184337	0.2981034	Ô Bon Sarthois				restaurant				
+way	150421138	47.8250160	0.2868765	Les Lilas				restaurant				
+way	150427539	47.8379545	0.2640430	Fleur de Thym				restaurant				
+relation	107620			Étival-lès-le-Mans	8	72700	72127					
+node	10829151794	47.9556681	0.0873494	L'Étival				bar				
+relation	107678			Fatines	8	72470	72129					
+node	13248679885	48.0458542	0.3479036	Le Fatinois				bar				
+node	13248679887	48.0458754	0.3479448	Le Fatinois				restaurant				
+relation	107632			Fercé-sur-Sarthe	8	72430	72131					
+node	10294109462	47.9016533	-0.0310413	O’Bout Du Pont				pub				
+relation	107487			La Ferté-Bernard	8	72400	72132					
+node	475533858	48.1856159	0.6534785	Le Marais				restaurant				
+node	475533870	48.1869128	0.6550143	Café du Commerce				cafe				
+node	475537734	48.1866320	0.6514637	Le Dauphin				restaurant				
+node	475538082	48.1865021	0.6574263	La Perdrix				restaurant				
+node	475538111	48.1881362	0.6535868	Le Stade				restaurant				
+node	497838714	48.1764670	0.6527919	Campanile				restaurant				
+node	512136343	48.1850472	0.6541645	Le Cygne				restaurant				
+node	1894634700	48.1857344	0.6575066	Kampaii				restaurant				
+node	1894634722	48.1844325	0.6578017	Fast Biryani				restaurant		72400	Rue Ledru Rollin	
+node	3076836304	48.1838903	0.6583026	Le Celtic				cafe				
+node	4471663901	48.1856630	0.6537712	Le P'tit Grumeau				restaurant				
+node	5274323567	48.1856074	0.6538160	La Tour de Pizze				restaurant				
+node	11142516978	48.1857312	0.6570809	Le Balto				bar				
+node	11142541107	48.1868055	0.6398731	L'étoile orientale				restaurant				
+node	11459411491	48.1860413	0.6541184	Madame Moustache				restaurant	30		Promenade du Grand Mail	
+node	11459542001	48.1861019	0.6540067	Pat's Pub				pub				
+node	12994711439	48.1867386	0.6542333	Le Bacchus				restaurant				
+node	13323249531	48.1876124	0.6426479	La Civette Fertoise				bar				
+node	13323249563	48.1863752	0.6521305	Pizza number one				restaurant				
+node	13323249565	48.1855570	0.6533006	Comme à la maison				restaurant				
+node	13323249570	48.1864892	0.6518650	Le Chiquito				bar				
+node	13323249571	48.1855295	0.6526981	Rest'O Vin				restaurant				
+node	14336116206	48.1789608	0.6522985	Chope & Compagnie				bar				
+way	230705966	48.1852590	0.6546265	Au Bistronome				restaurant	11	72400	Rue Bourgneuf	
+relation	107436			Fillé	8	72210	72133					
+node	3392226458	47.8981524	0.1263243	L'Accord				bar	14	72210	Rue du Passeur	
+way	323974304	47.9001294	0.1261818	Maison Nipa				restaurant				
+way	1247352749	47.8954173	0.1258032	Le Bal				pub				
+relation	109236			La Fontaine-Saint-Martin	8	72330	72135					
+node	13270598743	47.7926288	0.0431436	L'Éternel				restaurant				
+relation	4447318			Villeneuve-en-Perseigne	8	72600;72610	72137					
+node	1635441613	48.4445847	0.2533876	Le Fresnayon				bar				
+node	8921867117	48.4477104	0.2546366	Le fresnayon				pub				
+relation	9212374			Fresnay-sur-Sarthe	8	72130	72138					
+node	4240296477	48.2811057	0.0193588	Les Nouvelles Alpes Mancelles				restaurant		72130	Place Thiers	
+node	4240296478	48.2813916	0.0207464	Chez Patapom				restaurant	47	72130	Grande Rue	
+node	4244423418	48.2812443	0.0223146	Au Bon Coin				bar				
+node	6569314686	48.2817283	0.0204109	Fresnay’s café				pub				
+node	9259447865	48.2805508	0.0207972	Le Celtic				cafe				
+node	11016797588	48.3005586	0.0955456	Le Saint Germain				restaurant				
+node	13482645225	48.3031358	0.1047188	Le Klubb				nightclub				
+node	14093090702	48.2852992	0.0152642	Guinguette Au détour de la rivière				bar				
+relation	107538			Fyé	8	72610	72139					
+node	11045511972	48.3241090	0.0939873	Le Monocle				pub				
+relation	107513			Gesnes-le-Gandelin	8	72130	72141					
+node	12150030943	48.3549465	0.0213190	Les Trois Tilleuls				restaurant		72130		
+relation	109243			Le Grand-Lucé	8	72150	72143					
+node	7110361640	47.8648496	0.4695058	Le Ronsard				bar				
+node	11949535176	47.8646213	0.4702520	Bar des sports				bar				
+node	13275779252	47.8645699	0.4697757	Pub WH				pub				
+relation	107532			Guécélard	8	72230	72146					
+node	5077585883	47.8768801	0.1287183	Le Louisiana				bar	43	72230	Rue Nationale	
+node	6676074763	47.8973964	0.1543546	La Belle Étoile				restaurant				
+node	6676081619	47.8759703	0.1274968	La Botte d'Asperges				restaurant				
+node	9694822149	47.8784504	0.1302166	Chez Victor				restaurant		72230		
+relation	109896			La Guierche	8	72380	72147					
+node	13196348724	48.1134902	0.1942526	La Bonne Franquette				restaurant				
+node	13196348725	48.1134547	0.1942571	Le Guierchois				bar				
+relation	107391			Joué-en-Charnie	8	72540	72149					
+node	3829827355	48.0177454	-0.1896013	Le Cheval Blanc				restaurant				
+relation	107499			Joué-l'Abbé	8	72380	72150					
+node	13197821401	48.1099679	0.2171822	Les Joyeux				bar				
+relation	107696			Juigné-sur-Sarthe	8	72300	72151					
+node	5244638757	47.8629755	-0.2871955	Les Vignes				bar	15	72300	Rue des Vignes	
+relation	107654			Jupilles	8	72500	72153					
+node	14085864191	47.7904594	0.4129247	Le Saint-Jacques - La Brass'vie				bar	3		Place André Ricordeau	
+node	14085864192	47.7903963	0.4127960	Le Bistrot Chouette				bar	4	72500	Place André Ricordeau	
+relation	107550			La Flèche	8	72200	72154					
+node	1724423403	47.7003817	-0.0723110	L'Antipasta				restaurant		72200		
+node	7195145071	47.6980511	-0.0769992	Café de la promenade				cafe				
+node	9091183081	47.6974720	-0.0890359	Le Verdun				bar				
+node	9843632326	47.7028348	-0.0500558	Signorizza				restaurant		72200	Allée des Gabares	
+node	9867646972	47.6992453	-0.0749100	La table d'Henri				restaurant	6	72200	Place Henri IV	
+node	10294109409	47.7195437	-0.1066098	L'entre deux				restaurant				
+node	10294109412	47.7193822	-0.1064676	Le Verronais				bar				
+node	10557275970	47.6997927	-0.0750657	La Bisquine				restaurant	11	72200	Rue Henri IV	
+node	10603673552	47.7041714	-0.0874519	Le Marling				bar	86	72200	Rue de la Magdeleine	
+node	11265618116	47.6920406	-0.0760500	Bar Fléchois				bar				
+node	12404403655	47.6995100	-0.0771408	D.Pizzas				restaurant	44		Rue Carnot	
+way	135003675	47.6999512	-0.0726494	La Cravache d'or				cafe				
+way	135004890	47.6982881	-0.0861203	L'Idée Gourmande				restaurant				
+way	135004904	47.6993689	-0.0735089	Pub Henry IV				pub				
+way	135005481	47.6994299	-0.0734160	Frenchies Burgers				restaurant	40	72200	Grande Rue	
+way	135006315	47.6988253	-0.0769912	La table de Laurène				restaurant	13	72200	Place de la Libération	
+way	135006628	47.6996974	-0.0717094	Le comptoir de l'Inde				restaurant	47	72200	Grande Rue	
+way	135006784	47.7035743	-0.0713281	Le chat parti				restaurant	14	72200	Rue de Constantine	
+way	135006845	47.7152284	-0.0619175	Everest Bistro Blend				restaurant				
+way	135007276	47.6997346	-0.0760861	L'Étoile du Maroc				restaurant	18	72200	Rue Carnot	
+way	135011992	47.7021319	-0.0518142	Buffalo Grill				restaurant				
+way	135017591	47.6996612	-0.0754862	L'Entracte				cafe				
+way	135018584	47.6981976	-0.0738041	Aux délices d'Asie				restaurant	3	72200	Rue Pape-Carpantier	
+way	135018695	47.7005365	-0.0726575	Les trois coups				cafe				
+way	135018983	47.6994337	-0.0755148	La Civette				cafe				
+way	135019449	47.6992143	-0.0755174	POSOF COFFEE				bar		72200	Place Henri IV	
+way	135020745	47.6968028	-0.0760163	Moulin des Quatres Saisons				restaurant				
+way	814230128	47.6777144	-0.0491419	Safari Camp				restaurant				
+relation	18476597			Laigné-Saint-Gervais	8	72220	72155					
+node	2013709272	47.8776692	0.2176724	Le Chiquito				bar				
+node	4588039291	47.8777009	0.2268831	Le Bon Saint-Martin				restaurant	2	72220	Rue du Comte	
+node	9839263879	47.8782121	0.2304822	L'IDEE FIXE				restaurant				
+relation	107690			Lamnay	8	72320	72156					
+node	3621796058	48.1154853	0.7066347	Lamnaysia				bar				
+node	10281244983	48.1166603	0.7031853	Auberge du Nord				restaurant				
+relation	107440			Lavaré	8	72390	72158					
+node	7223882797	48.0536302	0.6444781	La Toscane				restaurant	6	72390	Rue du Gué Long	
+relation	107381			Lhomme	8	72340	72161					
+node	13101312317	47.7459014	0.5587631	La Planque				restaurant				
+way	305125975	47.7430890	0.5573170	Chez Fred				restaurant	12	72340	Rue du Val de Loir	
+relation	107691			Lombron	8	72450	72165					
+node	9634475972	48.0792676	0.4175557	Le Saint Martin				bar				
+relation	107408			Louailles	8	72300	72167					
+node	5221950987	47.7924151	-0.2518067	Relais de Louailles				pub				
+node	5221950988	47.7923844	-0.2517253	Relais de Louailles				restaurant				
+relation	107692			Loué	8	72540	72168					
+node	10981990934	47.9944234	-0.1521035	Resto' Pickup				restaurant				
+way	329466983	47.9932470	-0.1525275	Hôtel-Restaurant Ricordeau				restaurant				
+relation	107530			Louplande	8	72210	72169					
+node	10799305669	47.9436817	0.0413863	Au P'tit Loup				bar				
+node	13275652220	47.9436457	0.0408876	V&P				restaurant				
+relation	107548			Le Luart	8	72390	72172					
+node	7223866308	48.0694876	0.5853960	Les Laboureurs				restaurant	2	72390	Place de l'Église	
+relation	107368			Luceau	8	72500	72173					
+node	13720669567	47.7171132	0.4011663	L'Ardennais				restaurant				
+relation	107484			Luché-Pringé	8	72800	72175					
+node	11265607868	47.7032683	0.0742905	Au Bois Sacré				restaurant	7	72800	Place du Monument	
+node	12104079500	47.7035038	0.0745747	Café des arts				cafe				
+way	143595060	47.7014626	0.0739491	Bar Michel Brossard				bar				
+relation	7858552			Le Lude	8	72800	72176					
+node	3683930976	47.6461288	0.1564444	Ker Baudine				restaurant				
+node	6683026312	47.6473715	0.1531737	Les Saveurs du Portugal				restaurant				
+node	6683026713	47.6471152	0.1528721	La Renaissance				restaurant				
+node	7621424502	47.6485367	0.1610224	Auberge des Isles				restaurant				
+node	7627929523	47.6441056	0.1572262	Au Bistrot Ronsard				restaurant				
+node	7627929526	47.6469388	0.1576861	Café d'Orée				cafe				
+node	9091136097	47.6470912	0.1537992	L'Odyssée Champêtre				restaurant				
+node	10913857546	47.6468629	0.1565263	Le Nemrod				bar				
+node	11298984746	47.6082250	0.1561689	Le Relais de la Marconne				restaurant				
+way	271204822	47.6431340	0.1567890	La Mall’ Poste				bar	15	72800	Place du Champ de Foire	
+way	271204827	47.6434780	0.1558625	Le Kiosque				bar	24	72800	Place du Champ de Foire	
+relation	107374			Maigné	8	72210	72177					
+node	10799300607	47.9375220	-0.0543618	Auberge de la Gée – Les Vieux de Gouillettes				restaurant	2	72210	Rue de l'Église	
+relation	107521			Malicorne-sur-Sarthe	8	72270	72179					
+node	1833612046	47.8145327	-0.0887273	Restaurant "La Petite Auberge"				restaurant				
+node	12763121053	47.8141173	-0.0880824	L'Ardoise				restaurant				
+node	12763121057	47.8140862	-0.0877223	Bar des sports				bar				
+relation	107694			Mamers	8	72600	72180					
+node	4147910396	48.3501753	0.3698895	La Rotonde				bar				
+node	9223040206	48.3496566	0.3686743	L'Atypique				restaurant	2	72600	Rue Paul Bert	
+node	9223040207	48.3497761	0.3686817	La Terrasse				restaurant				
+node	11107727713	48.3502935	0.3683779	La Civette				bar				
+node	11107727719	48.3502091	0.3684481	John's steakhouse				restaurant				
+node	11107727725	48.3500839	0.3689949	Pizza Crousty				restaurant				
+node	14097349585	48.3501972	0.3846844	McDonalds				restaurant				
+way	103033705	48.3493925	0.3694330	La Planque				cafe	3	72600	Rue Frédéric Dallier	
+way	103036921	48.3560385	0.3672785	Mage Malte				bar	109	72600	Rue Charles Granger	
+way	103044301	48.3499770	0.3688960	L'assiette mamertine				restaurant	10	72600	Place Carnot	
+relation	107435			Le Mans	8	72000;72100	72181					
+node	312154083	48.0142743	0.1609600	Le Colorado				pub				
+node	799622199	48.0039464	0.1980049	Le Globe				restaurant				
+node	799679780	48.0037040	0.1986590	Five Pizza Original				restaurant				
+node	806980908	48.0106954	0.1988913	Le Galopin				cafe	1	72000	Place Saint-Vincent	
+node	806981282	48.0107090	0.1992384	Le Saint-Vincent				cafe	9	72000	Place Saint-Vincent	
+node	811132289	48.0017928	0.1965937	Le Mulligan's				bar				
+node	811175174	48.0019676	0.1944994	The Elephant Pub				bar				
+node	817329642	48.0050459	0.1965375	Le Barouf				bar	8	72000	Rue Victor Bonhommet	
+node	817333496	48.0056524	0.1955102	Le Grenier à Sel				restaurant				
+node	817539892	48.0074604	0.1988737	U & Mi				restaurant				
+node	824216997	48.0107311	0.1938240	L'épicerie du Pré				restaurant	31	72000	Rue du Pré	
+node	835320925	47.9964424	0.1931936	Tokyo Sushi				restaurant	106	72000	Avenue du Général Leclerc	
+node	1109022741	47.9927640	0.2048850	La braise solidaire				restaurant				
+node	1116600149	48.0009381	0.1981482	Le Plateau				cafe				
+node	1127012272	48.0000727	0.1989031	Restaurent Saigon				restaurant				
+node	1127015603	47.9993915	0.2028700	Le Chanzy Bar				bar				
+node	1151060193	47.9968281	0.1938485	Thailand Food				restaurant				
+node	1384582911	48.0163858	0.2150745	Le Longchamp				cafe				
+node	1760819111	47.9931737	0.1948519	Le Chemin de Table				restaurant		72000	Avenue Henri Lefeuvre	
+node	1760819112	47.9936239	0.1947171	Le Comptoir des Papilles				restaurant				
+node	1781474047	47.9957621	0.1939454	Le Christina				bar				
+node	2085120939	47.9959093	0.2029105	L'Olivier				pub				
+node	2106404453	48.0047044	0.1929318	Les 3 Mâts				restaurant	15		Rue Hippolyte Lecornué	
+node	2106404459	48.0021440	0.1951338	La Loge				nightclub	16			
+node	2106404860	48.0033882	0.1967420	Yuku Ramen				restaurant	3	72000	Rue des Minimes	
+node	2106404977	48.0030238	0.1942146	Portland				pub	34	72000	Rue du Port	
+node	2106405043	48.0029954	0.1941222	Le Zoo				bar	38	72000	Rue du Port	
+node	2106405146	48.0029366	0.1938953	Le Bar'bu				pub	42	72000	Rue du Port	
+node	2106405162	48.0028739	0.1936935	L'Himalaya				restaurant	46	72000	Rue du Port	
+node	2106405311	48.0029922	0.1946912	R-Volt club				nightclub	7	72000	Rue du Port	
+node	2106405366	48.0028660	0.1943235	Delirium café				pub	9 bis	72000	Rue du Port	
+node	2124500749	48.0052209	0.1973503	Le Palais de Bangkok				restaurant	16	72000	Rue Saint-Martin	
+node	2124500839	48.0064323	0.1983416	Café Crème				bar	2		Rue de la Barillerie	
+node	2124500950	48.0045434	0.1982928	Crêperie Saladerie				restaurant	3 bis	72000	Rue de Paris	
+node	2124500951	48.0062204	0.1981211	Le clan des Mamma - Antonia				restaurant	3 bis		Rue de la Barillerie	
+node	2124500979	48.0066308	0.1981096	The Lodge Irish Pub				bar				
+node	2124500980	48.0066118	0.1982110	Les Enfants Terribles by Coline				bar	41	72000	Rue des Ponts Neufs	
+node	2124500982	48.0065772	0.1981638	Chez Marcelle				bar				
+node	2124500984	48.0065238	0.1982572	White				bar	44	72000	Rue des Ponts Neufs	
+node	2124500991	48.0051536	0.1987450	La Boîte à Déjeuner				restaurant	5	72000	Rue de la Paille	
+node	2124501019	48.0056130	0.1947740	Chez Hubert				restaurant	6		Rue de la Vieille Porte	
+node	2124501073	48.0063339	0.1981193	Le Lézard				bar	8	72000	Rue de la Barillerie	
+node	2124501090	48.0044528	0.1977674	Olerk				restaurant				
+node	2124501100	48.0069053	0.1958415	Le Saint-Flaceau				bar	9			
+node	2155982197	47.9949944	0.1911527	Le Terminus Gourmand				restaurant				
+node	2426723518	48.0080682	0.1970485	Le Fou du Roy				restaurant	2		Impasse Sainte-Catherine	
+node	2426723527	48.0079506	0.1977170	Takamaka				bar	3	72000	Rue du Rempart	
+node	2427030849	48.0076982	0.1969569	Salon de Thé				cafe	1		Place Saint-Pierre	
+node	2427030853	48.0074872	0.1965323	O' Comptoir des Cocottes				restaurant	10	72000	Place Saint-Pierre	
+node	2427030856	48.0075220	0.1965760	La Baraque à Bœuf				restaurant	11	72000	Place Saint-Pierre	
+node	2427030860	48.0075810	0.1966402	La Crêperie des 7 plats				restaurant	12	72000	Place Saint-Pierre	
+node	2427030906	48.0074039	0.1964312	Auberge des 7 plats				restaurant	7	72000	Place Saint-Pierre	
+node	2756744320	48.0057247	0.1942371	À Kaboul				restaurant				
+node	2837820465	47.9947893	0.1913756	Le 79 Novaxis				restaurant	79	72000	Boulevard Marie et Alexandre Oyon	
+node	2866757028	48.0184403	0.1829970	Le Surf				cafe	1	72000	Rue de Dunkerque	
+node	3000288178	48.0107778	0.1820376	Le Terminus 117				cafe		72000	Place du 117e Régiment d'Infanterie	
+node	3000297750	48.0110830	0.1819342	L'austral				restaurant				
+node	3503183230	48.0074316	0.1886994	Le Saint-Pavin				cafe				
+node	3569292497	48.0044582	0.1793851	Le Carnot				bar				
+node	4068916920	48.0082773	0.1970308	Le Pilier rouge				cafe				
+node	4162707578	47.9934777	0.1951790	L'Asgard				pub				
+node	4405367684	47.9932842	0.1948946	Le Pas Sage				bar	12	72100	Avenue Henri Lefeuvre	
+node	4575444111	48.0044538	0.1956506	Le Vigo				restaurant				
+node	4589071052	48.0081442	0.1971848	Le Jardin de FéEluna				cafe	7	72000	Place du Hallai	
+node	4589071053	48.0078708	0.1975999	Maison Gathi				restaurant	1	72000	Rue du Rempart	
+node	4987836446	48.0030922	0.1978786	Artyster				restaurant		72000	Boulevard René Levasseur	
+node	5176404679	48.0066490	0.1980382	Pizzeria Don Camillo				restaurant				
+node	5176404685	48.0065735	0.1982756	Pizza Maio				restaurant				
+node	5176404686	48.0067409	0.1978773	La Table de Luc				restaurant				
+node	5176404690	48.0063697	0.1982148	Délices Marocains				restaurant				
+node	5176404701	48.0062727	0.1979811	Crafty Brewpub				bar				
+node	5176404710	48.0066880	0.1980830	Ernest inn				restaurant	37	72000	Rue des Ponts Neufs	
+node	5176404711	48.0068177	0.1977688	Crêperie Le Roy d'Ys				restaurant	30	72000	Rue des Ponts Neufs	
+node	5176404717	48.0053185	0.1986280	L'instant Renaud				cafe				
+node	5228448080	48.0034559	0.1963536	Le Moderne				restaurant				
+node	5228452149	48.0033853	0.1960823	Pub Corner				restaurant				
+node	5228470960	48.0038713	0.1976740	Brasserie de France				restaurant				
+node	5228473335	48.0039167	0.1979041	Palpito				restaurant				
+node	5228549666	48.0040167	0.1958457	L'Office				restaurant	33 bis		Place de la République	
+node	5228552969	48.0044466	0.1958910	La Réserve				restaurant	34		Place de la République	
+node	5228553861	48.0045127	0.1960293	Le Coin Plaisir				restaurant	38	72000	Place de la République	
+node	5228560117	48.0046594	0.1964771	Le Venez				restaurant	41	72000	Place de la République	
+node	5228564967	48.0048202	0.1968968	Soho				nightclub				
+node	5292555060	48.0073882	0.1957630	Les frères Mom				restaurant				
+node	5292555152	48.0067246	0.1949691	Grain’El				restaurant				
+node	5292561295	47.9657226	0.2211843	Le Manceau				restaurant	447	72100	Avenue Georges Durand	
+node	5304779104	47.9786515	0.1667511	Restaurant de la Chauvinière				restaurant	10	72100	Rue des Grandes Courbes	
+node	5646670864	48.0032927	0.1973490	Phô 72				restaurant				
+node	5686885325	48.0004802	0.1924951	Le Congrès				cafe	45	72000	Rue d'Arcole	
+node	5838837396	48.0085204	0.1985259	Café Jet d'eau				cafe				
+node	5838837398	48.0083756	0.1983704	Le Bistrot				cafe				
+node	5838837399	48.0082688	0.1982503	Café du Square				cafe				
+node	6001148673	48.0032180	0.1988323	Yellow Club				cafe				
+node	6064263758	47.9953391	0.1870150	Restauval Ouest				restaurant				
+node	6124671986	47.9994625	0.1961861	Délice Food				restaurant		72100	Avenue du Général Leclerc	
+node	6126666658	48.0011732	0.1973719	Brasserie Le Maine				pub		72000	Place Franklin Roosevelt	
+node	6311557949	47.9828219	0.2101944	Café de la Lune				cafe				
+node	6311557950	47.9828211	0.2110775	Le Maryland				cafe				
+node	6311557951	47.9831082	0.2114078	La Pergola				restaurant				
+node	6312384591	47.9705769	0.2044885	Le Chiquito				cafe	348		Avenue Félix Géneslay	
+node	6391832536	48.0130435	0.2068469	Le Vincennes				cafe				
+node	6400533189	48.0121310	0.2057556	Les Compères				restaurant				
+node	6473046315	48.0016936	0.1967852	Club Azur				nightclub	46	72100	Rue du Docteur Leroy	
+node	6575229722	48.0057584	0.1944124	Le Lapin blanc				bar	5	72000	Rue Dorée	
+node	6688051090	48.0023122	0.1962458	Shika				restaurant		72000	Rue du Docteur Leroy	
+node	6796858739	47.9947919	0.2054701	Self service				restaurant				
+node	7289150918	47.9829911	0.1860400	Thaï Break				restaurant	23	72100	Allée Refour	
+node	7343739719	47.9955145	0.1931251	Costa				cafe				
+node	7577451267	48.0022255	0.1961758	Layaly 24				restaurant				
+node	7577451268	48.0024436	0.1962031	Brasserie Septante-deux				bar				
+node	7577451270	48.0026467	0.1960971	Le Sultan				restaurant				
+node	7577451274	48.0016575	0.1970223	L'Oriental				cafe				
+node	7577451281	48.0025589	0.1959708	BBQ Club				restaurant				
+node	7577451284	48.0031584	0.1958307	Canopée				cafe				
+node	7577477989	48.0026249	0.1959620	La Rhumerie				bar				
+node	7577477990	48.0019481	0.1966091	Luna Café				bar				
+node	7933902985	48.0055676	0.1947845	L'Epi'Curieux				restaurant	4	72000	Rue de la Vieille Porte	
+node	7933918008	48.0054804	0.1946827	Casa Mia				restaurant				
+node	7933918011	48.0057551	0.1946206	Le Bel'Helen				restaurant				
+node	7933918012	48.0057474	0.1947102	Le Bistrot de la Vieille Porte				restaurant				
+node	7933918013	48.0058645	0.1946660	La Ciboulette				restaurant				
+node	7933918014	48.0059300	0.1945935	L'Hatitude				restaurant				
+node	7933918015	48.0059869	0.1947022	La Fabrique				restaurant	16	72000	Rue des Trois Sonnettes	
+node	7933936117	48.0055091	0.1949612	Bombay				restaurant	23	72000	Place de l'Éperon	
+node	8018325730	48.0053841	0.1959764	Yummi				restaurant	28	72000	Place de l'Éperon	
+node	8145844687	47.9529814	0.2291927	Bières et Chopes				bar		72100	Ligne droite des Hunaudières	
+node	8242877429	48.0173749	0.1525479	L'Annexe				restaurant				
+node	8279155719	48.0078991	0.2046257	Havana Café				cafe	5	72000	Rue Prémartine	
+node	8558340470	48.0126399	0.1882193	Saffa Pizza				restaurant				
+node	8765431345	48.0314521	0.1817551	Café Ange				cafe				
+node	8862951913	48.0123122	0.1884977	Éléphant rouge				restaurant	18	72000	Avenue Louis Cordelet	
+node	9023146296	48.0045856	0.1948791	Le Khedive				cafe				
+node	9025086346	48.0041716	0.1947012	Liberta				restaurant		72000	Rue Gambetta	
+node	9025086347	48.0042107	0.1949218	Dressing				restaurant		72000	Rue Gambetta	
+node	9025086348	48.0039005	0.1949234	Béluga				bar		72000	Rue Gambetta	
+node	9025086350	48.0039422	0.1951676	Racines				bar		72000	Rue Gambetta	
+node	9056068933	48.0040975	0.1952431	À contre sens				pub		72000	Rue Gambetta	
+node	9069453709	48.0038701	0.2018361	Saveurs d'Ailleurs				restaurant	19	72000	Avenue du Général de Gaulle	
+node	9070984527	48.0039093	0.1995515	Bistrot de la Préfecture				cafe		72000	Avenue du Général de Gaulle	
+node	9144070427	48.0041727	0.1934924	Bistrot des gourmets				cafe		72000	Rue Barbier	
+node	9219042103	48.0148006	0.1768515	Café / boissons				cafe		72000	Avenue Rubillard	
+node	9455492626	47.9964604	0.1935219	Restaurant Kobaro				restaurant				
+node	9455580584	47.9998651	0.1961901	Le bistro des copains				restaurant	24		Avenue du Général Leclerc	
+node	9455580586	47.9998962	0.1962612	Le bistro des copains				cafe				
+node	9455749992	47.9963352	0.1930991	Le Bellifontain				restaurant	110	72000	Avenue du Général Leclerc	
+node	9455749994	47.9963796	0.1931387	Naam supreme				restaurant	108	72000	Avenue du Général Leclerc	
+node	9468548503	47.9972087	0.2012365	Le Babylone				nightclub				
+node	9468548507	47.9975364	0.2008661	Grain de riz				restaurant				
+node	9468587004	47.9689764	0.2040970	Le café des amis				cafe				
+node	9468731625	47.9991675	0.1997898	El Brazza				cafe				
+node	9469047499	47.9956163	0.2022320	Tendance café				cafe				
+node	9930250973	48.0081335	0.1965504	Le Boeuf tient le pavé				restaurant				
+node	9942716324	48.0067577	0.1904981	Le Balto				cafe				
+node	9942753126	48.0030355	0.1959783	La Reynette				bar		72000	Rue du Docteur Leroy	
+node	10000771094	47.9825998	0.2122499	Le Mistral				bar				
+node	10000771095	47.9825491	0.2134126	La Table du Maroc				restaurant				
+node	10000771097	47.9821348	0.2138793	L'Équipe				pub				
+node	10000771098	47.9816348	0.2157039	Le Clowny				bar				
+node	10032048317	48.0050490	0.1952729	Station Cité				restaurant	11	72000	Rue du Cornet	
+node	10032059117	48.0048966	0.1955588	Le Guet à Pintes				bar	14	72000	Rue du Cornet	
+node	10032493873	47.9919609	0.1981965	Le Miroir				bar				
+node	10032493881	47.9730715	0.2159547	Le Capadoce Sud				restaurant				
+node	10032493883	47.9707725	0.2172442	Le Favori				pub				
+node	10032493887	47.9927727	0.2042227	L'amulette				restaurant				
+node	10032493897	47.9891614	0.2070853	Le Tablier de Jaurès				restaurant				
+node	10032493900	47.9884425	0.2075051	Le Celtic				cafe				
+node	10032493903	47.9881898	0.2076466	Café Liégeois				cafe				
+node	10032493908	47.9698149	0.2044641	Pizza N'Co				restaurant				
+node	10032493915	47.9788905	0.2088261	Saffa Pizza				restaurant				
+node	10032493916	47.9804795	0.2095449	Pita Burger				restaurant				
+node	10032632247	48.0035433	0.1865805	La part des anges				restaurant				
+node	10032632248	48.0029327	0.1859213	L'Amadeus				bar				
+node	10032632264	47.9940287	0.1758315	L'Ovale				bar			Avenue Olivier Heuzé	
+node	10054779330	48.0049561	0.1955109	El Taquito				restaurant				
+node	10054779331	48.0050876	0.1954150	Au Tajmahal				restaurant				
+node	10054779335	48.0052359	0.1949416	NYX				bar				
+node	10054779343	48.0048058	0.1948189	Jasmin Sushi				restaurant				
+node	10054779353	48.0057067	0.1927932	Le Comptant				restaurant				
+node	10054779357	48.0054703	0.1932947	La Cuisine de Madeleine				restaurant				
+node	10054779368	48.0144286	0.1607565	L'Assiette				restaurant				
+node	10059747809	47.9984656	0.2316436	Grand Wok 68				restaurant				
+node	10059766920	47.9975027	0.2153854	L'Art de la Pizza				restaurant				
+node	10065595329	47.9900850	0.2063095	Le Disque Bleu				bar				
+node	10065595332	47.9934224	0.1954640	L'Atlas				restaurant				
+node	10067870248	48.0058613	0.1890035	Blue Zinc				bar				
+node	10067870260	48.0008085	0.1836327	Le Dakar Café				pub				
+node	10069260166	48.0120574	0.1887316	Bar de la Croix d'Or				bar				
+node	10069260169	48.0117112	0.1890508	Le Fontenoy				cafe				
+node	10085771468	47.9745578	0.1996516	Le Rousseau				restaurant				
+node	10085771469	47.9767502	0.2028809	Le X-Légionnaire				bar				
+node	10085771470	47.9814059	0.2047035	Les Cépages by Céline				restaurant				
+node	10085771475	47.9801752	0.1960748	Chope & Compagnie				pub	14		Boulevard René Cassin	
+node	10085977702	47.9820563	0.2102912	Dacca Délices				restaurant				
+node	10085977705	47.9817291	0.2097085	Le Fun				bar				
+node	10090601937	48.0005784	0.1965885	L'amphitryon				restaurant				
+node	10090601940	47.9951487	0.2026550	786				restaurant	10		Place George Washington	
+node	10090601941	47.9948104	0.2025879	L'insouciant				restaurant				
+node	10119982801	47.9677428	0.2100984	Au Bugatti				pub				
+node	10121213376	47.9613044	0.2001424	La Gazette				bar				
+node	10121213377	47.9615271	0.2002524	Pause & Mans				bar				
+node	10121213387	47.9693439	0.2038492	Le P'tit Maroc				restaurant				
+node	10121213388	47.9702445	0.2043347	Kalamazoo Pub				bar				
+node	10134150776	48.0081997	0.1892848	L'Origanum				restaurant				
+node	10160587656	48.0053931	0.2194884	Les hirondelles				restaurant				
+node	10160587657	47.9994920	0.2355757	Auberge de Bagatelle				restaurant				
+node	10160587670	47.9982525	0.2139075	Bar de la Butte				cafe	179	72000	Avenue Léon Bollée	
+node	10160587674	47.9995910	0.2071175	Le Diplomate				bar		72000		
+node	10160587685	47.9860764	0.1644596	Le Saint-Georges				cafe				
+node	10160587688	48.0003003	0.1926108	Chez Clémence				restaurant				
+node	10160587690	48.0081459	0.1946318	Le Parvis Saint-Hilaire				restaurant				
+node	10166842948	47.9740992	0.1713429	Les Prairies				restaurant				
+node	10178337590	47.9974228	0.1806280	Mr Tandoori				restaurant				
+node	10178337593	48.0119700	0.1888118	Ode et Lys				restaurant				
+node	10218307417	48.0002566	0.1825940	Le Saint Lazare				restaurant				
+node	10239251260	48.0078543	0.1963196	Le Chaudron de Salem				pub				
+node	10239251262	48.0080750	0.1964926	Le Vaud'				cafe				
+node	10268734364	47.9509066	0.2298143	Bières é Chopes				pub				
+node	10268734365	47.9531611	0.2267620	V and B				pub				
+node	10268734366	47.9532687	0.2271388	Assiette au boeuf				restaurant				
+node	10571669741	48.0050055	0.1966099	Mia House				cafe				
+node	10656240290	48.0042226	0.2026885	Le Talier Royal				restaurant				
+node	10726021609	47.9587295	0.2027541	Thierry Breton Traiteur				restaurant				
+node	10935371302	48.0080212	0.1936012	Guinguette des tanneries				pub				
+node	10936793104	48.0012112	0.1971665	Mikiya				restaurant				
+node	11006323690	47.9848458	0.1832083	Wok Dynastie				restaurant				
+node	11074171409	48.0015643	0.1975726	Miss Cookies Coffee				cafe				
+node	11074171425	47.9614049	0.2238478	Le Tertre Rouge				restaurant				
+node	11170413154	47.9997321	0.1994262	Le camion de Mamie				restaurant	47		Rue Nationale	
+node	11170573477	48.0014938	0.1988278	Hyperbols				restaurant	1		Place Aristide Briand	
+node	11170576197	48.0021804	0.1946635	Snack Pizza Sidi Bou Said				restaurant				
+node	11170577526	48.0005622	0.1924480	Rajastan				restaurant	43		Rue d'Arcole	
+node	11230134058	47.9733321	0.2056631	Les Délices de Tunis				restaurant				
+node	11405207274	48.0023774	0.1964273	Biche				cafe				
+node	11470864851	48.0079923	0.1974859	Mo'Mans Gourmands				restaurant				
+node	11624929153	47.9932863	0.1959564	Savourez				restaurant	86			
+node	11712190550	48.0008069	0.1831479	Le Derby				cafe				
+node	11739037757	47.9929108	0.1973859	Les aventuriers de la galette				restaurant	98	72000	Boulevard de la Petite Vitesse	
+node	11950704821	48.0180360	0.2144614	Le Grillon				bar				
+node	12051880595	48.0284543	0.1822869	Resto'Abi				pub				
+node	12053994688	47.9936939	0.2173085	Le Molière				restaurant				
+node	12068717136	47.9826537	0.2101216	Barakah 72				cafe				
+node	12099126583	47.9910937	0.2423922	Le Café Des Moines				cafe				
+node	12117432117	48.0095406	0.1979115	Chez Cha’Cheshire				cafe	10	72000	Place Saint-Michel	
+node	12120964023	48.0167191	0.1884815	Le Bellino II				bar				
+node	12292014857	48.0026285	0.2002108	O'Majmar				restaurant				
+node	12326927072	47.9978989	0.2005843	Verre I Table				pub				
+node	12402566474	47.9892189	0.2070283	N°T				cafe				
+node	12413401512	48.0028008	0.1971625	Starbucks				cafe	17	72000	Rue des Minimes	
+node	12458864713	48.0059868	0.1948252	Zilwa				restaurant	11		Rue des Trois Sonnettes	
+node	12464894238	48.0026647	0.1935719	Yang Cha Hubble Tea				cafe	19		Rue du Port	
+node	12582716821	48.0025320	0.1961654	Ariana Gaule				restaurant				
+node	12645955170	48.0337551	0.1765906	Au bonheur gourmet				restaurant				
+node	12700563247	48.0187555	0.1849692	Le Danube				cafe				
+node	12779223884	48.0068085	0.1979162	C'Gouts R'Mans				restaurant				
+node	12848817648	48.0049184	0.1953471	Cafe Folk				cafe	9	72000	Rue du Cornet	
+node	12849712228	47.9840272	0.1921398	Avangel				restaurant	80	72100	Rue du Polygone	
+node	12874283051	48.0286346	0.1822467	Carnival				restaurant				
+node	12947421851	47.9980416	0.1991621	Chez Paulette				cafe				
+node	13007477508	48.0022741	0.1961406	Ban Ban Nouilles				restaurant				
+node	13038324128	48.0047762	0.1948786	Broc'angerie				cafe	10	72000	Rue Gambetta	
+node	13038324129	48.0033917	0.1993143	Hangar à Léo				cafe				
+node	13231886240	48.0048673	0.1996435	Malatang 72				restaurant				
+node	13284163794	47.9609074	0.1844904	Le Saint Julien				restaurant				
+node	13284163795	47.9645848	0.1809485	Louisette Cantine				restaurant				
+node	13302163521	48.0027048	0.1946553	Le Chalet				restaurant				
+node	13453420069	47.9986864	0.2000546	Bloom bar				cafe				
+node	13517121233	48.0018371	0.1976364	La Boutique by Esatco				cafe				
+node	14103378955	48.0050911	0.1961809	Barracuda				bar	9		Rue Victor Bonhommet	
+node	14103378956	48.0051784	0.1959776	L'Impasse				bar	2		Place de l'Éperon	
+node	14202356250	47.9702333	0.2181219	Rester ensemble				pub				
+way	35469435	48.0143396	0.1871536	Le Saint-Claude				bar	70	72000	Rue des Jardins	
+way	65115018	47.9820299	0.2252298	Paus' cafe				pub	100	72000;72100	Rue Henri Champion	
+way	65115482	47.9734615	0.2153007	Buffalo Grill				restaurant				
+way	65118274	47.9800904	0.2223397	Le Rally				bar	167	72000	Avenue du Docteur Jean Mac	
+way	65128221	47.9606079	0.2093549	L'endurance				restaurant				
+way	65558998	47.9951579	0.1778296	Le Nemrod				bar	117	72000	Avenue Olivier Heuzé	
+way	65563302	47.9870612	0.1879771	Le Calumet				cafe	95	72100	Rue d'Arnage	
+way	66199161	48.0039791	0.2030453	Le Flash				bar	9	72000	Avenue Léon Bollée	
+way	66203439	48.0057690	0.2175920	Le Moulin Rouge				bar	70	72000	Boulevard Mutuel	
+way	67419785	48.0070424	0.1986353	L'africaine				restaurant	2 ter		Rue Claude Blondeau	
+way	67420874	48.0071806	0.1988947	Le Capitole				restaurant				
+way	67426179	48.0064965	0.1987337	La Sirène				cafe	15		Rue Claude Blondeau	
+way	67428464	47.9758716	0.1688260	Le Son Thuy				restaurant				
+way	67428729	48.0101451	0.1920537	M Café				bar	1	72000	Rue Sieyès	
+way	67432120	48.0020427	0.1929171	Le Punjab				restaurant				
+way	67440094	48.0178281	0.1537516	R.U Bartholdi				restaurant				
+way	67450332	48.0108448	0.1992532	Délices marocains				restaurant				
+relation	13067747	48.0072717	0.1991597	Brasserie Madeleine				restaurant				
+way	67452598	48.0070837	0.1985906	Délices d'Asie				restaurant	2 bis		Rue Claude Blondeau	
+way	67456149	48.0280999	0.1811514	L'Ardoise du Mo'Mans				restaurant				
+way	158418987	48.0152157	0.1652136	R.U Vaurouzé				restaurant				
+way	225920444	47.9429071	0.2150202	Le Casque				restaurant		72100	Technoparc des 24 heures du Mans	
+way	311533542	47.9539785	0.2280173	Ristorante Del Arte				restaurant		72100	Rond-point César-Antarès	
+way	482284939	47.9409756	0.2115698	Le 24				restaurant				
+way	482284985	47.9554800	0.2098508	Restaurant de la courbe				restaurant				
+way	508261266	47.9779755	0.1879138	Restaurant d'entreprise				restaurant			Avenue d'Orléan	
+way	516427019	48.0042399	0.1953779	Komichi				restaurant	1	72000	Rue Gambetta	
+way	542448510	47.9852337	0.1848403	Les Tontons				restaurant	168	72000	Rue d'Arnage	
+way	850209166	47.9515921	0.2090612	Le Paddock				restaurant				
+way	978725953	48.0039955	0.1946251	Le camion de mamie				restaurant		72000	Rue Gambetta	
+way	1324391913	47.9873594	0.2187781	The eleven				pub	11 super	72100	Promenade Newton	
+relation	107552			Mansigné	8	72510	72182					
+way	411304003	47.7530551	0.1338936	Aux Berges du Lac				restaurant				
+relation	109244			Marçon	8	72340	72183					
+node	8871628923	47.7099187	0.5106188	Le P'tit Marçonnais				bar				
+node	14207303131	47.7101369	0.5105665	Ô'Boeuf				restaurant				
+relation	107633			Mareil-en-Champagne	8	72540	72184					
+node	13538994112	47.9840729	-0.1682717	La Forge				bar				
+relation	107580			Maresché	8	72170	72186					
+node	9117825737	48.2119918	0.1539896	La Paus'Café				cafe				
+relation	107449			Marigné-Laillé	8	72220	72187					
+node	1548799029	47.7751269	0.3457647	Relais Saint-Hubert				restaurant		72220		Rond de Saint-Hubert
+node	12008109163	47.8178273	0.3398000	Le Petit Creux Gourmand				restaurant				
+relation	9165892			Marolles-les-Braults	8	72260	72189					
+way	242616854	48.2526855	0.3139390	Les jardins de Marolles				restaurant	11	72260	Place Henri Coutard	
+relation	107668			Mayet	8	72360	72191					
+node	8165131665	47.7611616	0.2773969	L'Amuse Bouche				restaurant				
+node	8553215494	47.7597514	0.2745929	Bar du centre				restaurant				
+node	8553215495	47.7590650	0.2747708	Le Brack'o				bar				
+relation	107669			Melleray	8	72320	72193					
+node	10281244999	48.0991364	0.7988155	Les jardins de Melleray				restaurant				
+relation	107675			Meurcé	8	72170	72194					
+way	325047190	48.2342175	0.2008955	Au Petit Meurcé				restaurant				
+relation	107433			Mézeray	8	72270	72195					
+way	541532106	47.8403287	-0.0135797	Domaine des Mésangères				restaurant				
+relation	109619			Mézières-sur-Ponthouin	8	72290	72196					
+node	3840437827	48.1932789	0.3000494	A l'assurance contre la soif				bar	11	72290	Rue de la Libération	
+node	4652906662	48.1886138	0.2804136	À la table du Puisard				restaurant		72290	La Croix du Puisard	
+relation	107516			Mézières-sous-Lavardin	8	72240	72197					
+way	332253139	48.1547667	0.0301585	Le Méz’en vie				pub				
+relation	107567			La Milesse	8	72650	72198					
+node	7190624645	48.0639433	0.1360041	L'Antonnière				pub				
+relation	107366			Montaillé	8	72120	72204					
+node	9800328112	47.9364160	0.7009425	Chez Nanou				bar				
+relation	107616			Montbizot	8	72380	72205					
+node	11390432252	48.1461695	0.1834671	Paratge				bar				
+relation	107549			Montmirail	8	72320	72208					
+node	10281244982	48.1031389	0.7915762	Brew Pub Artisanat				bar				
+node	12994368357	48.1026510	0.7901544	Le Chandelier				restaurant				
+relation	109653			Montreuil-le-Chétif	8	72130	72209					
+node	3587523283	48.2261864	-0.0574758	Le Randonneur				restaurant				
+relation	107439			Mont-Saint-Jean	8	72140	72211					
+node	9861955881	48.2463595	-0.1068551	La Source				bar	3	72140	Place de l'Église	
+relation	107486			Mulsanne	8	72230	72213					
+node	4749332824	47.9098562	0.2437957	Lazzaro				restaurant				
+node	13087745707	47.9413450	0.2296038	Kraken				cafe				
+node	13753672581	47.9056938	0.2448113	Le Virage (restau bar tabac)				restaurant	41	72230	Avenue François Mitterrand	
+relation	107562			Neufchâtel-en-Saosnois	8	72600	72215					
+node	2246569139	48.3793496	0.2558802	Chez Julie				restaurant				
+node	11240054097	48.3744082	0.2512348	New Castle				restaurant				
+relation	107465			Neuvillalais	8	72240	72216					
+node	8742746837	48.1567149	-0.0013559	Le Méridien				bar	41		Rue du Méridien	
+relation	107570			Neuville-sur-Sarthe	8	72190	72217					
+node	10289180232	48.0725405	0.2251326	La Chaumière				restaurant	34	72190	Rue Principale	
+node	11495576618	48.0754652	0.1904572	Les Crins Dorés				pub	7	72190	Place de l'Église	
+relation	107589			Neuvillette-en-Charnie	8	72140	72218					
+node	14083720387	48.0938255	-0.2118108	Au Neuvilletois				restaurant				
+relation	107502			Nogent-le-Bernard	8	72110	72220					
+node	13263920412	48.2363127	0.4895011	Au RDV Nogentais				cafe				
+relation	107560			Nogent-sur-Loir	8	72500	72221					
+node	11195035042	47.6550775	0.3946716	Bar du gué				bar				
+relation	107393			Noyen-sur-Sarthe	8	72430	72223					
+node	2630075143	47.8722330	-0.0971630	Auberge de la Rose				restaurant	3	72430	Rue Pasteur	
+node	2630075155	47.8727478	-0.0971070	La Coupole				bar	6	72430	Rue Gallieni	
+node	2630075165	47.8693205	-0.0980347	La Garriguette				restaurant	8	72430	Place Georges Guiet	
+node	4226918574	47.8548742	-0.1325118	Le Buisson				restaurant				
+node	14357052322	47.8723469	-0.0972817	Tabac Le Royal Sport				bar	14	72430	Place de la République	
+relation	107407			Oizé	8	72330	72226					
+node	5552550823	47.8080034	0.1050808	Nath K Fee				cafe				
+relation	107451			Parcé-sur-Sarthe	8	72300	72228					
+node	4226918573	47.8439774	-0.2003488	Bar de la Lune				bar	5	72300	Place de la Lune	
+node	5067069004	47.8438837	-0.1996501	Le Lagon Bleu				bar	2	72300	Place de la Lune	
+node	5695038260	47.8073438	-0.1676308	Shell Café				cafe				
+relation	107537			Parigné-le-Pôlin	8	72330	72230					
+node	6676084249	47.8584436	0.1049325	Le Relais Fleuri				restaurant				
+relation	107583			Parigné-l'Évêque	8	72250	72231					
+node	11286780285	47.9357684	0.3651807	Le Cobra				bar		72250		
+node	11286780294	47.9366247	0.3645155	Le Royal				restaurant				
+node	11286780295	47.9366745	0.3648287	Le Purple				restaurant	7	72250	Avenue du Docteur Gallouëdec	
+node	13298328358	47.9372131	0.3642614	Pizza N'Co				restaurant				
+relation	107452			Notre-Dame-du-Pé	8	72300	72232					
+node	9997703106	47.7308358	-0.3263229	Auberge du Braconnier				restaurant				
+relation	107446			Piacé	8	72170	72235					
+way	332380170	48.2589230	0.1152380	Le Fontenoy				bar				
+way	332380188	48.2594030	0.1149165	Le relais des renards				restaurant	36	72170	Rue Nationale	
+relation	107398			Poillé-sur-Vègre	8	72350	72239					
+node	5245997842	47.9183957	-0.2665718	Le P'tit Comptoir				bar	16	72350	Rue de la Madeleine	
+relation	107598			Montfort-le-Gesnois	8	72450	72241					
+node	10050739916	48.0475279	0.4153176	Le 7				bar				
+node	13290038117	48.0483989	0.4040976	Le Blé Noir				restaurant				
+way	227819336	48.0408124	0.4057301	Bar de la Gare				restaurant				
+relation	107430			Pontvallain	8	72510	72243					
+node	11298987074	47.7523262	0.1919851	Les frangines				bar				
+relation	107455			Précigné	8	72300	72244					
+node	9997857613	47.7663161	-0.3245795	Le Family's				bar	1	72300	Rue Abbé Louis Chevallier	
+relation	107590			Pruillé-le-Chétif	8	72700	72247					
+node	1287835803	47.9934183	0.1072044	Le Rando				pub	1	72700	Route de Fay	
+relation	107479			Pruillé-l'Éguillé	8	72150	72248					
+way	249609684	47.8372241	0.4326889	Boca				restaurant				
+relation	107495			Requeil	8	72510	72252					
+node	13419254326	47.7848412	0.1615039	O’nul bar ailleurs				pub				
+relation	107615			Roëzé-sur-Sarthe	8	72210	72253					
+node	6606201777	47.8934651	0.0677261	La Parenthèse				bar	5	72210	Place Isaac de la Roche	
+node	6606201778	47.8949569	0.0677557	Aux Gourmets Sympa				restaurant				
+relation	107514			Rouessé-Vassé	8	72140	72255					
+node	11148261460	48.1596423	-0.1984496	Le Broc				bar	2	72140	Place de la Mairie	
+node	11264095368	48.1596982	-0.1984663	Le Broc				restaurant	2	72140	Place de la Mairie	
+relation	107674			Rouillon	8	72700	72257					
+way	207346886	48.0129727	0.1498659	Restaurant À l'instinct				restaurant				
+relation	107561			Rouperroux-le-Coquet	8	72110	72259					
+node	12040780538	48.2265578	0.4299554	Le Petit Campagnard				restaurant				
+relation	107527			Ruaudin	8	72230	72260					
+node	1869970089	47.9547668	0.2295224	To Sushi				restaurant	82	72230	Chemin de César	
+node	11117824397	47.9486628	0.2317429	Auberge des Hunaudières				restaurant				
+node	11582774980	47.9438362	0.2635297	Auberge des Blés d'Or				restaurant				
+node	12009393469	47.9547812	0.2301822	Friends & Beer				bar	82	72230	Chemin de César	
+node	12009481769	47.9549562	0.2295007	La Taverne				restaurant	82	72230	Chemin de César	
+node	12314399202	47.9496450	0.2357261	La Rôtisserie				restaurant				
+node	13087745745	47.9488694	0.2371851	Le bleu, blanc, rouge				restaurant				
+node	14256075291	47.9480985	0.2320045	O'24heures				restaurant		72230	Route de Tours, Les hunaudières	
+way	38452158	47.9438479	0.2360764	Holly's				restaurant				
+way	125432358	47.9448085	0.2631570	L'Escapade				bar	51	72230	Rue Principale	
+way	358696659	47.9502122	0.2318045	Woods				bar	388	72230	route du petit bel-oeuvre	
+way	947138207	47.9446620	0.2406098	Exquis				restaurant				
+way	1476163915	47.9577640	0.2372349	Fourchette				restaurant				
+relation	107474			Ruillé-en-Champagne	8	72240	72261					
+node	12389235015	48.0596875	-0.0823628	L'Auberge de la Vègre				restaurant	4	72240	Rue de la Vègre	
+relation	6838446			Loir en Vallée	8	72340;72310	72262					
+node	8425621525	47.7622083	0.6566228	Saveurs du Caucase				restaurant				
+node	13125681932	47.7506274	0.6209870	Bar Tabac de l'Union				bar				
+node	13125681933	47.7505896	0.6214316	Le Saint Pierre				restaurant				
+node	14110139950	47.7988548	0.6794109	Au Plus Près				cafe				
+way	349605482	47.7708750	0.6907295	Au Bon Coin				pub				
+way	349605542	47.7709045	0.7013485	Au Jardin des Saveurs				restaurant				
+relation	107700			Sablé-sur-Sarthe	8	72300	72264					
+node	3100389430	47.8402836	-0.3247339	Chez Tante Alice				restaurant	2	72300	Place du 8 Mai 1945	
+node	4426114618	47.8395521	-0.3330249	Le Globe				bar	20	72300	Grande Rue	
+node	4426123138	47.8400248	-0.3334104	Café de L'Europe				bar	28	72300	Place Raphaël Élizé	
+node	4426129399	47.8398426	-0.3349619	Pub Élysée				bar	13	72300	Place Raphaël Élizé	
+node	4426176193	47.8398749	-0.3346046	Walabok				pub	3	72300	Rue Haute Saint-Martin	
+node	4426181698	47.8409221	-0.3361268	Le Fontenoy				bar	33	72300	Place du Champ de Foire	
+node	4426198025	47.8412457	-0.3326539	Le Royal Élizé				bar	24	72300	Rue Michel Vielle	
+node	4426222182	47.8396357	-0.3311968	Hibiscus - La Terrasse				restaurant	3 bis	72300	Rue de l'Île	
+node	4426222185	47.8388702	-0.3306189	La Flambée				restaurant				
+node	4426370493	47.8383410	-0.3268513	Soleil d'Asie				restaurant	22	72300	Rue Saint-Nicolas	
+node	4438087212	47.8408953	-0.3343088	La Sablésienne				restaurant	6 ter	72300	Rue Carnot	
+node	4438717312	47.8434227	-0.3334276	Le Ryad				restaurant	38 bis	72300	Rue Paul Doumer	
+node	4444225568	47.8381650	-0.3264861	Le Tobago				bar	34	72300	Rue Saint-Nicolas	
+node	4982613468	47.8389004	-0.3275682	L'Amphora				restaurant	12	72300	Rue Aristide Briand	
+node	4982833454	47.8391886	-0.3309682	New Dehli				restaurant				
+node	4982865282	47.8393889	-0.3307516	Sucré Salé				cafe	12	72300	Rue de l'Île	
+node	4982865283	47.8393533	-0.3306778	L'Antre de Zythos				bar	14	72300	Rue de l'Île	
+node	4999353234	47.8417504	-0.3376673	Le Vincennes - Bar Tabac PMU				bar	47	72300	Rue Gambetta	
+node	5054236974	47.8173112	-0.3597963	Le Martin Pêcheur				restaurant		72300	Route de Pincé	
+node	5094617178	47.8391579	-0.3302686	Bar de L'Île				bar				
+node	5236521226	47.8393278	-0.3190869	Bar du Maine				bar		72300	Rue du Mans	
+node	5568216204	47.8247242	-0.3047707	Pizza Dome				restaurant	17	72300	Rue Saint-Laurent	
+node	5879295573	47.8401277	-0.3336657	Le Softail				bar	20	72300	Place Raphaël Élizé	
+node	6672494787	47.8243944	-0.3047264	Royal Sablé				restaurant	17	72300	Rue Saint-Laurent	
+node	8975530243	47.8397790	-0.3348725	La Tête Ailleurs				restaurant	47		Grande Rue	
+node	13665820024	47.8390809	-0.3046989	La Table d'Öz				restaurant	33	72300	Rue de la Martinière	
+node	14353365538	47.8399793	-0.3346454	Le Saint-Martin				restaurant	3	72300	Rue Haute Saint-Martin	
+way	244766788	47.8503815	-0.3515489	Entr'Potes				restaurant	1	72300	Rue de Plaisance	
+way	245176260	47.8393641	-0.3271426	Ludobistrophile				bar	5	72300	Rue Aristide Briand	
+way	245542463	47.8225734	-0.3054302	Le P'tit Fait Tout				restaurant	6	72300	Rue du Pont	
+relation	107602			Saint-Aubin-des-Coudrais	8	72400	72267					
+node	11142541119	48.1727598	0.5854091	Bar des Amis				bar				
+relation	107578			Saint-Calais	8	72120	72269					
+node	3621786461	47.9218669	0.7435250	Restaurant d'Angleterre				restaurant	9	72120	Rue du Guichet	
+node	5506645954	47.9198658	0.7437681	La Banque				restaurant	3	72120	Place de l'Hôtel de Ville	
+node	5506645955	47.9198480	0.7435644	Hôtel de France				bar	5	72120	Place de l'Hôtel de Ville	
+node	6312003977	47.9212479	0.7435305	Le Fontenoy				cafe	2	72120	Rue Amédée Savidan	
+node	6312003979	47.9205077	0.7456380	Le sporting				cafe	20	72120	Grande Rue	
+node	6312003982	47.9215430	0.7426624	Le Chiquito				cafe	12	72120	Rue Henri Maubert	
+node	6515174317	47.9202936	0.7438991	Café de la paix				cafe	4	72120	Place de l'Hôtel de Ville	
+node	12817348905	47.9244022	0.7452841	lysytéa				nightclub				
+relation	107574			Saint-Célerin	8	72110	72271					
+way	167693002	48.1239115	0.4333307	L'auberge de bois doublé				restaurant	2		Rue de la Chapelle Saint-Rémy	
+relation	107458			Sainte-Cérotte	8	72120	72272					
+node	11194955284	47.9006403	0.6892782	La bonne franquette				restaurant				
+relation	107520			Saint-Denis-d'Orques	8	72350	72278					
+node	5679484613	48.0290573	-0.2722135	Le Croissant				restaurant	40	72350	Avenue de la Libération	
+node	5679484616	48.0289275	-0.2727066	L'Auberge de la Grande Charnie				restaurant	35	72350	Avenue de la Libération	
+relation	107472			Saint-Georges-du-Bois	8	72700	72280					
+way	156966152	47.9723785	0.0994833	Le P'tit Saint Georges				restaurant	1	72700	Rue de Sablé	
+way	156967652	47.9726961	0.0994867	L'imprévu				bar	2	72700	Rue du Mans	
+relation	107686			Saint-Gervais-de-Vic	8	72120	72286					
+node	9808877211	47.8869754	0.7389002	Le Saint Eloi				restaurant	1	72120	Rue Bertrand Guilmain	
+relation	107672			Saint-Jean-d'Assé	8	72380	72290					
+node	4239881701	48.1495319	0.1327235	La Petite Auberge				restaurant				
+node	12007840505	48.1495581	0.1322235	Bar des sports				bar				
+relation	107523			Saint-Jean-de-la-Motte	8	72510	72291					
+node	1955869801	47.7636872	0.0168889	Le Saint-Jean				restaurant				
+node	11300953562	47.7427153	0.0563961	Le Petit Saint Jean				bar				
+relation	109203			Saint-Léonard-des-Bois	8	72130	72294					
+node	5931148423	48.3517816	-0.0773009	Bar des Alpes Mancelles				bar				
+node	5931148424	48.3517614	-0.0775979	Al Capone				restaurant				
+node	5931148425	48.3516341	-0.0774429	Les Ardoisières				restaurant				
+node	5931156430	48.3532047	-0.0771303	Ô Passage				restaurant	27	72130	Rue des Alpes Mancelles	
+node	8921728550	48.3510485	-0.0779217	La Cave à Bière				restaurant				
+node	11780748956	48.3602230	-0.0775111	Café Nature				cafe				
+node	11780748957	48.3602689	-0.0772348	La Maison du Gasseau				restaurant				
+relation	107640			Saint-Longis	8	72600	72295					
+node	9271324727	48.3556225	0.3476827	L'Endroit				bar				
+relation	107648			Saint-Marceau	8	72170	72297					
+way	156701237	48.1792006	0.1265426	Restaurant Mariette				restaurant	8		Route d'Alençon	
+relation	107529			Saint-Mars-d'Outillé	8	72220	72299					
+node	613225482	47.8704007	0.3338205	L'Ardoise				restaurant	8 bis	72220	Rue Jules Lambert	
+node	13784244439	47.8712437	0.3328196	Ô P’tit Saint Martien				cafe				
+relation	107369			Saint-Mars-la-Brière	8	72470	72300					
+node	3815591215	48.0289731	0.3717347	L'Amarena				restaurant	15	72470	Place de l'Église	
+node	13250301002	48.0287560	0.3713575	Café de la place				bar				
+way	174496333	48.0019898	0.4055547	Auberge du Narais				restaurant		72470	Lieu dit Le Narais	
+relation	107608			Saint-Michel-de-Chavaignes	8	72440	72303					
+way	257601739	48.0177044	0.5722952	Café de l'Ouest				bar				
+relation	109261			Saint-Ouen-de-Mimbré	8	72130	72305					
+node	11016797594	48.2929967	0.0483160	La Bolée				bar	5	72130	Place Sainte-Avoie	
+relation	107505			Saint-Ouen-en-Belin	8	72220	72306					
+node	4173360829	47.8329301	0.2103294	Bar - Restaurant L'Audonien				restaurant	6	72220	Place des Comtes de Belin	
+relation	411164			Saint-Paul-le-Gaultier	8	72130	72309					
+node	4244575102	48.3209340	-0.1069824	Bar du Lac				bar				
+relation	107463			Saint-Pierre-de-Chevillé	8	72500	72311					
+node	11194955313	47.6460521	0.4392573	Au Saint-Pierre				bar	2		Place de l'église	
+relation	107581			Saint-Pierre-du-Lorouër	8	72150	72314					
+node	1800752272	47.8060410	0.5224417	Le Fer à Cheval				restaurant	2	72150	Rue de la Fontaine	
+relation	107568			Saint-Rémy-du-Val	8	72600	72317					
+node	2050007118	48.3497246	0.2557314	La Pomme d'Or				restaurant				
+relation	107426			Saint-Saturnin	8	72650	72320					
+node	2857868068	48.0489692	0.1684235	Au bureau				restaurant				
+node	5198421142	48.0622020	0.1637972	Le Havane				bar				
+node	6976350985	48.0618079	0.1645363	L'Authentic' Restaurant				restaurant				
+node	7167552332	48.0491627	0.1682764	Hoki Sushi				restaurant				
+node	10113478016	48.0491646	0.1661473	Les Marnières				restaurant		72650	Rue de L'Océane	
+node	11933595269	48.0479886	0.1689009	Bistro Régent				restaurant	8	72650	Rue des Petites Marniéres	
+node	12649759910	48.0479739	0.1741143	Le Grand Buffet				restaurant	2	72650	Rue Jean de Vignolles	
+node	12716946684	48.0473598	0.1721227	La Côte et l’Arête				restaurant				
+node	14108297558	48.0481541	0.1754943	Get Out				cafe				
+node	14108297559	48.0479694	0.1750919	Asian fusion				restaurant	4	72650	Rue de Villeneuve	
+way	151294865	48.0499325	0.1708900	Signorizza				restaurant				
+way	151294948	48.0502330	0.1707075	Hippopotamus				restaurant				
+way	151295322	48.0491435	0.1717944	Bouillon du Maine				restaurant		72650	Rue Jean de Vignolles	
+way	151295503	48.0484595	0.1653690	Les Marnières				restaurant		72650	Rue du Champ Tallet	
+way	151296818	48.0484625	0.1684694	Buffalo Grill				restaurant	12	72650	Rue des Petites Marniéres	
+way	151297166	48.0506005	0.1765735	Léon				restaurant				
+way	151297578	48.0492155	0.1670331	La Pataterie				restaurant		72650	Rue de L'Océane	
+way	151297895	48.0484201	0.1716980	Ristorante Del Arte				restaurant		72650	Rue Jean de Vignolles	
+way	151298106	48.0467405	0.1703820	Chope et Compagnie				pub	3	72650	Rue des Petites Marniéres	
+way	151298130	48.0524205	0.1663975	Le Portofino				restaurant				
+way	541870729	48.0467672	0.1730226	Memphis				restaurant	1000	72650	Rue Jean de Vignolles	
+way	918324477	48.0467544	0.1720126	3 Brasseurs				pub		72650	Rue Jean de Vignolles	
+relation	107682			Saint-Symphorien	8	72240	72321					
+node	12750334525	48.0719475	-0.1142905	Sun Rock				bar				
+relation	107367			Saint-Ulphace	8	72320	72322					
+node	10281244963	48.1587367	0.8171739	Brasserie du Midi				restaurant				
+relation	107370			Saint-Vincent-du-Lorouër	8	72150	72325					
+node	1777376821	47.8253237	0.4898514	Le Saint-Vincent				pub	2	72150	Place du 8 Mai 1945	
+node	2070819911	47.7983488	0.4578921	L'Hermitière				restaurant				
+relation	107634			Sarcé	8	72360	72327					
+node	12710198286	47.7208862	0.2205835	Le Coin Gourmand				restaurant	1		Route de Mayet	
+relation	107676			Sargé-lès-le-Mans	8	72190	72328					
+node	4920232510	48.0567126	0.2542302	Les Comptoirs Casino				restaurant				
+node	13376311580	48.0567834	0.2542979	Rôtisserie poulets fermiers de Loué				restaurant		72190		
+way	1115796587	48.0334300	0.2402216	L'Escale				restaurant	13	72190	Rue Principale	
+relation	107471			Savigné-l'Évêque	8	72460	72329					
+node	8742710851	48.0763559	0.2976917	La Civette				bar				
+way	40875433	48.0773584	0.3023951	L'Arrosoir				restaurant	120	72460	Grande Rue	
+way	40877679	48.0753641	0.2960668	Le Pari				bar	69	72460	Grande Rue	
+way	128776229	48.0631098	0.2808627	Chez Pierre				restaurant				
+relation	107470			Savigné-sous-le-Lude	8	72800	72330					
+node	11265618078	47.6183815	0.0574938	Au p'tit Savigné				restaurant				
+relation	107594			Sceaux-sur-Huisne	8	72160	72331					
+node	5733817921	48.1049073	0.5837168	Le panier fleuri				restaurant	1	72160	Avenue de Bretagne	
+relation	107377			Semur-en-Vallon	8	72390	72333					
+node	10276873015	48.0238047	0.6541023	Bar Restaurant du Vallon				restaurant				
+relation	107456			Sillé-le-Guillaume	8	72140	72334					
+node	1229161013	48.2128088	-0.1294476	Le refuge du trappeur				restaurant		72140	Sillé Plage	
+node	1667708406	48.1828329	-0.1304870	Le Bretagne				restaurant				
+node	3575087429	48.1832368	-0.1293168	Café de la Presse				bar	18-20	72140	Place de la République	
+node	7042408250	48.1830210	-0.1296246	Les Grillades de Sillé				restaurant	10	72140	Rue du Commandant Levrard	
+node	11279923143	48.1842686	-0.1286082	Chez El				cafe	10		Place Saint-Étienne	
+node	12647348067	48.1835280	-0.1279968	CÉSIBON				restaurant	3	72140	Rue du Général Giraud	
+node	12792080073	48.2123968	-0.1317725	L'Embarcadère				restaurant	50	72140	Allée Gabriel Richefeu dit Coco	
+way	251147992	48.1793255	-0.1345499	Hôtel de Paris				restaurant	17	72140	Rue de Sablé	
+way	1311965193	48.2117500	-0.1261807	Coco Plage Café				bar				
+relation	107429			Sillé-le-Philippe	8	72460	72335					
+way	121744368	48.1062501	0.3524215	Le Rendez-vous				restaurant				
+relation	107389			Solesmes	8	72300	72336					
+node	525476566	47.8519352	-0.3016365	Le Boeuf Fermier				restaurant	12	72300	Rue Marchande	
+node	525476573	47.8525416	-0.3004982	La Pizzeria				restaurant	1	72300	Rue du Pont	
+node	525476582	47.8517602	-0.3020790	Le Ced Café.com				bar	6	72300	Rue Marchande	
+node	4461625020	47.8369870	-0.2972316	Le Chinatown				restaurant		72300	Avenue Jean Monnet	
+node	5003464754	47.8357329	-0.2977237	La Boucherie				restaurant		72300	Rue de la Fouquerie	
+way	621702344	47.8381822	-0.2981632	Buffalo Grill				restaurant		72300	Route du Mans	
+relation	107642			Sougé-le-Ganelon	8	72130	72337					
+node	7171445937	48.3090148	-0.0669105	Hôtel du Pont				restaurant				
+relation	107695			Soulitré	8	72370	72341					
+node	12190648026	48.0114552	0.4561375	Aznavour Bar Restaurant				pub				
+relation	107704			Spay	8	72700	72344					
+way	121171800	47.9155414	0.1566462	Le Prélandon				restaurant	30		Rue d'Arnage	
+relation	107879			La Suze-sur-Sarthe	8	72210	72346					
+node	2009352016	47.8897920	0.0284617	Bar de l'écluse				bar	1	72210	rue du pont	
+node	2009352032	47.8899006	0.0272749	Le Saint-Louis				restaurant	27	72210	place du marché	
+node	2009352088	47.8895725	0.0271528	Bar de France				bar				
+node	4248809335	47.8902930	0.0315621	Le lion d'or				restaurant				
+way	310256183	47.8903569	0.0312600	Ben et Suzette				restaurant	18	72210	Rue du Pont	
+relation	107576			Teloché	8	72220	72350					
+node	6614619015	47.8890194	0.2682980	La Pince à Vélo				cafe				
+node	10573331442	47.8873638	0.2692509	L'estaminet				bar				
+relation	107490			Tennie	8	72240	72351					
+node	10593005358	48.1084082	-0.0804529	Auberge Le Petit Pont				restaurant				
+relation	107462			Thoiré-sur-Dinan	8	72500	72356					
+node	10062288925	47.7536392	0.4488861	Le Dinan				restaurant	2	72500	Rue du Dinan	
+node	11407921586	47.7615981	0.4702933	Ô Saule				restaurant		72500		Vaux Thierry
+relation	107491			Thorée-les-Pins	8	72800	72357					
+node	3704424417	47.6869566	0.0421488	La Pomme de Pin				restaurant				
+node	13127474198	47.6943110	0.0474060	La Bamboche du Loir				restaurant		72800	Rue de la Gare	
+relation	107645			Thorigné-sur-Dué	8	72160	72358					
+node	7223866307	48.0420874	0.5370362	Les Marmites de Céline				restaurant		72160	Rue Basse	
+node	13254955180	48.0390491	0.5347154	Le Fado				bar		72160	Grande Rue	
+relation	107454			Torcé-en-Vallée	8	72110	72359					
+way	118840281	48.1336730	0.3958797	Le Lion d'Or				bar	7		Rue des Rosiers	
+relation	107622			Trangé	8	72650	72360					
+node	3454323311	48.0224136	0.0991520	Au Bon Accueil				bar				
+node	3454323316	48.0226063	0.0976768	L'écarlate				restaurant				
+relation	107681			Vaas	8	72500	72364					
+node	3545283846	47.6678648	0.3164382	Ò Chin Chin				bar				
+node	13173751282	47.6680969	0.3167036	Bar des Sports				bar				
+relation	107605			Valennes	8	72320	72366					
+node	10014171861	47.9958503	0.8104569	Jour de Fête				restaurant	5		Place de l'Église	
+relation	107671			Verneil-le-Chétif	8	72360	72369					
+node	5299968022	47.7333771	0.2944238	Le P'tit Verneil				bar	5		Grande Rue	
+relation	107417			Vibraye	8	72320	72373					
+node	4471803829	48.0595633	0.7363075	L'Escale				restaurant		72320	Rue de la Rivière	
+node	4471803849	48.0593649	0.7355605	Le relais du Chapeau Rouge				restaurant				
+node	4471803854	48.0597091	0.7352292	Bar des sports				bar				
+relation	107565			Villaines-la-Gonais	8	72400	72375					
+node	7222208692	48.1248942	0.6226645	Stratto				cafe				
+node	14124882499	48.1266647	0.6226373	McCafé				cafe				
+way	379462285	48.1358260	0.6009015	Le P’tit Bistrot				restaurant	9B	72400	Rue de l'Église	
+relation	107607			Villaines-sous-Lucé	8	72150	72376					
+node	5888788376	47.8654712	0.4813157	La Luciole				bar				
+relation	107551			Villaines-sous-Malicorne	8	72270	72377					
+node	1935793934	47.7652517	-0.0988726	La Belle Époque				restaurant				
+relation	107610			Vion	8	72300	72378					
+way	294480751	47.8215022	-0.2978721	Restaurant Aster				restaurant		72300	Route de La Flèche	
+way	294481337	47.8207471	-0.2967141	Campanile				restaurant		72300	L'Arme au coeur	
+way	323085969	47.8184880	-0.2384810	Le Petit Vionnais				restaurant	11	72300	Place de l'Église	
+relation	18919344	47.8125600	-0.2743150	Accueil Notre-Dame				restaurant	2	72300	Rue des Bleuets	
+relation	107636			Vivoin	8	72170	72380					
+node	1787382013	48.2336004	0.1554059	Au bon coin				bar				
+relation	107536			Voivres-lès-le-Mans	8	72210	72381					
+node	13275652227	47.9291393	0.0722057	Le 107				bar				
+relation	107614			Yvré-le-Pôlin	8	72330	72385					
+node	10915598629	47.8199127	0.1534321	Café du Centre				cafe				
+relation	107644			Yvré-l'Évêque	8	72530	72386					
+node	1865430857	48.0144531	0.2721207	La Chaumière				pub			Rue de Parence	
+node	5825948038	47.9976073	0.2560204	L'Estaminet				restaurant				
+node	6001233495	47.9899701	0.2493194	Le Verger				restaurant				
+node	9494615097	48.0143808	0.2705928	Le Bistroz				restaurant	5		Rue de Touraine	
+node	10059747802	47.9992046	0.2373306	La Petite Ristorante				restaurant				
+way	74989659	48.0433012	0.3025214	Le Mans Country Club				restaurant				
+way	74992544	48.0013804	0.2505239	Jardin Gourmand				restaurant		72530		
+way	74994603	47.9999931	0.2395545	Le Bener				bar				

@@ -1,0 +1,281 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	2992100			Ancemont	8	55320	55009					
+way	330843238	49.0712969	5.4097811	La Petite Auberge				restaurant				
+relation	2967659			Ancerville	8	55170	55010					
+way	306258361	48.6141705	5.0236751	Night-Club Carbone				nightclub				
+relation	2963698			Aubréville	8	55120	55014					
+way	330120219	49.1470399	5.0838884	Hotel-Restaurant du Commerce				restaurant				
+relation	2971589			Avioth	8	55600	55022					
+way	219368026	49.5664539	5.3908400	La Grange				restaurant	10b		Rue de l'Abbé Delhotel	
+relation	2106627			Bar-le-Duc	8	55000	55029					
+node	1348969420	48.7724954	5.1752788	Hôtel Restaurant Bertrand				restaurant	19	55000	Rue de l'Étoile	
+node	3555168518	48.7711637	5.1681196	La Buvette parisienne				cafe	17	55000	Rue de Saint-Mihiel	
+node	3555168520	48.7696457	5.1649725	Le Brazza				cafe	20	55000	Rue Louis Joblot	
+node	3559889249	48.7693382	5.1712159	Bar Tabac Le Narval				cafe	57	55000	Rue Ernest Bradfer	
+node	3734089957	48.7735647	5.1606180	Le Comptoir de Maître Kanter				restaurant	17	55000	Boulevard de la Rochelle	
+node	4030038658	48.7705489	5.1658005	Bistrot St-Jean				restaurant	132	55000	Boulevard de la Rochelle	
+node	4907835649	48.7712354	5.1647533	L'Escapade				restaurant	108	55000	Boulevard de la Rochelle	
+node	5248748339	48.7750712	5.1601461	Au Temps Perdu				bar	4		Rue Notre-Dame	
+node	6164093424	48.7565786	5.1946350	Le Frenchy's Diner				restaurant	1	55000	Avenue de la Grande Terre	
+node	6261564539	48.7762431	5.1613912	Côté Cépages				restaurant	18	55000	Rue Bar la Ville	
+node	6261832576	48.7756626	5.1611694	La Main à la Pâte				restaurant	3	55000	Rue Bar la Ville	
+node	6726186653	48.7759546	5.1609539	La Mandale				bar	3	55000	Rue du Four	
+node	6820814038	48.7738508	5.1756173	Bar Tabac du Stade				cafe	83	55000	Rue de Saint-Mihiel	
+node	6823217741	48.7594237	5.1890592	Buffalo Grill				restaurant	4	55000	Rue des Vallottes	
+node	6823892952	48.7584176	5.1900664	Wokasie				restaurant	8	55000	Rue des Brielles	
+node	6828791414	48.7760524	5.1608571	L'Atelier Bar				bar	7 bis	55000	Rue du Four	
+node	6833122198	48.7736290	5.1598634	Le Barisien				cafe	42	55000	Rue Jean-Jacques Rousseau	
+node	6833361736	48.7734655	5.1592740	Green's Café				cafe	10	55000	Place Reggio	
+node	6833361743	48.7732176	5.1583855	Dai Dai				restaurant	3	55000	Place Reggio	
+node	6835138621	48.7739865	5.1615317	Le Marché				restaurant	11	55000	Rue des Minimes	
+node	6835318674	48.7725189	5.1627742	Le Rochel'Bar				cafe	38	55000	Boulevard de la Rochelle	
+node	6835318675	48.7729020	5.1615854	Paus'Café				cafe	35	55000	Boulevard de la Rochelle	
+node	6835327010	48.7729891	5.1622586	Casino Cafétéria				restaurant	26	55000	Boulevard de la Rochelle	
+node	6845574226	48.7712916	5.1614720	Le Portofino				restaurant	54	55000	Rue du Docteur Nève	
+node	6853660026	48.7699371	5.1708148	Le Monaco				restaurant	18	55000	Rue Ernest Bradfer	
+node	6866362853	48.7711082	5.1579892	La Meuse Gourmande				restaurant	1	55000	Rue François de Guise	
+node	6868437754	48.7690080	5.1585709	Le Bernanos				restaurant				
+node	6868437756	48.7693437	5.1583299	Au Café des Ducs				cafe	33	55000	Rue des Ducs de Bar	
+node	6932415011	48.7824533	5.1704273	O Club Gourmand				restaurant	2	55000	Allée des Cévennes	
+node	7026003696	48.7746351	5.1721635	La Witzerie				restaurant				
+node	9212879247	48.7614045	5.1874066	Best Wok				restaurant				
+node	11935425445	48.7630388	5.1836551	19 Quatre				restaurant	7			
+way	167640001	48.7731031	5.1656568	Hôtel de la Gare				restaurant	2	55000	Place de la République	
+way	320173437	48.7703786	5.1578189	Le Grill de la Tour				restaurant				
+way	327097200	48.7641819	5.1846755	La Boucherie				restaurant		55000	Allée de la Grande Terre	
+relation	2990162			Bazincourt-sur-Saulx	8	55170	55035					
+node	13290739401	48.6751721	5.1393076	Le resto by l'Articuisto				restaurant	2	55170	Rue Haute	
+relation	2990053			Belrupt-en-Verdunois	8	55100	55045					
+way	595876410	49.1419019	5.4422515	Le Chaudron Vert				restaurant				
+relation	2979346			Bislée	8	55300	55054					
+node	7173029997	48.8693480	5.5176768	La Table des Bons Pères				restaurant		55300		Relais de Romainville
+relation	2724147			Bras-sur-Meuse	8	55100	55073					
+node	4888488256	49.2099160	5.3759176	L'artaumarce				restaurant	8	55100	Avenue Raymond Poincaré	
+relation	2979114			Bure	8	55290	55087					
+way	639659686	48.4885848	5.3548770	Le Bindeuil				restaurant				Rond-point de l'Andra
+relation	920040			Clermont-en-Argonne	8	55120	55117					
+node	7861177789	49.1052202	5.0701391	Brasserie-Restaurant Au Vieux Puits				restaurant				
+way	96310012	49.1055244	5.0700390	La table de l'Argonne- restaurant				restaurant				
+relation	2986698			Combles-en-Barrois	8	55000	55120					
+node	6958862229	48.7536733	5.1165242	Restaurant du Golf				restaurant	38	55000	Rue Basse	
+relation	2714754			Commercy	8	55200	55122					
+node	1874585007	48.7626830	5.5908045	La Médina				restaurant	7	55200	Avenue Stanislas	
+node	5834412144	48.7632670	5.5910043	Restaurant du Fer à Cheval				restaurant	4	55200	Place du Fer à Cheval	
+node	7188845755	48.7533851	5.5990241	Restaurant de la Madeleine				restaurant				
+node	7188913988	48.7623871	5.5922268	Pastazz				restaurant	5	55200	Rue de la Poterne	
+node	7188913989	48.7625215	5.5921108	Bar brasserie all'Italia				restaurant	26	55200	Rue Colson	
+node	7188913990	48.7627840	5.5911800	Le Bistroquet				restaurant		55200	Passage Carnot	
+node	7188913991	48.7626620	5.5902446	La Bigouden				restaurant	14	55200	Avenue Stanislas	
+node	7192030492	48.7614898	5.5942927	Café de la Renaissance				cafe	13	55200	Rue de la Halle	
+node	7192030497	48.7615791	5.5921081	Le Point Central				restaurant	6	55200	Place Charles de Gaulle	
+node	7192030499	48.7619239	5.5908850	Les Gourmands disent				restaurant	24	55200	Rue des Colins	
+node	7192030501	48.7621900	5.5945569	Les Tanneurs				restaurant	9	55200	Rue Foch	
+node	9893696391	48.7628884	5.5915829	Le Stan				cafe				
+way	883455627	48.7501300	5.6021370	Les Terrasses by la Favorite				restaurant		55200	Rue de l'Innovation	
+relation	2975131			Consenvoye	8	55110	55124					
+node	6815653824	49.2861101	5.2839437	L’Auberge Lorraine				restaurant				
+relation	916292			Doulcon	8	55110	55165					
+node	5829615702	49.3847307	5.1801275	Sicilia				restaurant	4			
+relation	1537522			Dun-sur-Meuse	8	55110	55167					
+node	11707720435	49.3852547	5.1835500	Café du Centre				cafe	3	55110	Rue de l'Hôtel de Ville	
+node	12175328887	49.3887539	5.1814695	Le colimençart				restaurant	15		Rue Sainte-Marguerite	
+relation	2971481			Écouviez	8	55600	55169					
+node	2080483000	49.5247164	5.4568029	Restautrant-Hotel Les Épices Curiens				restaurant	3b	55600	Place de la Gare	
+relation	2969523			Étain	8	55400	55181					
+way	150672940	49.2099711	5.6364602	La Sirène				restaurant				
+relation	2648673			Fains-Véel	8	55000	55186					
+node	3163724462	48.7945087	5.1275006	Café de l'Ornain				pub				
+node	6935568759	48.7875263	5.1349752	Aux Moulins à Poivre				restaurant	38	55000	Rue de Bar	
+relation	2963584			Gondrecourt-le-Château	8	55130	55215					
+node	11269457834	48.5134037	5.5060670	Le central				restaurant				
+relation	2992274			Hannonville-sous-les-Côtes	8	55210	55228					
+node	366761670	49.0198047	5.6349204	Camping du Longeau				restaurant				
+node	874486902	49.0385813	5.6576433	Café de la Place				bar				
+relation	918599			Haudainville	8	55100	55236					
+node	2744748810	49.1267890	5.4220045	Le Sagittaire				pub				
+way	244995483	49.1397169	5.4104783	Le Privilège				restaurant		55100	Carrefour de l'Europe	
+way	1207117620	49.1356953	5.4364759	Le Canta				restaurant				
+relation	2983710			Haudiomont	8	55160	55237					
+node	7160159233	49.1200722	5.5087021	Starbucks				cafe		55100		Aire de Verdun Saint-Nicolas Nord
+node	7160159246	49.1183784	5.5089777	Starbucks				cafe		55100		Aire de Verdun Saint-Nicolas Sud
+relation	2992786			Heudicourt-sous-les-Côtes	8	55210	55245					
+node	1365178415	48.9318518	5.6956295	Restaurant du Lac de Madine				restaurant			Rue Charles de Gaulle	
+way	560814019	48.9395587	5.7186516	Bar du Lac				bar				
+relation	2984788			Hévilliers	8	55290	55246					
+way	457725289	48.6010565	5.3313115	L'Auberge d'Hévilliers				restaurant				
+relation	2973477			Houdelaincourt	8	55130	55248					
+node	5117502845	48.5501001	5.4796149	Auberge du Père Louis				restaurant				
+relation	2969417			Iré-le-Sec	8	55600	55252					
+node	2080518640	49.4748680	5.3877651	Au Coup de frein				restaurant	9	55600	Route Nationale	
+relation	2963179			Les Islettes	8	55120	55253					
+way	313612327	49.1094906	5.0038266	Plesio Pizza				restaurant				
+relation	2964604			Jametz	8	55600	55255					
+node	2282507089	49.4308513	5.3808646	Chez Irène				cafe		55600	Grande rue	
+relation	2965844			Juvigny-sur-Loison	8	55600	55262					
+node	2080525726	49.4662009	5.3388768	La Croix d'Or				restaurant	15	55600	Rue de l'Hôpital	
+relation	2990616			Kœur-la-Petite	8	55300	55264					
+node	9116032001	48.8550825	5.4941525	Le coup de Koeur				restaurant				
+relation	1482507			Lachaussée	8	55210	55267					
+way	309107084	49.0350065	5.8170336	Auberge du Vieux Moulin				restaurant				
+relation	2820144			Ligny-en-Barrois	8	55500	55291					
+node	4917266174	48.6871684	5.3238100	Le 34-36				bar	34	55500	Rue du Général de Gaulle	
+node	4917266175	48.6871171	5.3241422	Casa Pizza				restaurant	39	55500	Rue du Général de Gaulle	
+node	7044635330	48.6906242	5.3196144	Café des Sports				cafe	92	55500	Rue Leroux	
+node	7044972649	48.6881639	5.3237225	Athena				restaurant				
+node	7044972654	48.6887602	5.3233501	Le Cheval Blanc				restaurant				
+node	7047930939	48.6878080	5.3235278	Le Don Camillo				restaurant	11	55500	Rue du Général de Gaulle	
+node	7064003442	48.6911144	5.3200690	Aux Délices des Mets				restaurant	1	55500	Boulevard de l'Ornain	
+node	7064003449	48.6862982	5.3215074	Le Terminus				cafe	45	55500	Rue du Maréchal de Luxembourg	
+node	13227192001	48.6854615	5.3251852	Bar hôtel restaurant du Parc				restaurant				
+node	13980783412	48.6879245	5.3233809	Bar la Paillotte				bar				
+way	225068369	48.6912341	5.3265538	Rajpoot				restaurant	31		Rue des Tanneries	
+relation	2725570			Marre	8	55100	55321					
+way	401423448	49.2116895	5.2992740	Le Village Gaulois				restaurant	11	55100	Rue du Parge	
+relation	2965131			Maulan	8	55500	55326					
+way	272278132	48.6617928	5.2552777	Hôtel Restaurant A l'Orée du Bois				restaurant				
+relation	2991260			Les Monthairons	8	55320	55347					
+node	4691380768	49.0610191	5.4091277	Hotel-Restaurant Château des Monthairons				restaurant				
+relation	2971416			Montmédy	8	55600	55351					
+node	2078875028	49.5162766	5.3694090	Le Panoramique				restaurant	9	55600	Rue du Docteur Poulain	
+node	2079031738	49.5173066	5.3672272	Café de l'Industrie				cafe	38	55600	Rue Ernest Mabille	
+node	2079047232	49.5207928	5.3676283	L'Excelsior				bar	15	55600	Rue du Luxembourg	
+node	2079047233	49.5205325	5.3672688	Le Lagon				restaurant	7	55600	Rue du Luxembourg	
+node	9708702199	49.5186924	5.3676642	Aux Trois Kawas				cafe	19	55600	Rue Ernest Mabille	
+node	9906089717	49.5161174	5.3593463	Je me souviens				restaurant	Casemates 30-31	55600	Place de l'Infirmerie	
+way	49073739	49.5180272	5.3611593	Rincón Latino				restaurant	1	55600	Rue de l'Hôtel de Ville	
+way	49074809	49.5174762	5.3607187	L'Alcazar				restaurant	1	55600	Rue de la Poudrière	
+way	51277433	49.5213124	5.3680670	Le Gibus				pub	5	55600	Place Eugène Tronville	
+relation	2993354			Montsec	8	55300	55353					
+node	687857860	48.8907964	5.7203889	Montsec				cafe				
+node	14175899446	48.8909634	5.7205004	Resteaurant de Monsec				restaurant				
+relation	2645341			Val-d'Ornain	8	55000	55366					
+node	6942613791	48.8102533	5.1087136	La Fabbrica				cafe	4D	55000	Rue du Moulin de Varney	
+relation	2992820			Nonsard-Lamarche	8	55210	55386					
+node	3471337959	48.9279066	5.7505939	Brasserie du Port				restaurant				
+node	6760961924	48.9268857	5.7556692	Bar de la Plage				bar				
+way	307174234	48.9293474	5.7613482	La Pergola				restaurant				
+way	307254669	48.9311594	5.7633313	Les Essarts				restaurant	2	55210	Rue de Nonsard	
+relation	2963922			Pagny-sur-Meuse	8	55190	55398					
+node	1388678150	48.6821638	5.7427197	Les Portes de Meuse				restaurant				
+way	1006956041	48.6859826	5.7255765	La Favorite				restaurant		55190	ancienne RN4	
+relation	2978806			Quincy-Landzécourt	8	55600	55410					
+way	470562814	49.4943751	5.2971730	Café de la Forge				pub		55600	Rue de l'Église	
+relation	2989069			Rambluzin-et-Benoite-Vaux	8	55220	55411					
+node	7182622111	48.9778351	5.3500253	Restauration				restaurant				
+node	7182622112	48.9774769	5.3502452	Café				pub				
+relation	2978899			Rambucourt	8	55300	55412					
+node	4608714028	48.8432282	5.7540263	Chez Gilles et Evelyne				bar				
+relation	929431			Revigny-sur-Ornain	8	55800	55427					
+node	3141829192	48.8246481	4.9860162	Le Pub Saint-Georges				pub	1			
+node	6703063385	48.8273390	4.9850107	Rapido Pizza				restaurant				
+node	9394380234	48.8281647	4.9862923	L'Abondance				restaurant				
+relation	2963766			Rigny-la-Salle	8	55140	55433					
+node	9116117659	48.6205235	5.7015476	Le Provençal				bar				
+relation	2652652			Saint-Mihiel	8	55300	55463					
+node	6815632868	48.8961917	5.5377035	Restaurant Rive Gauche				restaurant		55300	Place de la Gare	
+node	7171606853	48.8920468	5.5412983	Ven's Pub Brasserie				pub	28	55300	Rue Notre-Dame	
+node	7171606854	48.8913206	5.5405748	Les Envies de Louise				restaurant	3	55300	Rue Notre-Dame	
+node	7171606856	48.8896907	5.5409885	Le Soleil d'Or				restaurant	3	55300	Place Jean Bérain	
+node	7171606857	48.8930608	5.5416390	Pizzeria du Lion d'Or				restaurant	21	55300	Rue du Général Pershing	
+node	7171606858	48.8884892	5.5468297	Le Ligier Richier				restaurant	10	55300	Place Ligier Richier	
+node	7171606859	48.8925837	5.5411930	Brasserie Les Jumeaux				restaurant	3	55300	Rue du Général Pershing	
+node	7171606860	48.8902206	5.5411394	Le Pont Aven				restaurant	8	55300	Place des Alliés	
+node	7171606861	48.8938592	5.5427199	Le Relais des Routiers				restaurant	19	55300	Rue de Verdun	
+relation	2638743			Savonnières-devant-Bar	8	55000	55476					
+node	6815522815	48.7599002	5.1829042	Caddy Bar				bar		55000	Rue Ernest Bradfer	
+node	6876289656	48.7603617	5.1790144	VIP55				nightclub	19	55000	Rue Maréchal Lannes	
+relation	916318			Sommedieue	8	55320	55492					
+way	83665375	49.1233659	5.4674723	La Paillotte Meusienne				restaurant				
+relation	2723593			Sorcy-Saint-Martin	8	55190	55496					
+node	5912639509	48.7115339	5.6340364	Brasserie				pub				
+relation	916326			Stenay	8	55700	55502					
+node	3068564475	49.4891546	5.1850472	Restaurant Le Cygne				restaurant	14	55700	Rue du Moulin	
+node	3979590657	49.4827573	5.2017581	Les 4 Epices				restaurant				
+node	5680086504	49.4919530	5.1891037	La Rotisserie				restaurant				
+node	5681310570	49.4906183	5.1859640	Le Chanzy				restaurant				
+node	9918697222	49.4919604	5.1892233	Bar des arcades				pub				
+node	9918752334	49.4912669	5.1829175	Café du port				pub				
+node	9918789584	49.4936981	5.1868670	Le bouge bar				pub				
+way	134231474	49.4884435	5.1865730	Taverne du Musée				pub				
+relation	2982157			Tréveray	8	55130	55516					
+node	11070808661	48.6086589	5.3996823	Aux Trois Vallées				bar				
+node	11152714730	48.6096943	5.3994302	Café des Sports				cafe				
+relation	2978359			Seuil-d'Argonne	8	55250	55517					
+node	14214597069	48.9781940	5.0595065	Au Bon Seuil				restaurant	5	55250	Place Lucien Poincaré	
+relation	2994311			Tronville-en-Barrois	8	55310	55519					
+node	6983053899	48.7168352	5.2787154	Silverbar				bar	68	55310	Route Nationale	
+way	309570465	48.7202675	5.2798480	La casita				bar		55310	Rue Salvador Allendé	
+relation	2967977			Vacherauville	8	55100	55523					
+node	12022204768	49.2222106	5.3618799	Le Relais				restaurant		55100	Rue du Colonel Driant	
+way	404266292	49.2226255	5.3624220	Le Relais				restaurant				
+relation	2979221			Varennes-en-Argonne	8	55270	55527					
+node	4961194721	49.2280119	5.0345398	Bar Tabac Louis XVI				bar				
+way	608545109	49.2277254	5.0346516	Hôtel-Restaurant Le Grand Monarque				restaurant				
+way	608545111	49.2283350	5.0359279	Bar-Restaurant L'Arlequin				restaurant				
+way	608556276	49.2291560	5.0426317	Restaurant Chez Mozzart est là				restaurant				
+relation	2980063			Vaubecourt	8	55250	55532					
+way	608570656	48.9356090	5.1115852	La Barmacie				cafe	4	55250	Route de Triaucourt	
+relation	2975277			Vaucouleurs	8	55140	55533					
+node	1785292341	48.6012952	5.6663256	Grill				restaurant				
+node	1785292347	48.6000358	5.6663578	Le Grill Gourmand				restaurant				
+node	11180543087	48.6041580	5.6654928	L'attelier de Juliette				restaurant	46	55140	Rue Jeanne d'Arc	
+node	11180555246	48.6036319	5.6655918	I L K				restaurant	49	55140	Rue Jeanne d'Arc	
+node	11180647372	48.6100257	5.6656079	Fan 2 PIZZ				restaurant	1	55140	Rue Boyer de Rébeval	
+way	414076493	48.6027128	5.6662100	L'atelier de juliette				restaurant	46	55140	Rue Jeanne d'Arc	
+way	414078703	48.6064325	5.6654085	Café de la Promenade				pub				
+way	414079014	48.6037805	5.6655050	Pizza Giulietta				restaurant	53	55140	Rue Jeanne d'Arc	
+way	414079049	48.6049315	5.6658075	Le Maginot				bar	13	55140	Avenue André Maginot	
+relation	9137072			Douaumont-Vaux	8	55100;55400	55537					
+way	150320579	49.2110884	5.4278866	L'Abri des Pèlerins				restaurant				
+relation	2994233			Velaines	8	55500	55543					
+node	6985907677	48.7024183	5.3011246	Le Romarin				restaurant	16	55000	Rue de Ligny	
+relation	918574			Verdun	8	55100	55545					
+node	3156383566	49.1606267	5.3854521	L'Inconnu				bar				
+node	3160642226	49.1425186	5.4060019	Cafétéria Carrefour				restaurant				
+node	3260117576	49.1615323	5.3861035	Authentique				restaurant				
+node	3260117650	49.1617063	5.3860018	Romeo E Giulietta				restaurant	37		Rue des Rouyers	
+node	3726119568	49.1619886	5.3847701	Point Central				bar				
+node	3728210837	49.1603799	5.3853857	Le 29				restaurant				
+node	3728210839	49.1600928	5.3852141	Les Docks				restaurant	19	55100	Quai de Londres	
+node	3728210840	49.1600158	5.3851734	Le Windsor				pub	17		Quai de Londres	
+node	4693545713	49.1588888	5.3829425	Crêperie La Capsule				restaurant	85	55100	Rue de Rû	
+node	5739388327	49.1618227	5.3860070	L'Estaminet				bar	45		Rue des Rouyers	
+node	6943575325	49.1609054	5.3856035	Café Restaurant Le Rallye				restaurant				
+node	7090637385	49.1620240	5.3855270	Stadelmann				cafe				
+node	7156254431	49.1489566	5.4104179	City Bowl				restaurant		55100		Actipole Verdun Sud
+node	7157550384	49.1608510	5.3873160	Le Cercle du Mess				restaurant	22	55100	Quai de la République	
+node	7752593285	49.1572503	5.3792355	The Sherlock Pub				restaurant				
+node	8900949268	49.1584637	5.3639996	Les Marronniers				restaurant				
+node	10815169474	49.1596744	5.3838071	Le Kashmir				restaurant	33	55100	Rue des Gros Degrés	
+node	11207272555	49.1567207	5.3721696	La Cantine des poilus				restaurant	4	55100	Avenue du Soldat Inconnu	
+node	12118228702	49.1598106	5.3850466	De Baristi				cafe				
+node	12461240271	49.1619125	5.3843197	ShunFa				restaurant	5		Rue Saint-Pierre	
+node	12954602947	49.1566565	5.3799747	Chez Nat				cafe				
+node	12954602949	49.1613640	5.3858550	La Brasserie d'Agnès				restaurant				
+node	13410525333	49.1487136	5.3773990	Via Pizza				restaurant		55100	Boulevard Stratégique	
+node	13835846939	49.1607313	5.3855424	Vivian's pub				pub				
+node	13935192441	49.1608018	5.3855856	Tea Time				cafe				
+node	13935466240	49.1605814	5.3852228	Taverna				cafe				
+node	13935576702	49.1647810	5.3827045	Miso-Sushi				restaurant				
+node	13935581834	49.1651984	5.3800622	Le Terminus				bar				
+way	94423726	49.1483523	5.4009376	Buffalo Grill				restaurant	54	55100	Avenue de Metz	
+way	94423751	49.1650945	5.4195755	Logis Hôtel Les Orchidées				restaurant		55100	Rue Robert Schuman	
+way	94423947	49.1637785	5.3979775	tel Père tel Fils				restaurant				
+way	94429855	49.1481949	5.4024583	Le Bonséjour				restaurant	33	55100	Avenue de Metz	
+way	94431285	49.1636587	5.3950704	Chez mamie				restaurant				
+way	94431616	49.1631270	5.3845585	La Cloche d'Or				restaurant	10	55100	Rue Saint-Paul	
+way	94432108	49.1463029	5.4071244	Planète Wok				restaurant		55100		Actipole Verdun Sud
+way	94435253	49.1517149	5.3835577	Le Clair de Lune				restaurant				
+way	94435470	49.1539735	5.3657855	Café-Restaurant Camping les Breuils				restaurant				
+way	94436220	49.1462185	5.4107406	Signorizza				restaurant	1	55100	Rue Jacques Meyer	Actipole Verdun Sud
+way	94437092	49.1521420	5.3958590	Bar-Tabac La Walsheim				pub				
+way	927937855	49.1571875	5.3790318	The Sherlock pub				restaurant		55100	Rue du 61e R.A.	
+relation	2994086			Vigneulles-lès-Hattonchâtel	8	55210	55551					
+node	12649452325	48.9925432	5.7043039	L'air du Moulin				restaurant			Rue des Arcades	
+node	13378713650	48.9809602	5.7028022	Le Louis d'Or				bar	14	55210	Rue Raymond Poincaré	
+way	358464370	48.9780340	5.7353445	Discothèque				nightclub				
+relation	2978801			Vignot	8	55200	55553					
+node	1863704029	48.7742559	5.6086767	Le Crystal				bar				
+relation	2723910			Void-Vacon	8	55190	55573					
+node	2926170987	48.6885117	5.6196250	Café des Colonnes				cafe				
+node	3734817926	48.6866768	5.6175167	Restaurant Cugnot				restaurant				

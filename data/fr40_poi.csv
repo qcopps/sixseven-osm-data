@@ -1,0 +1,1294 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	76165			Aire-sur-l'Adour	8	40800	40001					
+node	2605896243	43.7003839	-0.2641229	Le Continental				bar	24	40800	Place du Commerce	
+node	2804176975	43.7139155	-0.2627093	Asia				restaurant				
+node	2810444202	43.7025444	-0.2625149	Au Comptoir de l'Adour				bar		40800		Place Goury
+node	4079566695	43.7008717	-0.2639407	L'Aire des saveurs				cafe		40800		
+node	11966224912	43.6923834	-0.2770795	Self				restaurant				
+node	13190332904	43.6999921	-0.2634035	Aazam Pizza				restaurant	6 bis	40800	Rue Henri Labeyrie	
+way	151934856	43.7044930	-0.2603925	Les Platanes				restaurant				
+relation	76088			Amou	8	40330	40002					
+node	5236812340	43.5929017	-0.7470209	Tabac Presse d'Amou / Café de la Halle				cafe	32		Place Saint-Pierre	
+node	8408561129	43.5895334	-0.7484310	Au feu de bois				restaurant	20		Avenue des Pyrénées	
+node	8844607998	43.5903352	-0.7476734	Bar A Voste				bar	1	40330	Avenue des Pyrénées	
+node	10939514170	43.5926675	-0.7449694	Café des sports				cafe	35		Place du Capitaine de Raumond de Peich	
+node	12544775755	43.5926219	-0.7477580	Le commerce				restaurant	2	40330	Place de la Poste	
+way	139063664	43.5926845	-0.7478339	Le commerce Darracq				restaurant	2	40330	Place de la Poste	
+relation	75974			Angresse	8	40150	40004					
+node	9790408169	43.6586742	-1.3674770	La popotte				restaurant	64		Route de Tyrosse	
+node	9790426137	43.6587473	-1.3723970	Pizza sea side				restaurant				
+way	720215433	43.6576602	-1.3386418	Le Tuquet				restaurant	262	40150		Le Tuquet
+relation	76087			Arsague	8	40330	40011					
+node	10557438038	43.5760080	-0.7919969	Entre Amis - Pizzas au feu de bois				restaurant	181	40330	Chemin de Darracq	
+relation	117278			Aubagnan	8	40700	40016					
+node	5710875400	43.6670209	-0.4888581	Restaurant des Quatres Cantons				restaurant		40700	Route du Tursan	
+relation	75859			Azur	8	40140	40021					
+node	6116514909	43.7972066	-1.3016816	Couscousserie La Oumma				restaurant				
+node	6116514910	43.7980142	-1.3031014	Auberge du Soleil				restaurant				
+node	8345517271	43.7974123	-1.3016840	Ostagaï				restaurant				
+node	9757403590	43.7871280	-1.3132834	Restaurant le lac d'Azur				restaurant	49		Route du Pesquite	
+node	9757416244	43.7933580	-1.2974863	Auberge des pins				restaurant			Route de la Piscine	
+node	9757444756	43.7931799	-1.2950294	La Kabane 40				restaurant				
+node	9757473526	43.7866043	-1.3095099	Le Paréo				restaurant				
+node	9757475927	43.7838359	-1.3050610	Le beau rivage				restaurant				
+relation	117271			Bahus-Soubiran	8	40320	40022					
+node	8212559486	43.6634893	-0.3283785	Fere auberge lacère				restaurant	240	40320	Chemin du Fléton	
+way	409068797	43.6771642	-0.3595785	La table de Patricia				restaurant	987	40320	route d'Eugénie	
+relation	1374446			Baigts	8	40380	40023					
+node	8481984185	43.7063084	-0.8115589	Restaurant le Domaine de Testelin				restaurant	333		Route de Testelin	
+relation	75953			Bas-Mauco	8	40500	40026					
+node	12034071296	43.7923847	-0.5576306	Culinaire Des Pays de L Adour				restaurant				
+relation	2114464			Belhade	8	40410	40032					
+node	6580229088	44.3762871	-0.6860755	L'auberge du Chêne Pascal				restaurant				
+relation	116820			Bélus	8	40300	40034					
+node	7823877241	43.5914995	-1.1471788	Moulin à Vent				restaurant				
+relation	116825			Bénesse-lès-Dax	8	40180	40035					
+node	5985222572	43.6436050	-1.0405732	Chez Simone				restaurant	37	40180	Avenue Auguste Duhaut	
+relation	116819			Bénesse-Maremne	8	40230	40036					
+node	4315671602	43.6270772	-1.3727529	S.B Artisans Burger				restaurant				
+node	5786516315	43.6330606	-1.3604250	Pizzeria Le Pin des Pizz				restaurant				
+node	9790463004	43.6286294	-1.3713975	L’Estaminet				restaurant				
+node	9790581792	43.6332823	-1.3609069	La Pomme de Pin				bar		40230		
+node	12471363547	43.6300747	-1.3892253	June Café				restaurant				
+relation	116821			Biarrotte	8	40390	40042					
+node	4856205614	43.5604466	-1.2722182	Biarrotte Pizza				restaurant	32	40390	Route d'Orthe	
+relation	76251			Bias	8	40170	40043					
+way	140397323	44.1453944	-1.2406941	Biasero				restaurant				
+relation	76034			Biaudos	8	40390	40044					
+node	12407263352	43.5499438	-1.3037127	Bière Truck Landes				pub		40390		
+way	249398006	43.5543377	-1.3027986	Piu Nostra				restaurant	3201	40390	Route Nationale 117	
+way	249398146	43.5539269	-1.3082097	O'Makila				restaurant	31	40390	Route du Bourg	
+relation	76227			Biscarrosse	8	40600	40046					
+node	618381502	44.4467011	-1.2537903	L'avenue				bar				
+node	618382358	44.4481353	-1.2533017	L'Oceana				nightclub	46	40600	Rue du Grand Vivier	
+node	1422978136	44.4445391	-1.2505187	Le QG				restaurant	85	40600	Place Georges Dufau	
+node	1846793043	44.3950628	-1.1658713	Le Transat				restaurant	123		Rue de la Poste	
+node	1846833111	44.3955285	-1.1652337	French Coffee Shop				cafe				
+node	3523485089	44.4520205	-1.2384265	L'Instant Gourmet				restaurant	1300	40600	Avenue du Pyla	
+node	3523485092	44.4507307	-1.2471341	Les Vagues				restaurant	99	40600	Rue des Iris	
+node	3855118757	44.3903257	-1.1721464	Chez Camette				restaurant	532	40600	Avenue Pierre-Georges Latécoère	
+node	3855118759	44.4568704	-1.2015611	Histoires de				restaurant				
+node	3855118762	44.3924912	-1.1700980	L'Oncle Sam				restaurant	236	40600	Avenue Pierre-Georges Latécoère	
+node	3855118764	44.4407026	-1.1919152	La Caravelle				restaurant				
+node	3855118770	44.4595987	-1.1998595	Les docks du lac				restaurant				
+node	3855118771	44.4464447	-1.2002708	Le Parcours Gourmand				restaurant				
+node	3855118774	44.4297247	-1.1746674	CÔTE & LAC				restaurant				
+node	4056604189	44.4490342	-1.2538912	Corto Bar				bar	7	40600	Avenue des Échassiers	
+node	4608163861	44.4032768	-1.1631071	Saigon				restaurant	639	40600	Avenue de la République	
+node	5010060001	44.4294421	-1.1666697	Les Écureuils				restaurant	646		Chemin de Navarrosse	
+node	5048692321	44.4475307	-1.2536777	Surf Palace				restaurant	7	40600	Rue de la Garole	
+node	5056374524	44.4559201	-1.1999009	Au Bord de L’o				bar				
+node	5614137252	44.4430021	-1.2484884	Le Faré				restaurant	634		Avenue de la Plage	
+node	7315975773	44.4446948	-1.2531763	Restaumer				restaurant	215		Avenue de la Plage	
+node	7315975782	44.4445512	-1.2538697	Le Café Cosy				cafe	156	40600	Avenue de la Plage	
+node	7316000889	44.4447724	-1.2535760	Le Rooftop				restaurant	169	40600	Avenue de la Plage	
+node	7316000890	44.4448203	-1.2542854	Sango Bar				bar		40600	Avenue de la Plage	
+node	7856271243	44.4426111	-1.2497402	Bisca surf cafe				cafe				
+node	7864675295	44.3957610	-1.1647680	L'Art Home				restaurant	101		Place Marsan	
+node	7866149462	44.4438743	-1.2501827	Ave giulia				restaurant	475		Avenue de la Plage	
+node	8338798571	44.4449341	-1.2535724	100 Pressions				bar	169	40600	Avenue de la Plage	
+node	8338846014	44.4448737	-1.2534139	Otto Kitchen				restaurant	350	40600	Avenue de la Côte d'Argent	
+node	8338846015	44.4451060	-1.2533570	Le Globe Trotter Café				bar	374	40600		
+node	8415041593	44.4486742	-1.2555349	La Siesta				restaurant		40600	Rond-Point Nord	
+node	9671657908	44.4438668	-1.2511194	Pasta Pizza				restaurant			Place Georges Dufau	
+node	9722547850	44.3959011	-1.1656484	Les Cafés de l'Alios				cafe	77		Avenue Georges Clemenceau	
+node	9737994842	44.4458399	-1.2519811	Zéphyr Pizza				restaurant	543	40600	Boulevard d'Arcachon	
+node	9737994843	44.4443717	-1.2528399	Noosa Café				restaurant	240	40600	Avenue de la Plage	
+node	9737994845	44.4436179	-1.2500261	Alma Mia				restaurant	490		Avenue de la Plage	
+node	9743628912	44.4440518	-1.2504552	L'Agave				restaurant	439	40600	Place Dufau	
+node	9743628915	44.4487171	-1.2521435	Le Bord de Plage				restaurant	128		Avenue des Échassiers	
+node	9743693823	44.4457029	-1.2506188	Les 4 Saisons				restaurant	67		Avenue de Lattre de Tassigny	
+node	9743693824	44.4438023	-1.2519677	Pizza Cricri				restaurant	318	40600	Boulevard d'Arcachon	
+node	9743693825	44.4450602	-1.2542462	L'Escale				restaurant	372		Boulevard des Sables	
+node	9743693827	44.4439284	-1.2518961	Pizza Bella				restaurant		40600	Place Georges Dufau	
+node	9749367954	44.3965425	-1.1665753	À l'Imprévu				restaurant	247		Avenue du 14 Juillet	
+node	9749367955	44.3982911	-1.1656662	A Casa Corsa				restaurant	52	40600	Avenue de la République	
+node	9749367957	44.3955444	-1.1646646	Le Cottage				restaurant	163		Avenue Georges Clemenceau	
+node	9749367958	44.4103510	-1.1695233	Le Café des Gourmands				restaurant			Avenue de Laouadie	
+node	9749367960	44.3983447	-1.1656418	La Crêperie de Tad-Kozh				restaurant	52	40600	Avenue de la République	
+node	9749367963	44.3952599	-1.1637362	Pizza Bonici				restaurant	246		Avenue Alphonse Daudet	
+node	9749367964	44.4103900	-1.1674750	Le Comptoire à Pizza				restaurant	5		Avenue de Laouadie	
+node	9749367966	44.3966155	-1.1665748	O Deleite				restaurant	249	40600	Avenue du 14 Juillet	
+node	9749367967	44.3944463	-1.1664087	Ô Zink				restaurant	244		Place Charles de Gaulle	
+node	10944288042	44.4551029	-1.2014714	Casa Bisca				restaurant	7141	40600	Route des Lacs	
+node	10944288043	44.4561790	-1.1999324	L'Idylle				restaurant	18	40600	Chemin de Maguide	
+node	10944288044	44.3707627	-1.1269682	Le Bistrot de l'Aérodrome				restaurant	2100	40600	Route de Parentis	
+node	10945881431	44.4451961	-1.2542055	Le 372				restaurant	372		Boulevard des Sables	
+node	11574000971	44.4433735	-1.2494281	Ikan				restaurant				
+node	11576611609	44.4456401	-1.2500638	Casa Luis				restaurant	111		Avenue de Lattre de Tassigny	
+node	12542773130	44.4444099	-1.2561249	Restaurant de la Plage				restaurant	2	40600	Avenue de la Plage	
+node	12626618633	44.3946238	-1.1672259	Le Cercle de l'Orme - café associatif				cafe	44	40600	Avenue du 14 Juillet	
+node	12728538932	44.3944950	-1.1660253	La vie en couleurs				cafe	40	40600	Rue de la Poste	
+node	12736163020	44.4439953	-1.2504895	L'Ostrea				restaurant		40600	Place Georges Dufau	
+node	12736214073	44.4459053	-1.2541999	Hona Café Cantine				restaurant	7	40600	Rue des Arbouses	
+node	12736260802	44.4415470	-1.2447767	La Cabane à moules				restaurant	56	40600	Rue des Outardes	
+node	12736287755	44.4451199	-1.2535580	La Favela				bar	21	40600	Rue de la Douane	
+node	12736325101	44.3956928	-1.1656689	Sri Siam				restaurant	82	40600	Avenue Georges Clemenceau	
+node	12738544003	44.4454775	-1.2541987	L'embrun				restaurant	372	40600	Boulevard des Sables	
+node	12738552804	44.4453030	-1.2542093	L'envers du décor				restaurant	372	40600	Boulevard des Sables	
+node	12738633137	44.4447169	-1.2537563	Le central				restaurant	167	40600	Avenue de la Plage	
+way	127088559	44.4424592	-1.2557455	Dream Beach				restaurant				
+way	127815630	44.3999025	-1.1646049	Les Italiens				restaurant	236	40600	Avenue de la République	
+way	127815767	44.4441219	-1.2507860	Beach Burger				restaurant	100		Place Georges Dufau	
+way	127820072	44.4563335	-1.2422145	Les Petits Landais				restaurant	275	40600	Rue du Tit	
+way	782725631	44.4105390	-1.1700827	Bistro Régent				restaurant	909	40600	Avenue de Laouadie	
+way	782737000	44.4053547	-1.1615898	Le Mille Pâtes				restaurant	898	40600	Avenue de la République	
+way	1059903952	44.4298077	-1.1561209	Au Parrain Pizza				restaurant	600		Chemin d'En Chon	
+way	1245256708	44.4456257	-1.2520033	Saveur Pizza				restaurant	166		Rue des Arbouses	
+way	1245260400	44.4442206	-1.2521842	Lou Spot				restaurant	371		Boulevard d'Arcachon	
+relation	164071			Bougue	8	40090	40051					
+node	8777199246	43.8766885	-0.3960577	Auberge du Grand Megnos				restaurant	1155	40090		Grand-Mégnos
+node	12836631475	43.8893610	-0.3908295	Le Petit Marsan				cafe				
+node	14042220501	43.8775470	-0.3932560	Auberge du Grand Megnos				restaurant				
+relation	164068			Bourriot-Bergonce	8	40120	40053					
+node	7682543885	44.1277645	-0.2501166	Bar Tabac Alimentation				bar				
+relation	76099			Brassempouy	8	40330	40054					
+node	5814874153	43.6338331	-0.6946487	Le bistroquet de la Dame				restaurant				
+node	12544308551	43.6239662	-0.6927238	L'Estanquet deu guit				restaurant				
+node	13617214456	43.6345416	-0.6950495	L'atelier du Chat d'Argent				restaurant	27	40330	Route du Duc	
+relation	75960			Bretagne-de-Marsan	8	40280	40055					
+node	761944335	43.8479938	-0.4749815	café-épicerie				cafe				
+relation	1966738			Brocas	8	40420	40056					
+node	2252460257	44.0450140	-0.5358169	Le Cercle des travailleurs				cafe	619	40420	Rue des Forgerons	
+relation	1374454			Cachen	8	40120	40058					
+node	410704786	44.0712197	-0.4284098	Lou Castagné				restaurant				
+relation	76063			Cagnotte	8	40300	40059					
+node	7678221699	43.6050638	-1.0827210	Ferme de Beleslou				restaurant	56	40300	Route de Lesablère	
+relation	123663			Campet-et-Lamolère	8	40090	40062					
+node	13688690934	43.9178687	-0.6057461	L'Échassier				restaurant		40090	Avenue du Marsan	
+relation	75975			Capbreton	8	40130	40065					
+node	1510408077	43.6509493	-1.4343832	O Txoko				restaurant				
+node	1510440752	43.6497746	-1.4453911	Bistro Baya				restaurant	85	40130	Avenue Maréchal de Lattre de Tassigny	
+node	1560284424	43.6550520	-1.4379117	Chez Minus				restaurant		40130	Avenue Notre-Dame	
+node	1882500558	43.6515125	-1.4453940	Marco				restaurant		40130	Boulevard François Mitterrand	
+node	2139889249	43.6478908	-1.4452993	Terramar				restaurant		40130	Plage du Santacha	
+node	2182487032	43.6540820	-1.4454667	Belharra Café				restaurant		40130	Boulevard François Mitterrand	
+node	2182534887	43.6488625	-1.4428562	Line Up Café				cafe		40130	Avenue du Maréchal de Lattre de Tassigny	
+node	2363293759	43.6407370	-1.4304278	Pizza Rezzo				restaurant	63	40130	Rue du Général de Gaulle	
+node	2364076049	43.6426474	-1.4328909	La Cuisine				restaurant	26	40130	Rue du Général de Gaulle	
+node	2364076050	43.6471077	-1.4353170	Le MB				restaurant				
+node	2416218168	43.6531370	-1.4401908	Le Scaphandre				restaurant		40130	Rue des Pêcheurs	
+node	2417602923	43.6535886	-1.4405699	Les Halles Ducamp				restaurant	71		Avenue Georges Pompidou	
+node	2417602926	43.6531635	-1.4402991	Ma Cabane sur le Port				restaurant		40130	3, rue des pêcheurs	
+node	2417602930	43.6518743	-1.4454416	Le MundaK'Fé				restaurant	38	40130	Boulevard François Mitterrand	
+node	2417644073	43.6437835	-1.4326763	Au goût du monde				restaurant	6	40130	Rue du Général de Gaulle	
+node	2418115330	43.6503806	-1.4451283	Les Douceurs de Léa				cafe				
+node	2418115331	43.6504504	-1.4452799	Le Spot				cafe		40130	Boulevard François Mitterrand	
+node	2421069097	43.6541361	-1.4422738	Chez Vincent				restaurant	4	40130	Rue du Port d'Albret	
+node	2421069126	43.6537557	-1.4424026	Ventiane				restaurant				
+node	2421180069	43.6544897	-1.4435646	La plancha				restaurant		40130	Avenue Georges Pompidou	
+node	2421201477	43.6545347	-1.4453440	Bistro Régent				restaurant		40130	Place de la Liberté	
+node	2421201488	43.6537286	-1.4454677	Nina Café				restaurant		40130	Promenade du Front de Mer	
+node	2421202723	43.6530637	-1.4450640	O Rendez-vous				cafe				
+node	2421331072	43.6539235	-1.4413669	Le Bon Cap				restaurant	77	40130	Avenue Pompidou	
+node	2421332390	43.6542203	-1.4422383	Coco Mango				cafe		40130	Avenue Georges Pompidou	
+node	2421338641	43.6543000	-1.4426100	Maison Pêcherie Ducamp				restaurant	85	40130	Avenue Georges Pompidou	
+node	2421338648	43.6515670	-1.4453894	L'Equinoxe				restaurant		40130	Boulevard François Mitterrand	
+node	2421359820	43.6536459	-1.4448916	Le Bar Basque				cafe				
+node	3030303088	43.6440712	-1.4336474	Les Moules à Jéjé				restaurant	1		Avenue de Lattre de Tassigny	
+node	3056873307	43.6501823	-1.4340047	Le Petit Bistrot				restaurant		40130	Quai Bonamour	
+node	3064588938	43.6407933	-1.4265685	Café de la Gare				restaurant	50	40130	Boulevard du Docteur Junqua	
+node	3064588943	43.6386942	-1.4264277	Le Petit Bali				restaurant	22	40130	Rue Saint-Hubert	
+node	3645655414	43.6420872	-1.4326763	Gusto				restaurant				
+node	5660810902	43.6368009	-1.4487883	Soweto Cabane south west Capbreton				restaurant		40130	Plage des Océanides	
+node	5802462354	43.6405822	-1.4312074	Le Marin				bar	1	40130	Place de l'Hôtel de Ville	
+node	5802462355	43.6406485	-1.4314881	Le Café de la Place				bar				
+node	5802462356	43.6422225	-1.4324984	Bodeo Bistro				restaurant	31	40130	Rue du Général de Gaulle	
+node	7630045186	43.6561877	-1.4412202	Mori Mori				restaurant	2	40130	Avenue Notre-Dame	
+node	7630045187	43.6561539	-1.4413134	Le 6				bar				
+node	7892561485	43.6520204	-1.4334468	P’tit Pêcheur				restaurant		40130	Quai de la Pêcherie	
+node	8210302744	43.6520957	-1.4333523	Goustut				restaurant		40130	Quai de la Pêcherie	
+node	8289506988	43.6519215	-1.4335328	La Petite Table				restaurant	7	40130	Quai de la Pêcherie	
+node	8289518604	43.6521978	-1.4328472	Les Sardines				restaurant				
+node	8289518605	43.6517930	-1.4340060	Rosny's Rockin' Bar				bar	2	40130	Quai Bonamour	
+node	8289518606	43.6515175	-1.4346078	Bonamour Brasserie				restaurant		40130	Quai de la Pêcherie	
+node	8289518608	43.6504501	-1.4340397	Tamarind				restaurant	16		Quai Bonamour	
+node	8289518609	43.6502413	-1.4340217	L'Acapulco				bar	23	40130	Quai Bonamour	
+node	8294006071	43.6403157	-1.4298250	La Pergola				restaurant		40130	1 Rue Depoge	
+node	8348884124	43.6566373	-1.4449268	Les p'tits bouchons				restaurant		40130	Plage Notre-Dame de Capbreton	
+node	8349308458	43.6564422	-1.4441164	Chez Papa Joub				restaurant		40130	Les terrasses de l'océan Bat E Notre-Dame	
+node	8349308460	43.6564256	-1.4440326	Aroy D				restaurant		40130	Avenue Notre-Dame	
+node	8363709935	43.6517353	-1.4336661	Le Régalty				restaurant				
+node	8364550934	43.6411934	-1.4320647	Cap Lanka				restaurant	60	40130	Rue du Général de Gaulle	
+node	8364552640	43.6410209	-1.4319628	Le Repaire de La Girafe				restaurant	62	40130	Rue du Général de Gaulle	
+node	8364585658	43.6437751	-1.4329428	Le Bambou				restaurant	2		Rue Duboscq	
+node	8856367438	43.6561801	-1.4412805	Le 6				restaurant				
+node	8856369040	43.6561079	-1.4411217	Le Fournil des Sables				restaurant				
+node	9643310567	43.6490640	-1.4431840	Mambo Delizie Italiane				restaurant	81	40130	Avenue Maréchal de Lattre de Tassigny	
+node	9748459697	43.6538463	-1.4403237	La Brasserie du Port				restaurant		40130	Avenue Georges Pompidou	
+node	9748499902	43.6566971	-1.4449059	Les planches éphémères				restaurant				
+node	9754452794	43.6437805	-1.4325366	Le Backstage				restaurant	5		Rue du Général de Gaulle	
+node	9806647112	43.6518337	-1.4334629	Monkey Mood				restaurant		40130	Résidence Le Grand Pavois, Quai de la Pêcherie B	
+node	9806727170	43.6489592	-1.4359728	So Fish				restaurant	29	40130	Avenue Georges Pompidou	
+node	9808321166	43.6561962	-1.4434975	Kami				restaurant		40130	Rue de la Loubine	
+node	9836212557	43.6403780	-1.4325603	Ahoy				restaurant	1	40130	Allées Marines	
+node	9838804282	43.6429485	-1.4327058	Club Mexie				cafe				
+node	9839009524	43.6404756	-1.4316041	Canailles				restaurant		40130	Place de l'Hôtel de Ville, 40130 Capbreton	
+node	9850564219	43.6523674	-1.4320750	Café Chill				restaurant	69	40130	Quai de la Pêcherie	
+node	9860546297	43.6420443	-1.4332354	Dodue				restaurant	44	40130	Allées Marines	
+node	10207323246	43.6524216	-1.4320074	You Sushi				restaurant	1	40130	Quai de la Pêcherie	
+node	11016034940	43.6511682	-1.4418959	L'Esquirou				restaurant	34	40130	Rue du Lac	
+node	12194170663	43.6301831	-1.4326764	Les Darons				restaurant		40130	Avenue des Biches	
+node	13179098143	43.6561652	-1.4411226	Dalé				restaurant		40150	Avenue Notre-Dame	
+node	13282582031	43.6494636	-1.4096630	L'Entracte du 640				restaurant	12 D	40130	Rue du Hapchot	
+node	13701011808	43.6505356	-1.4340801	L'Eden				restaurant	16	40130	Quai Bonamour	
+node	13716508731	43.6517995	-1.4452389	Backwash - Coffee + Pizza				restaurant	4	40130	Rue des Baleiniers	
+node	13997715240	43.6513888	-1.4451642	La Cachette				restaurant		40130	Boulevard François Mitterrand	
+way	129040824	43.6535925	-1.4342775	Monsieur Mouette				restaurant		40130	Esplanade du Bourret	
+way	129041157	43.6214477	-1.4405317	Bar Restaurant				restaurant				
+way	129041400	43.6495095	-1.4114750	Le Circus				bar	9 bis	40130	Rue du Hapchot	
+way	1068208772	43.6517949	-1.4456830	Terrasses du MundaK'Fé				restaurant		40130	Boulevard François Mitterrand	
+relation	1376151			Cassen	8	40380	40068					
+node	8409407224	43.7638400	-0.8568646	La Déesse des Gourmets				restaurant	65	40380	Route de Bordes	
+relation	116833			Castelnau-Chalosse	8	40360	40071					
+node	12539630347	43.6697634	-0.8546408	Ferme auberge Le Vieux Chêne				restaurant	960	40360	Route de Dax	
+relation	75866			Castets	8	40260	40075					
+node	4378922703	43.8815622	-1.1483252	Les forges				restaurant				
+node	7388336761	43.8819619	-1.1445407	O'Saveurs de Carine				restaurant				
+node	7388378372	43.8823228	-1.1471636	Le Bar de la place				bar				
+node	11885092507	43.8824554	-1.1477526	Le Castésiens				restaurant				
+way	232253131	43.8708795	-1.1370230	La Tchanka				restaurant				
+way	232253501	43.8731955	-1.1343045	Le Relais de Castets				restaurant				
+relation	75938			Cauna	8	40500	40076					
+node	4303802297	43.7815913	-0.6360064	Le Relais de la Chalosse				restaurant				
+relation	116828			Cauneille	8	40300	40077					
+node	11049177906	43.5464620	-1.0617040	Le Haou				restaurant				
+relation	1376247			Caupenne	8	40250	40078					
+node	5107384922	43.6851269	-0.7464234	Bar restaurant le Caupennois				restaurant				
+relation	164061			Cazères-sur-l'Adour	8	40270	40080					
+node	8489285920	43.7605490	-0.3164790	Le Cazérien				restaurant	260	40270	Place de l'Ancienne Bastide	
+relation	1782702			Cère	8	40090	40081					
+node	8911574571	43.9917859	-0.5295117	Relais de l'écureuil				restaurant				
+relation	74510			Créon-d'Armagnac	8	40240	40087					
+node	13361429710	43.9957112	-0.1073309	Le Café de Créon				cafe		40240	Place de l'Église	
+way	474799438	43.9970068	-0.1064026	Auberge des Chasseurs				restaurant	3	40240	Route d'Estigarde	
+relation	75879			Dax	8	40100	40088					
+node	1863220801	43.7078248	-1.0563967	Le Paris Bar				bar				
+node	2980916033	43.7089141	-1.0517213	O'Palais				restaurant	7	40100	Rue Saint-Pierre	
+node	2980922765	43.7107800	-1.0532010	Le grand café de Bordeaux				restaurant				
+node	2980953440	43.7112180	-1.0532210	Mama cucini				restaurant	16	40100		Place Thiers
+node	2980958033	43.7107030	-1.0529810	Le Txupinazo				restaurant	30	40100	Place de la Fontaine Chaude	
+node	2980963433	43.7112401	-1.0533959	No scrum no win				restaurant	12	40100		Place Thiers
+node	4132671189	43.7092326	-1.0552549	Phileas Fogg Café				bar	23		Cours Maréchal Foch	
+node	5204962628	43.7184747	-1.0531332	Mokolo				bar				
+node	5206158124	43.7158263	-1.0539846	El Piquero				restaurant	63	40100	Avenue Saint-Vincent de Paul	
+node	5279948598	43.6913278	-1.0492963	Crok' Maïs				restaurant		40100	Route de la Parcelle	
+node	5679773683	43.7134502	-1.0557456	Le Rive Droite				bar		40100	Place Maréchal Joffre	
+node	5823546742	43.7085591	-1.0489087	Pad Thaï				restaurant	22	40100	Avenue Georges Clemenceau	
+node	5823546743	43.7085300	-1.0479498	Pizzeria restaurant San Pietro				restaurant	29		Avenue Georges Clemenceau	
+node	5985065534	43.7111057	-1.0531707	L'Atmosphère				bar				
+node	5985065535	43.7107029	-1.0528636	Le Bouillon des garçons				restaurant	32-34		Place de la Fontaine Chaude	
+node	5985065536	43.7109690	-1.0532150	O'corner				bar				
+node	6982919841	43.7088143	-1.0508903	L'Osasuna				nightclub	28	40100	Rue Saint-Pierre	
+node	7054877333	43.7108605	-1.0598548	O'Bistrot Baignot				restaurant	29	40100	Avenue Eugène Milliès-Lacroix	
+node	7141496011	43.7081088	-1.0561500	Bar des 3 Pigeons				bar				
+node	7141496019	43.7080278	-1.0564135	Skiya				restaurant	10	40100	Rue Gambetta	
+node	7147074036	43.7107819	-1.0556129	Les Tarbelles				restaurant	1	40100	Cours Maréchal Foch	
+node	7147074047	43.7099938	-1.0557792	La Scuderia				restaurant	38	40100	Cours Maréchal Foch	
+node	7147074061	43.7092745	-1.0557872	Chez Babeth				restaurant	2		Place Camille Bouvet	
+node	7245602868	43.7162060	-1.0535637	Ô Bixtrot				restaurant	74	40100	Avenue Saint-Vincent de Paul	
+node	7245602869	43.7162763	-1.0535462	Le Sablar				bar				
+node	7801935277	43.7107245	-1.0562492	Garden				bar				
+node	7804561679	43.7106278	-1.0518940	La Trattoria di Davide				restaurant	6	40100	Esplanade du Général de Gaulle	
+node	7804561680	43.7106569	-1.0520757	Dixit Bar				restaurant	6	40100	Esplanade du Général de Gaulle	
+node	7804561681	43.7106850	-1.0522554	Secreto				restaurant	2	40100	Esplanade du Général de Gaulle	
+node	7804584588	43.7109138	-1.0543522	Basque				bar				
+node	7820984732	43.7071846	-1.0525341	Hanayuki				restaurant	48	40100	Avenue Victor Hugo	
+node	7820984764	43.7086759	-1.0494719	La nouvelle				restaurant	8	40100	Avenue Georges Clemenceau	
+node	8044013463	43.7094525	-1.0553485	Le Crunch				restaurant	17		Cours Maréchal Foch	
+node	8342489831	43.7205556	-1.0498354	Relay Gare de Dax				cafe		40100	Avenue de la Gare	
+node	8358241431	43.7087418	-1.0627162	Le Borda				restaurant	26	40100	Rue des Lazaristes	
+node	8358241433	43.7089649	-1.0631296	La Couscousserie				restaurant	28	40100	Rue des Lazaristes	
+node	8358241434	43.7149220	-1.0488439	Le bouche à oreille				restaurant	1	40100	Boulevard Albert Camus	
+node	8358241435	43.7137984	-1.0481050	Crêperie d'Y				restaurant	2	40100	Avenue de Logroño	
+node	8361694442	43.7109967	-1.0534678	Sakura				restaurant	13	40100	Rue de la Fontaine Chaude	
+node	8361694454	43.7100597	-1.0529830	Chez Marie-Paule				cafe	13	40100	Place du Mirailh	
+node	8361694456	43.7098741	-1.0528911	La Guitoune				restaurant	14	40100	Place du Mirailh	
+node	8408853106	43.7049720	-1.0524874	Le Ramuntcho				restaurant	33		Avenue Victor Hugo	
+node	8434544303	43.7023100	-1.0580500	Bar Brasserie Jean Le Bon				restaurant	14		Rue Jean le Bon	
+node	8575079196	43.7104601	-1.0504503	Le Duplex				nightclub		40100	Cours Pasteur	
+node	8575215589	43.7068247	-1.0521428	Le Rich club				nightclub		40100	Rue Saint-Eutrope	
+node	8575259906	43.7164944	-1.0574632	La guinguette				bar	19	40100	Avenue Jules Bastiat	
+node	8998283362	43.7077221	-1.0551402	Chez nous				pub	8		Cours Gallieni	
+node	9355760428	43.7074907	-1.0528629	Mojo Café				restaurant	10	40100	Rue de l'Évêché	
+node	9556815791	43.7056565	-1.0345870	Le Toky				restaurant	44	40100	Route de Montfort	
+node	9560473783	43.7092668	-1.0412201	Cafétéria le Challenge				restaurant	7		Rue Gaston Phoebus	
+node	9560473785	43.7096376	-1.0423654	L'Urjenc'Bar				bar				
+node	10182145317	43.7095488	-1.0545741	French Coffee Shop				cafe	36	40100	Rue Neuve	
+node	10581653253	43.6966731	-1.0527476	Bar Tabac de la Torte				bar				
+node	10804781364	43.7155722	-1.0570355	O grill Lusitano				restaurant	12	40100	Avenue du Sablar	
+node	11056461610	43.7071403	-1.0532014	Complices				restaurant	44	40100	Cours Gallieni	
+node	11056764440	43.7072361	-1.0530244	O'mulligan				bar	46	40100	Cours Gallieni	
+node	11083839234	43.7113311	-1.0511021	La cuisine				restaurant	2	40100	Place de la Course	
+node	11806856638	43.7100539	-1.0529708	Chez Marie-Paule				restaurant	13	40100	Place du Mirailh	
+node	11813754151	43.7083849	-1.0562220	El Meson				restaurant	18	40100	Place Camille Bouvet	
+node	11876197767	43.7109726	-1.0532641	Les cookies de Mathilde				cafe	19	40100	Rue de la Fontaine Chaude	
+node	11893683852	43.7086448	-1.0483462	Lou caçairot				restaurant	19		Avenue Georges Clemenceau	
+node	12014950227	43.7083687	-1.0497533	La table de maman				restaurant	70		Cours du Maréchal Joffre	
+node	12032971111	43.7091811	-1.0558355	La fabrique cuisine libre				restaurant	2		Place Camille Bouvet	
+node	12095512861	43.7015096	-1.0635234	Ch & Mel				restaurant	11		Route de Tercis	
+node	12126060460	43.7108323	-1.0541189	Gaia				restaurant	5		Rue des Carmes	
+node	12126082104	43.7105759	-1.0516902	Maison Bonheur				restaurant			Esplanade du Général de Gaulle	
+node	12196591624	43.7094422	-1.0532242	Oste				restaurant	9		Rue de Borda	
+node	12196934568	43.7105632	-1.0515684	Chez Mélissa - Bar à huitres				restaurant			Esplanade du Général de Gaulle	
+node	12211137927	43.7100719	-1.0535938	Pachamama				bar				
+node	12234402556	43.7199838	-1.0506367	Maméta Coffee				cafe		40100	Avenue de la Gare	
+node	12486354939	43.7095349	-1.0538680	Le Valmont				restaurant	43	40100	Rue des Carmes	
+node	12514007009	43.7115092	-1.0548667	Le Splendid				restaurant	2	40100	Cours de Verdun	
+node	12556052139	43.7093226	-1.0545204	Le Bistrot des Vignes				restaurant	40	40100	Rue Neuve	
+node	12565934601	43.7107379	-1.0542409	Brew Social Club				bar		40100		
+node	13096361110	43.7109046	-1.0538082	O'tardif				restaurant	4		Rue de la Fontaine Chaude	
+node	13127770882	43.7089528	-1.0530970	Tea apo				cafe	23		Rue Saint-Vincent	
+node	13285312871	43.7089278	-1.0492077	Le grand siècle				restaurant			Place Saint-Pierre	
+node	13285363506	43.7104944	-1.0542070	Le texan				bar	14		Rue des Carmes	
+node	13321742805	43.7091476	-1.0523810	Fu Yuan				restaurant	35		Rue Cazade	
+node	13443133162	43.7145392	-1.0584654	Restaurant d'application du CFA				restaurant				
+node	13569624722	43.7091013	-1.0552712	La cantoche en ville				restaurant				
+node	13950866998	43.6935239	-1.0332304	Brasserie				restaurant	36	40100	Rue Pascal Lafitte	
+node	14325061337	43.7144351	-1.0541991	Di sebastiano				restaurant	28		Avenue Saint-Vincent de Paul	
+node	14325106196	43.7097045	-1.0531625	Cosi Dax				restaurant	5		Rue de Borda	
+way	146758457	43.7043570	-1.0389525	Le Comptoir de la Bière				bar				
+way	1010046970	43.7079151	-1.0536774	Charlie & Penny				restaurant			Place Roger Ducos	
+way	1010046981	43.7081807	-1.0535802	Ô Marcat				restaurant		40100	Place Roger Ducos	
+way	1010046989	43.7080263	-1.0539673	Chez Thi Hoa				restaurant			Place Roger Ducos	
+way	1010046993	43.7081893	-1.0540889	L'expériment'halle				pub	2	40100	Place Roger Ducos	
+relation	1379852			Duhort-Bachen	8	40800	40091					
+node	9917715901	43.7249863	-0.3237915	Les Arcades				restaurant				
+relation	74498			Escalans	8	40310	40093					
+way	482473561	43.9792043	0.0422388	Les Tilleuls				restaurant	2602	40310	Route de Castelnau	
+relation	1552437			Escource	8	40210	40094					
+node	8452738468	44.1642314	-1.0343185	Le plaisir des mets				restaurant				
+node	11960999793	44.1463862	-0.9723978	La Table d'Escource				restaurant				
+node	11960999794	44.1464539	-0.9657709	Cap de Pin				restaurant	16	40210	Ancienne Route N10	
+relation	117282			Eugénie-les-Bains	8	40320	40097					
+node	6702978887	43.6961169	-0.3803019	Les Prés d’Eugénie - Maison Guérard				restaurant	334	40320	Rue René Vielle	
+node	7966469796	43.6958136	-0.3784366	Mère Poule & Co				cafe	113	40320	Rue René Vielle	
+node	8021887732	43.6968174	-0.3771256	Chez Léonie				restaurant	113	40320	Rue René Vielle	
+node	8021921921	43.7005949	-0.3816773	La table de Nicolas				restaurant	475	40320	Route de Nicolas	
+way	394407019	43.6978751	-0.3781635	L'Auberge de la Ferme aux Grives				restaurant	334	40320	Rue René Vielle	
+way	394407071	43.6965905	-0.3777161	Maison Madeline				cafe	156 bis	40320	Rue René Vielle	
+relation	74505			Gabarret	8	40310	40102					
+way	181362287	43.9861866	0.0104895	L'Alegria Bistrot				restaurant	102	40310	Boulevard Saint-Martin	
+relation	164055			Gaillères	8	40090	40103					
+node	4453613111	43.9412525	-0.3726245	Au coeur des Landes				restaurant				
+node	4453615773	43.9412684	-0.3726231	Au Coeur des Landes				cafe				
+relation	1377356			Gamarde-les-Bains	8	40380	40104					
+node	4596291401	43.7325310	-0.8739406	Barth'jo				restaurant				
+node	4596336189	43.7326417	-0.8734558	L'Auberge				restaurant	380		Abbé Bordes	
+way	141602819	43.7224400	-0.8819690	Le Noy				bar				
+relation	1782749			Garein	8	40420	40105					
+node	5098134525	44.0462687	-0.6519594	Auberge Chez Suzon				restaurant		40420		
+node	11947814364	44.0468876	-0.6526835	Cercle des associations				cafe				
+node	11978555267	44.0469171	-0.6522921	La Pizz'				restaurant				
+relation	76254			Gastes	8	40160	40108					
+node	3449468609	44.3286071	-1.1473752	Restaurant/Bar le Chalet				restaurant	357		Avenue du Lac	
+node	5646554894	44.3293968	-1.1456606	La Paillotte				restaurant	657	40160	Avenue du Lac	
+node	9748729478	44.3185047	-1.1376463	Le Petit Gast'in				restaurant	193		Rue de Bernadon	
+way	303353300	44.3128041	-1.1700408	Bar La Luna				bar				
+way	643198192	44.3133316	-1.1700892	Sol y Sombre				restaurant	1229		Avenue Félix Ducournau	
+way	1275205460	44.3153643	-1.1760684	Bar de la Plage				bar				
+way	1275205466	44.3140784	-1.1724067	Bar l'Airial				bar				
+relation	117258			Geaune	8	40320	40110					
+node	3869752465	43.6407173	-0.3783479	Chai Augustins				bar				
+node	10220253704	43.6401202	-0.3778045	Thai Landes				restaurant	58		Place de l'Hôtel de Ville	
+way	412433447	43.6402610	-0.3787875	Le Bistrot du Coin				restaurant	32		Place de l'Hôtel de Ville	
+relation	123653			Geloux	8	40090	40111					
+node	5129348500	43.9810539	-0.6385909	L'Oustaou				restaurant				
+relation	117264			Grenade-sur-l'Adour	8	40270	40117					
+node	2098517085	43.7723704	-0.4279646	Le Faiplay				bar		40270	Place des Tilleuls	
+node	2098517143	43.7726367	-0.4287719	Aux trois petits cochons				restaurant	6	40270	Place des Tilleuls	
+node	2098705008	43.7729495	-0.4296304	Chez Gilles				restaurant	12	40270	Rue René Vielle	
+way	382268215	43.7738545	-0.4327924	Le Sicilia				restaurant	1	40270	Avenue de Mont-de-Marsan	
+relation	76061			Habas	8	40290	40118					
+node	13612191818	43.5707679	-0.9316574	Pizza entre amis				restaurant	22	40290	Rue du Lavoir	
+way	251855220	43.5716705	-0.9305110	J and J's				restaurant	230	40290	Rue Centrale	
+way	251857141	43.5716746	-0.9310934	QG				restaurant	79	40290	Rue des Fossés	
+relation	76109			Hagetmau	8	40700	40119					
+node	1519900868	43.6383354	-0.6326062	Les Lacs d'Halco				restaurant			Route de Cazalis	
+node	5295268744	43.6555451	-0.5916850	Bar de la rotonde				bar				
+node	5295270547	43.6554631	-0.5917588	Le Mekong				restaurant	78		Rue Victor Hugo	
+node	10950124921	43.6553131	-0.5925940	Chez Pierre				bar			Place de la République	
+node	11025080507	43.6571397	-0.5917467	L'Auberge du conte				restaurant	406		Rue Carnot	
+node	11025146739	43.6545701	-0.5937080	Molly Malone				bar	30		Rue Pascal Duprat	
+node	11173808030	43.6544723	-0.5933243	Le Bistrot du Chat Botté				restaurant			Place Pascal Duprat	
+node	11173816669	43.6566420	-0.5946393	Pizzeria Amalfi				restaurant	41		Rue Saint-Girons	
+node	11173827281	43.6548361	-0.5941376	Le Relais Basque				restaurant	3		Rue Pascal Duprat	
+node	11174424090	43.6555012	-0.5928646	La Concha				bar	32		Rue Gambetta	
+node	11174460025	43.6542113	-0.5939920	Bla Bla Bar				restaurant	70		Place Pascal Duprat	
+way	184585630	43.6519421	-0.5912411	Bar associatif				bar				
+way	184591652	43.6457260	-0.6063405	La crémaillère				restaurant	616		Avenue du Trace	
+way	184598980	43.6558960	-0.5924700	Hotel-Restaurant Le Jambon				restaurant	245		Rue Carnot	
+relation	76044			Hastingues	8	40300	40120					
+node	13041591534	43.5346262	-1.1492240	Le jardin du Carcoilh				restaurant				
+relation	75954			Haut-Mauco	8	40280	40122					
+node	9943589948	43.8253837	-0.5543138	Bar l'embuscade				pub				
+relation	75877			Herm	8	40990	40123					
+node	12397579560	43.8061077	-1.1436248	Café de la Poste				cafe	165	40990	Rue Jean Laboirie	
+relation	76064			Heugas	8	40180	40125					
+node	11904408614	43.6436384	-1.0789983	L'antre potes				restaurant	14		Place de la Gelouze	
+relation	965069			Hinx	8	40180	40126					
+node	8479798745	43.7017099	-0.9274995	Restaurant Au Ferléo				restaurant				
+relation	76191			Hontanx	8	40190	40127					
+node	12849666474	43.8015262	-0.2889210	L'Etable				restaurant				
+relation	117253			Horsarrieu	8	40700	40128					
+node	11896483269	43.6830416	-0.5974802	Chez Milou				bar				
+relation	116818			Josse	8	40230	40129					
+node	9026886777	43.6298684	-1.2269565	La Guinguette				restaurant				
+node	9838721858	43.6408711	-1.2247325	Le P'tit Josse				restaurant				
+relation	1379935			Labastide-d'Armagnac	8	40240	40131					
+node	3451696252	43.9697987	-0.1859381	Sucre Paille				restaurant	15	40240	Place Royale	
+node	5017072083	43.9701522	-0.1858563	Pizzeria Giulietta				restaurant	31	40240	Place Royale	
+node	7783815285	43.9701375	-0.1859174	Au Bastignac				restaurant	29	40240	Place Royale	
+node	8394196784	43.9696163	-0.1875990	Hotel-Restaurant Au Relais Gascon				restaurant				
+relation	75977			Labenne	8	40530	40133					
+node	1878043358	43.5874086	-1.4289070	Le Lux				restaurant		40530		
+node	1881093480	43.5993083	-1.4720291	La Casa Restaurant				restaurant		40530	Esplanade François Mitterrand-Parking de la plage	
+node	1881093485	43.5993665	-1.4721939	Le K'osy				restaurant		40530	Esplanade François Mitterand	
+node	4889419623	43.5961866	-1.4634182	Côté Sud-Ouest				restaurant	29		Avenue de la Plage	
+node	4889438724	43.5958546	-1.4642857	Ave Carlo				restaurant	26	40530	Avenue de la Plage	
+node	4889438725	43.5965639	-1.4611267	El Barrio				restaurant	45		Avenue de la Plage	
+node	4965701013	43.5958479	-1.4627432	Le Pub La Mer				restaurant		40530	Camping de la Mer	
+node	6631450987	43.5870165	-1.4293765	Quai Bar				restaurant				
+node	9643435255	43.5944723	-1.4252762	Les Affranchis				restaurant	97	40530	Avenue Charles de Gaulle	
+node	9819263901	43.5951879	-1.4569691	L’Escale				restaurant	81 bis		Rue Félix Arnaudin	
+node	9819285023	43.5962596	-1.4597282	Café Atlantico				restaurant	55		Avenue de la Plage	
+node	9835675575	43.5940030	-1.4250015	Sushi San				restaurant		40530		
+node	9837968303	43.5901522	-1.4281624	La Fabrik				bar				
+node	9839073278	43.5957655	-1.4240223	Restaurant Chez Leonie				restaurant	86		Avenue Charles de Gaulle	
+node	11958771004	43.5887887	-1.4282316	Station 810				restaurant		40530		
+node	12696907842	43.5993127	-1.4720139	La Casa Bar				bar		40530	Esplanade François Mitterrand-Parking de la plage	
+node	12696944759	43.6025319	-1.4569939	Le Vélo Bleu				restaurant	51	40530	Avenue de l'Océan	
+relation	75966			Labouheyre	8	40210	40134					
+node	2318325134	44.2123813	-0.9182301	Café des Sports				cafe	150	40210	Rue de la Coopérative	
+node	2318325175	44.2129630	-0.9198500	Le 28 - Bar ambiance				bar	28	40210	Rue François Albor	
+node	6060722583	44.2128315	-0.9204639	Royal Jin				restaurant				
+node	6445200785	44.2125606	-0.9201830	L'aubergade				restaurant				
+node	11978555268	44.2136036	-0.9209997	Vignes and Co				restaurant	143	40210	Rue Pierre et Marie Curie	
+node	12646082032	44.2135397	-0.9170381	Restaurant municipal du Foirail				restaurant	250	40210	Rue Marc Mougnères	
+way	222888883	44.2121686	-0.9206665	Hôtel Restaurant Brémontier				restaurant	110		Rue des Hauts Fourneaux	
+relation	1966994			Labrit	8	40420	40135					
+node	11947850975	44.1044490	-0.5446588	Cercle des démocrates				cafe		40420	au bourg	
+node	12652703164	44.1042453	-0.5444631	Carrément Citoyen				cafe	51	40420	Chemin des Plantons	
+way	316288829	44.1040315	-0.5455905	Cercle des Démocrates				cafe	64	40420	Route de Mont-de-Marsan	
+relation	1379915			Lacquy	8	40120	40137					
+node	13399562995	43.9612807	-0.3147521	Guinguette à Hector				restaurant		40120	Route de Pillelardit	
+relation	164052			Laglorieuse	8	40090	40139					
+node	618258508	43.8675811	-0.4063604	Le Corto Maltèse				pub		40090		
+relation	75874			Laluque	8	40465	40142					
+node	7741029885	43.8536915	-0.9925842	Chez Flo				restaurant	125		Avenue Saint-Jean	
+relation	1376245			Larbey	8	40250	40144					
+node	4019566146	43.7046121	-0.7219975	Café Boissec				cafe				
+node	12348531864	43.7048581	-0.7221889	Bar Chez Marcelle				bar				
+relation	1379858			Lencouacq	8	40120	40149					
+node	5129348499	44.0989754	-0.4057428	Rest'au Cercle				restaurant				
+relation	75858			Léon	8	40550	40150					
+node	1319481022	43.8749267	-1.3027834	Le Pignon				restaurant				
+node	1319481039	43.8755116	-1.3029439	Le Fair Play				restaurant	27	40550	Grand Rue	
+node	1319481053	43.8753236	-1.3023294	Brasserie Du Marché				restaurant	1	40550	Place du Docteur Dufau	
+node	1846525353	43.8865688	-1.3183855	Lou Pescaire				restaurant	225		Rue des Berges du Lac	
+node	3699923265	43.8783216	-1.3020478	Léontine				restaurant	108		Avenue du Marensin	
+node	4454681390	43.8752440	-1.3022420	Bar du Commerce				bar				
+node	10816942534	43.8832215	-1.3097377	Couleur Terroir				restaurant	820	40550	Avenue du Lac	
+relation	75904			Lesgor	8	40400	40151					
+node	8460557187	43.8532917	-0.9008767	Cercle Lou Carriou				bar				
+relation	1373254			Lesperon	8	40260	40152					
+way	488246687	43.9698298	-1.0934780	Café du Centre				cafe				
+relation	75871			Linxe	8	40260	40155					
+node	4825530052	43.9208174	-1.2468525	Land's Pizzas				restaurant				
+node	7410310175	43.9201212	-1.2464665	Hôtel du centre				restaurant	2	40260	Place du Commerce	
+relation	2114472			Liposthey	8	40410	40156					
+way	477520795	44.3133841	-0.8808811	Les Routiers La Fringale du Routier				restaurant				
+relation	76233			Lit-et-Mixe	8	40170	40157					
+node	1308097457	44.0317764	-1.2559849	La Trattoria				restaurant	44	40170	Rue de Cacheliron	
+node	1401358304	43.9926026	-1.2726801	L'Estanquet				restaurant	37	40170	Route de Gemié	
+node	2327884672	44.0325095	-1.2567706	Le Fin Bistro				restaurant				
+node	2327885446	44.0321461	-1.2566994	Le Drakkar				bar				
+node	2328412926	44.0291865	-1.2580836	Berdoulet Frères				restaurant				
+node	2907653774	44.0320015	-1.2567908	Au Rendez-Vous				restaurant				
+node	4311527357	44.0379502	-1.3375022	Chez René et Fils				restaurant				
+node	4681660790	44.0326488	-1.2570560	L'ilot bleu				restaurant				
+node	12608524616	44.0309396	-1.2570821	Le Glassy				restaurant	131	40170	Avenue du Marensin	
+way	126505739	44.0380124	-1.3377563	Lou Pescayre				restaurant	35	40170	Rue de la Chapelle	
+relation	74503			Losse	8	40240	40158					
+way	362730087	44.1090019	-0.1060727	La Côte à Losse				restaurant	6		Route de Lussolle	
+relation	1376215			Lourquen	8	40250	40160					
+way	143588763	43.7331388	-0.7915241	Restaurant Les Chênes				restaurant				
+relation	74502			Lubbon	8	40240	40161					
+node	3541794942	44.1050402	-0.0128483	Au Bon Coin				restaurant				
+relation	75969			Lüe	8	40210	40163					
+node	12064598161	44.2310236	-0.9855416	Auberge Landaise				restaurant				
+relation	2169366			Luxey	8	40430	40167					
+node	1871903925	44.2638786	-0.5195320	Cercle de l'Union				restaurant	11	40430	Place Saint-Roch	
+node	6522572727	44.2625839	-0.5206929	La Guinguette and Co				restaurant				
+node	11978568170	44.2637761	-0.5230713	L'Estanquet				restaurant				
+relation	75864			Magescq	8	40140	40168					
+node	2406152691	43.7807883	-1.2173216	Hôtel de la paix				restaurant				
+node	3261293527	43.7903413	-1.2110859	Le Cabanon				restaurant				
+node	6111000614	43.7781532	-1.2184902	Auberge Côté Quillier				restaurant				
+node	6111000616	43.7787322	-1.2180152	Relais de la Poste - Maison Coussau				restaurant				
+relation	1966747			Maillères	8	40120	40170					
+node	8911550603	44.0292430	-0.4433972	L'Auberge de Maillères				restaurant				
+relation	75884			Mées	8	40990	40179					
+node	11374179190	43.7168200	-1.1252220	La Ruche				restaurant	324		Rue du Marensin	
+way	381136884	43.7012815	-1.1098140	Le Virage				bar				
+relation	75922			Meilhan	8	40400	40180					
+node	5370746526	43.8635267	-0.7062572	Le Bistrot				restaurant	196		Rue Félix Robert	
+node	12853298740	43.8635282	-0.7062872	Le bistro				pub				
+relation	75854			Messanges	8	40660	40181					
+node	3052254632	43.7966903	-1.3888460	Martoni Pizza				restaurant	101	40660	Chem. du Pey de l’Ancre	
+node	9642609050	43.7977118	-1.3890905	Le Local				restaurant	2150	40660	Route des Lacs	
+node	9642660209	43.8159723	-1.4045701	La plage				restaurant		40660	Avenue de l'Océan	
+node	9642697306	43.8156796	-1.3784754	Mamasè				restaurant	5	40660	Route de la Côte d'Argent	
+node	9748643068	43.8153520	-1.3792654	La Hitillère				restaurant		40660	Avenue de l'Océan	
+node	9749120183	43.8152304	-1.3778840	Pizzeria le Grillon				restaurant		40660	Rond point du Bourg	
+node	9749312251	43.7951889	-1.3896956	Chez Kikine				restaurant	2447	40660	Route des Lacs	
+node	9757348680	43.7979343	-1.4004834	Bar restaurant du Vieux Port				restaurant				
+node	9757368129	43.8160164	-1.3915106	Le Bikini				restaurant				
+node	9757376591	43.7972634	-1.3822570	Lou Pignada				restaurant				
+node	12059005250	43.8110362	-1.3712061	Le bistrot de la gare				restaurant	126	40660	Impasse de la Gare	
+node	12684812782	43.7966061	-1.3953908	La coccinelle				restaurant	375	40660	Route de la Plage Sud	
+node	12684846564	43.8155024	-1.3790537	Good life café				cafe	3	40660	Rue de la Courtille	
+node	12684886963	43.8156413	-1.3784683	Bar tabac FDJ Le mamasè				bar	5	40660	Route de la Côte d'Argent	
+node	12985755782	43.8145465	-1.3787317	Le Trio				restaurant	1	40660		Place de la Mairie
+relation	123662			Mézos	8	40170	40182					
+node	10723712687	44.0762124	-1.1677838	Kebra Surfing				bar		40170	Avenue de l'Océan	
+node	12471522281	44.0756150	-1.1674623	La Table des Pins				restaurant	2	40170	Avenue de l'Océan	
+way	932782272	44.0832354	-1.1577656	La Cantine du Grenier				restaurant		40170	Rue des Artisans	
+relation	1967266			Mimbaste	8	40350	40183					
+node	11026521545	43.6478764	-0.9737487	MYMY épice & TOUT				cafe	40 place de l'église	40350		
+relation	76252			Mimizan	8	40200	40184					
+node	1331103374	44.2042268	-1.2805149	Hôtel L'Emeraude des Bois				restaurant	66-68		Avenue du Courant	
+node	1707480018	44.2156273	-1.2972333	A Noste				restaurant				
+node	1707480382	44.2156350	-1.2974331	A Noste				bar				
+node	1708061771	44.2025452	-1.2299443	Le Vauclain				restaurant				
+node	2979724533	44.2140490	-1.2960520	Le Bistrot de la Mer				restaurant				
+node	2979730133	44.2143110	-1.2960180	Lolly & Cup				cafe				
+node	2979733033	44.2140200	-1.2972770	Keny's bar				restaurant				
+node	2979733133	44.2144590	-1.2971370	Le Garage Toqué				restaurant				
+node	5009850047	44.1819881	-1.1819062	Restaurant l'Adishatz				restaurant				
+node	5009850049	44.2142016	-1.2344546	Restaurant La Taverne				restaurant				
+node	5009850050	44.2005076	-1.2298869	Pizzeria le Motu				restaurant		40200	Avenue de Bayonne	
+node	5009850056	44.2092039	-1.2925610	Oyabun				restaurant	16		Avenue du Courant	
+node	6073701511	44.2123640	-1.2815048	Restaurant du Casino				restaurant				
+node	6073701512	44.2125977	-1.2815005	Bar du Casino				bar				
+node	6504682678	44.2137829	-1.2961269	Halte Marine				restaurant				
+node	7798105485	44.2118220	-1.2961894	O Courant				restaurant				
+node	7844293385	44.2142672	-1.2980089	Chill House				bar				
+node	8310682354	44.2137478	-1.2950733	Le Surf Café				bar				
+node	8337843069	44.2137081	-1.2943656	Casa Italia				restaurant				
+node	8337866750	44.2116657	-1.2951457	Le Repair				restaurant	3	40200	Rue du Pont	
+node	8338552067	44.2134657	-1.2959316	Le Wiz				restaurant	12	40200	Rue Brémontier	
+node	8338843112	44.2146951	-1.2938670	Le VIP				bar				
+node	8338843113	44.2146202	-1.2942694	L'Ile de Malte				restaurant				
+node	8338843114	44.2143606	-1.2943190	L'Orchestra				bar				
+node	8338843115	44.2144587	-1.2949225	Le Pit				restaurant				
+node	8338843116	44.2144798	-1.2947696	Le Spot				restaurant				
+node	8338883785	44.2135729	-1.2938155	Chez Loan				restaurant			Avenue Maurice Martin	
+node	8338957570	44.2133965	-1.2939821	Bar à Huitres				restaurant	58	40200	Place du Marché	Place du Marché
+node	8338957571	44.2133120	-1.2940398	Millenium				bar				
+node	8338957572	44.2132062	-1.2941041	Bar à Bières Bock Trotter				bar				
+node	8338957573	44.2133965	-1.2948967	L'Acaï Bowl				restaurant				
+node	9513153610	44.2148522	-1.2970566	Restaurant Sable et Embruns				restaurant	8	40200	Avenue de la Côte d'Argent	
+node	9992841554	44.2031339	-1.2910697	La villa cisneros				restaurant				
+node	9997674361	44.2055857	-1.2997076	La Sud				restaurant				
+node	10201518907	44.2128832	-1.2943509	L'Imprévu				restaurant	8		Rue du Pont	Place du Marché
+node	11039737066	44.2026465	-1.2306285	Il Gatto Verde				restaurant				
+node	11047814764	44.2143416	-1.2939049	Pastachoute & L'épicerie				restaurant				
+node	11846075630	44.2072367	-1.2896272	Restaurant La Palangre				restaurant				
+node	12061258121	44.2131158	-1.2942254	La Table de Sammy				restaurant				
+node	12061258123	44.2129763	-1.2943045	Cayok Café				cafe				
+node	12061420363	44.2135630	-1.2946857	Les Pieds dans le Plat				restaurant				
+node	12063300822	44.2146245	-1.2971200	Le 6				bar				
+node	12066674347	44.2143921	-1.2942310	Little Asian				restaurant				
+node	12066679735	44.2143526	-1.2944643	Le French Cock				restaurant				
+node	12066771643	44.2143312	-1.2945952	CRUDO				restaurant				
+node	12066774068	44.2136642	-1.2948279	Gia Yen				restaurant				
+node	12071223393	44.2142004	-1.2948786	La Dérive				restaurant				
+node	12071570561	44.2142826	-1.2939316	L'Olivier				restaurant				
+node	12073853701	44.2139716	-1.2937452	Shaka Bar				restaurant				
+node	12681103283	44.2041596	-1.2284138	Bodéga des Ormes				bar				
+node	13051759508	44.2037517	-1.2263943	Pizza Don Juan				restaurant				
+node	13051854333	44.2027858	-1.2293760	La Billig Enchantée				restaurant				
+node	13051854334	44.2027904	-1.2296523	Bonici				restaurant				
+node	13098741501	44.2155646	-1.2941905	Chez Abdou				restaurant			Rue de la Chapelle	
+node	13136326412	44.2100820	-1.2952133	L'authentique				restaurant				
+node	14077131501	44.2033614	-1.2283112	Bracci				restaurant	6	40200	Place des Ormes	
+way	227504722	44.2034752	-1.2274486	Restaurant Brasserie Le Shamrock				restaurant	13	40200	Avenue de Bordeaux	
+way	227510691	44.2136043	-1.2962224	Bar American				nightclub				
+way	227510693	44.2139219	-1.2956930	Pili Pili				bar				
+way	227516859	44.2197528	-1.2295665	Snack				restaurant				
+way	227519294	44.2168735	-1.2863220	Bar Snack Restaurant				restaurant				
+relation	76140			Miramont-Sensacq	8	40320	40185					
+node	9776620123	43.5951529	-0.3274027	La Maison d'Albert				cafe	270	40320	Rue du Bourg	
+relation	75855			Moliets-et-Maâ	8	40660	40187					
+node	1389784912	43.8482304	-1.3863771	La table de l’open				restaurant				
+node	1718570281	43.8513624	-1.3865901	Le Meltin' Restaurant Bar Tapas				restaurant	2655	40660	Avenue de l'Océan	
+node	1718570288	43.8512906	-1.3860614	La fabrique				restaurant		40660	Avenue de l'Océan	
+node	1718570297	43.8526521	-1.3900732	Café la Plage				restaurant		40660	Place de la Balise	
+node	1718570342	43.8510793	-1.3852192	Le Transat				restaurant				
+node	1718570488	43.8523530	-1.3880191	La Cave aux Moules				restaurant		40660	Avenue de l'Océan	
+node	1718570503	43.8526502	-1.3902744	Maâ guinguette				restaurant		40660	Place de la Balise	
+node	1718570519	43.8524435	-1.3891955	Le grill de l'Océan				restaurant				
+node	1719632014	43.8512533	-1.3858253	Le champoreau				restaurant		40660	Avenue de l'Océan	
+node	1720707243	43.8527137	-1.3875484	L'endroit				restaurant				
+node	2111332654	43.8476007	-1.3581596	TI'BOU				restaurant	14	40660	Rue Général de Gaulle	
+node	5062236926	43.8482707	-1.3858989	Un singe en hiver				restaurant				
+node	5062670675	43.8482011	-1.3862846	Globe Trotter				restaurant				
+node	5062670676	43.8481572	-1.3862137	Chez Pierre				restaurant				
+node	5831730117	43.8483841	-1.3865948	L'Open Café				bar				
+node	8294094469	43.8455353	-1.3602438	Le Chill				restaurant		40660	Avenue des Lacs	
+node	9642733254	43.8488030	-1.3594682	Bar à planches et à cocktails Le 5/5				bar	2	40660	Place de l'Hôtel de Ville	
+node	9642812131	43.8513648	-1.3863729	Le Crust				restaurant		40660	Avenue de l'Océan	
+node	9642838685	43.8528077	-1.3899578	La baïne à vins				bar	9	40660	Place de la Balise	
+node	9642840293	43.8508770	-1.3853742	Le traqu'nard				restaurant	19-20	40660	Rue de la Bastide	
+node	9643159233	43.8469839	-1.3771595	Le 28 ème				restaurant		40660	Rue Mathieu Desbieys	
+node	9748490442	43.8483256	-1.3858234	Le Paxika				restaurant		40660	Place de la bastide	
+node	9749323351	43.8512417	-1.3854783	La cagette				restaurant				
+node	9749343555	43.8507846	-1.3854941	Le zoo bar				bar				
+node	9791934973	43.8513624	-1.3863021	AmaZone café				cafe			Avenue de l'Océan	
+node	9791962828	43.8512287	-1.3853839	Maâbanana				cafe				
+node	9791967789	43.8507687	-1.3855162	Zoo Bar				pub				
+relation	76096			Momuy	8	40700	40188					
+node	10950124925	43.6144195	-0.6357848	Chez Dourthous				restaurant	49		Route d'Orthez	
+relation	150319			Mont-de-Marsan	8	40000	40192					
+node	276749056	43.8903157	-0.5035090	Le Bistro de Marcel				restaurant	1	40000	Rue du Pont du Commerce	
+node	560837984	43.8891768	-0.4632370	Chez Zanchettin				restaurant		40000	Avenue de Villeneuve	
+node	562705725	43.8894218	-0.5045132	Trattoria Peppe				restaurant	10	40000	Rue du Maréchal Bosquet	
+node	562719693	43.8891524	-0.4632378	Zanchettin				cafe				
+node	566727092	43.8881435	-0.5001652	L'Osasuna				cafe				
+node	577924410	43.8913693	-0.5016011	La Régence				restaurant	1	40000	Rue Léon Gambetta	
+node	579257618	43.8920755	-0.5022842	Le Divan				restaurant	5bis	40000	Place Charles de Gaulle	
+node	579301234	43.8915653	-0.4994433	Le Donjon				restaurant	2	40000	Avenue Aristide Briand	
+node	580649787	43.8909766	-0.5014174	Le Grand Café				cafe		40000	Rue Léon Gambetta	
+node	580649811	43.8926443	-0.5015480	Café Brasserie Le Renoir				cafe		40000	Rue Laubaner	
+node	581057344	43.8894132	-0.4990472	Moon Bar				bar	37	40000	Allées Brouchet	
+node	581065065	43.8893461	-0.5045756	Chez Lili				restaurant	12bis	40000	Rue du Maréchal Bosquet	
+node	581074511	43.8894221	-0.5032691	Gandhi				restaurant		40000	Place Joseph Pancaut	
+node	581074527	43.8889727	-0.5002822	Le Béarn				bar		40000	Place Saint-Roch	
+node	581074528	43.8888518	-0.5001775	Le QG				bar		40000	Place Saint-Roch	
+node	581075746	43.8892039	-0.5016138	Restaurant Baramey				restaurant	1	40000	Rue Montluc	
+node	581709771	43.8884863	-0.4999823	El Txupinazo				restaurant	22	40000	Rue Montluc	
+node	581709778	43.8901464	-0.5013451	Le Central				cafe		40000	Rue Léon Gambetta	
+node	582600546	43.8886189	-0.5013119	La tireuse				bar	10bis		Rue Montluc	
+node	583296598	43.8967832	-0.4916734	Restaurant Administratif Bosquet				restaurant				
+node	584796752	43.8932338	-0.5056331	Atlas				restaurant				
+node	586466098	43.8877909	-0.5000708	Le Palais du Café				cafe				
+node	595698773	43.8897246	-0.5001994	Havana Café				cafe		40000	Rue du 4 Septembre	
+node	595698776	43.8891980	-0.4993830	Osmo				bar	2	40000	Place Saint-Roch	
+node	595698786	43.8936566	-0.4965266	Le Vincennes				bar	55	40000	Avenue du Maréchal Foch	
+node	602497630	43.8918998	-0.5021039	L'endroit				restaurant	3	40000	Place Charles de Gaulle	
+node	602497640	43.8926571	-0.5013074	SAIKO SUSHI				restaurant	6	40000	Rue Robert Wlérick	
+node	612931137	43.8901957	-0.5016773	Fait maison				cafe		40000	Rue Frédéric Bastiat	
+node	612931139	43.8902281	-0.5015173	La Casamance				restaurant	1	40000	Rue Frédéric Bastiat	
+node	634909666	43.8891062	-0.5028275	Le Bistrot				cafe		40000	Place Joseph Pancaut	
+node	643435163	43.8884784	-0.4995515	Chez Fabien Bar à fromages				restaurant	5	40000	Rue Léon des Landes	
+node	644753026	43.8894531	-0.4999414	Mojo				bar	22	40000	Place Saint-Roch	
+node	644753037	43.8894903	-0.4997526	Le Craft				bar	24	40000	Place Saint-Roch	
+node	654107541	43.8925127	-0.5024170	Ô Bouchon				restaurant	6	40000	Rue Dominique de Gourgues	
+node	658995574	43.8857242	-0.4945867	Le Shaad				restaurant				
+node	658995606	43.9007299	-0.4835931	Bières et Barbecue				restaurant	465	40000	Avenue du Maréchal Juin	
+node	658995610	43.8936688	-0.4833629	Le Basco Landais				restaurant				
+node	658995621	43.9041495	-0.4763406	Asie Gourmet				restaurant	1156	40000	Avenue du Maréchal Juin	
+node	668734784	43.8953597	-0.5116292	Lihour				restaurant				
+node	1012487978	43.8893572	-0.5042383	Le Cercle des Citoyens				cafe	7	40000	Rue du Maréchal Bosquet	
+node	1038034100	43.8976004	-0.4891100	La Chope				bar				
+node	1038037054	43.8978083	-0.4881808	Café de l'Octroi				cafe				
+node	1051193899	43.8900380	-0.5027152	La Parenthèse du Moun				restaurant		40000	Rue Frédéric Bastiat	
+node	1056093549	43.8889191	-0.5017689	Lou Bistroparc				restaurant	6	40000	Rue Cherche-Midi	
+node	1271022222	43.8895097	-0.5006272	Potcheen				pub		40000	Place Pitrac	
+node	1352431453	43.8916951	-0.5063657	Le Paradise				nightclub				
+node	1376919494	43.9010610	-0.5186380	Dragon De Jade				restaurant	65	40000	Avenue de Sabres	
+node	1402122546	43.8870266	-0.5129683	Les Clefs d'Argent				restaurant	333	40000	Avenue des Martyrs de La Résistance	
+node	1465218943	43.8899267	-0.5016754	L'Atelier à T				restaurant				
+node	2614685992	43.8898521	-0.5002054	La Cidrerie				restaurant		40000	Rue du 4 Septembre	
+node	2614686024	43.8887830	-0.5001591	Le QG				bar				
+node	2614726660	43.8894631	-0.4998614	D'Ici et d'Ailleurs				cafe		40000	Place Saint-Roch	
+node	2616103361	43.8874730	-0.5039903	Texas Blues Café				cafe				
+node	2617214010	43.8885386	-0.5001501	L'Usine				bar	35	40000	Rue Montluc	
+node	2623600960	43.9073415	-0.4588892	Le 12/14				restaurant				
+node	2625788422	43.8895723	-0.4976508	Joxabana				bar		40000	Allées Brouchet	
+node	3215938410	43.8895486	-0.5047041	Le Lavoir				restaurant				
+node	3968532076	43.8912816	-0.5035467	La Table Mirasol				restaurant	2	40000	Boulevard Ferdinand de Candau	
+node	3968582799	43.8904877	-0.5030906	La Parenthèse				restaurant	36		Rue Frédéric Bastiat	
+node	3968680853	43.8899469	-0.5010636	L'Atrium				bar	45	40000	Rue Léon Gambetta	
+node	3971279234	43.8911773	-0.4996831	Le timbré				bar		40000	Avenue Aristide Briand	
+node	4451825664	43.8904402	-0.5035456	La Guinguette de Marcel				restaurant	1	40000	Rue du Pont du Commerce	
+node	4695652394	43.8900324	-0.5036149	O'Green Oak				pub		40000	Place Joseph Pancaut	
+node	4924179995	43.8871860	-0.5009502	Maméta Bistro				restaurant	40	40000	Boulevard de la République	
+node	5005273251	43.8953875	-0.5108254	Pizza a tutti				restaurant				
+node	5720527521	43.8970800	-0.4801271	Brasserie du Padel				restaurant		40000	Chemin des Sports	
+node	7313069142	43.9094674	-0.4677404	Sakura				restaurant	2083	40000	Avenue du Maréchal Juin	
+node	9476278317	43.8899936	-0.5029158	Velours - Cave sans alcool				cafe	38	40000	Rue Frédéric Bastiat	
+node	10968745975	43.8858464	-0.5046851	Le Plumaçon				restaurant	20	40000	Rue du Plumaçon	
+node	11177271349	43.8958679	-0.5022104	Restaurant scolaire Duruy				restaurant				
+node	11396442069	43.9013969	-0.4805079	L'entr'potes				restaurant				
+node	11556118098	43.8901154	-0.5033642	poke				restaurant				
+node	12161938214	43.8895393	-0.4978593	Bar des Allées				bar		40000	Rue de la Croix Blanche	
+node	12471039863	43.8716582	-0.4632897	ADAPEI 40				restaurant	2800	40000	Avenue du Houga	
+node	12499075994	43.8898326	-0.5044573	CaféMusic				bar	4	40000	Cale de la Marine	
+node	12513926619	43.8916811	-0.4797435	Le Renaissance				restaurant	225	40000	Avenue de Villeneuve	
+node	12521023629	43.8912340	-0.5034385	Le Bistro 1912				restaurant	2	40000	Boulevard Ferdinand de Candau	
+node	13361780252	43.8921708	-0.5014186	New Afficion				bar	4		Rue Molière	
+node	13478953639	43.8936603	-0.4966000	Le patio d'Antoine				restaurant	55	40000		
+node	13566509643	43.8935098	-0.5003255	Restaurant administratif				restaurant		40000	Rue Maubec	
+node	13809247277	43.8917920	-0.5020598	Le bistro des Halles				restaurant	2	40000	Place Charles de Gaulle	
+node	13871851681	43.8876429	-0.5044305	Midi et tartes				restaurant	2	40000	Place Stanislas Baron	
+node	13975448674	43.8896456	-0.5003938	Potcheen				cafe		40000	place Pitrac	
+relation	1376210			Montfort-en-Chalosse	8	40380	40194					
+node	5401552310	43.7108331	-0.8384406	Bar tabac du commerce				pub				
+node	9753777248	43.7092799	-0.8234825	Restaurant Aux Tauzins				restaurant				
+way	102614547	43.7115166	-0.8388632	La Terrasse				restaurant	301			
+relation	9068978			Morcenx-la-Nouvelle	8	40110	40197					
+node	1894647249	44.0329996	-0.9107663	Le Zod				cafe	25	40110	Place Aristide Briand	
+node	1894647741	44.0336151	-0.9103132	Au bistrot d'Ewen				cafe				
+node	1894651646	44.0061445	-0.8910226	La table de Marie				restaurant	58		Route de Lauques	
+node	1901716275	44.0126471	-0.9272480	Auberge du Lavoir				restaurant	31	40110	Rue de l'Airial	
+node	1902543808	44.0135221	-0.8563215	Le Bistrot Bleu				restaurant				
+node	1905573650	44.0138514	-0.8835332	Le Traiteur landais				restaurant				
+node	8393699191	44.0331138	-0.9097357	La Rome Antique				restaurant	11		Place Aristide Briand	
+way	389050445	44.0138672	-0.8522187	Catachot				restaurant				
+relation	2114480			Moustey	8	40410	40200					
+node	11978568171	44.3595518	-0.7610965	Le Haut Landais				restaurant	1	40410	Allée de la Verrerie	
+node	11978568172	44.3591976	-0.7610824	Le Gascon				restaurant	20	40410	Allée de la Verrerie	
+node	13989580527	44.3590853	-0.7613197	Chez Céline et Joe				cafe				
+way	478953888	44.3599874	-0.7619551	Restaurant Le Domaine				restaurant	232	40410	Avenue Cousseau de Labarthe	
+relation	116813			Mugron	8	40250	40201					
+node	4692754289	43.7505326	-0.7500079	Le Central				cafe				
+node	5032485916	43.7590408	-0.7537821	Buvette				bar				
+node	8428991364	43.7365383	-0.7253132	Ferme auberge Marquine				restaurant				
+relation	116826			Oeyreluy	8	40180	40207					
+node	5989509670	43.6724718	-1.0803248	Bernie et Vincent Table Gourmande				restaurant				
+relation	75978			Ondres	8	40440	40209					
+node	4451677990	43.5628047	-1.4462402	BarLarrendart				bar		40440	Place Richard Feuillet	
+node	4451703490	43.5627882	-1.4461144	Larrendart - Le Bistrot				restaurant		40440	Place Richard Feuillet	
+node	5007209614	43.5770797	-1.4876000	So Beach				restaurant	63	40440	Promenade de l'Océan	
+node	5378244284	43.5683347	-1.4560211	Le Pouky's				restaurant	381	40440	Avenue de la Plage	
+node	5378244286	43.5768555	-1.4876925	La Plancha du Pêcheur				restaurant	37	40440	Impasse Nicolas Brémontier	
+node	5378244291	43.5693660	-1.4421674	Auberge Le Cassiet				restaurant	1170	40440	Avenue du 11 Novembre 1918	
+node	8081704351	43.5678721	-1.4431966	Au Delta du Mekong				restaurant	1330	40440	Avenue du 11 Novembre 1918	
+node	10753770911	43.5653263	-1.4444224	L'Atelier de Paulette				cafe	1607	40440	Avenue du 11 Novembre 1918	
+node	11655916754	43.5661210	-1.4439164	Warung Indo				restaurant	1529	40440	Avenue du 11 Novembre 1918	
+way	148261875	43.5769209	-1.4870888	Pizzeria de l'océan				restaurant	15	40440	Promenade de l'Océan	
+way	1299259119	43.5775828	-1.4873413	Jauco				restaurant	76	40440	Promenade de l'Océan	
+relation	1373243			Onesse-Laharie	8	40110	40210					
+node	11492266569	44.0627389	-1.0798332	The Petticoat				pub				
+node	12815325594	44.0627562	-1.0725007	FIFI Pizz'				restaurant				
+relation	76043			Orthevielle	8	40300	40212					
+node	8411112449	43.5517481	-1.1466215	La Ferme d'Orthe				restaurant				
+relation	75976			Orx	8	40230	40213					
+node	7980144456	43.6024852	-1.3693885	L'Auberge du Fronton				restaurant		40230	Route de Labenne	
+node	12853339163	43.6026158	-1.3688648	Inclu K'fé				cafe		40230	Route de Saubrigues	
+relation	76255			Parentis-en-Born	8	40160	40217					
+node	7090427280	44.3533038	-1.0801578	Chez Ponpon				bar				
+node	7090467005	44.3495369	-1.0713346	Koh Lapso				restaurant	111		Rue Saint-Barthelemy	
+node	8483123357	44.3488652	-1.0744068	Bar tabac PMU				pub				
+node	9749367969	44.3461631	-1.0931452	Côté Lac				restaurant	75		Route du Lac	
+node	9749367973	44.3429030	-1.0978299	Snack du Mini Golf				restaurant			Impasse du Port du Piaou	
+node	9749367975	44.3502309	-1.0995100	La Terrasse des Grands Lacs				restaurant	380		Route Théophile Gautier	
+node	9749367976	44.3516949	-1.1017310	La Table du Lac				restaurant			Route Théophile Gautier	
+node	9749367977	44.3437723	-1.0975450	Lake Side				restaurant	1482		Route du Lac	
+node	9749367978	44.3496674	-1.1009767	Why Not				restaurant	190		Chemin des Cottages du Lac	
+node	9749367980	44.3493699	-1.0739702	Little Italy				restaurant	14		Avenue du 8 Mai 1945	
+node	12544827990	44.3492441	-1.0721129	Chez Flo				restaurant	9	40160	Rue Saint-Barthelemy	
+node	12976810403	44.3484768	-1.0719575	Rouge & Blanc				bar			Esplanade de Saint Barthelemy	
+node	12976815501	44.3484860	-1.0718980	gota				bar			Esplanade de Saint Barthelemy	
+relation	74499			Parleboscq	8	40310	40218					
+node	12999128144	43.9446298	0.0135847	Le Clos Saint Cricq				restaurant				
+relation	116810			Peyrehorade	8	40300	40224					
+node	8996343259	43.5442746	-1.1020267	Au Bon Coin Les Pieds de Cochon				restaurant				
+node	12918819337	43.5447326	-1.1053002	Di Martino Pizza & Piadina				restaurant	58	40300	Place Nauton-Truquez	
+node	12946327999	43.5449326	-1.1015584	Pizz'a Peyreho				restaurant	39	40300	Rue Lembarry	
+node	12946377801	43.5447487	-1.1065322	Bouli'pizz				restaurant	114	40300	Rue Gambetta	
+node	12946393036	43.5444491	-1.1033598	Le Patio				bar	24	40300	Rue du Vieux Port	
+node	12946438677	43.5421268	-1.1061987	La Pasta				restaurant	22	40300	Route de Bidache	
+node	12949120319	43.5442125	-1.1012936	Bar Restaurant Le Fronton				restaurant	281	40300	Rue du Château	
+node	12949133133	43.5442325	-1.1015304	Pena Encina				bar	273	40300	Rue du Château	
+node	13287277382	43.5447112	-1.1030106	La Table de Juliette				restaurant	160	40300	Rue Alsace Lorraine	
+node	13287288775	43.5451065	-1.1030166	Bar du marché				bar	134	40300	Place Aristide Briand	
+node	13671403898	43.5450189	-1.1037110	Le Central				restaurant	68	40300	Place Aristide Briand	
+node	13904714068	43.5486535	-1.1198320	La Guinguette du Lac				restaurant		40300	Route de Pardies	
+relation	76137			Pimbo	8	40320	40226					
+way	370468666	43.5752663	-0.3757162	Chez Roxette				cafe				
+relation	2114469			Pissos	8	40410	40227					
+node	5050672646	44.3083316	-0.7788125	Café de Pissos				cafe				
+node	11958078893	44.3068660	-0.7795522	Cercle de l'Union				cafe				
+node	11980817258	44.3090463	-0.7692000	Les Tontons de l'Arriu				restaurant				
+node	13629954639	44.3087348	-0.7784843	Au Bon Temps				bar				
+relation	116830			Pomarez	8	40360	40228					
+node	13669793359	43.6292694	-0.8295496	Chez PAPY PIZZ				restaurant				
+relation	75899			Pontonx-sur-l'Adour	8	40465	40230					
+node	5375887324	43.7874025	-0.9249430	Hôtel bar des arènes				restaurant	58	40465	Place de l’Hôtel de Ville	
+node	9969569892	43.7882904	-0.9260368	Chai Mic				bar	41	40465	Rue de Lesbordes	
+relation	1967744			Pouillon	8	40350	40233					
+node	4407363085	43.6051019	-0.9959466	Café du Centre				bar	114	40350	Place de la Liberté	
+node	7205979747	43.5936485	-1.0174584	Le Lac de Luc				restaurant	915		Route du Lac	
+node	10765830634	43.6098427	-0.9922997	Louis				restaurant	347		Boulevard des Sports	
+way	771890933	43.6014537	-1.0054290	L'Auberge du Pas de Vent				restaurant	281	40350	Avenue du Pas de Vent	
+relation	162552			Pouydesseaux	8	40120	40234					
+node	13452444920	43.9687856	-0.3247455	Chez Cathy				bar	81	40120	Place de Bousquet	
+relation	1376199			Poyanne	8	40380	40235					
+node	8482170739	43.7561374	-0.8161761	O Jansemin				restaurant				
+node	8482599104	43.7561460	-0.8161737	O Jansemin				bar				
+relation	1374471			Préchacq-les-Bains	8	40465	40237					
+node	9753946654	43.7670445	-0.9300319	Le Clos Pité				restaurant	1348		Avenue des Sources	
+relation	74500			Rimbez-et-Baudiets	8	40310	40242					
+node	6703821501	44.0506558	0.0546002	L'Auberge de Rimbez				restaurant	210		Route de Sainte-Meille	
+relation	6838613			Rion-des-Landes	8	40370	40243					
+node	1910155609	43.9201139	-0.9183800	Marco Paulo				restaurant	500		Avenue Charles Despiau	
+node	10595233188	43.9176960	-0.9161876	Villa Pomade				restaurant	178		Avenue d'Albret	
+node	11061537505	43.9348953	-0.9235851	Maison Devaux				restaurant	70		Rue du Commerce	
+way	115246105	43.9355419	-0.9258408	Le Bosquet				restaurant				
+relation	162265			Roquefort	8	40120	40245					
+node	1564463966	44.0350147	-0.3249540	Café de la Paix				pub	51	40120	Place des Cordeliers	
+node	1564463967	44.0347361	-0.3219019	Café de la Poste				pub	41	40120	Place du Pijorin	
+relation	162252			Sabres	8	40630	40246					
+node	5050606615	44.1478120	-0.7386165	Le relais de Sabres				restaurant	95	40630	Rue Victor Hugo	
+node	5820102803	44.1674392	-0.7797699	La buvette				cafe		40630		Marquèze
+node	11980817260	44.1483146	-0.7459186	Kitchêne				restaurant	411	40630	Route de Solférino	
+node	11980817261	44.1470384	-0.7407569	Au Petit resto				restaurant	158	40630	Rue Pascal Duprat	
+node	13856244171	44.1675750	-0.7799354	La table de Marquèze				restaurant				
+way	167119007	44.1457484	-0.7421047	Auberge des Pins				restaurant		40630	rue de la Piscine	
+way	253999985	44.1694117	-0.7818961	L'Estanquet				restaurant				
+relation	116812			Saint-André-de-Seignanx	8	40390	40248					
+node	12143974769	43.5577349	-1.3525478	Café Terra				restaurant	1	40390	Chemin Andriou	
+relation	116824			Saint-Aubin	8	40250	40249					
+node	8479639067	43.7093159	-0.7142932	Ferme-Auberge du Haza				restaurant				
+relation	123659			Saint-Avit	8	40090	40250					
+node	12234528153	43.9418024	-0.4204538	Cuisine et Golf				restaurant	1419	40090	Route de Pessourdas	
+node	13031425637	43.9419710	-0.4072634	Le Relais du Caloy				restaurant				
+way	51546841	43.9199222	-0.4496303	Oncle Scott's				restaurant		40090	Allée de Lagacé	
+way	338317397	43.9183526	-0.4486099	La Boucherie				restaurant				
+relation	76253			Sainte-Eulalie-en-Born	8	40200	40257					
+node	9749367981	44.2935211	-1.1799769	Les Bruyères				restaurant	719		Route de Laffont	
+node	9749367982	44.2478291	-1.1965124	Le Snack Landais				restaurant	3251		Route Touristique	
+node	9749367983	44.2738599	-1.1831373	La Pampa				restaurant	80		Avenue du Born	
+node	9749367984	44.2525069	-1.1894804	La Table Chanquée				restaurant	631		Route de Labadan	
+way	1083603451	44.3081308	-1.1806139	Snack du Lac				restaurant	1928	40200	Route du Lac	
+relation	116834			Saint-Geours-de-Maremne	8	40230	40261					
+node	5367731921	43.6873552	-1.2293080	Bar Tabac Presse du Centre				bar				
+node	5367731922	43.6874174	-1.2289089	Le Bon Geours - chez Duluc				restaurant				
+node	5368369742	43.6872090	-1.2277032	Le Bistrot de Marenne				restaurant				
+node	13679012250	43.7114135	-1.2329347	Le Troquet				restaurant		40230	Rue du Pays d'Orthe	
+relation	74504			Saint-Gor	8	40120	40262					
+node	13322286319	44.0540966	-0.2412976	Auberge de Saint-Gor				restaurant	30		Route de Bourriot	
+relation	123565			Saint-Jean-de-Marsacq	8	40230	40264					
+node	6545037988	43.6254407	-1.2564245	Restaurant l'Expression				restaurant		40230	21 Route du Cricq	
+relation	150359			Saint-Julien-en-Born	8	40170	40266					
+node	2111983558	44.0917916	-1.3206503	Après la plage				restaurant				
+node	2111983586	44.0908188	-1.3223776	La Piballe				restaurant				
+node	2111983602	44.0906936	-1.3234559	l'Oyat				bar				
+node	2111983603	44.0907571	-1.3227530	Surf house				restaurant				
+node	2111983868	44.0905894	-1.3233940	Les Pénates				restaurant				
+node	2111984069	44.0912252	-1.3238688	Chez René				restaurant				
+node	2112025650	44.0910712	-1.3213852	Chez Dan				pub				
+node	2112025656	44.0910731	-1.3215515	Chez Dan				restaurant				
+node	2112025675	44.0911141	-1.3208101	Rotisserie Cot'Cote				restaurant				
+node	2112051897	44.0910230	-1.3220665	Café Peki				cafe				
+node	2390532453	44.0914856	-1.3213210	Le Mojo				cafe				
+node	3602453138	44.0910299	-1.3234230	Crèperie La Royale				restaurant				
+node	5715715624	44.0644453	-1.2266868	Le Saint-Julien				restaurant				
+node	5809188662	44.0932258	-1.3231855	Contistador				restaurant				
+node	7925783135	44.0908883	-1.3204990	La cantina				restaurant				
+node	9903892633	44.0621983	-1.2266163	La Grange				cafe				
+node	12084955746	44.0909810	-1.3231505	La Mer à Boire				bar				
+node	12084955750	44.0908189	-1.3209145	La Guinguette sur le Toit				restaurant				
+node	12098838389	44.0677360	-1.2292036	La Petite Landaise				pub				
+node	12098999839	44.0616886	-1.2246164	Big Joe				restaurant				
+node	12141764885	44.0675818	-1.2286062	Fredy Pizza				restaurant				
+node	13728022880	44.0621084	-1.2252337	Florida Pizza				restaurant				
+node	13728122701	44.0913470	-1.3210771	Le Mojo				restaurant				
+node	13735230730	44.0740808	-1.2312230	La Canotte				restaurant				
+way	201235375	44.0940720	-1.3253047	La cabane de Contis				restaurant				
+way	268848458	44.0615631	-1.2263675	L’Auberge du Born				restaurant				
+way	329676185	44.0550910	-1.2333125	La Presqu'île				restaurant				
+way	329676249	44.0879036	-1.3179658	Lou restaurant				restaurant				
+way	329681013	44.0754195	-1.2317200	Bar Restaurant Les Chenes				restaurant				
+way	956410951	44.0881964	-1.3181857	LouPoolBar				bar				
+way	1093523538	44.0816906	-1.2622285	Bar, Salle de spectacle				bar				
+way	1170948677	44.0818500	-1.2627036	Restaurant, Snack				restaurant				
+way	1304854014	44.0905365	-1.3223748	Comptoir Bohème				restaurant				
+relation	1379934			Saint-Justin	8	40240	40267					
+node	6657048457	43.9803007	-0.2322316	Le Cadet de Gascogne				restaurant	6	40240	Allée Gaston Phœbus	
+node	10967607275	43.9793220	-0.2321476	Les Allées				restaurant	17	40240	Allée Gaston Phoebus	
+node	12624276469	43.9810572	-0.2310614	Cercle de la Fraternité				cafe	9	40240	Rue du Mercadieu	
+relation	116831			Saint-Lon-les-Mines	8	40300	40269					
+node	8528362161	43.6115944	-1.1269229	Logis Gnàc é Pause Hôtel et Bistro				restaurant	284	40300	Route de Peyrehorade	
+relation	116809			Saint-Martin-de-Hinx	8	40390	40272					
+node	7743946867	43.5819396	-1.2687583	Sava cuisiner				restaurant				
+relation	76021			Saint-Martin-de-Seignanx	8	40390	40273					
+node	5378244283	43.5416640	-1.3868149	L'écailler et sa plancha				restaurant		40390	Place Jean Rameau	
+node	8363966742	43.5303683	-1.3876409	Petiole				restaurant	2381	40390	Avenue du Quartier-Neuf	
+node	9759400395	43.5304390	-1.4097709	Guinguette Parenthèse Champêtre				restaurant	2399	40390	Route de Lannes	
+node	13470704169	43.5444342	-1.3866299	Malou				cafe	1577	40390	Avenue de Barrère	
+way	1336507676	43.5506720	-1.4026891	Restaurant de l'ESAT Espérance				restaurant	3134	40390	Route Océane	
+relation	123655			Saint-Martin-d'Oney	8	40090	40274					
+node	12373288244	43.9287648	-0.6417916	Un Moment d'Oney				restaurant				
+relation	75890			Saint-Pandelon	8	40180	40277					
+way	250543051	43.6759853	-1.0420304	L'Auberge'in				restaurant	1175	40180	Route de Dax	
+relation	76256			Saint-Paul-en-Born	8	40200	40278					
+way	489279253	44.2188687	-1.1638711	Auberge de Saint-Paul				restaurant		40200	Route de Mimizan	
+relation	75876			Saint-Paul-lès-Dax	8	40990	40279					
+node	3922269416	43.7236870	-1.0535358	La Côte à l'os				restaurant	1	40990	Rue Victor Hugo	
+node	5219872941	43.7263527	-1.0644097	Le Comptoir Joa				restaurant				
+node	5219872943	43.7261087	-1.0643828	El Tex Mex				restaurant		40990		
+node	5247525993	43.7278838	-1.0868949	Le Relais des Plages				restaurant	158	40990	Avenue des Lacs	
+node	5270310121	43.7270763	-1.0754063	Pizza & Co				restaurant				
+node	5273362046	43.7243346	-1.0552286	L'Arbre Perché				restaurant	328	40990	Avenue de la Résistance	
+node	5295742899	43.7238241	-1.0534917	Crêp'island				restaurant				
+node	5990421937	43.7221636	-1.0518980	Bar des Sports				bar		40990	Avenue de la Liberté	
+node	6628548293	43.7286502	-1.0394901	Ristorante Del Arte				restaurant		40990	Boulevard Saint-Vincent de Paul	
+node	6943543101	43.7280106	-1.0633094	Le 355				restaurant	355	40990	Rue Jean-Pierre Pénicaut	
+node	6943543102	43.7271548	-1.0378412	Le Dynastie				restaurant		40990	Boulevard Saint-Vincent de Paul	
+node	7415157208	43.7276047	-1.0399395	V and B				pub	980	40990	Boulevard Saint-Vincent de Paul	
+node	7906197109	43.7326937	-1.0431168	Le Brasero				restaurant	507	40990	Route de la Bernadère	
+node	8158410163	43.7250283	-1.0671576	Campanile restaurant				restaurant	1255	40990	Avenue de la Résistance	
+node	9126285325	43.7270195	-1.0776443	Bon App'				restaurant	2128		Avenue de la Résistance	
+node	10945071439	43.7263000	-1.0642120	Le Bar des Sports				bar				
+node	11704670710	43.7574802	-1.0624242	La pause landaise				restaurant				
+node	11802303563	43.7568117	-1.0666020	Ô Délices des Pins				restaurant	416	40990	Rue Denis Papin	
+node	12921614614	43.7276128	-1.0684582	Café Au Coeur du Lac				cafe	196	40990	Allée du Plumet	
+node	12921632174	43.7275968	-1.0684697	Café Au Coeur du Lac				restaurant	196	40990	Allée du Plumet	
+node	13347698833	43.7277054	-1.0786906	Wafu 40				restaurant	2280		Avenue de la Résistance	
+node	14063480702	43.7277163	-1.0373877	Bistro Régent				restaurant	989		Boulevard Saint-Vincent de Paul	
+node	14142753349	43.7260742	-1.0499641	Choko Ona				restaurant				
+node	14230714372	43.7232869	-1.0546772	Arômes & Délices				cafe	7	40990	Place du Marché Baheigne	
+way	65143271	43.7356928	-1.0681877	Le Moulin de Poustagnacq				restaurant		40990	Chemin de Poustagnacq	
+way	65144505	43.7257082	-1.0728348	Buffalo Grill				restaurant	1777		Avenue de la Résistance	
+way	65152871	43.7235463	-1.0544716	Bar du Marché				bar	11		Place du Marché Baheigne	
+way	65153228	43.7232848	-1.0523508	La Pergola				restaurant	48	40990	Rue Pierre Dupont	
+way	65154504	43.7327905	-1.0498339	Le vieux tachoire				restaurant	1049	40990	Avenue du Maréchal Foch	
+way	1000526603	43.7267034	-1.0720845	Bystro & Cie				restaurant	1800		Avenue de la Résistance	
+way	1018254155	43.7307629	-1.0409407	Le Bonifieur				cafe				
+way	1018254158	43.7296305	-1.0393356	Le Comptoir à Crêpes 40				restaurant	1141	40990	Boulevard Saint-Vincent de Paul	
+way	1018254165	43.7303787	-1.0412762	Cooking Bar				cafe		40990		
+way	1018254181	43.7317441	-1.0437768	Crescendo restaurant				restaurant	234	40990	Rue Maurice Menton	
+way	1018254193	43.7310490	-1.0416857	Brasserie Le Cosy				restaurant			Avenue Gaston Phoebus	
+relation	123665			Saint-Perdon	8	40090	40280					
+node	3596878182	43.8712232	-0.5923443	Le Graillou				restaurant	60	40090	Impasse Beauséjour	
+relation	150332			Saint-Pierre-du-Mont	8	40280	40281					
+node	1985519525	43.8690020	-0.4835350	Léon				restaurant		40280		
+node	2245157339	43.8824641	-0.5194479	Le Petit Zinc				cafe				
+node	2845915161	43.8640347	-0.4825777	Moun				restaurant				
+node	2845915162	43.8642376	-0.4825315	Moun				cafe				
+node	2845951597	43.8648109	-0.4790841	Le Bistro du Grand Moun				cafe				
+node	2845966537	43.8636219	-0.4839603	Royal Gourmand				restaurant		40280	Centre cial Le Grand Moun	
+node	3172299961	43.8692369	-0.4825473	Ristorante Del Arte				restaurant		40280	Rue Antoine Becquerel	
+node	3414978003	43.8807253	-0.5349681	Fourchette & Sable Blanc				restaurant		40280	Base de Loisirs du Marsan	
+node	3415011432	43.8828663	-0.5327789	La Ferme de Coumassotte				restaurant				
+node	4163435892	43.8710289	-0.4833525	Les Dunes d'Orient				restaurant			Frédéric Joliot Curie	
+node	4320729095	43.8693679	-0.4831587	Bistro Régent				restaurant	72	40280	Rue Antoine Becquerel	
+node	5548252222	43.8654402	-0.4890509	Taste & buffet				restaurant	11	40280	Rue Gladys	
+node	7313077156	43.8674815	-0.4877925	V and B				pub		40280	Chemin de Lubet	
+node	10131062347	43.8702748	-0.4907288	La Taverne				restaurant				
+way	280446506	43.8659952	-0.4837955	Au Bureau				restaurant	19	40280	Rue Reine Sabate	
+relation	75951			Saint-Sever	8	40500	40282					
+node	5261812621	43.7594691	-0.5713707	L'Art des Mets				restaurant	1	40500	Chemin de Prouyan	
+node	5365629122	43.7599364	-0.5743695	La Muleta				bar	3		Place du Tour du Sol	
+node	10951322692	43.7710226	-0.5696283	Le Pavillon du Cap				restaurant	1		Avenue de l'Armagnac	
+node	10970950628	43.7600227	-0.5746607	Hôtel Brasserie Lafayette				restaurant	38		Rue Lafayette	
+node	10970954923	43.7686149	-0.5698713	Le Bar de L'adour				bar	22		Avenue du Général de Gaulle	
+node	10970974728	43.7596624	-0.5734297	Le Bistrot des Arceaux				restaurant	23		Rue des Arceaux	
+node	11027391387	43.7594911	-0.5731383	Café LALALANDES				cafe	3	40500	Place de Verdun	
+way	116142363	43.7591845	-0.5744865	PIZZAS PICKOUIK				restaurant	19		Place du Tour du Sol	
+way	116151012	43.7592085	-0.5731895	La marmitte				restaurant	10	40500	Place de Verdun	
+way	116153362	43.7609360	-0.5760670	dèche Dise				restaurant	12		Rue du Docteur Louis Fournier	
+way	1181283831	43.7497178	-0.5592701	Plaisir et gourmandise				restaurant	14	40500	Zone Artisanale Escales	
+relation	75897			Saint-Vincent-de-Paul	8	40990	40283					
+node	5968677308	43.7414227	-1.0167061	Le Rond Point des Gourmets				restaurant				
+relation	116829			Saint-Vincent-de-Tyrosse	8	40230	40284					
+node	4551426690	43.6608058	-1.3041102	La Kantxa				restaurant		40230	22 Avenue Nationale	
+node	4794573622	43.6693820	-1.2796339	New Jin Fu				restaurant		40230	Rue des Lauriers	
+node	4794573623	43.6605625	-1.3058578	Sushi San				restaurant				
+node	4794585221	43.6635338	-1.2934877	Hue Kitchen				restaurant	2	40230	Impasse du Sablar	
+node	4795761221	43.6674063	-1.2847364	Le Nazaré				restaurant	1500	40230	Route de Bordeaux	
+node	5792865053	43.6598844	-1.3075628	La Casa Tacos				restaurant	96	40230	Avenue Nationale	
+node	5800978158	43.6610345	-1.3029196	Kho Thaï and Co				restaurant	2	40230	Rue du Marensin	
+node	5801018453	43.6605445	-1.3044013	Le XVII Vins				bar				
+node	8425872942	43.6616928	-1.2961799	Le Hittau				restaurant		40230	1 avenue du Hittau	
+node	9643473476	43.6613004	-1.3062783	La Gargouille				restaurant		40230	40 avenue Côte d'Argent	
+node	9840777796	43.6601798	-1.3068739	Café Sospeso				restaurant	86	40230	Avenue Nationale	
+node	9840864616	43.6612498	-1.3009340	Restaurant l'Estanquet 2.0				restaurant	46	40230	Route de Bordeaux	
+node	9840952726	43.6612857	-1.2998604	Pat' à Pizz				restaurant				
+node	9841319613	43.6689235	-1.2808343	La Capsule Cave & Bar				pub	187	40230	Rue des Lauriers	
+node	9841382532	43.6686673	-1.2836430	Bistro Régent				restaurant		40230	Route Nationale 10 Centre Leclerc	
+node	11015634262	43.6635219	-1.2844362	Bars Gourmands éphémères				bar	6	40230	Rue des Bobines	
+node	12470938504	43.6672813	-1.2852114	La Ch'tit Frite				restaurant	1500	40230	Route de Bordeaux	
+relation	117251			Samadet	8	40320	40286					
+node	5710685538	43.6364169	-0.4866833	Bar des sports				bar				
+node	5710685543	43.6399825	-0.4874926	L'Escapade				restaurant	13	40320	Rue de l'Eglise	
+relation	76224			Sanguinet	8	40460	40287					
+node	1774462868	44.4836378	-1.0753179	Café du Lac				bar		40460	Place de la Mairie	
+node	1774462869	44.4835747	-1.0752991	Cafe du Lac				restaurant		40460	Place de la Mairie	
+node	1774479017	44.4955462	-1.0761585	La Table du Domaine				restaurant	602		Chemin de Sabas	
+node	1774492214	44.4866287	-1.0836891	Restaurant le Catamaran				restaurant	459	40460	Avenue de Losa	
+node	9748729479	44.4818642	-1.0761183	La Cabane à Moule				restaurant	94		Place du Marché	
+node	9748729484	44.4832108	-1.0893829	Le Patio				restaurant	1039	40460	Avenue de Losa	
+node	9748729485	44.4819188	-1.0767009	La place				restaurant	66	40460	Place du Marché	
+node	9748729486	44.4804297	-1.0801507	Le Kiosque à Pizza				restaurant	417		Avenue des Grands Lacs	
+node	11105038789	44.4946818	-1.0766770	La Paillote Ha-Lô				restaurant	602	40460	Chemin de Sabas	
+node	12873949601	44.4863730	-1.0842494	Crêperie La Bolée				restaurant	519	40460	Avenue de Losa	
+way	1061035362	44.4845622	-1.0882251	La Fringale				restaurant		40460	Avenue de Losa	
+relation	75971			Saubion	8	40230	40291					
+node	9790052378	43.6724403	-1.3516270	Lou tiap				restaurant				
+relation	116815			Saubrigues	8	40230	40292					
+way	408308433	43.5910074	-1.3343333	Auberge d'Ugne				restaurant	2319	40203	Route d'Ugne	
+relation	116816			Saubusse	8	40180	40293					
+node	7676652434	43.6566032	-1.1877813	Al Pesto				restaurant	8	40180	Place Eugénie Desjobert	
+node	7676652435	43.6563771	-1.1878883	Bire Bok				bar				
+node	8293999488	43.6846690	-1.1862977	Restaurant Lou Toupin				restaurant				
+relation	116822			Saugnac-et-Cambran	8	40180	40294					
+node	11492189469	43.6832126	-0.9955614	Pampa				restaurant				
+relation	123669			Saugnac-et-Muret	8	40410	40295					
+node	2982694847	44.3598089	-0.8502931	Flunch				restaurant				
+node	4772986443	44.3623091	-0.8520793	Flunch				restaurant				
+relation	75972			Seignosse	8	40510	40296					
+node	2459279804	43.7083990	-1.4332202	Le Hapchot				restaurant				
+node	2459281275	43.7085561	-1.4327240	L'Escargot				nightclub				
+node	5772756543	43.6868815	-1.3742311	La Case à pizza				restaurant				
+node	8146639417	43.6870997	-1.4385679	Le Surfing				restaurant				
+node	8289271902	43.7017608	-1.3617321	La Villa de l'Étang Blanc				restaurant				
+node	8345622346	43.6882082	-1.3735499	Le Drop'In				restaurant				
+node	8375683260	43.6893464	-1.3745919	La Côte d'Argent				restaurant				
+node	9643611877	43.6907068	-1.4082034	SEI				restaurant				
+node	11046044534	43.7109535	-1.3749714	Les Roseaux				restaurant				
+node	11063274553	43.6913532	-1.4363864	Midgard				cafe				
+node	11189698110	43.7129345	-1.4352970	Le cabanon				restaurant				
+node	11491825858	43.6910531	-1.4090032	Les terrasses Golf de Seignosse				restaurant				
+node	12042433612	43.6933056	-1.4299170	La Pena				restaurant				
+node	12883015954	43.7086794	-1.4336290	Le rayon vert				restaurant				
+node	12883046485	43.6979313	-1.4387642	Couleur locale				restaurant				
+node	13017154005	43.7091917	-1.4364622	La Cabane du Penon				restaurant				
+node	13020782901	43.6989550	-1.4363040	Caprice Social Club				bar				
+node	13681399324	43.7085830	-1.4330729	La Cantine du Oyes				restaurant				
+node	13801673815	43.7078790	-1.4338909	Black Flag				bar				
+way	162401936	43.6829272	-1.4286614	La Paillote du Lac				restaurant				
+way	162404887	43.6856795	-1.4303610	Chez Monette				restaurant				
+way	437443266	43.7231154	-1.4322175	L'Autre Endroit				restaurant				
+way	1309279637	43.7297406	-1.4117724	Le Traouc				nightclub				
+relation	1969259			Le Sen	8	40420	40297					
+node	11978568169	44.1258900	-0.5010362	A la bonne fourchette				restaurant	41	40420	Place Claude Lafitte	
+relation	75888			Seyresse	8	40180	40300					
+node	12006486799	43.6803194	-1.0617978	Restaurant Cidrerie El Sitio				restaurant				
+relation	75973			Soorts-Hossegor	8	40150	40304					
+node	2182487062	43.6582902	-1.4437386	Jean des Sables				restaurant	121	40150	Boulevard de la Dune	
+node	2425121527	43.6598296	-1.4346465	Le Sporting Grill				restaurant	119	40150	Avenue Maurice Martin	
+node	2425121543	43.6597617	-1.4347967	Le Sporting Bar				bar				
+node	2984457537	43.6591550	-1.4284310	Café de Paris				restaurant				
+node	2984596933	43.6594132	-1.4287981	Amore				restaurant	54	40150	Avenue Paul Lahary	
+node	3053024436	43.6625846	-1.4430261	Rock Food				bar		40150	Place des Landais	
+node	3058624681	43.6807671	-1.4273106	La Buvette du Lac				bar				
+node	3058624682	43.6648462	-1.4269407	Chez Henri				restaurant	1187	40150	Avenue du Touring Club de France	
+node	4303414792	43.6592310	-1.4287816	Tante Jeanne				restaurant	45	40150	Avenue Paul Lahary	
+node	4325114283	43.6628614	-1.4426136	La Maison Blanche				restaurant	58	40150	Place des Landais	
+node	4325114284	43.6625335	-1.4428235	Bakoua				nightclub	93	40150	Place des Landais	
+node	4325114286	43.6628303	-1.4421100	Le Mémo				nightclub	19	40150	Avenue des Hippocampes	
+node	4325114287	43.6627712	-1.4421442	Coolin À La Plage				restaurant	20	40150	Rue des Landais	
+node	4325115289	43.6630339	-1.4425630	Bar Saint Antoine				bar	88	40150	Place des Landais	
+node	4867608743	43.6626930	-1.4427012	Wave Corner				bar				
+node	4878555516	43.6589341	-1.4284938	Le Touring Café				restaurant	515	40150	Avenue du Touring Club de France	
+node	5745320121	43.6631006	-1.4316475	Chez Loulou				restaurant	88	40150	Avenue des Chèvrefeuilles	
+node	6417425987	43.6582939	-1.4292227	Waxed				cafe	48	40150	Avenue des Pins Tranquilles	
+node	6447358585	43.6584663	-1.4266839	Tapas Bar Les Halles				restaurant		40150	Place des halles	
+node	6823981985	43.6623101	-1.4413000	Grand Bain				restaurant	773	40150	Avenue de la Grande Dune	
+node	7648646794	43.6733745	-1.3852207	Slow Hossegor				restaurant	261	40150	Avenue des Rémouleurs	
+node	8078354184	43.6591607	-1.4277815	Green Cantine				restaurant	30	40150	Avenue de la Gare	
+node	8080833829	43.6589913	-1.4284627	Ho Tempo				restaurant	523	40150	Avenue du Touring Club de France	
+node	8080901786	43.6596701	-1.4293495	CJ Sushis				restaurant	24	40150	Allée Louis Pasteur	
+node	8080907443	43.6623687	-1.4410077	Le Napoli & Le Napoli Là haut				restaurant	755	40150	Avenue de la Grande Dune	
+node	8081342072	43.6724712	-1.3866482	Le Spot Palace				restaurant	520	40150	Avenue des Artisans	
+node	8081348618	43.6722155	-1.3896905	Bidonvilla				restaurant	51	40150	Avenue des Tisserands	
+node	8081366238	43.6731382	-1.3848867	green cantine 2				restaurant	261	40150	Avenue des Rémouleurs	
+node	8081377477	43.6643074	-1.3969557	Pizzeria Le Louisiane				restaurant	72	40150	Avenue du Centre	
+node	8081453405	43.6645010	-1.3964830	Grandma Restaurant				restaurant	27	40150	Rue de Mathiou	
+node	8123970604	43.6688247	-1.3854629	janine by soulkitchen				restaurant	245	40150	Avenue de la Tuilerie	
+node	8146084597	43.6631414	-1.4427699	Dick's sand bar				bar		40150	Place des Landais	
+node	8146460360	43.6703059	-1.3899152	santosha cantine asiatique				restaurant	69	40150	Avenue des Sabotiers	
+node	8293629209	43.6752993	-1.4325551	Restaurant des Hortensias du Lac				restaurant	1578	40150	Avenue du Tour du Lac	
+node	8293659373	43.6817325	-1.4269270	La Table du Lacotel				restaurant	3058	40150	Avenue du Touring Club de France	
+node	8293694520	43.6622428	-1.4422270	Gigio				restaurant	579	40150	Boulevard de la Dune	
+node	8293710780	43.6630969	-1.4427186	Café de la plage				restaurant	94	40150	Place des Landais	
+node	8293987451	43.6569292	-1.4400412	Jo&Joe				restaurant	458	40150	Avenue de Gaujacq	
+node	8294003459	43.6569140	-1.4399808	Jo&joe				bar	458	40150	Av de Gaujacq	
+node	8375705506	43.6627909	-1.4407374	Prohibistro				restaurant	704	40150	Avenue de la Grande Dune	
+node	8521205155	43.6619031	-1.4270592	Diu Biban				restaurant	866	40150	Avenue du Touring Club de France	
+node	8521216514	43.6625529	-1.4427757	Ô Hublot				bar	85	40150	Place des Landais,	
+node	8521307011	43.6700258	-1.3899723	416 crew				bar	99	40150	Avenue des Sabotiers	
+node	8521320909	43.6719452	-1.3844192	Cacahuète				restaurant	173	40150	Avenue des Couteliers	
+node	8521341551	43.6737990	-1.3875536	Yuma				restaurant	39	40150	Avenue des Rémouleurs	
+node	8521345802	43.6589981	-1.4301824	L'Etiquette				bar	16	40150	Place des Pins Tranquilles	
+node	8524599690	43.6715395	-1.3846974	Mexiko				restaurant	156	40150	Avenue des Couteliers	
+node	8524614196	43.6714308	-1.3886190	Sunset Café				restaurant	248	40150	Avenue des Charpentiers	
+node	8524693187	43.6723902	-1.3897457	L'ile du Malt				bar	51	40150	Avenue des Tisserands	
+node	8524704823	43.6723487	-1.3898541	Glaces Romane				restaurant	51	40150	Avenue des Tisserands	
+node	8606130712	43.6627065	-1.4274079	La Rotonde , restaurant hôtel du parc				restaurant	911	40150	Avenue du Touring Club de France	
+node	8718629388	43.6587735	-1.4285507	Marcot				restaurant	495	40150	Avenue du Touring Club de France	
+node	8729265523	43.6691106	-1.3847271	Kahwa Café				cafe	77	40150	Avenue des Forgerons	
+node	8823421068	43.6593617	-1.4295041	Little Amore				restaurant	109	40150	Avenue Paul Lahary	
+node	8835277743	43.6576977	-1.4287733	Tiger Club				bar	376	40150	Avenue du Touring Club de France	
+node	8835523184	43.6576092	-1.4287795	Deoun Hossegor				restaurant	366	40150	Avenue du Touring Club de France	
+node	8845884249	43.6712121	-1.3900639	Volt Café				cafe	147	40150	Avenue des Charpentiers	
+node	10014253015	43.6762184	-1.4269189	Lake House				restaurant	2467		Avenue du Touring Club de France	
+node	12127624855	43.6729869	-1.3862769	CJ Sushi				restaurant				
+node	12320707948	43.6594168	-1.4284694	Crêperie Tante Jeanne				restaurant	28		Avenue Paul Lahary	
+node	12551203571	43.6722338	-1.3897790	Duckes				restaurant	51	40150	Avenue des Tisserands	
+node	12875326096	43.6679563	-1.4319234	Baraketa				restaurant	786	40150	Avenue du Tour du Lac	
+node	12880924086	43.6588530	-1.4266576	Bodega du marché Chez Tap Tap				cafe		40150	Halles Municipales	
+node	12881049639	43.6700841	-1.3810464	Hejmo				bar	619	40150	Avenue de Pascouaou	
+node	12881055532	43.6641752	-1.4270587	Le Seren'issime				restaurant	1111	40150	Avenue du Touring Club de France	
+node	12881100647	43.6643816	-1.3950656	Brasserie du Trinquet				restaurant	19	40150	Avenue du Centre	
+node	12901576795	43.6696152	-1.3856185	Hermano				restaurant			Avenue de Pascouaou	
+node	12901624226	43.6702384	-1.3825819	TOA restaurant				restaurant	421	40150	Avenue de Pascouaou	
+node	12901648344	43.6721773	-1.3901987	Brasserie des 3 Hippocampes				restaurant	93		Avenue des Tisserands	
+node	14055959402	43.6733252	-1.3852872	Bistrot de Zoé				restaurant				
+node	14162610301	43.6626430	-1.4413836	Telma				restaurant				
+way	147719543	43.6704735	-1.4265595	Le bistro balnéaire				restaurant	1830	40150	Avenue du Touring Club de France	
+way	147722024	43.6716255	-1.3855200	Thai Time				restaurant	96	40150	Avenue des Couteliers	
+way	147725107	43.6625775	-1.4424620	Le Beurré				restaurant	39	40150	Rue des Landais	
+way	362291929	43.6714321	-1.4415536	La Cabane De La gravière				restaurant		40150	Plage de la graviere	
+way	707256720	43.6616083	-1.4365403	Le coeur joie				restaurant	303	40150	Avenue de la Grande Dune	
+way	917716050	43.6596423	-1.4288114	Pacific Coast Café				restaurant	54	40150	Avenue Paul Lahary	
+way	939730223	43.6796094	-1.4402402	Lou Cabana				restaurant	952	40150	Boulevard Front de Mer	
+relation	76053			Sorde-l'Abbaye	8	40300	40306					
+node	4498511322	43.5293386	-1.0547860	L'Auberge de l'Abbaye				restaurant				
+relation	2169364			Sore	8	40430	40307					
+node	5522467321	44.3236420	-0.5819130	Le Cercle de la Paix				bar	43		Avenue Bernard Martin	
+node	5884161285	44.3239268	-0.5814865	L'imprévu				restaurant	256	40430	Rue Broustra	
+relation	1377271			Sort-en-Chalosse	8	40180	40308					
+node	12626544817	43.6826748	-0.9290262	Cercle sotois - Le café du moulin				cafe		40180	Route du Moulin	
+relation	75940			Souprosse	8	40250	40309					
+node	4027973834	43.7895511	-0.7143203	Chez Sissouille				restaurant	476	40250	Avenue du 11 Novembre 1918	
+relation	75862			Soustons	8	40140	40310					
+node	4307229191	43.7163235	-1.3530085	Mmaamm à La Ferme de Bathurt				restaurant	600	40140	Route de l'Etang Blanc	
+node	8294037516	43.7583513	-1.3372105	L'Auberge de la Pointe				restaurant	63	40140	Avenue de Galleben	
+node	8294060921	43.7670713	-1.2791041	Restaurant Dehiou				restaurant	90	40140	Chemin de Dehiou	
+node	9643396794	43.7553135	-1.3283982	La Pizzetta				restaurant		40140	Allée de la Cantère	
+node	9643401016	43.7545169	-1.3275235	La Storia				restaurant	29	40140	Rue Emile Nougaro	
+node	9643459417	43.7555098	-1.3275538	Le Pékoé				restaurant		40140	Rue Émile Nougaro	
+node	9643464809	43.7534234	-1.3362224	Le Grill du Lac				restaurant		40140	Avenue de Huningue	
+node	9808222190	43.7540830	-1.3294957	La Part des Anges				restaurant				
+node	9820176948	43.7749711	-1.4081502	Il Momento				restaurant				
+node	9820189274	43.7751196	-1.4089026	Au petit saintemarie				restaurant				
+node	9820210307	43.7751521	-1.4124307	Le balian cafe				restaurant	2		Montée de la Plage	
+node	9820212758	43.7751992	-1.4083388	Le bois flotté bar à vin et tapas				restaurant	12		Avenue de la Pètre	
+node	9820216772	43.7751392	-1.4087998	Otra cosa				restaurant	16		Avenue de la Pêtre	
+node	9820232277	43.7752091	-1.4079084	Bistro de l'8tre				restaurant	9		Avenue de la Pètre	
+node	9820236571	43.7751714	-1.4085561	La Pizzeria du Lac				restaurant	14		Avenue de la Pêtre	
+node	9820243697	43.7751901	-1.4084558	O bord de l'o café restaurant boutique				restaurant			avenue de la Pêtre	
+node	9820254603	43.7751553	-1.4082404	Bar restaurant la plage du lac				restaurant	6		Avenue de la Pêtre	
+node	9820264217	43.7751555	-1.4086680	Le Broom's				restaurant				
+node	9821990711	43.7549431	-1.3275680	O'Bar Basque				pub				
+node	9822061949	43.7540938	-1.3277473	Chaby’s Bar				pub				
+node	9822064542	43.7535726	-1.3275702	Pizza Marcela et distributeur automatique de pizzas				restaurant	10	40140	Place Robert Lassalle	
+node	11469133871	43.7539253	-1.3292119	Corner Craft Beer				bar	7	40140	Place du Commerce	
+node	12684674166	43.7538927	-1.3296941	Chez Albertine				restaurant		40140	Place du Commerce	
+node	12684784402	43.7553212	-1.3281852	Au coin gourmand				restaurant		40140	Allée de la Cantère	
+node	12854999375	43.7488849	-1.3319326	Ristorante Margherita				restaurant	38	40140	Avenue du Maréchal de Lattre de Tassigny	
+way	62860647	43.7577690	-1.3372519	Le Globe				restaurant	65	40140	Avenue de Galleben	
+way	62867251	43.7610334	-1.3350335	La Flotille du lac				restaurant				
+relation	75979			Tarnos	8	40220	40312					
+node	1798580725	43.5392155	-1.4611801	Le 10				bar	21	40220	Boulevard Jacques Duclos	
+node	3871575565	43.5545587	-1.4935749	Lairrial				restaurant	83	40220	Avenue Julian Grimau	
+node	3871575580	43.5340707	-1.4604091	Fratelli Ristorante				restaurant	40	40220	Boulevard Jacques Duclos	
+node	5378244274	43.5436482	-1.4605462	Street Houmei				restaurant	4	40220	Boulevard Jacques Duclos	
+node	5378244277	43.5410710	-1.4842454	Magma				restaurant	2	40220	Square Albert Mora	
+node	5414799929	43.5470695	-1.4881902	Restaurant Poissonnerie Le Petit Jeune				restaurant	34	40220	Avenue Julian Grimau	
+node	5660809036	43.5368622	-1.4606535	Sushis & Bowls				restaurant	1	40220	Rue Lise et Artur London	
+node	6436943244	43.5475161	-1.4878773	Le Napoli				restaurant	34 bis	40220	Avenue du 1er Mai	
+node	7139988381	43.5407588	-1.4613616	O Bistro.T				restaurant	7	40220	Place Alexandre Viro	
+node	7139988382	43.5407609	-1.4614458	Soleil d'Asie				restaurant	9	40220	Place Alexandre Viro	
+node	7344540058	43.5437973	-1.4611173	SB Artisans Burger				restaurant	3	40220	Boulevard Jacques Duclos	
+node	7406004429	43.5471598	-1.4882503	Au Noir et Blanc				restaurant	34	40220	Avenue Julian Grimau	
+node	7998021387	43.5466606	-1.4922019	Restaurant inter-entreprises Andrée Dupeyron				restaurant	53	40220	Avenue du 1er Mai	
+node	8143120198	43.5413567	-1.4841561	Le Komba' va				restaurant	4	40220	Square Albert Mora	
+node	8252910595	43.5337230	-1.4606452	Chez Dalida				cafe	40	40220	Boulevard Jacques Duclos	
+node	9493675607	43.5394721	-1.4607583	Zythos Bar				bar	18	40220	Boulevard Jacques Duclos	
+node	9669879061	43.5474325	-1.4890879	Le Métro				bar	36	40220	Avenue Julian Grimau	
+node	10167071857	43.5440872	-1.4610790	Méditerranée				restaurant	3	40220	Boulevard Jacques Duclos	
+node	12949723986	43.5425907	-1.4600126	La Méridienne				restaurant	1	40220	Place Serpa	
+node	13136477029	43.5423148	-1.4606645	La Mutinerie				restaurant	12 quater	40220	Boulevard Jacques Duclos	
+node	13710830653	43.5463286	-1.4612236	Pizzeria Nonna				restaurant	4	40220	Boulevard de la Yayi	
+way	158733926	43.5240695	-1.4625455	Buffalo Grill				restaurant	56	40220	Boulevard Jacques Duclos	
+relation	75905			Tartas	8	40400	40313					
+node	4308943194	43.8324013	-0.8101098	La Cantine de Juliette				restaurant				
+node	4308974194	43.8329312	-0.8087756	Le Calmos				bar				
+node	4315439992	43.8332746	-0.8080075	L'Escale Gourmande				restaurant				
+node	4315440095	43.8372681	-0.8170826	Le Magnolia				restaurant				
+relation	116837			Tercis-les-Bains	8	40180	40314					
+node	6681105904	43.6784583	-1.0949427	Le Naya				restaurant				
+relation	75898			Téthieu	8	40990	40315					
+node	3092768565	43.7517575	-0.9746880	Le Four à Bois				restaurant	26	40990	Rue des Fontaines	
+relation	1959566			Tilh	8	40360	40316					
+node	8738721123	43.5758316	-0.8368114	Humphrey's Burgers and Beers				restaurant	137	40360	Avenue de la Poste	
+relation	75970			Tosse	8	40230	40317					
+node	9789817713	43.6907371	-1.3313545	Coquette la Crevette				restaurant	44	40230	Avenue du Général de Gaulle	
+node	9789922682	43.6899466	-1.3318095	Le Moustache Café				pub				
+node	9789926980	43.6901498	-1.3316878	Au cheval blanc				restaurant				
+node	9790042234	43.6870855	-1.3355317	Le Ribote				restaurant				
+relation	75944			Toulouzette	8	40250	40318					
+node	9754088832	43.7603861	-0.6611127	Table Paysanne de la Ferme Comet-Tournier				restaurant				
+relation	123656			Uchacq-et-Parentis	8	40090	40320					
+node	14235658937	43.9290422	-0.5618962	Cercle de l'Estrigon				cafe	2657	40090	Route de la Base	
+relation	76231			Uza	8	40170	40322					
+node	4706594194	44.0330510	-1.1998892	La forge - Salon de thé & épicerie fine				cafe	36	40170	Rue du Lac	
+node	12098838390	44.0323436	-1.1996350	La table du Marensin				restaurant		40170	Rue de Castets	
+relation	111430			Vielle-Saint-Girons	8	40560	40326					
+node	425569147	43.9512928	-1.3513615	Restaurant Cafe Bistro Eurosol				restaurant				
+node	1319481026	43.9523372	-1.3618146	Restaurant Point Break				restaurant				
+node	1388945340	43.9081740	-1.3637636	Landais Gourmand				restaurant				
+node	1388945355	43.9083537	-1.3638923	La Tapita				restaurant				
+node	1810066911	43.9525288	-1.3619240	Le Don Camillo				restaurant				
+node	2951358128	43.9020534	-1.3118257	Les Terrasses du Lac				restaurant				
+node	2974539233	43.9524410	-1.3612550	de la mer				restaurant				
+node	2989671433	43.9524180	-1.3624940	Cocotte à la Plage				restaurant		40560	Route de la Plage	
+node	2989673035	43.9525020	-1.3611400	Le Tuco Plage				restaurant				
+node	2989757733	43.9526380	-1.3624570	Bar le Bo				bar		40560	Route de la Plage	
+node	8852808219	43.9526107	-1.3622619	Les Ganivelles				restaurant				
+node	12144503005	43.9154924	-1.3047948	Frangins Frangines				bar				
+way	124717621	43.9154645	-1.3047230	Chez cosa pizza				restaurant				
+relation	3758344	43.9035898	-1.3096425	Le Nénuphar				restaurant				
+way	713036638	43.9143200	-1.3049640	La Ferme d'Huchet				restaurant	127	40560	Rue Cante Coucut	
+relation	75853			Vieux-Boucau-les-Bains	8	40480	40328					
+node	470069516	43.7857126	-1.4029875	Pub Mail				pub				
+node	470069517	43.7849933	-1.4040942	La Crêperie				restaurant				
+node	470069518	43.7848684	-1.4042302	Le Tivoli				restaurant	2	40480	Promenade du Mail	
+node	470069520	43.7842425	-1.4067180	Le Poisson Rouge				restaurant		40480	Place du Levant	
+node	470069522	43.7862543	-1.4006661	Bar du centre				bar	5	40480	Place de la Mairie	
+node	470069523	43.7859569	-1.4005529	Le Bistrot				restaurant	2	40480	Grand'Rue	
+node	470069526	43.7858759	-1.3998970	Bimi Beach				restaurant				
+node	3054835420	43.7856520	-1.4031238	La Crêperie du Pub				restaurant				
+node	3085721278	43.7864540	-1.4025209	La table de P'tit Ju				restaurant				
+node	5464192057	43.7918324	-1.4085759	Chez coco				restaurant	7	40480	Avenue des Dunes	
+node	5784792753	43.7862597	-1.3976185	Noolie’s Pizza				restaurant	8	40480	Route des Lacs	
+node	6578770789	43.7869983	-1.4005893	Gypsy Kitchen				restaurant				
+node	8294069336	43.7860295	-1.3999253	Lumaa				restaurant	15	40480	Grand'Rue	
+node	8337345269	43.7846790	-1.4045251	L'O.DI.CE				restaurant				
+node	8337379045	43.7859337	-1.3990130	Les Têtes d'Ail				restaurant				
+node	8337720535	43.7869553	-1.4040145	Z'océane				restaurant	4	40480	Avenue du Junka	
+node	8338740195	43.7867566	-1.4006821	Crêperie Saint Jours				restaurant	17	40480	Rue du Capitaine Saint-Jours	
+node	8349343774	43.7880093	-1.4121087	Le wharf				restaurant	43 avenue de la plage	40480		
+node	8349481571	43.7865285	-1.4117887	La Dolce Vita				restaurant				
+node	8349539280	43.7843639	-1.4066470	Le p'ti resto				restaurant				
+node	8349616696	43.7851804	-1.4015161	Le Deuz				bar				
+node	8412068147	43.7878898	-1.4116895	Saudade				restaurant				
+node	9645230245	43.7881327	-1.4139236	Café de la plage				restaurant	55	40480	Avenue de la Plage	
+node	9645248457	43.7881388	-1.4135188	Côté Sable				restaurant	51	40480	Avenue de la Plage	
+node	9645248458	43.7881388	-1.4133019	Le Calicoba				restaurant	51	40480	Avenue de la Plage	
+node	10831821041	43.7848875	-1.4012391	Miss côte				restaurant		40480		
+node	10889592976	43.7884713	-1.4138483	Captain Bar				bar	46	40480	Avenue de la Plage	
+node	11921806374	43.7879063	-1.4118187	Jack's Burger				restaurant				
+node	11921885934	43.7858806	-1.3989874	L'instant				restaurant				
+node	12058979077	43.7828616	-1.3957859	Lou Resto D'aqui				restaurant				
+node	12684986364	43.7863967	-1.4022608	Tamaris Bar à Tapas				bar				
+node	14020191245	43.7866287	-1.4070454	Chez cosa				restaurant				
+way	148548510	43.7880330	-1.4112130	L'Emporté				restaurant	40	40480	Avenue de la Plage	
+way	898490020	43.7884559	-1.4139409	Cap'tain Bar				restaurant				
+relation	1379911			Villeneuve-de-Marsan	8	40190	40331					
+node	11381458489	43.8940025	-0.3059359	Road Art Café				cafe	17	40190	Avenue d'Aquitaine	
+node	12702310972	43.8927356	-0.3066211	Le Café des Allées				restaurant	44	40190	Allée d'Haussez	
+relation	1782750			Ychoux	8	40160	40332					
+node	1243846868	44.3273714	-0.9419454	Restaurant Au P'tit Creux des Landes				restaurant	3		Rue Brémontier	
+node	8437479774	44.3284866	-0.9606270	Lou Choureut				restaurant	9		Rue Félix Arnaudin	
+node	8437509374	44.3281313	-0.9600297	La Pinède Gourmande				restaurant	14		Rue Félix Arnaudin	
+relation	123657			Ygos-Saint-Saturnin	8	40110	40333					
+node	1915288328	43.9758665	-0.7371921	Côte Ouest				restaurant				
+node	5129348501	43.9775669	-0.7358008	Snack Ygossais				restaurant				

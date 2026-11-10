@@ -1,0 +1,1361 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	906152			Allonnes	8	49650	49002					
+way	235039932	47.2934106	0.0233410	Le Topette				cafe		49650	Rue Albert Pottier	
+way	235040335	47.2931371	0.0234533	L'Hippodrome				cafe		49650	Rue Albert Pottier	
+relation	5812047			Tuffalun	8	49700	49003					
+node	9255901400	47.2960088	-0.3241979	La Crapaudière				cafe				
+relation	178351			Angers	8	49000;49100	49007					
+node	627537662	47.4714925	-0.5514882	Le Pub Ralliement				restaurant		49000	Place du Ralliement	
+node	627734797	47.4744108	-0.5516046	L'Entrepôt				bar				
+node	627734806	47.4743863	-0.5530773	Donald's Pub				bar	48	49100	Rue Boisnet	
+node	1129461617	47.4787889	-0.5653036	Le Baromètre				cafe				
+node	1405577205	47.4664119	-0.5500986	Bigwood's Pub				pub	20	49000	Rue de Châteaugontier	
+node	1405615632	47.4689551	-0.5526376	Pink House				cafe				
+node	1405648895	47.4718421	-0.5531159	Autrement l'Île de Gorée				bar				
+node	1405669423	47.4730480	-0.5515166	La Civette				bar				
+node	1405687765	47.4738901	-0.5458954	James Joyce				pub				
+node	1405730281	47.4757773	-0.5479896	Bouillon Baron				restaurant	11	49100	Avenue Marie Talet	
+node	1561091744	47.4549960	-0.5664856	Chez Lux				restaurant	199	49000	Rue Éblé	
+node	2010684140	47.4752684	-0.5497259	T4 Tea For U				cafe				
+node	2036075824	47.4733512	-0.5498210	La petite ardoise				restaurant				
+node	2036117584	47.4722215	-0.5547078	Les Sentiers du Dakar				restaurant				
+node	2122537032	47.4721415	-0.5507957	Le Cercle				nightclub	6		Rue David-d'Angers	
+node	2122549958	47.4715737	-0.5516423	Le Bouillon du Ralliement				restaurant	3	49100	Place du Ralliement	
+node	2122550815	47.4713076	-0.5513013	Brasserie du Ralliement				restaurant	7	49100	Place du Ralliement	
+node	2122786486	47.4818162	-0.5671291	Chez Mario				restaurant				
+node	2122786489	47.4816738	-0.5673663	L'incontournable				cafe				
+node	2133866559	47.4711890	-0.5511289	Le Saint Julien Cocktails Bar				bar				
+node	2133880369	47.4730803	-0.5502010	Les Trois Pinardiers				bar				
+node	2156101710	47.4749405	-0.5276776	Le Claudel				cafe	13	49100	Place Camille Claudel	
+node	2255652692	47.4771078	-0.5576783	Le Sourire				restaurant	8	49100	Boulevard Arago	
+node	2289281774	47.4757381	-0.5501503	Delirium Café				bar	40 bis	49100	Boulevard Ayrault	
+node	2289283200	47.4741278	-0.5480556	Le Welsh				pub	25	49000	Place Louis Imbach	
+node	2289284114	47.4720636	-0.5532430	Le Boléro				nightclub				
+node	2289294178	47.4725369	-0.5525098	Bar du Centre				bar				
+node	2334346689	47.4728927	-0.5525710	L'Alambic Electric				bar				
+node	2334352859	47.4677487	-0.5509770	Les Variétés				restaurant				
+node	2343222092	47.4750146	-0.5514552	Q de sac				bar	29		Rue du Port-de-l'Ancre	
+node	2343228888	47.4673731	-0.5501041	La Crémaillière				restaurant	30	49100	Rue Bressigny	
+node	2343229955	47.4691500	-0.5491020	Fricot				restaurant	7 bis	49100	Boulevard du Maréchal Foch	
+node	2343234430	47.4729810	-0.5518600	Le Corléone				restaurant	42	49100	Rue du Cornet	
+node	2343238881	47.4717235	-0.5529354	Pasta al Dente				restaurant				
+node	2343238883	47.4717656	-0.5529920	Le Bistrot des Ducs				restaurant	6	49100	Rue des Deux-Haies	
+node	2344415437	47.4718157	-0.5530698	Le Cercle Rouge				bar				
+node	2344415438	47.4735371	-0.5493916	Le Twist				bar	8		Rue Saint-Étienne	
+node	2344415439	47.4735399	-0.5491356	Le 17.45				bar				
+node	2344418263	47.4731482	-0.5506524	Sakura				restaurant	8	49100	Rue des Poëliers	
+node	2344427636	47.4724899	-0.5511227	Le Dublin's				pub				
+node	2344429669	47.4734942	-0.5488757	Le Milord				restaurant				
+node	2344434264	47.4713580	-0.5540471	La Brigade				restaurant	5	49100		Place Mondain Chanlouineau
+node	2344434392	47.4714330	-0.5544140	Holly’s Diner				restaurant	2	49100	Rue Mondain Chanlouineau	
+node	2344435112	47.4701374	-0.5538830	Le Kent				pub	7		Place Sainte-Croix	
+node	2351594610	47.4788863	-0.6011299	Restaurant Universitaire Belle Beille				restaurant	3	49000	Boulevard de Lavoisier	
+node	2352344787	47.4789728	-0.5506555	Restaurant Universitaire - La Gabare				restaurant				
+node	2376377086	47.4736147	-0.5591577	Le pic pus				cafe				
+node	2483199573	47.4698775	-0.5511357	Oh Pinaise !				cafe				
+node	2484010877	47.4690233	-0.5525447	Le Welcome				bar				
+node	2579826973	47.4739603	-0.5485747	Le Punch				bar	6	49000	Place Louis Imbach	
+node	2632456493	47.4752769	-0.5617710	Ô n°4				bar				
+node	2638025827	47.4740421	-0.5595427	T'es Rock Coco				bar	16		Rue Beaurepaire	
+node	2638025829	47.4741717	-0.5597301	Dolce Pittsa				restaurant	22	49100	Rue Beaurepaire	
+node	2638047452	47.4741649	-0.5599647	Le Brewpub × Mauvaise graine				pub				
+node	2638285669	47.4744768	-0.5604865	Rive - Café cantine				cafe	39	49100	Rue Beaurepaire	
+node	2773484288	47.4513726	-0.5487341	Le Lorette				restaurant	30	49000	Boulevard Joseph Bédier	
+node	2781238755	47.4653072	-0.5574175	Bouillon Saint-Laud				restaurant	8	49100	Place de la Gare	
+node	2781926816	47.4653848	-0.5565411	Brasserie de la Gare				restaurant	5-7	49100	Place de la Gare	
+node	2782137619	47.4655095	-0.5571518	Suzanne				cafe	2	49100	Place de la Gare	
+node	2852670350	47.4718366	-0.5529381	Maison Paganelli				restaurant				
+node	2852777037	47.4673290	-0.5496615	Grill house				restaurant	37	49100	Rue Bressigny	
+node	2853059355	47.4686036	-0.5538052	Il Fiore				restaurant	9		Rue des Lices	
+node	2853072935	47.4734214	-0.5541382	Chicken Valley				restaurant	31	49100	Rue de la Parcheminerie	
+node	2853072947	47.4732710	-0.5547252	Le Bazar				bar	43	49100	Rue de la Parcheminerie	
+node	2853072949	47.4732322	-0.5548846	Sewa				bar	45 bis	49100	Rue de la Parcheminerie	
+node	2853077338	47.4695333	-0.5534816	Le Diplomate				bar				
+node	2862085560	47.4611437	-0.5383148	Marlaguette				restaurant	105		Rue de la Madeleine	
+node	2986109597	47.4891193	-0.5432904	Flunch				restaurant	3	49100	Boulevard Gaston Ramon	
+node	3241192949	47.4692371	-0.5568179	Tigr.				restaurant	43	49000	Rue Toussaint	
+node	3241194403	47.4697981	-0.5548581	Chez Minh				restaurant				
+node	3241202541	47.4716176	-0.5526477	Le Connétable				restaurant	13		Rue des Deux-Haies	
+node	3259886661	47.4663127	-0.5263567	Ristorante Del Arte				restaurant		49000	Zac de montrejeau espace anjou	
+node	3392485236	47.4736048	-0.5812538	Le CoffeePot				cafe	19		Avenue du Général Patton	
+node	3393642768	47.4738618	-0.5808804	Assos Kebap				restaurant				
+node	3393654121	47.4736334	-0.5800355	Bar Tabac Le Montesquieu				cafe				
+node	3415728985	47.4679820	-0.5966845	L'étage				restaurant				
+node	3471200600	47.4740019	-0.5781500	studio 49				nightclub	8	49000	Place Victor Vigan	
+node	3496906479	47.4728036	-0.5615701	La descente de la Marine				bar	28	49100	Quai des Carmes	
+node	3498895268	47.4730534	-0.5619380	Carmela				restaurant	34	49100	Quai des Carmes	
+node	3502759513	47.4735657	-0.5554019	Avvinà				bar				
+node	3572129408	47.4738495	-0.5548152	Le Maine				bar				
+node	3572269914	47.4744981	-0.5524025	Krousty Sabaïdi				restaurant				
+node	3572272307	47.4742860	-0.5523811	Maison flores - café fleur				cafe	26		Rue Boisnet	
+node	3583777532	47.4693254	-0.5563024	Le Dos de la Cuillère				restaurant	35	49100	Rue Toussaint	
+node	3589528649	47.4741488	-0.5543033	Badem				restaurant				
+node	3589529947	47.4742688	-0.5545173	L’ardoise				restaurant	7	49000	Place Molière	
+node	3589529994	47.4739024	-0.5545367	La Gogane				restaurant	11	49100	Place Molière	
+node	3589543645	47.4740664	-0.5535961	Pizza Tempo				restaurant				
+node	3589545968	47.4745760	-0.5525626	Sagoa				restaurant	23bis	49100	Rue du Mail	
+node	3589565214	47.4745559	-0.5510139	Lait thym sel				restaurant	17	49100	Rue Boisnet	
+node	3640730462	47.4880227	-0.5741619	Le Ti-Rad'				cafe				
+node	3784521995	47.4751885	-0.5535330	Nanooda				restaurant	7	49100	Rue du Mail	
+node	3797961457	47.4748198	-0.5470881	La cave de la trinquette				cafe				
+node	3817027083	47.4763623	-0.5515957	Burgers & friends				restaurant	1	49100	Rue Thiers	
+node	3817036069	47.4764885	-0.5519128	Pizza Harmonie				restaurant				
+node	3828420346	47.4756575	-0.5505258	Le New-Yorkais				nightclub				
+node	3828427410	47.4760578	-0.5509024	New Jaz' Café				cafe				
+node	3893281259	47.4716768	-0.5554174	Once upon a time				cafe				
+node	3928537318	47.4710883	-0.5524896	Les Petits Prés				restaurant	6	49100	Place du Ralliement	
+node	3928584895	47.4704855	-0.5526591	La Plage				bar				
+node	3944605819	47.4653096	-0.5604028	Asia vietfood				restaurant	55	49100	Rue Faidherbe	
+node	3946836864	47.4682313	-0.5503082	Markus				cafe	21 Foch	49100	Boulevard du Maréchal Foch	
+node	4151273800	47.4787680	-0.6065662	Restaurant de la Technopole				restaurant				
+node	4169430243	47.4742375	-0.5452625	Le Grand Jardin				restaurant				
+node	4169430245	47.4755379	-0.5486532	Pizza Hut				restaurant				
+node	4213078438	47.4721691	-0.5506939	La Tablée				restaurant	1		Rue David-d'Angers	
+node	4278203489	47.4721617	-0.5645773	La Réserve				restaurant				
+node	4294248689	47.4729719	-0.5519826	Côté Sushi				restaurant	2	49000	Rue Bodinier	
+node	4416055276	47.4690205	-0.5543247	1801 Les cuisines du musée				restaurant				
+node	4502368091	47.4745996	-0.5601946	Chez la mère - Le Ronceray				restaurant				
+node	4508638689	47.4733725	-0.5537760	Cats and Cookies				cafe	13		Rue de la Roë	
+node	4556225789	47.4676685	-0.5585728	Au grain d’Elle				restaurant	5	49100	Rue Hoche	
+node	4556284593	47.4673612	-0.5584364	Les trois vallées				restaurant				
+node	4602351217	47.4705375	-0.5485292	Le triporteur				restaurant	40		Rue David-d'Angers	
+node	4693824393	47.4730875	-0.5490978	Le Punjab				restaurant				
+node	4781884266	47.4722758	-0.5526264	PMP				bar				
+node	4787106243	47.4749796	-0.5504093	La Beeka				restaurant				
+node	4787904748	47.4696836	-0.5550980	Le Napoli				restaurant	15	49100	Rue Toussaint	
+node	4789000416	47.4721902	-0.5530382	Joker's Pub				pub				
+node	4949540583	47.4702161	-0.5580443	Chez Pont-Pont				restaurant	13	49100	Promenade du Bout du Monde	
+node	4950649460	47.4728859	-0.5616884	Le Comptoir de la Marine				bar	44	49100	Quai des Carmes	
+node	4958908252	47.4704704	-0.5542194	Le Comptoir de Marie Bigoude				restaurant		49100	Rue Montault	
+node	4968667422	47.4781019	-0.5336374	Le Victor Hugo				bar				
+node	5062783120	47.4679309	-0.5517043	La Boucherie				restaurant				
+node	5062789234	47.4678633	-0.5515188	Constant				bar				
+node	5243219422	47.4682839	-0.5500071	Cardinal				cafe	4B	49100	Rue des Arènes	
+node	5270021222	47.4766010	-0.5581112	Au petit resto				restaurant				
+node	5312235846	47.4605294	-0.5521881	Le Bistrot de Louise				restaurant	22	49000	Rue Dupetit-Thouars	
+node	5312246803	47.4625157	-0.5523744	O’p’tits oignons				restaurant	17	49000	Rue Dupetit-Thouars	
+node	5313783764	47.4618979	-0.5544850	Mémé dans les Orties				restaurant				
+node	5314116693	47.4848368	-0.5173163	L’Astuce				restaurant	57	49100	Avenue Victor Châtenay	
+node	5331600425	47.4598230	-0.5368773	Le Madeleine				bar		49000	Rue Volney	
+node	5471755664	47.4793226	-0.5422448	Le Gallia				cafe				
+node	5592365938	47.4734350	-0.5545415	La Lona				bar				
+node	5592368912	47.4735813	-0.5539827	La Cantine Viêt				restaurant	9	49000	Rue de la Roë	
+node	5592639433	47.4723464	-0.5522780	Les Casse-Croûte de Suzy				restaurant				
+node	5614075086	47.5113824	-0.5492792	Restaurant de la Ferme de l’Île Saint-Aubin				restaurant				
+node	5737621683	47.4796576	-0.5506626	Café Pathé				cafe	1	49000	Avenue des Droits de l'Homme	
+node	5758726057	47.4736662	-0.5702623	Bar Tabac Presse Saint-Jacques				bar	47		Rue Saint-Jacques	
+node	5870349638	47.4715416	-0.5549589	Le Grain Perché				cafe	72	49100	Rue Baudrière	
+node	5896873755	47.4733046	-0.5538969	Gueuleton				restaurant	14	49000	Rue de la Roë	
+node	5896911517	47.4734763	-0.5544174	Au pays Mandingue				restaurant				
+node	5897187306	47.4717528	-0.5528328	Thaï L’Inde				restaurant				
+node	5897187307	47.4715775	-0.5525753	L’Okapi				bar				
+node	5899928985	47.4723597	-0.5605079	L'Eau à la Bouche				restaurant	31	49100	Quai des Carmes	
+node	5899928986	47.4723448	-0.5613700	La Cale				bar				
+node	5899929085	47.4721509	-0.5608928	La Péniche				restaurant		49100	Quai Des Carmes	
+node	5899993301	47.4705162	-0.5557966	La Ferme				restaurant	2	49100	Place Freppel	
+node	5902329618	47.4733939	-0.5542469	Thai addict				restaurant				
+node	5902331919	47.4687508	-0.5528598	Café St Martin				cafe				
+node	5904513739	47.4736705	-0.5532395	Daddy				restaurant	22	49100	Rue Parcheminerie	
+node	5934376148	47.4661401	-0.5469871	Chez Minh				restaurant				
+node	6000019039	47.4738144	-0.5825549	Le Comptoir Phénicien				restaurant				
+node	6008051961	47.4673608	-0.5500262	Paku Paku				restaurant	38		Rue Bressigny	
+node	6028363421	47.4603266	-0.6169149	Bistrot Jules				restaurant				
+node	6034566866	47.4733690	-0.5466032	Poulet Braisé				restaurant	56		Rue Jules Guitton	
+node	6067268886	47.4717828	-0.5551603	Potiron & Ciboulette				restaurant	57		Rue Baudrière	
+node	6067283085	47.4747072	-0.5606327	Dazuma				restaurant	44		Rue Beaurepaire	
+node	6124818693	47.4688285	-0.5494688	Crêperie des Angles				restaurant	13B	49100	Boulevard du Maréchal Foch	
+node	6138841468	47.5035239	-0.5594905	La Guinguette du Port de l'île				bar		49000	Port de l'Île Saint-Aubin	
+node	6176638895	47.4521168	-0.5553335	Le comptoir des saveurs				cafe				
+node	6176664689	47.4519092	-0.5556777	Le Win's				restaurant				
+node	6312389931	47.4740778	-0.5377752	La cabane des gourmand·e·s				cafe	95	49100	Avenue Pasteur	
+node	6320578845	47.4520447	-0.5382650	O Bistrot d'LN				restaurant	106	49000	Rue des Ponts-de-Cé	
+node	6371909187	47.4651827	-0.5576895	Le Saint-Germain				bar				
+node	6415856820	47.5009241	-0.5707574	Le Coin des Gourmands				cafe				
+node	6479181823	47.4671044	-0.5566303	Ribote				restaurant	30	49100	Rue Delaâge	
+node	6554719688	47.4671808	-0.5524344	Crafty Brewpub				pub	60	49000	Boulevard du Maréchal Foch	
+node	6561407331	47.4749613	-0.5615016	L'étincelle				cafe	65	49100	Rue Beaurepaire	
+node	6579947710	47.4763992	-0.5772105	Buvette des Rêveries				cafe				
+node	6722822045	47.4727204	-0.5520303	Le Grandgousier				restaurant	7	49100	Rue Saint-Laud	
+node	6723499254	47.4672573	-0.5498281	La Strada				restaurant	40		Rue Bressigny	
+node	6783252485	47.4727309	-0.5599810	Barco Vino				restaurant		49100	Quai des Carmes	
+node	6789256838	47.4736430	-0.5511985	Croccante				restaurant	54	49100	Rue du Mail	
+node	6870095037	47.4744435	-0.5612837	Le Paloma				restaurant	7		Rue Grille	
+node	6902569966	47.4674717	-0.5249426	Tran				restaurant				
+node	6902569967	47.4673945	-0.5247062	L’Ancre				restaurant				
+node	6902569973	47.4677652	-0.5250265	Francesca				restaurant				
+node	6908323072	47.4665940	-0.5222647	Made Burger				restaurant				
+node	6908323079	47.4665803	-0.5215894	Anjou Café				bar				
+node	6909853140	47.4674817	-0.5243144	Pizza Tempo				restaurant				
+node	6996999445	47.4683464	-0.5371969	Le Palais 49				bar	29	49100	Rue Louis Gain	
+node	7021315531	47.4676342	-0.5588859	L'Académie				restaurant	7	49000	Place de l’Académie	
+node	7031750741	47.4776032	-0.5466093	Le Zinc à Crêpes				restaurant	42		Avenue Besnardière	
+node	7070213677	47.4788912	-0.5449122	Chez Clem's				restaurant				
+node	7070213678	47.4782013	-0.5456083	La table 33				restaurant	33	49100	Avenue Besnardière	
+node	7087821415	47.4680447	-0.5465634	Restaurant Iki				restaurant				
+node	7093902198	47.4627438	-0.5598843	Affamés				restaurant				
+node	7093902199	47.4626997	-0.5603306	La Passerelle				restaurant				
+node	7134125085	47.4721944	-0.5567657	Autour d'un Cep				restaurant	9	49100	Rue Baudrière	
+node	7134309385	47.4686382	-0.5497935	Le 15 Gourmand				restaurant	15		Boulevard du Maréchal Foch	
+node	7134312286	47.4658730	-0.5569372	Le Relais				restaurant	9	49100	Rue de la Gare	
+node	7134337385	47.4657291	-0.5581278	Gribiche				restaurant	9		Rue Max Richard	
+node	7152468008	47.4880531	-0.5438393	Royal Panda				restaurant				
+node	7182316438	47.4679713	-0.5506559	Signorizza				restaurant				
+node	7182316439	47.4681068	-0.5504701	Le Totem				bar	23		Boulevard du Maréchal Foch	
+node	7182316441	47.4662972	-0.5473443	Le Saigon				restaurant	83		Rue Bressigny	
+node	7182316442	47.4677245	-0.5505694	Meet Noodle				restaurant				
+node	7182316443	47.4679203	-0.5507219	Tokyo Foch				restaurant				
+node	7182316446	47.4684234	-0.5491556	India				restaurant				
+node	7195640020	47.4722990	-0.5540501	La Loge				bar				
+node	7211963111	47.4790827	-0.5603017	Le Scarron				bar				
+node	7227294285	47.4750121	-0.5503256	Foodista				restaurant	8	49100	Rue Boisnet	
+node	7304548467	47.4730206	-0.5501557	La Soufflerie				restaurant	8	49100	Place du Pilori	
+node	7419182234	47.4718364	-0.5420236	Chez Oki				restaurant	12	49100	Avenue Pasteur	
+node	7419566219	47.4728928	-0.5452739	Au comptoir de l'Inde				restaurant	11		Place Pierre Mendès-France	
+node	7419566220	47.4730433	-0.5461510	Love e Basta				restaurant	10	49100	Place Pierre Mendès France	
+node	7638178572	47.4781941	-0.5643704	Le 2.4.9				bar				
+node	7657360628	47.4696505	-0.5589885	Le clos du Roi				restaurant				
+node	7726818085	47.4747986	-0.5202789	V&B				bar				
+node	7833232058	47.4705681	-0.5518483	Le strapontin				restaurant				
+node	7833232059	47.4704789	-0.5518230	Lili Gourmande				cafe				
+node	7833232069	47.4690698	-0.5532979	Trésors du liban				restaurant	4	49100	Rue des Lices	
+node	8008026573	47.4753327	-0.5495434	Le Marais				bar	4		Place Hérault	
+node	8232519519	47.4577065	-0.5438822	L'Enjeu				bar				
+node	8255012000	47.4592132	-0.5455450	Blue Monkeys				bar				
+node	8255012001	47.4589973	-0.5454127	Pastels, wax et cie				restaurant				
+node	8285804048	47.4686473	-0.5537346	Potines				cafe				
+node	8285931357	47.4678120	-0.5552543	Le Concivial des Lices - Salon de thé				cafe				
+node	8286151520	47.4681525	-0.5545074	Yakitori				restaurant				
+node	8286178812	47.4697426	-0.5539068	Gustave et Claude				restaurant	10	49100	Rue Saint-Aubin	
+node	8286178814	47.4695579	-0.5536868	Heiko				restaurant	12	49100	Rue Saint-Aubin	
+node	8329787764	47.4734101	-0.5546586	MC Tacos				restaurant				
+node	8329831847	47.4732990	-0.5550723	Lela				restaurant				
+node	8329905427	47.4726353	-0.5535969	Zanzi Bar				bar	23		Rue Bodinier	
+node	8329905430	47.4726213	-0.5536927	Barberousse				bar	25	49100	Rue Bodinier	
+node	8329905436	47.4727383	-0.5528287	Le Maestro				bar				
+node	8329956504	47.4737389	-0.5553943	Le P'tit Daz				restaurant	21	49100	Place Molière	
+node	8330316957	47.4737701	-0.5593320	Umami Kitchen				restaurant	9	49100	Rue Beaurepaire	
+node	8330368488	47.4723909	-0.5527483	Little Pony				bar				
+node	8330415756	47.4728977	-0.5532952	La Cour				restaurant				
+node	8330585417	47.4738580	-0.5542643	Vision barber shop				bar				
+node	8331235299	47.4725977	-0.5546180	So Sushi				restaurant				
+node	8331289457	47.4730810	-0.5517003	My Gyoza				restaurant	36	49000	Rue du Cornet	
+node	8331289461	47.4728477	-0.5528948	Cahupa				restaurant	14	49100	Rue Bodinier	
+node	8331334476	47.4730523	-0.5508008	Etienne				cafe				
+node	8331334477	47.4730391	-0.5509187	California				restaurant				
+node	8331334479	47.4730102	-0.5511679	Le Gainzbar				bar				
+node	8334430665	47.4706412	-0.5581840	Crêperie du château				restaurant				
+node	8334430686	47.4661571	-0.5567954	Maison Katora				restaurant	4	49100	Rue d'Anjou	
+node	8334430711	47.4663261	-0.5567370	Kazumi				restaurant	3	49100	Rue d'Anjou	
+node	8402036104	47.4698834	-0.5545611	Chocolaterie pâtisserie Bourdillat				cafe				
+node	8423189544	47.4740107	-0.5597130	Semo				cafe	23		Rue Beaurepaire	
+node	8423189547	47.4738134	-0.5594035	Les casse-pions				bar				
+node	8463640166	47.4700038	-0.5540233	220° Celsius				restaurant	1		Rue Saint-Aubin	
+node	8493565933	47.4708556	-0.5538820	Miam miam, j'ai une faim de loup				cafe				
+node	8515289987	47.4685301	-0.5506199	Café Joyeux				cafe				
+node	8515352148	47.4703000	-0.5482482	Black Peat				pub	2	49100	Boulevard du Maréchal Foch	
+node	8515352149	47.4701912	-0.5483954	Tonton Foch				restaurant	4	49100	Boulevard du Maréchal Foch	
+node	8515367065	47.4692546	-0.5495964	Joe Carpa				restaurant	16	49100	Boulevard du Maréchal Foch	
+node	8515386992	47.4694912	-0.5493430	Starbucks				cafe				
+node	8515399167	47.4706428	-0.5487196	Le Loup-Phoque				bar				
+node	8544980578	47.4728163	-0.5518620	Santosha				restaurant	3		Rue Saint-Laud	
+node	8544980579	47.4728637	-0.5518052	Chez Marie-Thérèse				cafe	1	49100	Rue Saint-Laud	
+node	8568931894	47.4716213	-0.5528046	Cambodia Street Food				restaurant	10	49100	Rue des Deux-Haies	
+node	8568939962	47.4702938	-0.5510790	Numéro 10 Street Pizza				restaurant	10		Rue des Angles	
+node	8568991685	47.4713817	-0.5498193	Le P’tit Bonheur Angevin				bar				
+node	8568991690	47.4710361	-0.5505858	Nuabol				restaurant	4		Rue Saint-Maurille	
+node	8605876118	47.4722786	-0.5543649	Maison Watson				restaurant	41	49100	Rue Plantagenêt	
+node	8822458852	47.4720744	-0.5529519	Barock				bar				
+node	8822458855	47.4719638	-0.5531052	Flo				bar				
+node	8822458856	47.4718287	-0.5535723	Le Pas Sage				bar				
+node	8822458861	47.4716230	-0.5536427	Pok Ïno				restaurant	61	49100	Rue Saint-Laud	
+node	8839164145	47.4836149	-0.5552151	Ôé! Cafétéria				cafe				
+node	8841249100	47.4714296	-0.5539319	La Grappe d'Or				bar				
+node	8841315496	47.4714949	-0.5548820	Hànôi				cafe				
+node	8841349243	47.4716710	-0.5553457	Une Fille & Des Quilles				restaurant				
+node	8841349244	47.4716484	-0.5552574	Grusson				restaurant	68	49100	Rue Baudrière	
+node	8841451159	47.4721285	-0.5544783	Buddy's bar				bar				
+node	8841451163	47.4721471	-0.5550845	Icerolls & co				restaurant			Place de la République	
+node	8842476478	47.4722403	-0.5543173	Gongcha				cafe				
+node	8870610551	47.4728827	-0.5516300	Il Punto				bar				
+node	8870610553	47.4728118	-0.5515332	Maison Caldo				cafe	6	49100	Rue Saint-Georges	
+node	8870610554	47.4727880	-0.5513517	Le Comptoir				bar				
+node	8871212897	47.4733063	-0.5498807	Les Fils à Maman				restaurant		49100	Place du Pilori	
+node	8871261914	47.4727207	-0.5496175	Fika				cafe	70	49100	Rue du Mail	
+node	8871268519	47.4729303	-0.5497158	Barbecue Party				restaurant	69	49100	Rue du Mail	
+node	8871315262	47.4737594	-0.5511564	Ti'Bar				bar				
+node	8871315268	47.4734763	-0.5509300	Le V				bar				
+node	8879219102	47.4722821	-0.5405751	Frikadel				restaurant	24	49100	Avenue Pasteur	
+node	8880432756	47.4745434	-0.5657259	Le Beaulieu				cafe				
+node	8948036262	47.4662010	-0.5527333	The new me				cafe				
+node	8952224919	47.4733701	-0.5466955	Le Marigny				bar				
+node	8952224920	47.4733645	-0.5464477	Oh! Puces				bar				
+node	8952224925	47.4732963	-0.5460989	La Tour de Pise				restaurant	70	49100	Rue Jules Guitton	
+node	8952224926	47.4732226	-0.5460638	La Manufacture				bar				
+node	8952224928	47.4728681	-0.5462556	Le Mojo				bar	12		Place Pierre Mendès-France	
+node	8952224932	47.4735195	-0.5465111	Le Poulet bicyclette				restaurant	39		Rue Jules Guitton	
+node	8952224936	47.4734539	-0.5460611	Chez Amine				restaurant	53	49100	Rue Jules Guitton	
+node	8952224941	47.4742266	-0.5472072	La cabane				bar				
+node	8952224942	47.4741893	-0.5472402	Sawasdee Bangkok				restaurant				
+node	8952224944	47.4739596	-0.5474875	Au Fût et à mesure				bar				
+node	8957968365	47.4442562	-0.5461666	Signorizza				restaurant	8		Rue Papiau de la Verrie	
+node	8957968367	47.4441389	-0.5464141	La Taverne				restaurant	11		Rue Papiau de la Verrie	
+node	9028285174	47.4726622	-0.5609564	Mamie Fada				restaurant	18	49100	Quai des Carmes	
+node	9028285176	47.4743526	-0.5605733	Pizza Micky				restaurant				
+node	9049099582	47.5003723	-0.5703071	L’Oasis				cafe				
+node	9088769459	47.4680472	-0.5505767	Matt Murphy’s				pub				
+node	9104297178	47.4545495	-0.5741872	La Douce Heure				restaurant				
+node	9124295874	47.4799326	-0.5266584	Le Beauséjour				bar				
+node	9149668699	47.4596584	-0.5544047	Le Petit Chalet				bar				
+node	9177966192	47.4781306	-0.5433203	Le Raboliot				restaurant				
+node	9178347388	47.4629095	-0.5540438	Brasserie Lafayette				restaurant	11	49000	Place Lafayette	
+node	9233197779	47.4657752	-0.5572323	Le Snooker				bar				
+node	9233275102	47.4670354	-0.5452079	Bar du Lycée				pub				
+node	9233275103	47.4660259	-0.5566103	Angkor				restaurant	6 bis			
+node	9263864127	47.4813891	-0.5231313	Taj Tandoor				restaurant				
+node	9342269398	47.4658087	-0.5569234	Fouées Gargantua				restaurant	11	49100	rue de la Gare	
+node	9342269399	47.4660343	-0.5569670	L'Annexe				cafe				
+node	9370542882	47.4731302	-0.5492552	Le P'tit Breton				restaurant				
+node	9455668278	47.4415713	-0.5718403	Le Rétro				restaurant				
+node	9548304848	47.4775679	-0.5525129	Sol e Luna				restaurant	14	49100	Boulevard Robert	
+node	9552088931	47.4848812	-0.5516061	Le Tam's				restaurant	62	49100	Promenade de Reculée	
+node	9552088932	47.4871031	-0.5498412	Belle Rive				restaurant	32	49100	Promenade de Reculée	
+node	9801259471	47.4659102	-0.5572495	Le Longchamp				bar				
+node	9870959824	47.4643712	-0.5602301	Sushi House				restaurant	11	49100	Rue Auguste Gautier	
+node	9999289971	47.4740819	-0.5600936	Mauvaise Graine				restaurant	27	49100	Rue Beaurepaire	
+node	10025618385	47.4687121	-0.5574373	Crêperie Marie Mil'Goules				restaurant	7	49100	Impasse Toussaint	
+node	10026960448	47.4699589	-0.5541855	Green Bagel Café				cafe	2		Rue Saint-Aubin	
+node	10031182980	47.4726763	-0.5609272	Le Bar de Papi				bar				
+node	10223746848	47.4534284	-0.5265587	Basilic & Co				restaurant	196	49000	Rue Saumuroise	
+node	10295332421	47.4907619	-0.5615358	MK'S				restaurant	115	49100	Boulevard Jean Moulin	
+node	10311480650	47.4947562	-0.5750932	La Canopée				restaurant				
+node	10686684346	47.4739034	-0.5595474	Sens				restaurant	17	49100	Rue Beaurepaire	
+node	10737333207	47.4749155	-0.5613843	L’Insolite				nightclub				
+node	11086708258	47.4630779	-0.5592323	L’arrière Train				bar				
+node	11116095685	47.4725869	-0.5538963	Douceur de Yi				cafe	29		Rue Bodinier	
+node	11119803992	47.4727406	-0.5611723	le ciré jaune				restaurant				
+node	11119807446	47.4725700	-0.5611689	La Maison				restaurant	20	49000	Quai des Carmes	
+node	11336383337	47.4750491	-0.5502301	Le feeling club				nightclub				
+node	11336517973	47.4751193	-0.5493154	Les trésors de Carthage				restaurant				
+node	11357573465	47.4674707	-0.5499927	Le Manisa				restaurant	27	49100	Rue Bressigny	
+node	11357581219	47.4676826	-0.5504788	Le Falstaff				pub				
+node	11358802914	47.4654935	-0.5502695	Le Sporting				bar				
+node	11359769086	47.4690385	-0.5577768	Marguerite d'Anjou				bar				
+node	11375373861	47.4716861	-0.5372134	Le royaume de Saba				restaurant				
+node	11381337840	47.4681188	-0.5545485	ECHO				bar	27	49100	Rue des Lices	
+node	11387345983	47.4609163	-0.5303388	Le Panoramique				restaurant		49000	Rue Saint-Léonard	
+node	11394980489	47.4717173	-0.5537177	Poisson d'or				restaurant				
+node	11397727763	47.4771072	-0.5466639	Evasian				restaurant	55	49100	Avenue Besnardière	
+node	11436596811	47.4670300	-0.5565260	La trésorerie				bar				
+node	11462722162	47.4733537	-0.5448558	Bar des plantes				bar				
+node	11462751883	47.4793270	-0.5272678	Time's pizza				restaurant				
+node	11462780043	47.4669622	-0.5527355	Marechal's pub				bar				
+node	11465098111	47.4657639	-0.5540890	La Dévoreuse				restaurant				
+node	11465101087	47.4662503	-0.5534551	La Pépiterie				cafe				
+node	11465331240	47.4674036	-0.5514321	Le p'tit Foch				restaurant	39	49100	Boulevard du Maréchal Foch	
+node	11465339148	47.4698663	-0.5505627	Les voûtes				bar				
+node	11473143464	47.4697547	-0.5480182	Odorico				restaurant	1	49100	Boulevard du Maréchal Foch	
+node	11484563747	47.4731807	-0.5490382	Nagoya				restaurant				
+node	11517255192	47.4728640	-0.5527983	Le Farñente				restaurant	12		Rue Bodinier	
+node	11517259441	47.4723365	-0.5535332	Loft				nightclub				
+node	11525113947	47.4756782	-0.5499953	Le Off				cafe				
+node	11525128173	47.4755595	-0.5497229	Pho 49				restaurant				
+node	11525140144	47.4756443	-0.5499271	Mets & vins				restaurant				
+node	11525148657	47.4756002	-0.5498205	Basilic &Co				restaurant	46		Boulevard Ayrault	
+node	11525159118	47.4755378	-0.5496776	Mama Roli				restaurant	50		Boulevard Ayrault	
+node	11525161238	47.4751804	-0.5479020	L'indice				bar	7		Boulevard Carnot	
+node	11525189234	47.4752076	-0.5489214	L’Atelier café				bar				
+node	11533451211	47.4689429	-0.5532832	Oshi Moshi				bar				
+node	11533462272	47.4695024	-0.5534450	Chat'lon de thé				cafe	23		Rue Saint-Aubin	
+node	11534209470	47.4665724	-0.5577256	Krishna				restaurant				
+node	11534248024	47.4666677	-0.5566834	À boire et à manger				restaurant		49100	Place de la Visitation	
+node	11559718779	47.4676710	-0.5510722	Ginkgo bar				restaurant				
+node	11559786689	47.4725010	-0.5525691	La cantine du BDC				restaurant				
+node	11559799830	47.4716874	-0.5509165	Le coup d'feu				restaurant				
+node	11584732692	47.4696438	-0.5577303	L'Arche				restaurant				
+node	11738462088	47.4888710	-0.5531466	Le Presto				restaurant				
+node	11742256788	47.4643699	-0.5663189	La Belle Équipe				restaurant	4	49100	Boulevard Marc Leclerc	
+node	11755107137	47.4692727	-0.5535713	La petite cigogne				restaurant	23	49100	Rue du Musée	
+node	11799695290	47.4540267	-0.5275345	Mésopotamie				restaurant	158	49000	Rue Saumuroise	
+node	11799760373	47.4597088	-0.5220557	Les Gauloises				bar				
+node	11895713369	47.4719538	-0.5533917	Pizza Capri				restaurant	40	49100	Rue Saint-Laud	
+node	11897874776	47.4727698	-0.5607341	Donna				restaurant				
+node	11939518252	47.4943745	-0.5752983	Saveurs du soleil et d’ici				restaurant	20		Place Terra Botanica	
+node	11985700027	47.4810032	-0.5620182	Le tablier				restaurant				
+node	11985708272	47.4864744	-0.5633916	Asia Vietfood				restaurant				
+node	11990194750	47.4671908	-0.5496768	Mordu				restaurant	44	49100	Rue Bressigny	
+node	11990218218	47.4669305	-0.5490730	Gold flamme				cafe				
+node	11998752980	47.4459160	-0.5362546	La Tribu				restaurant				
+node	12089237683	47.4657462	-0.5559458	Le Chat Noir				bar	21		Rue d'Anjou	
+node	12186332258	47.4493330	-0.5636502	Bar PMU Amigo Le Roseray				bar				
+node	12186375849	47.4490900	-0.5641808	Maman Africa				bar				
+node	12197289070	47.4838937	-0.5432236	Les maraîchers				restaurant	12		Avenue Jean Joxé	
+node	12207018148	47.4672154	-0.5372534	Bistrot de l'Avenue				restaurant	117	49100	Rue Franklin	
+node	12212086194	47.4687061	-0.5496930	Jojo's Dough				cafe				
+node	12214820756	47.4729616	-0.5514525	L'irlandais				bar				
+node	12221964277	47.4702629	-0.5502150	Le Boudoir				restaurant	11	49100	Rue d'Alsace	
+node	12222599442	47.4544608	-0.5637655	Chez Remi				restaurant				
+node	12241662955	47.4790745	-0.5647434	Le Chalet				bar				
+node	12254687741	47.4663909	-0.5481603	Afrin - Restaurant associatif KS				restaurant				
+node	12310302898	47.4732306	-0.5536136	Le Carré Club				nightclub				
+node	12433751692	47.4887114	-0.5414439	Brasserie Le Saint-Serge				restaurant	3	49100	Boulevard Gaston Ramon	
+node	12509024977	47.4570380	-0.5319853	Bistrot Raymond				bar				
+node	12551669285	47.4628872	-0.5591622	Chardon				restaurant				
+node	12596067028	47.4763923	-0.5983563	L'Espace Beaussier				restaurant	41		Rue de la Lande	
+node	12623273243	47.4887517	-0.5416247	Thaï Break - Angers				restaurant	3	49100	Boulevard Gaston Ramon	
+node	12662729793	47.4736626	-0.5212034	La Radio				restaurant				
+node	12747667986	47.4717104	-0.5213983	Le Flash PMU				bar				
+node	12818768874	47.4653576	-0.5573799	La Cohue				restaurant	8	49000	Place de la Gare	
+node	12833979755	47.4925175	-0.5518565	Le Café du Village				bar	12	49100	Boulevard Jean Moulin	
+node	12833979756	47.4924883	-0.5518390	La Station Cocktail				bar				
+node	13006859604	47.4779190	-0.6042481	Café-cantine La Bulle En Bois				restaurant	11	49000	Rue Alexandre Fleming	
+node	13013715506	47.4716059	-0.5510015	La Chapelle				nightclub				
+node	13154972528	47.4777937	-0.5919054	L’échappée belle				bar				
+node	13202615586	47.4709272	-0.5512386	Columbus Café & Co				cafe		49100		
+node	13327698662	47.4742425	-0.5616642	Pollen				cafe	5	49100	Place Grégoire Bordillon	
+node	13340509475	47.4706585	-0.5452743	Le Mail Restaurant				restaurant	2	49100	Avenue du 11 Novembre 1918	
+node	13448143008	47.4525846	-0.5265964	Bistrot de la Place				bar	30	49000	Place des Justices	
+node	13479152821	47.4722126	-0.5520742	Tadig				restaurant	8	49100	Rue de l'Espine	
+node	13534155302	47.4720884	-0.5529513	Joker café				cafe				
+node	13626568802	47.4557413	-0.5346948	Snack & Coffee La Madeleine				cafe	55	49000	Boulevard Jacques Millot	
+node	13695716442	47.4795865	-0.5657554	Le Colisée				restaurant				
+node	13746440002	47.4747651	-0.5550490	Ego				cafe	1	49000	Place Molière	
+node	13782505824	47.4688071	-0.5707573	Le Nid du Héron				cafe				
+node	13813294566	47.4422803	-0.5425040	Maine street				restaurant	44	49000	Rue François Cevert	
+node	13839164615	47.4712093	-0.5372135	Lucky Drupe				cafe	25	49100	Avenue Montaigne	
+node	13902171927	47.4791576	-0.5485010	Le Faubourg Angevin				restaurant				
+node	13981405719	47.4792038	-0.5424087	L’étudiant				restaurant				
+node	14022525539	47.4626226	-0.5604070	La Smala angevine				cafe				
+node	14026991081	47.4710593	-0.5368829	Odysserre				cafe	25	49000	Avenue Montaigne	
+node	14089407526	47.4896105	-0.5432144	Atlantic				restaurant				
+node	14105435613	47.4668323	-0.5488868	Le onze/vingt-deux				restaurant				
+node	14155690093	47.4810347	-0.5558476	Cafeteria-Boutique				cafe				
+node	14206283001	47.4733070	-0.5559608	Babylone				restaurant	2	49100	Rue de la Poissonnerie	
+node	14261893481	47.4677290	-0.5624737	La Bonne Franquette				restaurant				
+node	14261897944	47.4678696	-0.5635311	La Chouette Buvette				cafe				
+node	14261897945	47.4679579	-0.5633803	La Tablée				restaurant				
+node	14272699559	47.4741290	-0.5487395	Gaia				restaurant				
+way	125566462	47.5018564	-0.5703031	La guinguette				restaurant				
+way	126923520	47.4782160	-0.5842578	Resto Troc				restaurant				
+way	126927554	47.4677308	-0.5263122	À La Bonne Heure				restaurant				
+way	126940080	47.4801235	-0.5545461	Carmine				restaurant	2	49100	Rue Larrey	
+way	126956132	47.4647175	-0.5502780	La Fabrique				restaurant	7	49000	Rue de Brissac	
+way	126959826	47.4634865	-0.5495920	Le Petit Brissac				restaurant	31	49000	Rue de Brissac	
+way	126960382	47.4827523	-0.5490210	Mid'Star				nightclub				
+way	261661541	47.4797996	-0.6041735	Cafet’ Lettres				restaurant				
+way	564155604	47.4871151	-0.5518803	Restaurant Universaitaire Ambroise Croizat				restaurant				
+way	972547816	47.4681667	-0.5945330	Le Clos				restaurant				
+way	1153434284	47.4828385	-0.5745092	Rouge Cerise				restaurant				
+way	1351808299	47.4682541	-0.5962732	Les 2 épis				restaurant				
+way	1351808346	47.4680909	-0.5961977	La Renommée				restaurant				
+way	1414676435	47.4720115	-0.6097535	Restaurant Elior Entreprises				restaurant				
+relation	1248615			Angrie	8	49440	49008					
+way	235173816	47.5699460	-0.9745435	Incognito				restaurant	18	49440	Rue de Bellevue	
+relation	272384			Artannes-sur-Thouet	8	49260	49011					
+node	13644819121	47.1884291	-0.0978513	Moulin de La Motte				cafe				
+relation	179337			Avrillé	8	49240	49015					
+node	2376372784	47.5171749	-0.6075516	La Cantine Avrillé				restaurant				
+node	4676661589	47.5055210	-0.5879843	Ciboule & Ciboulette				restaurant				
+node	9401901628	47.5063162	-0.5890319	Le France				bar				
+node	9401901629	47.5063941	-0.5891418	PMU Au bord de l’O				bar				
+node	9401901639	47.5066885	-0.5894637	Patachée				restaurant				
+node	11571127025	47.5093587	-0.5798662	Château de la Perrière				bar				
+node	12078109354	47.4975890	-0.5817208	Les Bruyères				restaurant	79		Avenue Pierre Mendès-France	
+node	12078136740	47.4985856	-0.5825365	Little Italy				restaurant				
+node	12078185343	47.5037153	-0.5869814	Le Résia				restaurant				
+way	73528350	47.5201549	-0.6099971	La Croix Cadeau - Brasserie				restaurant				
+relation	5812031			Baugé-en-Anjou	8	49150	49018					
+node	477370083	47.5409876	-0.1029247	Bar brasserie le charleston				pub				
+node	6311017369	47.4788271	-0.1016372	La pomme de pin				restaurant				
+node	7134075887	47.5422666	-0.1041697	Ô Prestige				restaurant	4		Rue du Cygne	
+node	10276302278	47.6257635	-0.0705541	La Clef d'Or				restaurant	36	49150	Grande Rue	
+node	11045794541	47.5426878	-0.1050568	Le Brazza				cafe	24		Rue Georges Clémenceau	
+node	13070465115	47.5421763	-0.1043114	Café des sports				cafe				
+way	107241953	47.5408285	-0.1035330	Au relais du roi				cafe				
+way	107243563	47.5406260	-0.1033535	La Renaissance				cafe				
+way	107243742	47.5420850	-0.1040610	La traviata				restaurant				
+way	107244302	47.5420180	-0.1040275	Le Velou-Thé				cafe				
+way	107245231	47.5421495	-0.1050810	Le Commerce				restaurant	1	49150	Place du Marché	
+way	107245280	47.5403160	-0.1015075	Crêperie Le Mail				restaurant				
+way	107245656	47.5399470	-0.1024618	Hôtel Restaurant du Château				restaurant				
+way	215805406	47.5382271	-0.0948666	Buvette de la piscine				cafe				
+way	252649240	47.5189365	-0.1291465	Discothèque Le Must				nightclub				
+relation	178350			Beaucouzé	8	49070	49020					
+node	767470138	47.4735471	-0.6201702	Léon				restaurant				
+node	2773829113	47.4846994	-0.6272401	Mishi Mishi				restaurant				
+node	2773873797	47.4846891	-0.6269605	Fuxia				restaurant				
+node	2773882453	47.4845479	-0.6266789	La Pataterie				restaurant				
+node	2773888567	47.4845367	-0.6264377	Tommy's Diner Cafe				restaurant				
+node	2773895416	47.4848717	-0.6272119	Mikado				restaurant				
+node	2773902768	47.4848459	-0.6269473	L’Atoll Café Brasserie				restaurant				
+node	2773907526	47.4848301	-0.6266515	La Taverne				restaurant				
+node	4124208015	47.4691433	-0.6184823	L'Hoirie				restaurant	2	49070	Allée Henri Faris	
+node	5018603553	47.4689352	-0.6179877	Courtepaille				restaurant				
+node	6023084445	47.4677264	-0.6274467	Buffalo Grill				restaurant				
+node	6023246834	47.4729988	-0.6187190	L'Ange Vin				restaurant				
+node	6023530378	47.4689765	-0.6171970	Le Restaurant				restaurant				
+node	6023530383	47.4685350	-0.6160315	Le Saint-Benoît				restaurant	8		Avenue Paul Prosper Guilhem	
+node	6023531797	47.4617212	-0.6178071	Bella Vitta				restaurant				
+node	10044178140	47.4693423	-0.6139716	Le 300				restaurant	14	49070	Avenue Paul Prosper Guilhem	
+node	11591415565	47.4849003	-0.6249801	Starbucks				cafe		49073	Rue Saint Clement de la Place	
+node	11915631017	47.4856622	-0.6253158	Phood				restaurant				
+node	12433057850	47.4772390	-0.6142015	Casa Verde				restaurant	33		Rue Georges Morel	
+node	12584545728	47.4836515	-0.6261950	Columbus Café & Co				cafe				
+way	144476124	47.4749230	-0.6329080	Le 1000				restaurant		49070	Rue du Bourg	
+way	158278161	47.4848720	-0.6259820	Le Patio				restaurant				
+way	275948832	47.4863155	-0.6309380	La Changerie				restaurant		49070	Avenue Le Corbusier	
+relation	5812032			Beaufort-en-Anjou	8	49250	49021					
+node	6320612693	47.4363405	-0.2233713	Nuances Terroirs				bar	4	49250	Rue de la Poissonnière	
+way	241148993	47.4402815	-0.2158810	Le Bistrot de la Place				bar				
+way	241150484	47.4399315	-0.2153890	Bellus Fortis				restaurant	23	49250	Place Jeanne de Laval	
+way	241150568	47.4395430	-0.2132615	L'Auberge de Beaufort				restaurant	15	49250	Rue Bourguillaume	
+relation	325195			Beaulieu-sur-Layon	8	49750	49022					
+node	8119026251	47.3165128	-0.5870003	Domaine Godeau				bar				
+node	8119026252	47.3160442	-0.5837886	Réthoré				bar				
+node	8119026253	47.3113755	-0.5929315	Vignoble du Martinet				bar				
+node	8119026254	47.3096285	-0.5844941	Cesbron				bar				
+node	8119026255	47.3120857	-0.5934836	Usureau				bar				
+relation	5812036			Beaupréau-en-Mauges	8	49110;49450;49510;49600	49023					
+node	2111434832	47.2001950	-0.9215840	Restaurant Le Moulin Moine				restaurant				
+node	2111434839	47.1999909	-0.9218150	Le Diam's				nightclub				
+node	2814429583	47.2521918	-0.8993013	La Bonne Pin'te				restaurant				
+node	7335513649	47.2015611	-0.9932253	Le Foch				bar				
+node	7335684377	47.2012520	-0.9947971	Bar Tabac Le Bosquet				bar				
+node	7336672087	47.2009839	-0.9927201	Restaurant du Château				restaurant	2		Rue du Commerce	
+node	7336672094	47.2033358	-0.9936968	Crêperie la Flambée				restaurant				
+node	7340196558	47.2042087	-0.9748207	L'Oeuf et La Poule				restaurant				
+node	7340887813	47.2086912	-0.9792782	Le Logis d'Elbée				restaurant				
+node	7340887815	47.2115155	-0.9823215	Le Bistrot d'Anjou				restaurant				
+node	7341575966	47.1983762	-0.9946060	Le Lion d'Or				restaurant				
+node	7347567951	47.1721464	-0.8895962	Le Crocodile				bar				
+node	8795149613	47.1825757	-1.0196964	L'Escale				bar				
+node	8795160317	47.1711362	-0.9543031	L'Andrezéen				bar	4		Place de la Mairie	
+node	9347056720	47.2043117	-0.9811816	Bistrot Brasserie Les Enfants Terribles				bar	55		Rue Saint-Martin	
+node	9375598669	47.1959350	-0.8680138	Le 49 Bar Pub				bar				
+node	10157532801	47.1812461	-1.1109057	Jean Geste Café				cafe	10	49600	Rue du Souvenir	
+node	10729298815	47.1964906	-0.9926919	La Promenade				restaurant	1		Rue de l'Hippodrome	
+node	10871221939	47.1982987	-0.9942476	Café des ponts				cafe	2		Rue des Mauges	
+node	11125350875	47.1846286	-1.0948724	Le 1825				restaurant				
+node	13179902621	47.2039519	-0.9757771	B'LOU PIZZA				restaurant				
+way	182717339	47.2085539	-0.9969927	La Rombière				pub				
+relation	301744			Bégrolles-en-Mauges	8	49122	49027					
+node	8113939774	47.1399489	-0.9373972	L'Ouest				bar	5		Rue des Mauges	
+relation	357050			Béhuard	8	49170	49028					
+node	871811244	47.3828048	-0.6389061	Guinguette Caparicia				restaurant		49170	Rue de la Boire	
+node	4130548942	47.3795196	-0.6439238	La Guillemette  - Café-Cantine				restaurant	6	49170	Rue du Chevalier Buhard	
+node	8174541589	47.3803692	-0.6436148	L'audacieuse				restaurant	20	49170	Place de l'Église	
+relation	5812038			Blaison-Saint-Sulpice	8	49320	49029					
+node	5856720447	47.3999160	-0.3717716	Le Petit Blaison Côté Restaurant				restaurant				
+node	5893295285	47.4137650	-0.4082194	Guinguette Port de Vallée				restaurant				
+relation	178349			Bouchemaine	8	49080	49035					
+node	2852761471	47.4088325	-0.6178535	Monkey				restaurant				
+node	2852761473	47.4087391	-0.6182430	La Bafouille				restaurant				
+node	2852761474	47.4089169	-0.6181279	Pointe ça pointe				restaurant				
+node	4813269815	47.4221305	-0.6078545	Auberge de Chanteclair				restaurant		49080	Quai de la Noë	
+node	5692621450	47.4218650	-0.6084282	Le Noë				restaurant		49080	Quai de la Noë	
+node	6176559387	47.4219637	-0.6087428	Terrasse de l’abbaye				restaurant				
+node	6176562090	47.4219780	-0.6107637	Bar tabac presse L'Escale				bar				
+node	6176585387	47.4205476	-0.6103951	La Brasserie de la Maine				restaurant				
+node	12794895920	47.4218341	-0.6087544	Le Ragondingue				restaurant	3	49080	Quai de la Noë	
+node	12816581582	47.4087601	-0.6180514	La Bafouille				biergarten				
+node	13602046751	47.4460855	-0.6068978	Pizza Angela				restaurant	1	49080	Rue du Petit Vivier	
+node	13669327147	47.4103654	-0.6178305	Lueurs				restaurant	2	49080	Quai de Port Boulet	
+relation	905016			La Breille-les-Pins	8	49390	49045					
+way	236890637	47.3379908	0.0527992	Kiff Club				nightclub				
+way	236890909	47.3411895	0.0756235	L'Orée des Bois				restaurant	2		Rue Saumuroise	
+relation	167632			Briollay	8	49125	49048					
+way	235707872	47.5655640	-0.5085140	Le Kiviv				restaurant	25	49125	Grande Rue	
+relation	6795349			Brissac-Loire-Aubance	8	49250;49320	49050					
+node	480682317	47.3413521	-0.4302840	Le Bystrot				restaurant				
+node	3667802483	47.4111917	-0.4320589	La Guinguette à Jojo				restaurant				
+node	5550567256	47.3631678	-0.3544398	Brasserie Chez Sophie				restaurant	3	49320	Rue Saint-Gildas	
+node	6981114604	47.3548486	-0.4487570	L'Espérance				bar				
+node	6981114605	47.3549217	-0.4487403	L'Ardoise				restaurant				
+node	6981114608	47.3551098	-0.4487604	Le Brissac "quoi"				bar				
+node	6996193372	47.3183604	-0.4082952	L'Aloda				bar				
+node	7857656357	47.3316363	-0.4777059	Le Soph't				restaurant				
+node	7857677629	47.3543235	-0.4480838	Les 2 terrasses				restaurant				
+node	9419918829	47.3940384	-0.4366871	Sauvage				restaurant				
+node	9724736453	47.3535026	-0.4490997	Le Pavillon des Cèdres				cafe				
+node	10298389290	47.3433457	-0.3545049	Le Bois Délice				restaurant				
+node	12979194147	47.3555692	-0.4484600	O'21 Kebab				restaurant	21	49320	Place Georges Clemenceau	
+node	13306905054	47.3525081	-0.4460652	Pizz Burg de Marcelo				restaurant				
+node	13343081896	47.3557212	-0.4481571	La Cantine du Clem				restaurant				
+node	13997170902	47.3977645	-0.3170954	Au P'tit Marcel				restaurant	20	49250	Rue Saint-Aubin	
+node	13997175634	47.3975079	-0.3157296	Le Bistrot de Yann & Lau				restaurant	9	49250	Rue Saint-Aubin	
+node	14067973793	47.3975090	-0.3157039	Le Bistrot de Yann & Lau				restaurant				
+way	101319263	47.4049098	-0.3202963	Guinguette La Riviera				restaurant				
+way	1423290053	47.3419193	-0.4314674	Chope et compagnie				bar				
+relation	1249424			Candé	8	49440	49054					
+node	6967229966	47.5605089	-1.0376192	Le Candéen				bar	4 A	49440	Place du Marché	
+relation	167617			Cantenay-Épinard	8	49460	49055					
+node	1892859816	47.5318752	-0.5691521	Le Cyrano				bar				
+node	5235223714	47.5234295	-0.5582362	Château de Chatillon				restaurant				
+way	108969100	47.5323075	-0.5688735	Le Paddock				restaurant				
+way	711805646	47.5284013	-0.5686364	Le chat qui pêche				restaurant		49460	Rue du Port	
+way	1283381989	47.5284630	-0.5687997	La Cabane Du Chat Qui Pêche				biergarten				
+relation	285567			Les Cerqueux	8	49360	49058					
+node	9666224517	46.9997307	-0.6425489	La P'tite Marmite				restaurant	20 bis		Rue Amand Michaud	
+relation	9071905			Bellevigne-les-Châteaux	8	49260;49400	49060					
+node	3400820694	47.1718315	-0.0583884	Pizza Tony				restaurant				
+node	8883030717	47.2145953	-0.0687990	Le Shanando				cafe				
+relation	1252429			Challain-la-Potherie	8	49440	49061					
+node	6614709411	47.6357159	-1.0456523	Bar Chez Guy				bar	2	49440	Rue de la Fontaine	
+relation	157712			Chalonnes-sur-Loire	8	49290	49063					
+node	4115060397	47.3536482	-0.7628239	Le Bon Cap				restaurant	9		Quai Gambetta	
+node	4115072855	47.3536251	-0.7638608	L'Auberge				restaurant	2		Place des Halles	
+node	5766607816	47.3537995	-0.7633461	Le Bistrot des Quais				restaurant	19	49290	Quai Gambetta	
+node	7857571653	47.3521394	-0.7632173	Les voyageurs				bar				
+node	8084898960	47.3514079	-0.7634657	Pizza Tempo				restaurant	13		Place de l'Hôtel de Ville	
+node	8084956582	47.3533275	-0.7625151	californian sushi				restaurant	2	49290	Rue Nationale	
+node	8829338153	47.3550456	-0.7616583	Café Bondu				restaurant				
+node	10581934377	47.3507709	-0.7416546	Guinguette du Louet				restaurant				
+node	11873987102	47.3531678	-0.7644096	Le Café des Halles				bar	16		Place des Halles	
+node	12393474697	47.3527437	-0.7636281	Restaurant Le Ty Breizh				restaurant	7		Rue Félix Faure	
+node	12393477303	47.3531167	-0.7647147	Restaurant izuoshima				restaurant				
+node	12393478818	47.3534518	-0.7622334	Chat noir Chat blanc				restaurant				
+node	12393483676	47.3506459	-0.7589142	Suk Suk Thai				restaurant				
+node	12393483757	47.3522153	-0.7623306	Le Bon Bec - Restaurant				restaurant				
+node	12393501603	47.3512710	-0.7590993	Café des Sports				bar	26		Rue du Vieux-Pont	
+node	13704885219	47.3511214	-0.7630583	Calo'Délices				restaurant	3	49290	Place de l'Hôtel de Ville	
+way	171389566	47.3513940	-0.7637095	Au Gré du Vent				restaurant	17	49290	Place de l'Hôtel de Ville	
+relation	5812040			Chenillé-Champteussé	8	49220	49067					
+node	9874282490	47.6674489	-0.6560124	Les Dîmes				restaurant				
+relation	324318			Champtocé-sur-Loire	8	49123	49068					
+way	235699104	47.4092346	-0.8478345	Le Relais de la 23				restaurant				
+way	235699121	47.4118637	-0.8523441	Les 3 Pics				restaurant		49123	Le Petit Saint-Martin	
+way	235699414	47.4124295	-0.8652680	Kawasso				cafe	1 bis	49123	Place de l'Église	
+way	235699448	47.4123702	-0.8602134	Restaurant La Table du Moulin				restaurant	2		Rue du Corps de Garde	
+relation	9165701			Les Hauts-d'Anjou	8	49330	49080					
+node	816444441	47.6637191	-0.5711811	Café de la Place				cafe				
+node	816444442	47.6639404	-0.5720787	Les Demoiselles				restaurant				
+node	2138815907	47.6789823	-0.4871443	Les Ondines				restaurant				
+node	6391968414	47.7294946	-0.5173228	La Bonne Bouf'				restaurant				
+node	6391968421	47.7298365	-0.5171838	La Fourchette Gourmande				restaurant				
+node	8772794542	47.7104365	-0.5628361	L'Escale				bar				
+node	12853569259	47.7224393	-0.6158037	Salle Sifi				restaurant				
+node	14234296870	47.6982982	-0.4473166	Guinguette de Brissarthe				restaurant				
+relation	157711			Chaudefonds-sur-Layon	8	49290	49082					
+node	8771165743	47.3249055	-0.7074890	Le Cheval Blanc				bar				
+relation	6837832			Terranjou	8	49380;49540	49086					
+node	14265294001	47.3022374	-0.4494444	L'Auberge				restaurant	19	49380	Rue Saint-Eloi	
+relation	5812039			Chemillé-en-Anjou	8	49120;49310;49670;49750	49092					
+node	9167259820	47.2087168	-0.7226488	Le Théâtre				restaurant				
+node	9371953581	47.2867474	-0.8493403	L'Entrepot				bar				
+node	13190034630	47.1429181	-0.6980017	Café de la Mairie				restaurant				
+node	13930910280	47.2647826	-0.6448929	Le Chanzibar - café associatif				cafe				
+way	84493301	47.2126101	-0.7248345	Restaurent Scolaire de l'Avault				restaurant				
+way	84493740	47.2083058	-0.7278102	Crêperie Le Mouton Blanc				restaurant				
+way	84493958	47.2084860	-0.7293607	Café du Commerce PMU				bar	1	49120	Place du Château	
+way	84497395	47.2079520	-0.7230931	L'Escale				restaurant				
+way	84497769	47.2174158	-0.7316117	L'Arrivée				restaurant	15		Rue de la Gare	
+way	84499442	47.2102527	-0.7287495	La Mammina				restaurant				
+way	84499569	47.2092832	-0.7288758	Les saveurs de Jean				restaurant	2		Place des Halles	
+way	84499918	47.2127671	-0.7306215	BAR la Renaissance				bar	135		Rue Nationale	
+way	98162318	47.2188616	-0.7280747	Le Saint-Pierre				bar	78		Rue Nationale	
+way	108222846	47.2677897	-0.8266962	L'embuscade				bar				
+way	108348747	47.1554988	-0.6367700	Bar du Centre				cafe				
+way	127486500	47.2133535	-0.5941515	Relais du Layon				bar				
+way	139509062	47.1441585	-0.7683175	Le Nez de Cochon				restaurant				
+way	251613102	47.2084433	-0.7287980	TUTTI Pizza				restaurant				
+way	489821493	47.2366269	-0.7232708	Bistrot 2 Pauline				restaurant				
+way	735118819	47.1531629	-0.7384411	Le 210				restaurant	9		Place Notre Dame des Gardes	
+way	1447896955	47.2141155	-0.5985557	Restaurant scolaire				restaurant				
+relation	286516			Cholet	8	49300	49099					
+node	349001421	47.0620200	-0.8807409	Le Grand Café				restaurant	1		Place Travot	
+node	356729876	47.0622892	-0.8800751	Le Conti				restaurant				
+node	3644796158	47.0754475	-0.8384013	Faubourg Café				cafe				
+node	3644796164	47.0754048	-0.8381529	Show Viennois				restaurant				
+node	4770639009	47.0626392	-0.8805095	Guss				nightclub				
+node	4770698686	47.0623960	-0.8808189	L’Écailler				restaurant	5	49300	Boulevard Gustave Richard	
+node	4786636928	47.0598269	-0.8802501	Le Cristal				bar				
+node	4786658737	47.0599044	-0.8802437	Bella Roma				restaurant	3		Rue Travot	
+node	4786724222	47.0607889	-0.8816939	Symbiose				restaurant				
+node	4786724223	47.0608521	-0.8816961	Le Parvis				restaurant	35		Parvis Saint-Jean-Paul Ii	
+node	5016120578	47.0619095	-0.8810708	Le p'tit Café				cafe				
+node	5267507034	47.0653469	-0.8610020	Les Acacias				bar				
+node	5267507039	47.0655609	-0.8710035	Bistrot de la gare				restaurant				
+node	5331732340	47.0612407	-0.8839342	O’Basque				bar	30	49300	Rue Bretonnaise	
+node	5331732342	47.0615942	-0.8824726	Au Bureau				restaurant		49300	Rue de la Sardinerie	
+node	5331732345	47.0614826	-0.8839396	L'Arcade				bar	30	49300	Rue Bretonnaise	
+node	5336550369	47.0756960	-0.8436159	Brasserie des Pagannes				bar		49300	Avenue d'Angers	
+node	5750113007	47.0680245	-0.9036979	La Godinière				restaurant				
+node	5750113010	47.0708690	-0.8996934	La Touchetière				restaurant				
+node	5914489048	47.0607578	-0.8814281	Le Bistrot du Marché				restaurant	30		Parvis Saint-Jean-Paul Ii	
+node	5914489049	47.0616940	-0.8822748	BeToBib				bar				
+node	5968208055	47.0625339	-0.8778944	Le Saint-Claude				bar				
+node	5968208056	47.0626289	-0.8778347	L’Annexe				restaurant				
+node	6120097187	47.0593784	-0.8763361	L’Ourdissoir				restaurant				
+node	7040195051	47.0568530	-0.8792812	Au Guingois ID’Halles				restaurant				
+node	7445081871	47.0456741	-0.8761236	Basilic & Co				restaurant	4	49300	Rue Roger Hostein	
+node	7706965857	47.0614605	-0.8705807	Les Pâquerettes				restaurant				
+node	7784190676	47.0757506	-0.8435030	Columbus Café & Co				cafe		49300	Avenue d'Angers	
+node	8003056223	47.0569432	-0.8589694	Grill'inn				restaurant	169	49300	Rue de Lorraine	
+node	8111178675	47.0616891	-0.8967435	La Cravache d'Or				bar	43		Avenue de Mocrat	
+node	8111425327	47.0618507	-0.8957153	Délices Kebab				restaurant				
+node	8263964895	47.0700853	-0.8522317	Gourmand d'Asie				restaurant	1	49300	Avenue Edmond Michelet	
+node	9045522730	47.0804893	-0.8799794	Côté piste				restaurant				
+node	9135582382	47.0492062	-0.8970046	Clairefontaine Bar				pub	27		Square Montgeoffroy	
+node	9355502271	47.0660625	-0.8541166	Sodexo Entreprises				restaurant				
+node	9391249113	47.0604879	-0.9304047	Couleur Sarrasin				restaurant	204		Avenue des 3 Provinces	
+node	10822669644	47.0810682	-0.8978649	Le Restaurant du Golf				restaurant		49300	Allée du Chêne Landry	
+node	11171715444	47.0370642	-0.9093061	V&B				pub				
+node	11221186705	47.0727387	-0.8439957	Royal Cholet				restaurant				
+node	11229774384	47.0618330	-0.8687224	Casa Castello				restaurant	48	49300	Rue Sadi Carnot	
+node	11390284272	47.0749479	-0.8420312	Léon				restaurant				
+node	11584419085	47.0416848	-0.9016401	A la bonne heure				restaurant				
+node	11584419090	47.0415071	-0.9023415	L'anonyme				cafe				
+node	11584419098	47.0414502	-0.9024030	Cho la pizza				restaurant	134		Rue de la Girardière	
+node	11584419107	47.0411767	-0.9024261	What the Pho!				restaurant				
+node	12009796038	47.0617845	-0.8825033	Combo				restaurant				
+node	12027872410	47.0602674	-0.8927402	Maison Patte Noire				restaurant				
+node	12068411452	47.0616196	-0.8818078	Le Caféier				cafe				
+node	12093822987	47.0604625	-0.8821741	Sushi Hanaki				restaurant				
+node	12093848173	47.0607034	-0.8814248	K&G				restaurant	28		Parvis Saint-Jean-Paul Ii	
+node	12093850313	47.0603859	-0.8824878	Pizza Bruno				restaurant	19		Rue Nantaise	
+node	12093866495	47.0605794	-0.8820595	La Zitouna				restaurant	12		Rue Nantaise	
+node	12175465275	47.0622001	-0.8781549	La Tarterie de l'Orangerie				restaurant	33	49300	Rue de l’Orangerie	
+node	12297343556	47.0607824	-0.8723383	Pizza St Pierre				restaurant	8		Rue du Puits Gourdon	
+node	12299690002	47.0500698	-0.8703228	Le Carré Rouge				restaurant				
+node	12811324065	47.0673953	-0.8521961	Les Délices du Portugal				restaurant	85		Avenue Gustave Ferrié	
+node	12822677749	47.0723231	-0.8192459	La P'tite Ferraille				biergarten				
+node	13139391551	47.0605199	-0.8823390	Kashmir				restaurant	18		Rue Nantaise	
+node	13563808801	47.0617167	-0.8818328	La Cloche				restaurant	63	49300	Place Rougé	
+node	13592300175	47.0491636	-0.8629310	Restaurant Station E				restaurant				
+node	14135605227	47.0520201	-0.8517641	Saveurs d'Asie				restaurant				
+node	14135605231	47.0515370	-0.8518383	Au P'tit Bar				bar				
+node	14281469957	47.0750060	-0.8440864	Flunch				restaurant				
+way	164457247	47.0427240	-0.9161000	Jon’Sar				restaurant				
+way	164498627	47.0775665	-0.8365345	La Boucherie				restaurant				
+way	164498668	47.0783331	-0.8347075	Ristorante Del Arte				restaurant				
+way	164507086	47.0730090	-0.8777045	Le relais des pariries				restaurant				
+way	164507093	47.0728960	-0.8436845	Buffalo Grill				restaurant	28	49300	Avenue Edmond Michelet	
+way	164513493	47.0672557	-0.8848525	Le Bar des amis				cafe				
+way	164513518	47.0650830	-0.8849310	Bar-Bar				cafe				
+way	164526731	47.0683440	-0.8848215	L’imprévu				cafe				
+way	164538906	47.0601370	-0.8744090	Le Bar’Ouf				cafe	2		Place Saint Pierre	
+way	444930299	47.0546515	-0.8752345	Poivre Rouge				restaurant	65	49300	Boulevard Delhumeau Plessis	
+way	450191336	47.0376871	-0.8359661	Le Bord du Lac				restaurant				
+way	517904183	47.0748145	-0.8387253	La Bo’d’gars				restaurant				
+way	1077190225	47.0309050	-0.9128915	O'TO				restaurant				
+relation	167621			Cornillé-les-Caves	8	49140	49107					
+node	2189858219	47.4999268	-0.3011182	Au Cornillé				restaurant				
+node	12776654167	47.4752609	-0.3042027	L'Utopik				biergarten			131 Chemin des Boisnières	
+relation	295363			Coron	8	49690	49109					
+node	1736076458	47.1270719	-0.6458140	La Louisiane				bar	1	49690	Rue du Commerce	
+node	1736079255	47.1272116	-0.6454278	La Boule d’Or				restaurant	56	49690	Rue Joachim du Bellay	
+relation	272396			Le Coudray-Macouard	8	49260	49112					
+node	600533013	47.1931530	-0.1207761	Rosamée				cafe				
+relation	178358			Denée	8	49190	49120					
+way	234022442	47.3788250	-0.6079660	BR Denée				restaurant	3	49190	Grande Rue	
+relation	272397			Distré	8	49400	49123					
+node	9038805679	47.2252084	-0.1394738	Le moulin des saveurs				restaurant	2425	49400	Route de Cholet	
+way	236444878	47.2339525	-0.1141825	L'aviateur				restaurant				
+way	236444883	47.2250875	-0.1393680	Domaine de Presle				restaurant	2425	49400	Route de Cholet	
+way	236447286	47.2340330	-0.1135195	Buffalo Grill				restaurant				
+relation	6795480			Doué-en-Anjou	8	49700	49125					
+node	3498660136	47.1740798	-0.3408811	Auberge du Haut Layon				restaurant	7		Rue Nationale	
+node	4054767448	47.1876295	-0.2501444	Les Cathédrales de la Saulaie				restaurant				
+node	4453477262	47.1617100	-0.3978932	Le Relais de la Lune				restaurant	5	49700		La Lune de Vaillé
+node	4956281632	47.1936069	-0.2761161	Bar de l'Hôtel de Ville				bar	6		Place Jean Bégault	
+node	5125898823	47.1928015	-0.2766378	Le Caveau				restaurant	4 bis		Place du Champ de Foire	
+node	5125908722	47.1941863	-0.2768210	Bar Brasserie La Ville				restaurant	2	49700	Rue Foullon	
+node	5125921721	47.1928212	-0.2764733	Bar Tabac de l'Anjou				bar	4		Place du Champ de Foire	
+node	7134099086	47.1915208	-0.2971296	Auberge Bienvenue				restaurant	104		Rue de Cholet	
+node	8049612241	47.1972253	-0.2747159	Auberge de la Rose				restaurant	12	49700	Place de Gennes	
+node	8061804516	47.1938326	-0.2742545	La Brasserie du Marché				bar	9		Place Verdun	
+node	8063971836	47.1920578	-0.2753355	Bar PMU Le France				bar				
+node	8070929224	47.1545344	-0.2959603	Le Bar à Thym				bar	4	49700	Place du Vicomte de Maupéou	
+node	12345696037	47.1930065	-0.2781806	Bar de l'Avenir				bar				
+node	13511789163	47.1833332	-0.2452848	Bistrot de la Saulaie				restaurant	104	49700	Rue des Fougerons	
+way	160985961	47.1906400	-0.3010935	La Halte				restaurant	108	49700	Rue de Cholet	
+way	160986088	47.1907930	-0.2985555	Le camp des girafes				restaurant				
+way	160986123	47.1912455	-0.2956425	Primavera				restaurant	95		Rue de Cholet	
+way	160986219	47.1825625	-0.2458865	Chez Paul				restaurant	4		Rue des Fougerons	
+way	1125142912	47.1906104	-0.2868150	La Cap's Maltée				pub	12	49700	Allée des Bicolettes	
+relation	5815674			Orée d'Anjou	8	49270;49530	49126					
+node	1867160640	47.3422483	-1.1647760	Les tontons cafetiers				bar				
+node	2366035603	47.3572803	-1.1742443	Le Romarin				restaurant				
+node	4243382838	47.3566192	-1.1737582	La Cascade				restaurant				
+node	7807169471	47.3374994	-1.2659410	La Citadelle				restaurant				
+node	7807169472	47.3374899	-1.2659403	La Cohue				bar				
+node	7807169474	47.3388954	-1.2750229	Le Ligéria				restaurant	1	49270	Le Cul du Moulin	
+node	8521992603	47.3370826	-1.2677258	Les Jardins de la Forge				restaurant				
+node	8785681556	47.3378530	-1.1107872	Le Jaskson				bar				
+node	9044924660	47.3426069	-1.2076244	Restaurant Beauregret				restaurant				
+node	13944679492	47.3402926	-1.2056892	Drai'no				bar				
+node	14208951226	47.2876512	-1.1888744	La Romantica				restaurant	25	49270	Rue Joachim du Bellay	
+way	1282594877	47.3646552	-1.1090785	La Guinguette Aux Babins				biergarten				
+relation	167623			Durtal	8	49430	49127					
+node	1529461909	47.6616020	-0.2447237	Au Relais d'Anjou				restaurant				
+node	1529461924	47.6621352	-0.2439187	Restaurant des Plantes				restaurant	54		Avenue d'Angers	
+node	1533228177	47.6659424	-0.2426153	La Petite Fringale				restaurant	19		Avenue d'Angers	
+node	1533228194	47.6708797	-0.2434248	Le Louvio				restaurant	2 bis	49430	Rue de la Mairie	
+node	1534613524	47.6715901	-0.2452797	Le Marigny				bar				
+node	14178522348	47.6683338	-0.2433715	Mobiguette				biergarten			Rue du Petit Port	
+relation	167631			Écouflant	8	49000	49129					
+node	4023416646	47.4989441	-0.5236871	La fleur de sel				restaurant				
+node	7498635295	47.5285016	-0.5285212	Le Lion d'Or				bar		49000		
+way	137654083	47.5075171	-0.5168173	Les Arcades				restaurant				
+way	1286906298	47.5277344	-0.5282490	La guinguette Mazette				restaurant		49000	Rue de Sauron	
+relation	906139			Étriché	8	49330	49132					
+node	8223843720	47.6833179	-0.4365687	Le Relais du Porage				restaurant				
+relation	167630			Feneu	8	49460	49135					
+node	14175249623	47.5706802	-0.5932259	Le Quart d'heure				bar				
+way	236619754	47.5662419	-0.6110494	Guinguette de Port Albert				restaurant	14	49460	Chemin du Port Albert	
+relation	5815671			Les Bois d'Anjou	8	49250	49138					
+node	1811218420	47.4170214	-0.1701337	Les Contrevents Verts				restaurant				
+node	12131238027	47.4860590	-0.1880843	Bistrot 1813				restaurant				
+relation	272371			Fontevraud-l'Abbaye	8	49590	49140					
+node	1768496464	47.1818148	0.0492868	Bar du commerce				bar				
+node	1768496466	47.1819539	0.0496302	Chez mimie				restaurant				
+node	4464465593	47.1819294	0.0499418	La Croix Blanche				restaurant				
+node	7133571885	47.1795402	0.0524548	Fontevraud Le Restaurant				restaurant	38		Rue Saint-Jean de l'Habit	
+node	8490908586	47.1819409	0.0497583	Le Lounge				bar				
+node	10172316118	47.1869305	0.0502145	Le Délice				restaurant				
+node	10860320206	47.1807174	0.0506557	La Terrasse Gourmande				restaurant		49590		
+node	12476312217	47.2012852	0.0470188	La Table de Mestré				restaurant				
+relation	1249432			Grez-Neuville	8	49220	49155					
+node	596768354	47.5960032	-0.6964518	La Mascotte				restaurant				
+node	6996233401	47.6124063	-0.7060144	Le Bouchon Lionnais				restaurant				
+node	7721501659	47.6040634	-0.6866408	Restaurant L'Écluse				restaurant				
+way	236754166	47.6026181	-0.6869200	La Batelière				restaurant	3	49220	Quai de l'Hirondelle	
+relation	16908098			Ingrandes-le-Fresne-sur-Loire	8	49123	49160					
+node	1867002493	47.4138914	-0.9147723	Relais de Tournebride				restaurant				
+node	9977756202	47.4102805	-0.9364450	Chez Mat Restaurant				restaurant	3016		Route Nationale	
+way	236896842	47.4029235	-0.9211765	La Route du Sel				restaurant	6		Rue de l'Eglise	
+way	236898592	47.4022870	-0.9216055	Crêperie La Galerie				restaurant				
+way	267482936	47.4009420	-0.9250690	La Cale				restaurant				
+relation	1250232			La Jaille-Yvon	8	49220	49161					
+way	713874183	47.7225509	-0.6709098	Le Saint Loup				restaurant				
+relation	5812042			Jarzé Villages	8	49140	49163					
+node	13074059663	47.5498637	-0.2934629	La Guinguette du Lac de Malagué				restaurant				
+way	220856537	47.5555770	-0.2342395	Ti Rade				cafe				
+way	228602855	47.5570225	-0.2280099	Le Moulinet				restaurant				
+relation	6795473			Les Garennes-sur-Loire	8	49320;49610	49167					
+node	7486396767	47.4033045	-0.4531629	Restaurant Club-House L'Auberge du Moulin				restaurant				
+node	9413100339	47.4028371	-0.4729217	Loire & Sens				restaurant				
+node	13046490893	47.3968554	-0.4520994	Café Mauve				cafe				
+node	13828254558	47.4054307	-0.4846226	Bistrot le 1006				restaurant				
+relation	166122			Juvardeil	8	49330	49170					
+node	2310873344	47.6566543	-0.4973925	Court Circuit				restaurant				
+relation	9086675			Huillé-Lézigné	8	49430	49174					
+node	8772675404	47.6363909	-0.2952240	Les Tilleuls				restaurant				
+way	136227747	47.6360884	-0.2932801	La Baraque à crèpe				restaurant		49430	Allée de la Buronnière	
+relation	5815670			Le Lion-d'Angers	8	49220	49176					
+node	4120910286	47.6285796	-0.7132908	Pizzéria Madona				restaurant	3			
+node	4120911491	47.6283299	-0.7140237	Lion Pizza				restaurant	15			
+node	4120911497	47.6274180	-0.7146443	Café des Sports				bar	41			
+node	4120911505	47.6279442	-0.7144823	Bar le Globe				bar	34		Rue du Général Leclerc	
+node	4199295677	47.6274883	-0.7147544	L'Entrepause				restaurant	48			
+node	4200305523	47.6267354	-0.7116319	Bar de l'Hippodrome				bar	6			
+node	13620752652	47.6230011	-0.7133254	Comme à la Maison				restaurant				
+node	13620752654	47.6227625	-0.7132021	Nuances Terroirs				bar				
+way	241000805	47.6310476	-0.7111480	Crêperie La Fleur de Blé				restaurant				
+relation	1250016			Loiré	8	49440	49178					
+way	237970995	47.6136866	-0.9812764	Restaurant scolaire				restaurant				
+way	237971774	47.6145636	-0.9804003	Auberge de la Diligence				restaurant	4	49440	Rue de la Libération	
+relation	224232			Longué-Jumelles	8	49160	49180					
+node	6311017368	47.3622105	-0.0900669	La tablée campagnard				restaurant				
+relation	325201			Louresse-Rochemenier	8	49700	49182					
+node	704770758	47.2336475	-0.2975272	L'Ammonite				restaurant				
+node	704770761	47.2340539	-0.2971147	Les Caves de la Genevraie				restaurant	13		Rue du Musée	
+node	13092011101	47.2328862	-0.2959688	La Pause du Troglo				bar	14	49700	Rue du Musée	
+relation	6795267			Val-d'Erdre-Auxence	8	49370;49440	49183					
+node	3413484938	47.5204178	-0.8785830	Bar Restaurant Le Petit Anjou				restaurant				
+relation	285568			Maulévrier	8	49360	49192					
+node	3682520981	47.0063355	-0.7470692	Restaurant Gastronomique Le Stofflet				restaurant		49360	Place du Château Colbert	
+node	8509339645	47.0075129	-0.7466982	Pizzeria du Chateau				restaurant	5		Rue Joseph Foyer	
+node	8509339646	47.0076487	-0.7464501	L’Orangeraie				restaurant				
+node	10147635259	47.0068224	-0.7450930	L'Entre 2				restaurant				
+node	11127114726	47.0037100	-0.7500652	Salon de Thé				restaurant				
+node	13598665834	47.0090207	-0.7480846	Restaurant Scolaire				restaurant				
+relation	296244			Le May-sur-Èvre	8	49122	49193					
+node	8106788531	47.1367327	-0.8928913	Bar Associatif Maytiss'Bar				bar				
+node	8106788633	47.1375469	-0.8926700	Le Bistrot de l'Hôtel				bar	1		Rue Honoré Neveu	
+relation	5812045			Mazé-Milon	8	49140;49630	49194					
+node	2565092579	47.4561699	-0.2725583	Bar des Sports				bar				
+node	2565093356	47.4557457	-0.2727973	Le Montgeoffroy				bar				
+node	11048521205	47.4499896	-0.2832004	La Parenthèse				restaurant				
+way	200482020	47.4520850	-0.2632175	Les Archés				restaurant				
+relation	285566			Mazières-en-Mauges	8	49280	49195					
+node	8869831128	47.0458876	-0.8169888	Café des Sports				bar	11		Rue de la Forêt	
+relation	5812044			Longuenée-en-Anjou	8	49220;49770	49200					
+node	1843722362	47.5194756	-0.6685205	La boule d'or				restaurant	3	49770	Place de l'Église	
+node	2632441617	47.5606119	-0.6711891	Acquaviva				restaurant				
+node	2632441620	47.5604032	-0.6721014	Le bistrot				bar				
+node	3444585908	47.5623621	-0.6749568	Le Chat qui pêche				restaurant				
+node	4784824434	47.5438672	-0.6741313	Le Chatelier				pub				
+node	9954271517	47.5741693	-0.6486730	Bistrot de l’écluse				restaurant				
+way	192977127	47.5769872	-0.6627992	Auberge du bac				restaurant				
+way	192977153	47.5791509	-0.6632723	La Maison du Passeur				restaurant				
+relation	167614			La Ménitré	8	49250	49201					
+node	5972140574	47.3954721	-0.2753554	Le Bec salé				restaurant				
+node	8457587086	47.3976021	-0.2751202	Auberge Côté Jardin				restaurant				
+way	632515364	47.3953754	-0.2748392	Café du Port Saint-Maur				restaurant				
+way	1202383446	47.3939747	-0.2750706	Guingette La Dérive				biergarten				
+way	1202383447	47.3939770	-0.2748513	Guingette La Dérive				cafe				
+relation	166133			Miré	8	49330	49205					
+way	237544293	47.7584370	-0.4912810	Le Père Louis				restaurant				
+relation	1221118			Montilliers	8	49310	49211					
+node	10228102677	47.1823247	-0.5048989	Le Macadam				pub	37	49310	Route d'Angers	
+relation	178356			Montreuil-Juigné	8	49460	49214					
+node	7383262127	47.5406125	-0.6155859	Le mot de la faim				cafe	7	49460	Place Robert Schuman	
+node	9394200310	47.5288735	-0.6105056	Le Bistrot du Marché				bar				
+node	10087717896	47.5336538	-0.5949466	Le Port d'Attache				bar		49460	Chemin du Bas des Vaux	
+way	169930069	47.5408085	-0.6158585	Crêperie du Passeur				restaurant				
+way	169930521	47.5405405	-0.6159540	Monsieur Jo				restaurant				
+way	631674745	47.5390201	-0.6158732	Guinguette Topette				restaurant				
+relation	272379			Montreuil-Bellay	8	49260	49215					
+node	3917758077	47.1324413	-0.1537996	Chez Félicien				restaurant	76	49260	Place des Ormeaux	
+node	5739765335	47.1334407	-0.1562070	L'auberge des Isles				restaurant				
+node	5844433566	47.1324384	-0.1557399	Le Gourmandisier				restaurant				
+node	5864304014	47.1323056	-0.1555225	Aux Petits Tonneaux				bar	58	49260	Place du Marché	
+node	7931083831	47.1321200	-0.1591100	Les Nobis				restaurant				
+node	7956034282	47.1322573	-0.1560555	Pot Potes				restaurant				
+node	7956114389	47.1317453	-0.1566031	Tasse Noisette				restaurant				
+node	7956114393	47.1316080	-0.1565182	Black And White				bar				
+node	12784088326	47.1300602	-0.1553932	La Rencontre				restaurant				
+node	13100311478	47.1318714	-0.1531948	La Grange à Dîme				restaurant		49260		
+node	13110556778	47.1323577	-0.1559414	Auroy de la Pizza				restaurant				
+node	13579989323	47.1325697	-0.1526284	Le Relais du Bellay				restaurant	96	49260	Rue Nationale	
+relation	1665814			Montrevault-sur-Èvre	8	49110;49270;49600	49218					
+node	4734626933	47.2614109	-1.0462216	Café de l'Èvre				bar				
+node	4734670830	47.2637297	-1.0452824	L'Outsider				bar				
+node	8785681552	47.3007142	-1.0806204	L'Eden				restaurant				
+node	8869798522	47.2319489	-1.1154705	Le 7 Doré				restaurant	12	49600	Place de l'Abbé Orthion	
+node	9339793141	47.2624348	-1.0373785	Rambault				restaurant				
+way	236895138	47.3001818	-1.0799183	Le Val d'Evre				restaurant				
+way	237572532	47.2595020	-1.0430110	Guinguette du Raz Gué				cafe				
+way	238601080	47.2726657	-1.0760788	Le Do Ré Mi				bar				
+relation	272377			Montsoreau	8	49730	49219					
+node	420409273	47.2194386	0.0461417	Le Saut aux Loups				cafe				
+node	4795302522	47.2166010	0.0565822	Le lion d'or				cafe		49730		
+node	4795309521	47.2163583	0.0566029	Le petit bar				cafe				
+node	4795309523	47.2148648	0.0626566	Le Montsorelli				restaurant				
+node	4795309822	47.2165788	0.0572674	Bar du Mail				cafe				
+node	6288249808	47.2153663	0.0625711	Jean 2				restaurant		49730	Passage du Marquis de Geoffre	
+node	6631636700	47.2165010	0.0566099	Le 2				cafe				
+node	6637506985	47.2162516	0.0600747	La Dentellière - Crêperie				restaurant	15		Quai Philippe de Commines	
+node	6637506990	47.2161476	0.0565529	Ververt				restaurant	7	49730	Place du Mail	
+node	6657310057	47.2148519	0.0664886	L'Aigue Marine				restaurant				
+node	9176888155	47.2164784	0.0581959	Fleur de Sel				restaurant				
+relation	6837833			Morannes sur Sarthe-Daumeray	8	49640	49220					
+node	8223135592	47.7004193	-0.3634716	Le Fraternity				restaurant				
+node	11891728977	47.7451087	-0.4171264	Le Café du Père Riou				cafe				
+way	238340286	47.7469595	-0.4205480	Au fil de l'eau				restaurant				
+relation	1250004			Mouliherne	8	49390	49221					
+node	11949774965	47.4668366	0.0160092	Le Petit Gauvin				bar				
+relation	325001			Mozé-sur-Louet	8	49610	49222					
+way	234035313	47.3599260	-0.5525545	Pizzeria Le K-Ré				restaurant				
+relation	324957			Mûrs-Erigné	8	49610	49223					
+node	1785263351	47.3983184	-0.5292220	Maison Janneau				cafe				
+node	1785263406	47.3982716	-0.5300550	Les Alizés				restaurant				
+node	1925271410	47.4033707	-0.5431028	Murmure				restaurant		49610	La Roche de Murs	
+node	9366864238	47.3956209	-0.5535924	Bar Tabac Chez Cooky				bar				
+node	13084651673	47.3984230	-0.5289751	Miss Cookies Coffee				cafe				
+way	237716794	47.4061990	-0.5261025	ROS[O]				restaurant	22	49610	Rue Maurice Berné	
+way	237720729	47.4060255	-0.5261635	Le Sporting				bar	24	49610	Rue Maurice Berné	
+relation	6791683			Noyant-Villages	8	49390;49490	49228					
+node	3252679690	47.4367443	0.1600025	Café du Musée				bar				
+node	3679806869	47.5795937	0.1658339	Le Penalty				bar				
+node	5005489802	47.5113158	0.1157118	Café de la ville				cafe				
+node	5832102435	47.5131865	0.1165717	Chez Lili Et Jean-pi				restaurant				
+node	12729636209	47.5110677	0.1157516	Uno Pizza				restaurant				
+relation	286517			Nuaillé	8	49340	49231					
+node	3299310270	47.0952161	-0.7954053	Le Haille				pub				
+relation	272381			Parnay	8	49730	49235					
+node	4793864522	47.2304676	0.0128787	La Table des Closiers				restaurant	17	49730	Route de Saumur	
+node	4793864523	47.2288645	0.0180494	La Gabelle				restaurant				
+relation	1665815			Mauges-sur-Loire	8	49110;49290;49410;49570;49620	49244					
+node	772931259	47.3648284	-0.9347557	Chez Mélanie				restaurant				
+node	1357979118	47.3639166	-1.0137035	Hostellerie de la Gabelle				restaurant				
+node	1494100450	47.3553508	-0.8617505	Au bon coin				cafe				
+node	2366026950	47.3915673	-0.8604971	Le Bon Saint Antoine				restaurant				
+node	3057641581	47.3610391	-1.0352403	Les Terrases de l'Èvre				restaurant				
+node	3950612830	47.3329164	-1.0112325	Le Bout de Saint-Flo				restaurant				
+node	6564675424	47.3912193	-0.8539404	La guinguette "Au bout de l’île"				biergarten		49570	La queue de l'Île	
+node	9329160037	47.3606361	-1.0162226	Bar PMU Le Florentais				bar				
+node	9366600996	47.3555913	-0.8598250	Bar Grill Pommerelle				bar				
+node	9366601004	47.3558648	-0.8602783	Le Bisrtrot d'Olicia				bar				
+node	11251751972	47.3337149	-1.0501492	Le Moulin de l'Epinay				restaurant				
+node	11902020407	47.3637510	-1.0261368	Guinguette fish&sheep				biergarten				
+node	11902098910	47.3601086	-1.0374549	Drain'Guette				biergarten				
+node	12816401346	47.3923366	-0.8667652	La Paillotte des Lucettes				restaurant				
+way	110546671	47.3561880	-0.8600820	Crêperie La Pommerelle				restaurant				
+way	237418316	47.3979515	-0.9178870	Le Poisson d'Argent				restaurant				
+way	885184932	47.3114347	-0.8350522	Les Deux Clochers				restaurant			Place de l'Église	
+relation	31255			Les Ponts-de-Cé	8	49130	49246					
+node	4885341007	47.4244551	-0.5250238	Pizza Tempo				restaurant		49130	Rue Charles de Gaulle	
+node	4885422925	47.4238013	-0.5245270	Bar-Tabac Le Fontenoy				bar	28	49130	Rue Charles de Gaulle	
+node	4885481169	47.4233943	-0.5242467	Pizza Fresca				restaurant	36 bis	49130	Rue Charles de Gaulle	
+node	6481182359	47.4287373	-0.5276635	Le Reinitas				bar	36	49130	Rue Victor Hugo	
+node	7153861285	47.4405978	-0.5036895	Le Hangar de Christy				restaurant	7	49130	Rue Charles Sauria	
+node	7316107418	47.4226407	-0.4952745	Belle Poule				restaurant				
+node	8874505861	47.4317968	-0.4994825	Buffalo Grill				restaurant				
+node	8944432236	47.4249678	-0.5288098	La Gabare				restaurant				
+node	10024996198	47.4294278	-0.5276173	Le San Marco				restaurant	6		Passage Saint-Aubin	
+node	10294976255	47.4099655	-0.5248624	Le Bosquet				restaurant	2		Rue Maurice Berne	
+node	11300302454	47.4396469	-0.5029177	O'feel Du Grill				restaurant	76	49130	Avenue Jean Boutton	
+node	12723396176	47.4305057	-0.4723880	Auberge du Pont de Sorges				restaurant	23	49130	Rue Camille Perdriau	
+node	13326062001	47.4305772	-0.5435213	L'instant				restaurant	6	49130	Esplanade Jean Sauvage	
+node	13430158017	47.4341586	-0.4982299	La Pala - Bistrot italien				restaurant	42	49130	Route de Sorges	
+node	13674111297	47.4333253	-0.5290171	Villa d'Or				restaurant	2	49130	Avenue Gallieni	
+node	13682301596	47.4408388	-0.4895909	Cote Jardin				restaurant	4		Rue Jean Jaurès	
+node	13712221171	47.4319761	-0.5286281	Rafū				restaurant	18	49130	Rue David d'Angers	
+node	13860765355	47.4402093	-0.5350227	Le Pois Gourmand				restaurant	35	49130	Rue des Grandes-Maisons	
+way	1202387254	47.4238263	-0.5287556	En Rouge & Loire				biergarten			Avenue de la Boire Salée	
+way	1202387255	47.4239676	-0.5289257	En Rouge & Loire				bar		49130	Avenue de la Boire Salée	
+relation	161034			La Possonnière	8	49170	49247					
+node	6658105891	47.3741638	-0.6892565	Poss' Café				cafe				
+node	8771165741	47.3741041	-0.6892701	Poss'Café				cafe				
+node	11242270418	47.3739879	-0.6847612	Piano Piano				restaurant				
+way	357859183	47.3709556	-0.6845630	Guinguette Les Tourbillons				restaurant				
+relation	6795162			Ombrée d'Anjou	8	49420;49520	49248					
+node	2987643713	47.7407850	-1.1762508	Layla Kebab				restaurant	10	49420	Rue de la Porte Angevine	
+node	4010917944	47.7535602	-1.1115677	L'Ange Vin				bar		49420		
+node	6746432066	47.6808874	-1.1302675	Restaurant scolaire				restaurant				
+node	6759697972	47.7403843	-1.1770644	La Cravache d'Or				restaurant	3	49420	Rue Jeanne d'Arc	
+node	11525820479	47.7175993	-1.1789140	Gastronomie d'Anjou				restaurant	4		Place de l'Eglise	
+node	14002562889	47.7404300	-1.1758997	Grand Café du Commerce				cafe	1	49420	Rue de la Porte Angevine	
+way	160636304	47.7509964	-1.1911370	La Chaise Rouge				restaurant		49420	Ferme de l'Herberie	
+way	160637791	47.7401100	-1.1702280	Le 102				bar	19	49420	Rue du Général Leclerc	
+way	160638916	47.7404550	-1.1721340	Le Vincennes				bar		49420	Avenue du Général de Gaulle	
+way	160639439	47.7403885	-1.1740165	Les Maronniers				restaurant	20	49420	Rue du Maréchal Foch	
+way	160643438	47.7439310	-1.1662720	La Porte Angevine				restaurant				
+way	160645967	47.7408080	-1.1809725	Le Vieux Logis				restaurant	53	49420	Rue de Libération	
+way	160657353	47.7757720	-1.2361783	La Touche Finale				restaurant				
+way	232324398	47.7027979	-1.0277313	Le Lavoir				bar				
+way	237399603	47.6815280	-1.0210181	Ferme Auberge La Touche				restaurant	803	49520	La Touche	Le Tremblay
+way	1189940386	47.6805471	-1.1311331	Le Relais Saint-Michel				restaurant	5	49420	Place du Cheval Blanc	Saint-Michel-et-Chanveaux
+relation	904696			Le Puy-Notre-Dame	8	49260	49253					
+node	2645692665	47.1252746	-0.2347783	Le Puy à Vins				restaurant	10	49260	Rue des Hôtels	
+node	3763149803	47.1243637	-0.2343464	La Goudale				bar	24	49260	Rue de la Collégiale	
+node	3763149804	47.1244064	-0.2344201	Le Bouchon Ponot				restaurant	22bis	49260	Rue de la Collégiale	
+node	3763149805	47.1243506	-0.2340590	Le Variété				bar	13	49260	Rue de la Collégiale	
+node	5049397245	47.1252152	-0.2283222	Les Délices de Flo				cafe				
+relation	157825			Rochefort-sur-Loire	8	49190	49259					
+node	5856720441	47.3565177	-0.6554037	Au Resto'				restaurant				
+node	5878138984	47.3601455	-0.6553086	Guinguette Port Gogagne				restaurant				
+relation	7853869			Gennes-Val-de-Loire	8	49160;49320;49350	49261					
+node	1254373773	47.3259456	-0.3472883	La Source St Anne				restaurant				
+node	1407681178	47.3505174	-0.2262930	Au Val de Loire				restaurant				
+node	1871587313	47.3508962	-0.2287211	Villa des Roses				restaurant				
+node	1885925296	47.3184821	-0.1793318	La Cave aux Moines				restaurant				
+node	2365972768	47.3295646	-0.1994905	À Contre-Courant				restaurant	36	49350	Rue de Beauregard	
+node	4916406473	47.3079858	-0.1529936	Le Carahutta				restaurant	52	49350	Rue des Bateliers	
+node	5747155105	47.3706466	-0.2648485	La Route du Sel				restaurant	55		Quai des Mariniers	
+node	6743777074	47.3409703	-0.2311564	Café Tabac de la Paix				pub				
+node	7227465485	47.3112240	-0.1593851	Le Castellane				restaurant		49350	Rue du Comte Fr Castellane	
+node	7283359589	47.3428440	-0.2318721	Restaurant des Dames Barrau				restaurant	9	49350	Avenue des Cadets de Saumur	
+node	7776190210	47.3093496	-0.1445572	Le Canotier				pub				
+node	8432837936	47.3717817	-0.2656676	Au Coin du Fleuve				restaurant	2	49350	Place de l'Église	
+node	8764002883	47.3377303	-0.1412175	Coco'ning				restaurant				
+node	9444891818	47.3149972	-0.1510842	La Toue Cabanée – Guinguette				bar				
+node	10067995403	47.3303563	-0.3421365	Les Fouées de Grézillé				restaurant		49320		
+node	11130712658	47.3389553	-0.2339179	Chez Lionel				restaurant				
+node	12817469287	47.3333314	-0.2047840	Le Hangar By La Jacqueline				bar				
+node	12817473845	47.3257605	-0.3492960	La Jacqueline				biergarten				
+node	13092010901	47.3100522	-0.1442513	La Terrasse d'Entente				restaurant		49160	Descente de la Croix Rouge	
+node	13197246070	47.3483727	-0.2238959	de Loire & d'Ailleurs				restaurant	2	49350	Quai de la Loire	
+way	101479747	47.3513100	-0.2250262	Le Crystal				bar	14	49350	Rue de la Croix	
+way	1283361426	47.3149654	-0.1510956	Guinguette La Toue Cabanée				biergarten				
+way	1384391867	47.3333650	-0.2048078	Le Hangar By La Jacqueline				biergarten				
+relation	272391			Rou-Marson	8	49400	49262					
+node	386169352	47.2508518	-0.1457090	Les Caves de Marson				restaurant	1	49400	Rue Henri Fricotelle	
+relation	167618			Saint-Barthélemy-d'Anjou	8	49124	49267					
+node	2434913592	47.4672851	-0.4952699	La Tocante				restaurant				
+node	2434915321	47.4673668	-0.4946872	Le Carrousel				pub				
+node	4102341900	47.4699627	-0.5100607	Le Zinc				restaurant				
+node	4458480287	47.4689193	-0.4953645	Bijane Restaurant				restaurant				
+node	5296160740	47.4872577	-0.5013621	EPARC				restaurant				
+node	6241800140	47.4669084	-0.4961437	Relais Saint-Barth				restaurant	11	49124		
+node	8454889792	47.4668992	-0.4958209	Barth’ pizzas				restaurant				
+node	8457294549	47.4665754	-0.4935198	Fine & Za				restaurant	2	49124	Rue Jean-Jaurès	
+node	9401932377	47.4678540	-0.5188751	Get out				pub			21 rue du Hanipet, 49 124 Saint-Barthelemy d'Anjou	
+node	10960374343	47.4675662	-0.5185273	Loop’N Bar				bar				
+way	134828714	47.4848583	-0.4989206	La Boucherie				restaurant				
+relation	295503			Saint-Christophe-du-Bois	8	49280	49269					
+node	4998631227	47.0277393	-0.9455009	Le Paloma				cafe				
+node	6240050388	47.0270809	-0.9457279	Le Relais de la Borderie				restaurant	7	49280	Square de la Fontaine	
+relation	1245581			Saint-Clément-des-Levées	8	49350	49272					
+node	7867390131	47.3305353	-0.1844295	Port Poisson				bar				
+way	1284391859	47.3297252	-0.1836732	Guinguette Cadre Loire				biergarten				
+relation	178359			Sainte-Gemmes-sur-Loire	8	49130	49278					
+node	897131068	47.4228960	-0.5562328	Bar Restaurant de La Loire				restaurant				
+node	1709691389	47.4239429	-0.5577408	L'Orchidée				restaurant	7	49130	Avenue du Commerce	
+node	10914167870	47.4212579	-0.5828724	Le resto de l’avenir				restaurant				
+node	13814187679	47.4174987	-0.5830990	La Guinguette de Port Thibault				restaurant	57	49130	Route de Port Thibault	
+node	13814187680	47.4175432	-0.5833113	Le Bar du Jardin				bar	57	49130	Route de Port Thibault	
+node	13959942692	47.4199935	-0.5824451	O'CYCLO				cafe				
+way	136532242	47.4224966	-0.5616214	Les Petites Écuries				restaurant				
+way	136536145	47.4238715	-0.5573893	QG café tabac presse				bar	10		Avenue du Commerce	
+relation	319065			Saint-Georges-sur-Loire	8	49170	49283					
+node	2366017103	47.3700693	-0.7529856	Le Grand Bras - Pub Qg49				restaurant				
+way	238664126	47.4058900	-0.7507790	La Florentina				restaurant				
+relation	5812048			Val-du-Layon	8	49190;49750	49292					
+node	6331247197	47.3286941	-0.6706007	Bar associatif Le Faux Chai				bar	2	49190	Rue Jean de Pontoise	
+node	7793747585	47.3423493	-0.6927855	La Corniche restaurant				restaurant	4		Route de la Corniche Angevine	
+way	72362672	47.2994042	-0.6345581	Popète & Pompette				restaurant				
+relation	9071966			Saint-Léger-de-Linières	8	49170;49070	49298					
+node	6644560595	47.4653569	-0.6690727	La Pause				restaurant	54	49070	Rue de la Liberté	
+node	9739243669	47.4580951	-0.6579673	Auberge de la Roche				restaurant				
+node	12433063429	47.4596124	-0.7092549	Bar - Tabac - Restaurant "Le Sporting"				bar				
+relation	295105			Saint-Léger-sous-Cholet	8	49280	49299					
+node	1778464621	47.0924733	-0.9106836	L'Ardoise Bleue				bar	2	49280	Rue des Mauges	
+relation	1665801			Sèvremoine	8	49230;49450;49660;49710	49301					
+node	1710629484	47.0985353	-1.1275053	Le Gazou				cafe				
+node	2374342166	47.0376154	-1.1160402	Bar Tabac Le Troquet des Sports				bar		49660	68 rue Nationale	
+node	2929398207	47.0863651	-1.1363113	Café des Sports				bar				
+node	4734673221	47.0997250	-1.1869712	Chez Chacha				bar				
+node	5598014158	47.0104598	-1.0733664	Auberge des 4 Moulines				restaurant				
+node	5967067934	47.1210585	-1.0581002	La Passerelle				restaurant	17		Rue des Mauges	
+node	5967067936	47.1238223	-0.9938347	L'essentiel				restaurant	44		Rue du Commerce	
+node	5967067938	47.1197912	-1.0926408	Restaurant Le Saloon				restaurant				
+node	5967067939	47.1201363	-1.1221816	La Cantine				restaurant				
+node	5967067940	47.0989246	-1.1274671	Le Fief Aux Moines				restaurant	13		Place de la Motte	
+node	5967067941	47.0322594	-1.0931667	La Colonne				restaurant			La Colonne	
+node	5967067942	47.1145532	-0.9876411	Andréa 'Bis' Tro				restaurant	10		Rue Konrad Adenauer	
+node	5967067943	47.0974457	-1.1257691	Restaurant Au P'tit Cout				restaurant	5		Rue Louis Monnier	
+node	7333007776	47.0910243	-1.0656517	Bar Tabac				bar				
+node	7333090690	47.1236688	-0.9911891	Le double A				pub	4		Rue d'Anjou	
+node	7333090691	47.1185581	-1.1237337	Le Ch'Ti Bar				bar				
+node	7333090692	47.1237899	-0.9924485	A Vincennes				bar				
+node	8544927612	47.1226385	-0.9996792	La Passerelle				restaurant	71	49450	Rue de Bretagne	
+node	13532494377	47.0376413	-1.1161303	Tony et Josy				bar				
+way	173633554	47.0295535	-1.1474928	Auberge des 3 Provinces				restaurant				
+way	238635365	47.1125157	-0.9935218	San Andréa				restaurant				
+way	238635514	47.0947385	-1.0053715	Bar des Amis				restaurant				
+way	238635791	47.0933370	-1.0045545	La Grange aux Burgers				restaurant				
+relation	319078			Saint-Martin-du-Fouilloux	8	49170	49306					
+node	11457594257	47.4446534	-0.6867327	Le St Martin				nightclub				
+relation	5812043			Loire-Authion	8	49140;49250;49630;49800	49307					
+node	1828015402	47.4089871	-0.3199413	La Gabare				bar				
+node	2114884471	47.4094937	-0.3217662	Les Reflets de Loire				restaurant	2	49250	Place Charles Sigogne	
+node	2365998923	47.4194383	-0.4343472	Café de la Mairie				pub				
+node	2366000651	47.4202275	-0.4453079	O’Daguenais				restaurant	152	49800	Rue Ligérienne	
+node	5609850285	47.4092359	-0.3206079	Martin Pêcheur				restaurant				
+node	10275266557	47.4464320	-0.4108747	L'Escale				bar	15		Grande Rue	
+node	12245857750	47.4575540	-0.3918400	Le Lemon's  RESTO				restaurant		49250	Rue Jeanne de Laval	
+node	12945914701	47.4205673	-0.3913915	Café associatif Le Lieu				cafe				
+way	1202387253	47.4174691	-0.4383288	Guinguette Border Wine				restaurant		49800	Port Maillard	
+way	1384919806	47.4172564	-0.4380852	La Barbe à Maman				biergarten		49800	Port Maillard	
+way	1495915440	47.4119704	-0.3189439	La Luciole				restaurant	2	49250	Rue de l'Arcade	
+relation	366442			Saint-Melaine-sur-Aubance	8	49610	49308					
+node	7357103918	47.3703846	-0.4965403	Le Petit Manoir				restaurant	12	49610	Rue Armand Brousse	
+relation	546968			Saint-Paul-du-Bois	8	49310	49310					
+node	1794783879	47.0808143	-0.5443241	L’Entracte				restaurant				
+relation	224233			Saint-Philbert-du-Peuple	8	49160	49311					
+node	9207414868	47.3930347	-0.0442337	Bar de l'Union				bar				
+relation	5812049			Verrières-en-Anjou	8	49112;49480	49323					
+node	2168971276	47.5203435	-0.4714519	Les deux frères				bar				
+node	2168973743	47.5200392	-0.4717870	Le cadran				bar				
+node	6306127385	47.5122462	-0.5142151	Le Pont aux Filles				restaurant				
+node	7487428728	47.5092807	-0.4800710	Le P'tit Birdie				restaurant		49480	La Béchalière	
+node	9375858790	47.5218675	-0.4377045	La Promenade				restaurant				
+node	9692629897	47.5001296	-0.4901398	McCafé				cafe				
+node	13459846674	47.5214371	-0.4483527	La petite Verriere				restaurant				
+relation	31253			Sarrigné	8	49800	49326					
+node	13332570313	47.5016881	-0.3824615	Le Relais de Sarrigné				bar	2	49800	Allée des Glycines	
+relation	272368			Saumur	8	49400	49328					
+node	386223560	47.2538482	-0.0966843	Les Nobles Fouées				restaurant	23		Rue Fouquet	
+node	603263477	47.2607743	-0.0769901	Brasserie de la Bourse				restaurant	1	49400	Place de la Bilange	
+node	603263719	47.2607595	-0.0768500	Le Boeuf Noisette				restaurant	29	49400	Rue Molière	
+node	603263740	47.2606425	-0.0765363	La Comédie				restaurant	19	49400	Rue Molière	
+node	603585976	47.2588717	-0.0752266	Le Bistrot de la Place				restaurant	16		Place Saint-Pierre	
+node	603642300	47.2597664	-0.0743300	Zythum Saumur				bar	71		Quai Mayaud	
+node	1064349785	47.2579475	-0.0790904	Pépé le roi du poulet				restaurant		49400	Place Dupetit-Thouars	
+node	1247051521	47.2595838	-0.0754502	Annexe-Saumur				restaurant	20	49400	Rue du Puits Neuf	
+node	1274653039	47.2610247	-0.0772919	Le 7				restaurant	26	49400	Place de la Bilange	
+node	1274653045	47.2612042	-0.0770960	L'Entracte				restaurant	32	49400	Place de la Bilange	
+node	2430847907	47.2576981	-0.0714946	L‘Essentielle				restaurant	11-13	49400	Rue Raspail	
+node	2663524001	47.2600570	-0.0896126	La Boucherie				restaurant				
+node	2663699222	47.2577775	-0.0788510	Café de la Poste				cafe	53	49400	Rue du Portail Louis	
+node	2663807242	47.2620503	-0.0822070	Le Carrousel				restaurant	15	49400	Rue du Colonel Michon	
+node	2663845877	47.2589193	-0.0748725	Auberge Saint-Pierre				restaurant	6	49400	Place Saint-Pierre	
+node	2844671013	47.2562563	-0.0787298	La pena				bar		49400		
+node	2926245376	47.2643120	-0.0705353	Auberge La Reine de Sicile				restaurant	71	49400	Rue Waldeck-Rousseau	
+node	2926895288	47.2644868	-0.0726207	Le Café de l'île				cafe	60	49400	Avenue du Général de Gaulle	
+node	2926898461	47.2638078	-0.0733892	Le Balto				cafe	22	49400	Avenue du Général de Gaulle	
+node	2926899304	47.2637278	-0.0735107	La Muraille de Chine				restaurant	14	49400	Avenue du Général de Gaulle	
+node	2926903863	47.2648763	-0.0721835	Le Bouche à Oreille				restaurant	76	49400	Avenue du Général de Gaulle	
+node	3292883261	47.2792255	-0.0648273	Le 110 Restaurant & Grill				restaurant		49400		
+node	3465199551	47.2606279	-0.0779849	Le piccadilly				restaurant				
+node	3465213400	47.2593197	-0.0758193	Le Grand Blue				restaurant	6	49400	Rue du Marché	
+node	3465258328	47.2604938	-0.0832007	L'Alchemiste				restaurant	6	49400	Rue de Lorraine	
+node	3465265572	47.2563561	-0.0825530	L'Instinct				restaurant	42	49400	Rue du Maréchal Leclerc	
+node	3506673711	47.2586065	-0.0746454	La Quichenotte				restaurant	2	49400	Rue Haute Saint-Pierre	
+node	3638894993	47.2599651	-0.0750079	Cristal Hotel				bar				
+node	4485889689	47.2588891	-0.0745561	Le Comptoir du Siam				restaurant	2	49400	Rue Basse Saint-Pierre	
+node	5076043227	47.2540059	-0.0653965	Gargamelle				restaurant	35	49400	rue Rabelais	
+node	5613165321	47.2598616	-0.0784842	La Duchesse Anne				cafe		49400	Rue Franklin Roosevelt	
+node	6012486596	47.2597116	-0.0759563	Le colibri fait son nid				cafe				
+node	6547668237	47.2586558	-0.0749120	Bistrot les Tonton				restaurant				
+node	6647284798	47.2605448	-0.0742823	Sur les Quais				restaurant				
+node	6668031386	47.2405931	-0.0222744	L'Amuse Bouche				restaurant	512		Route de Montsoreau	
+node	6732928300	47.2609482	-0.0796045	La Calèche				restaurant				
+node	7133571785	47.2566102	-0.0822795	L'Escargot				restaurant	30		Rue du Maréchal Leclerc	
+node	7721938885	47.2610954	-0.0806238	La Bigouden				restaurant	67	49400	Rue Saint-Nicolas	
+node	7840962683	47.2689003	-0.0707305	L'Escale de la Gare				restaurant		49400		
+node	7857720216	47.2699911	-0.0668996	Le Cinq 7				pub				
+node	8065196785	47.2610091	-0.0797913	Le Cellier				restaurant				
+node	8440759847	47.2383158	-0.1022030	Wok Saumur				restaurant		49400	Rond-Point de Bournan	
+node	8731475523	47.2512623	-0.0884127	Tea Pot				restaurant	10	49400	Rue du Pont Fouchard	
+node	9335262059	47.2692290	-0.0712337	2 minutes d'arrêt				bar				
+node	9502205117	47.2586492	-0.0747860	Keating Steak and Wine House				restaurant				
+node	9889156720	47.2604682	-0.0780668	Le Saint-Cloud				cafe				
+node	9890275717	47.2606774	-0.0772693	Masama				restaurant		49400		
+node	9976834444	47.2612390	-0.0770586	Teatro Divino				restaurant	32	49400	Place de la Bilange	
+node	9976845124	47.2606076	-0.0780069	Le Piccadilly				restaurant	18/19	49400	Place de la Bilange	
+node	10158199913	47.2590279	-0.0750226	Maison Gaspard				cafe	28	49400	Rue du Puits Neuf	
+node	11068302895	47.2410232	-0.0229769	Brasserie Tina				restaurant				
+node	11131983507	47.2592387	-0.0670611	L'Offard				restaurant		49400	Quai du Marronnier	
+node	11132023406	47.2596627	-0.0746989	Le Code Bar				bar	6	49400	Rue de la Tonnelle	
+node	11132403906	47.2586333	-0.0760133	Le Maryland				bar	21	49400	Rue Dacier	
+node	11359082569	47.2585015	-0.0752104	Café de la ville				cafe	9	49400	Place Saint-Pierre	
+node	11359109470	47.2589131	-0.0750036	Le Saint Pierre				bar		49400	Place Saint-Pierre	
+node	11488866269	47.2599042	-0.0749237	Côté Jardin				restaurant	8	49400	Rue Molière	
+node	11584653969	47.2678029	-0.0690494	Le Café de la Gare				bar				
+node	11584964269	47.2646459	-0.0732495	La Pierre Chaude				restaurant			Avenue du Général de Gaulle	
+node	11889384953	47.2621171	-0.0894609	Foyer				bar				
+node	11889769301	47.2610151	-0.0777448	Ben Aise				restaurant				
+node	12051914153	47.2431510	-0.0944766	Le Dolmen				cafe				
+node	12817494549	47.2593743	-0.0662008	Quai Des Brunes				biergarten				
+node	12961097890	47.2593471	-0.0752816	Bariké				pub		49400		
+node	13077669757	47.2567288	-0.0821160	Nuabol				restaurant				
+node	13547026501	47.2608583	-0.0796861	Le Byblos				restaurant	45	49400	Rue Saint-Nicolas	
+node	13727834047	47.2524315	-0.0772344	Dragon Chouquette				restaurant	15	49400	Rue du Pressoir	
+node	13734626201	47.2600340	-0.0767130	French Coffee Shop				cafe				
+node	13920841801	47.2579340	-0.0791210	La Table By Mi-k'l				restaurant	7	49400	Place Dupetit-Thouars	
+node	13938114744	47.2603694	-0.0776464	Pâtes A House				restaurant				
+way	149974104	47.2637210	-0.0711370	L'Escale Du Maroc				restaurant	59	49400	Rue Waldeck-Rousseau	
+way	151760969	47.2537140	-0.0971895	L'okto				bar				
+way	151762189	47.2383405	-0.1008435	Campanile				restaurant		49400	Rond-Point de Bournan	
+way	151762591	47.2495630	-0.0904625	L'Arlequin				restaurant				
+way	152568352	47.2593820	-0.0746441	L'instant Présent				restaurant				
+way	152568403	47.2622070	-0.0786780	Le Trianon				restaurant				
+way	152570560	47.2483860	-0.0478160	La Table du Château Gratien				restaurant				
+way	152571123	47.2669150	-0.0903655	La Taverne				restaurant				
+way	152572107	47.2612150	-0.0801035	L’Cancuna				restaurant	15	49400	Rue Courcouronne	
+way	152573591	47.2611505	-0.0801660	Le Montagnole				restaurant				
+way	152573663	47.2557925	-0.0712400	Bonheur Saumur				restaurant	1286	49400	Rue des Moulins	
+way	925942296	47.2612072	-0.0903085	Crescendo				restaurant				
+relation	324725			Savennières	8	49170	49329					
+node	5888930504	47.3828706	-0.6571321	Le Chenin				restaurant				
+node	13183752980	47.3833274	-0.6573676	Lùlù				restaurant				
+node	13955321203	47.3980441	-0.6344178	A table chez Milie				restaurant	1	49170	Rue Thierry Sandre	
+relation	6794145			Segré-en-Anjou Bleu	8	49500;49520	49331					
+node	2027834110	47.6976528	-0.8666397	La Colonnade				restaurant				
+node	7855002602	47.6861572	-0.8708194	Crêperie du Chat Gris				restaurant	39		Quai Lauingen	
+node	7855164737	47.6851654	-0.8715721	Famille Pizza Segré				restaurant				
+node	7877813079	47.6856232	-0.8725937	Chez Sam				restaurant	30	49500	Rue Victor Hugo	
+node	7877813083	47.6852616	-0.8726299	Le Jardin d'Asie				restaurant				
+node	7877819288	47.6856390	-0.8742687	L'Atelier Burger Grill				restaurant	13	49500	Place Aristide Briand	
+node	7923050807	47.6848825	-0.8704640	L'Esplanade				bar	4		Place de la République	
+node	7923519995	47.6784674	-0.8790162	La Verrière				cafe				
+node	8772216140	47.7435711	-0.8882752	Bar, Café				bar				
+node	10033823766	47.7061380	-0.7968803	La Virée d'Avirée				bar				
+node	10055942827	47.6962916	-0.8723572	Le d’Artagnan				restaurant		49500		
+node	11340981910	47.7583890	-0.9266416	Les Halles de Châtelais				cafe		49520	Rue Principale	
+node	11847013295	47.6852562	-0.8724341	Le Mojo				restaurant	37		Rue Pasteur	
+node	12083454492	47.7189268	-0.9643571	Relais de Misengrain				restaurant				
+node	12163670901	47.6845597	-0.8710266	Bistronomica				restaurant	11		Place de la République	
+node	12264591017	47.6833300	-0.8699742	Le XIIIème				restaurant				
+node	13017579621	47.6843994	-0.8710437	Le Royal				bar	5		Place de la République	
+way	146073551	47.7219845	-0.7087630	La Fleur de Sel				restaurant				
+way	146075262	47.7069130	-0.7432660	La Hulotte				bar				
+way	152629928	47.6854035	-0.8732875	Le Sinclair				pub	52		Rue Pasteur	
+way	152630081	47.6845105	-0.8733860	Le Pub de la Rivière				pub	26		Rue Emile Zola	
+way	152630122	47.6856620	-0.8706745	Le Gambetta				bar	5		Rue Gambetta	
+way	152742237	47.7196795	-0.8615050	Le Rendez-vous des Chasseurs				restaurant				
+way	153262454	47.7158452	-0.9156689	Le p'tit Bar				bar				
+way	153262657	47.7168305	-0.9159765	Buvette du Cercle des Amis réunis				bar	40		Grande Rue	
+way	154727513	47.6750140	-0.8834455	Le St James				cafe				
+way	155129892	47.6382700	-0.8573680	Au Marans				restaurant	1		Route de Vern	
+way	155162048	47.7047675	-0.9573070	Les Perreyeux				restaurant	17		Rue Constant Gérard	
+way	367000982	47.7120639	-0.9505451	Bar de la plage				cafe				
+way	675864394	47.7130263	-0.9457910	Bar de la Truite				bar				
+relation	295103			La Séguinière	8	49280	49332					
+node	4097485957	47.0898201	-0.9144387	Légend Café 49				restaurant	10		Rue de Belgique	
+node	8969069684	47.0620440	-0.9403600	Société St Hubert				cafe				
+way	290355654	47.0601490	-0.9368415	La Prairie				restaurant				
+relation	167635			Seiches-sur-le-Loir	8	49140	49333					
+node	1818980552	47.5738199	-0.3582487	La Roseraie				restaurant				
+node	1818986427	47.5724912	-0.3555742	Le Lion d'or				bar				
+node	13732137531	47.5801200	-0.3621082	Guinguette du Père Chapuis				restaurant		49140	Chemin des Vallées	
+relation	906081			Soulaire-et-Bourg	8	49460	49339					
+node	10033794543	47.5915156	-0.5553004	Au p'tit restaurant du Château				restaurant				
+relation	906146			Souzay-Champigny	8	49400	49341					
+node	12779751126	47.2367419	-0.0102043	Le Bal Perdu				biergarten			Rue du Commerce	
+relation	285569			La Tessoualle	8	49280	49343					
+way	168825137	47.0235495	-0.8513760	Auberge Le Gribou				restaurant				
+relation	1250314			Thorigné-d'Anjou	8	49220	49344					
+node	814790860	47.6336109	-0.6886229	La Cabane de Thorigné				restaurant	1177		Route du Lion	
+relation	5812037			Bellevigne-en-Layon	8	49380;49750	49345					
+node	2008373383	47.2385119	-0.4997970	Bar du Layon				bar	24		Rue du Colonel Artemieff	
+node	3057186606	47.2657338	-0.5760490	Proxi				cafe				
+node	6140945852	47.2678479	-0.5923031	La Table de la Bergerie				restaurant				
+node	7857609850	47.2668687	-0.5032572	Le St James				pub	5		Place de la Mairie	
+way	72489217	47.2951775	-0.5764862	L'auberge du Layon				restaurant	20	49750	Grande Rue	
+relation	906086			Tiercé	8	49125	49347					
+node	4769513730	47.6143206	-0.4686123	La Villa Roma				restaurant	4	49125	Rue du Val de Sarthe	
+node	6857251808	47.6154499	-0.4682661	Les Mari Morgans				restaurant				
+node	6857251817	47.6148437	-0.4682044	Bistrot Mauboussin				restaurant				
+node	6857257455	47.6169129	-0.4685135	Au Grenier à Blé				restaurant				
+node	6857302202	47.6146515	-0.4668016	Mona Pizza				restaurant				
+relation	31262			Trélazé	8	49800	49353					
+node	7213682892	47.4523505	-0.5137770	Le 109				bar				
+node	7213710657	47.4434012	-0.4899607	Le P’tit Jaurès				bar				
+node	7236559587	47.4456400	-0.4676211	Auberge de la Mairie				restaurant				
+node	10565259661	47.4575267	-0.5111188	Le Kif Angers				bar				
+node	13682357246	47.4406259	-0.4897693	Cartepinte - Bar à jeux				bar	13		Rue Jean Jaurès	
+node	13684553751	47.4410809	-0.4904133	Le Pyramide BAR				bar	16		Rue Jean Jaurès	
+node	13690933177	47.4435405	-0.4975095	Pizza Tempo				restaurant	136		Rue Jean Jaurès	
+way	125991705	47.4418965	-0.4823365	Comptoir Ferdinand				restaurant	187	49800	Rue Ferdinand Vest	
+relation	295115			Trémentines	8	49340	49355					
+node	5893458885	47.1211368	-0.7896188	Le Manège Des Saisons				restaurant			Place de la Victoire	
+node	8093465016	47.1217353	-0.7887592	Bar Au Tibus				bar				
+relation	272387			Turquant	8	49730	49358					
+node	4793864526	47.2247098	0.0249771	Bistroglo				restaurant				
+node	6673336564	47.2228964	0.0289999	La Cave				bar				
+node	10832501739	47.2232948	0.0279379	L'Helianthe				restaurant				
+relation	906145			Varennes-sur-Loire	8	49730	49361					
+node	8909594176	47.2377551	0.0540500	Le Jardin de Varennes				restaurant				
+node	8909624086	47.2383990	0.0540931	Le Petit Bistrot				bar				
+relation	272390			Varrains	8	49400	49362					
+node	7746303655	47.2214588	-0.0638228	Café de L’Ormeau				bar				
+relation	5812041			Erdre-en-Anjou	8	49220;49370	49367					
+node	5591905298	47.5529047	-0.8095316	Bar des Sports				cafe	55		Rue Principale	
+node	11263232714	47.5850237	-0.7633451	Restaurant scolaire				restaurant				
+way	236901114	47.5525999	-0.8075500	Restaurant municipal				restaurant				
+way	239637405	47.6006350	-0.8340950	Le Sulky				cafe	3	49220	Rue Pasteur	
+relation	1251140			Vernantes	8	49390	49368					
+node	6311017058	47.3927259	0.0516110	Bar tabac Le Balto				cafe				
+relation	1251141			Vernoil-le-Fourrier	8	49390	49369					
+node	2929967674	47.3873245	0.0801125	L'Amie louche				restaurant	2	49390	Rue de l'Amandier	
+node	2939346465	47.3871410	0.0797324	LEBOUCHER Sophie				cafe				
+relation	5754207			Lys-Haut-Layon	8	49310;49540;49560	49373					
+node	3498660141	47.1521537	-0.4417980	Le Relais de Trémont				restaurant				
+node	3802765096	47.1459320	-0.5344828	Le Gavroche				restaurant	3	49310	Place Charles de Gaulle	
+node	7190117156	47.1074027	-0.4663214	Fleur de Sel				restaurant	3	49310	Rue de l'École Notre-Dame	
+node	7650620876	47.1457622	-0.5342183	Bar du Centre				bar	7	49310	Place Charles de Gaulle	
+node	7983177392	47.1453436	-0.5341553	Le Napoli				restaurant				
+node	7983177396	47.1451486	-0.5342473	L’étape gourmande				restaurant				
+node	8013493087	47.1447310	-0.5429429	Les Plaisirs du Lys				restaurant				
+node	8026360281	47.1182757	-0.3655726	Le Tempo				bar			Place d'Armes	
+node	8459311937	47.1463502	-0.5346893	Pizza Kebab d’Aladin				restaurant	2	49310	Rue David D’Angers	
+node	8495342729	47.1463390	-0.5203956	Le Moulin				restaurant				
+node	8520490459	47.1447164	-0.5363181	Bar des Pecheurs				pub				
+node	9113816869	47.1500503	-0.4864621	Roulotte des Bois Fougères				restaurant				
+node	11256234098	47.2002334	-0.4289162	Loïc et Nicole				restaurant	11	49540	Rue d'Anjou	
+node	13125517877	47.1503007	-0.5269463	Le Palace				bar				
+relation	9071934			Rives-du-Loir-en-Anjou	8	49140	49377					
+node	9373166756	47.5249698	-0.4284493	Les Toqués d’Anjou				restaurant				
+node	13038045063	47.5605095	-0.4216330	Bar PMU Presse Bar des amis				cafe	1		Rue Jean De Beauveau	
+node	13038088429	47.5684482	-0.4191372	Bar de soucelles (PMU)				cafe	7		Place de la Mairie	
+node	13038111517	47.5603294	-0.4228068	Le Sympathique				cafe	4		Rue Saint-Pierre	
+node	13038111957	47.5621564	-0.4228377	Les Tonelles				restaurant	13		Rue du Port	
+relation	905040			Vivy	8	49680	49378					
+node	460431506	47.3252887	-0.0555098	Hostellerie de Saint-Paul				restaurant				
+node	9433957780	47.3281948	-0.0588222	Restaurant scolaire				restaurant				
+relation	285570			Yzernay	8	49360	49381					
+node	14089120001	47.0209502	-0.7024388	Chez Fredo				restaurant	2	49360	Rue François de Chabot	

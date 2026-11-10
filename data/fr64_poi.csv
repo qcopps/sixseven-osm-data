@@ -1,0 +1,2227 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	2152285			Accous	8	64490	64006					
+node	652148375	42.9777744	-0.6053709	Le Permayou				restaurant				
+node	652148557	42.9759452	-0.5997890	Pizz'Accous				restaurant				
+node	1290426031	42.9525251	-0.6142090	Auberge Cavalière				restaurant				
+way	218111367	42.9748632	-0.6077854	L'Évasion				bar				
+relation	166888			Ahetze	8	64210	64009					
+node	7041982062	43.4055126	-1.5711829	Hiriartia				restaurant	7	64210	Place Mattin Trécu	
+relation	170582			Aincille	8	64220	64011					
+node	8725349995	43.1448568	-1.1952963	Restaurant Pecoitz				restaurant	37	64220	Chemin de Plaza	
+relation	390203			Ainhoa	8	64250	64014					
+node	7122315407	43.3079856	-1.4992278	Restaurant Ithurria				restaurant			Place du Fronton	
+node	7122315409	43.3072631	-1.4957634	Restaurant Argi Eder				restaurant			Route de la Chapelle	
+node	7122315411	43.2930651	-1.5032857	Restaurant Ur Hegian				restaurant		64250		Quartier Dancharia
+node	7122315420	43.3064912	-1.4989721	Restaurant Alzate				restaurant				
+node	7122315421	43.2955266	-1.4952894	Ferme Segida				restaurant				
+node	8856859660	43.3072642	-1.4988472	Oppoca				restaurant				
+way	76027931	43.3057146	-1.4991562	Krakada par Le Musée du Gâteau Basque				restaurant				
+relation	168585			Aldudes	8	64430	64016					
+node	2995411171	43.0825144	-1.4353688	Saint Sylvestre				restaurant		64430	Iruñeko errepidea	
+node	2995411172	43.0804476	-1.4403229	Ostatua Menta				restaurant		64430	Esnazu	
+node	5056561317	43.0960907	-1.4259684	Bar-Alfaro-Ostatua				bar	310	64430	Xerrenda karrika	
+node	9804681620	43.0816573	-1.4394280	Bidartea ostatua				restaurant				
+node	9810294970	43.0913477	-1.4286534	Ferme auberge Auzkia				restaurant	110	64430	Auzkiko Bidea	
+node	9934213589	43.0892537	-1.4246250	Pierre Oteiza				restaurant				
+relation	2862866			Alos-Sibas-Abense	8	64470	64017					
+node	9666286120	43.1100928	-0.8645511	Restaurant du Pont d'Abense				restaurant		64470		
+relation	2460551			Amorots-Succos	8	64120	64019					
+node	8727516130	43.3644962	-1.1125130	Restaurant Mendibilenea				restaurant		64120		
+relation	422124			Anglet	8	64600	64024					
+node	443346050	43.4627161	-1.5297146	Brindos Lac & Château				restaurant				
+node	1363396195	43.4811633	-1.5337561	Chez nous				restaurant				
+node	1363396198	43.4811887	-1.5335874	Saint-Georges				restaurant				
+node	1713192348	43.5207497	-1.5255105	La Chaloupe				restaurant				
+node	1788684272	43.4838203	-1.5067538	Jungle Café				restaurant				
+node	2601389048	43.5267223	-1.5216815	Le Chaudron				restaurant				
+node	2601389049	43.5265933	-1.5218336	Le Break				cafe				
+node	2601389063	43.5269238	-1.5226999	Tinta Beltza				restaurant				
+node	2984742240	43.5206420	-1.5253713	Itxasoa				restaurant				
+node	3731893363	43.5140423	-1.5311736	Ozeanoa				bar				
+node	3733294117	43.4936991	-1.4964012	Tajinier				restaurant	2		Rue des Pontots	
+node	3739322573	43.5004749	-1.5423342	Manava				restaurant				
+node	3871575570	43.5038025	-1.5037841	Bistrot Fine				restaurant				
+node	3871575582	43.5210154	-1.5011417	I. D. Halles				restaurant				
+node	3871575585	43.4956363	-1.5297084	Mômes				restaurant				
+node	3871575586	43.4957459	-1.4964455	L'Endroit				restaurant				
+node	3871575588	43.5212286	-1.5236737	La Bodega				bar				
+node	3871575589	43.5213439	-1.5242408	La Cita				restaurant				
+node	3871575591	43.5083402	-1.5230624	La Fleur de Sel				restaurant				
+node	3871575597	43.4873726	-1.5372114	Le Cèdre du Liban				restaurant				
+node	3871575599	43.5212566	-1.5238798	Le Gulf Stream				restaurant				
+node	3871575604	43.5213131	-1.5240709	Les Bahines				restaurant				
+node	3871575606	43.5198256	-1.5016581	Les Pins				restaurant				
+node	3871575609	43.4983199	-1.5438755	Chez Denise				restaurant				
+node	3871575612	43.4771530	-1.5262789	Novotel Café				restaurant				
+node	3871575648	43.5011562	-1.5394958	Orange et Chocolat				restaurant				
+node	3871575858	43.5243491	-1.5068798	Villa Roma				restaurant				
+node	3871575859	43.5242499	-1.5041536	West Side				restaurant				
+node	4298743995	43.4991590	-1.5434304	Lieu des Pêcheurs				restaurant				
+node	4305923514	43.4949474	-1.5136816	Ibaina				restaurant				
+node	4321161799	43.4721453	-1.5311592	La peña				cafe				
+node	4471506996	43.4996100	-1.5431424	Vent d'Ouest Café				bar				
+node	4494189392	43.5006344	-1.5422162	La Chope				bar				
+node	4892208126	43.4768944	-1.4934687	Bar Aritxague				bar				
+node	4955297702	43.5010134	-1.5398394	Goia				restaurant				
+node	5075239523	43.4805080	-1.5157364	Kohi Mame				restaurant				
+node	5679850442	43.4992142	-1.5420052	La Lucciola				restaurant	8		Place des Docteurs Gentilhe	
+node	5786488802	43.5131156	-1.5239132	Abrazo				restaurant				
+node	6213792554	43.4834353	-1.5033647	Eat Salad				restaurant				
+node	6584256158	43.4843348	-1.5133504	Café Quintaou				restaurant				
+node	6587467981	43.5011669	-1.5396109	Le p'tit resto				restaurant				
+node	6587493073	43.5011047	-1.5397075	L'Euphrate				restaurant	38	64600	Avenue des Dauphins	
+node	6587493999	43.5010018	-1.5391376	A table !				restaurant	15		Avenue du Rayon Vert	
+node	6643238987	43.4814478	-1.5089729	Au Bureau				restaurant				
+node	6660036387	43.5004159	-1.5421157	Le BlueBay				restaurant				
+node	6863852885	43.5007930	-1.5400273	The Beach House				restaurant				
+node	6919667311	43.4931614	-1.4957408	Big Moustache				bar				
+node	7162174033	43.5009071	-1.5419859	La trattoria de l'indigo				restaurant				
+node	7595302585	43.4819185	-1.5052296	Le Byron				restaurant	12		Allée du Cadran	
+node	7642813687	43.4823461	-1.5054221	Ristorante Del Arte				restaurant				
+node	8130398867	43.5005798	-1.5422896	Le Café Bleu				restaurant				
+node	8130468641	43.5029742	-1.5149961	La Table des Compagnons				restaurant	94			
+node	8154427620	43.5003311	-1.5409686	Txako Coffee Shop				cafe	18		Avenue des Dauphins	
+node	8155090198	43.4768978	-1.4933488	Conti.pizza				restaurant				
+node	8157189849	43.4860649	-1.5151564	Angelu Pizza				restaurant	44		Rue de Salis	
+node	8157225598	43.4969904	-1.5069761	Maya				restaurant				
+node	8157225599	43.4864424	-1.5146716	La Royale				restaurant	3		Place Lamothe	
+node	8157248905	43.5006756	-1.4948407	La Bottega della Mamma				restaurant	3		Chemin de Jorlis	
+node	8157281230	43.5031362	-1.5103807	Le Bouche à Oreille				restaurant	96			
+node	8182492892	43.5003643	-1.4949936	Kokot Nomad				restaurant	4		Chemin de Jorlis	
+node	8768911154	43.4824554	-1.5046455	Pub No Comment				bar				
+node	8772547100	43.5209543	-1.5017815	La Hook's Resto & Lounge				restaurant				
+node	8772801729	43.5156960	-1.5012187	Le Quarante 4				restaurant				
+node	8792390331	43.4828958	-1.5065493	Casa Basco				restaurant				
+node	8821311048	43.4817615	-1.5065700	Txiki Thaï				restaurant				
+node	8839209162	43.4823298	-1.5039347	Gyraya				restaurant				
+node	8839209165	43.4819095	-1.5066451	Paradis Grill				restaurant				
+node	8939607556	43.4947722	-1.5433790	Kostaldea				pub				
+node	9098781496	43.4806483	-1.5098356	Trois Frères				restaurant				
+node	9694518749	43.4977131	-1.5384457	Jan				restaurant				
+node	10265785958	43.4638578	-1.5053990	Chez Paqui				restaurant				
+node	10840122000	43.4877504	-1.5358610	Pizza Cosy				restaurant	59	64600		
+node	10908505942	43.5003680	-1.5408908	Apérock Café				bar	22		Avenue des Dauphins	
+node	11331080519	43.4837272	-1.5065384	Bob's Beer Brewpub				pub	18	64600	Rue des Barthes	
+node	11361762970	43.4873851	-1.4984070	Flunch				restaurant		64600		
+node	11361763001	43.4872588	-1.4990528	Bohebon				restaurant		64600	Avenue Jean-Léon Laporte	
+node	11361763002	43.4873064	-1.4988578	Bistrot Anaïak				restaurant	6	64600	Avenue Jean-Léon Laporte	
+node	11385209721	43.4822070	-1.5042807	Pub Mulligan				bar	4	64600	Allée du Cadran	
+node	11515933340	43.4836912	-1.5071332	O'707				restaurant				
+node	11676951785	43.5026765	-1.5032203	Le Food Shop				restaurant	172	64600	Rue de Hausquette	
+node	11726721261	43.4833352	-1.5035244	Mogu Japan Café				restaurant	67	64600	Avenue de Bayonne	
+node	11727604646	43.4920439	-1.4978071	Sambaya				restaurant	49	64600	Avenue Jean-Léon Laporte	
+node	11739753911	43.5000201	-1.5133334	La Dinguette du Maharin				restaurant				
+node	11765679970	43.5174412	-1.5018268	Tinto All Day - Café cantine				restaurant	163	64600		
+node	11838732155	43.5193999	-1.4995231	La Générale				cafe				
+node	11916104991	43.4851815	-1.5022364	La Casa Della Pizza				restaurant	77	64600	Avenue de Bayonne	
+node	11936480546	43.4811209	-1.5345395	Aguilera Pizza				restaurant	106	64600	Avenue de Biarritz	
+node	12027847357	43.4936507	-1.4967545	La Maison B				restaurant	2	64600	Rue des Pontots	
+node	12027958201	43.4659861	-1.4995490	Brasserie Du Motard				restaurant				
+node	12036319143	43.4810276	-1.5127662	Petit Désir				restaurant				
+node	12038176157	43.5009724	-1.5390556	St Clair Café				cafe	11	64600	Avenue du Rayon Vert	
+node	12038308740	43.4940182	-1.5178144	Pâtes d'Ours				restaurant	66	64600		
+node	12038328806	43.4938473	-1.5101553	Kunitomi				restaurant	79	64600	Rue de Hausquette	
+node	12047286816	43.5020098	-1.5403852	Anaiak				restaurant				
+node	12252376826	43.5009138	-1.5411814	Sunside Café Anglet				restaurant				
+node	12271672210	43.5007476	-1.5421118	L'Indigo				restaurant				
+node	12327155940	43.4949722	-1.5290678	Bouillon Français				restaurant		64600	Place du Général-Leclerc	
+node	12331649229	43.5127535	-1.5251027	Club House du Golf de Chiberta				restaurant				
+node	12351302160	43.4957386	-1.4953642	La guinguette du canal				bar	8	64600	Allée du Canal	
+node	12435122307	43.5039816	-1.5037454	La Fine Pâte				restaurant				
+node	12514979015	43.5057775	-1.5236601	Relais de Chiberta				restaurant				
+node	12880498799	43.5011083	-1.5418545	La Canaillerie				restaurant				
+node	12880508601	43.5010314	-1.5419232	Le Reef				restaurant				
+node	12925278200	43.5271796	-1.5224732	La Concha				restaurant				
+node	12927593520	43.5004048	-1.5422191	L'Océan				restaurant	7		Esplanade des Gascons	
+node	12927763183	43.4963262	-1.5384565	Simone Crêperie				restaurant				
+node	12927764232	43.4963409	-1.5386315	Smash me				restaurant				
+node	12928131616	43.5010768	-1.5397486	Pho 8 Khao Soi				restaurant				
+node	12928266333	43.5010352	-1.5392206	La Pizz’				restaurant				
+node	12952021096	43.4578237	-1.5030547	Chez Swan				restaurant				
+node	12956143982	43.5002887	-1.5410839	L'Inattendu				restaurant				
+node	12956145413	43.5002587	-1.5411538	Le 826				restaurant				
+node	12956152958	43.5002106	-1.5412617	Eric à la plage				bar				
+node	12956166907	43.5003094	-1.5410197	Txapel				bar				
+node	12956379238	43.4980578	-1.5384800	Loujo				restaurant				
+node	12956451293	43.4949314	-1.5334979	Rond				restaurant				
+node	12980815418	43.5210455	-1.5023940	Trallallà				restaurant				
+node	13143930732	43.5010524	-1.5397894	Kreyol Beach				restaurant				
+node	13179784307	43.4877180	-1.5363956	Chô Chaï				restaurant				
+node	13190799357	43.4808585	-1.5340104	Rotisserie Rouge Gorge				restaurant				
+node	13361539742	43.4643993	-1.5024600	Le Votre				restaurant				
+node	13383619311	43.4974159	-1.5064898	Le Cellier				restaurant				
+node	13388900759	43.4639289	-1.5152047	Lucie Ultra Frais				restaurant				
+node	13551268109	43.5009976	-1.5389712	Ô Chalet				restaurant				
+node	13765912829	43.4821907	-1.5062200	La Brigade				restaurant				
+node	13811378077	43.5009974	-1.5413847	Plouf				cafe				
+node	13811406571	43.4946682	-1.5287307	Divino				restaurant				
+node	13856065319	43.4881114	-1.5033509	Bistrot Toqué				restaurant				
+node	13903726740	43.5033731	-1.5358651	Volt				cafe				
+node	13903726743	43.5032384	-1.5359776	Le Jardin de la Paillote Bleue				restaurant				
+node	13950167403	43.4958384	-1.5451937	Bar Tapas Le Bel'harra				bar				
+node	13992703059	43.4981010	-1.5109682	DOZ - Coffee shop				cafe				
+node	13992707133	43.4980137	-1.5112592	Pasaia				restaurant				
+node	14109274528	43.4995889	-1.5420033	Amara				restaurant				
+node	14128604458	43.4884432	-1.4986189	Sushi daily				restaurant				
+node	14131049975	43.5166212	-1.5290009	Karabana				restaurant				
+node	14142514026	43.4624716	-1.5185693	Ostatua & Saveurs				restaurant				
+node	14242016547	43.4962598	-1.5388321	Cidrerie Beti Bai des Platanes				restaurant				
+node	14336947877	43.4944154	-1.5292547	Hazia				restaurant				
+node	14336947879	43.4946073	-1.5291765	Biltoki				bar				
+node	14336947880	43.4942955	-1.5290790	Biltoki				bar				
+node	14336961395	43.4945719	-1.5291649	Le poulailler de Peio				restaurant				
+node	14336961396	43.4945783	-1.5291169	Mazette				restaurant				
+way	157123031	43.5239729	-1.5246140	Epi Café				restaurant				
+way	157140621	43.5061290	-1.5370655	Aux 3 p'tits cochons				restaurant		64600		
+way	157142491	43.5102935	-1.5339240	L'Arrantza				restaurant				
+way	157228280	43.4831420	-1.5041690	Bistro Régent				restaurant				
+way	157258059	43.4797962	-1.5096782	Restaurant Universitaire				restaurant				
+way	348266648	43.4763030	-1.5086340	Resto U' Pierre Bidart				restaurant	55	64600	Rue de Mirambeau	
+way	667528032	43.4932705	-1.4964347	Buffalo Grill				restaurant				
+way	747297952	43.5271028	-1.5186387	La Cabena				bar			Avenue de l'Adour	
+way	979557522	43.4975240	-1.5441832	Lagunak				restaurant				
+relation	2185077			Aramits	8	64570	64029					
+node	4948401633	43.1208497	-0.7286596	Le Petit Cayolar				restaurant		64570		
+relation	2460541			Arancou	8	64270	64031					
+node	12875545872	43.4441942	-1.0503477	L'étape				restaurant				
+relation	1959445			Araujuzon	8	64190	64032					
+node	5437167053	43.3593724	-0.8167573	Rey				bar				
+relation	166760			Arbonne	8	64210	64035					
+node	1721106892	43.4328445	-1.5640809	Restaurant du Moulin de Bassilour				restaurant				
+node	7086332478	43.4320074	-1.5515518	Cidrerie du fronton				restaurant		64210	Route du Bourg	
+node	12459585201	43.4331719	-1.5520475	Bil Toki				bar				
+way	78748398	43.4321576	-1.5521017	Restaurant Lurrak				restaurant	8	64210	Route du Bourg	
+way	437342236	43.4378160	-1.5495173	Pizz'Unai				restaurant				
+relation	2460536			Arbouet-Sussaute	8	64120	64036					
+way	218314875	43.3695775	-1.0011900	Auberge Chortaya				restaurant		64120	Bourg	
+relation	166754			Arcangues	8	64200	64038					
+node	4642421592	43.4214583	-1.5384046	Restaurant Le Moulin d'Alotz				restaurant			Chemin Alotz Errota	
+node	6073344899	43.4370506	-1.5220105	Bar-Restaurant du Trinquet				restaurant				
+node	6073344904	43.4372476	-1.5283888	Restaurant du Golf				restaurant				
+node	8647029785	43.4367147	-1.5221442	Auberge d'Achtal				restaurant				
+node	10860566526	43.4549412	-1.5336646	Bar Tabac du Chapelet				bar				
+way	76104843	43.4427171	-1.5334394	Gaztelhur				restaurant				
+relation	2143354			Arette	8	64570	64040					
+node	664239420	42.9808845	-0.7347571	Pas de L'Ours				restaurant				
+node	2617790363	43.0953936	-0.7182818	Le Bistrot de l'Ours				restaurant				
+node	4948471423	42.9771879	-0.7450533	Le Snow Bar				restaurant		64570		
+node	13930767642	43.0947866	-0.7136950	Le Soudet				restaurant	100	64570	Route d'Issor	
+relation	1016572			Argagnon	8	64300	64042					
+node	6709601831	43.4588964	-0.6865224	Cachau				cafe				
+relation	1673886			Armendarits	8	64640	64046					
+node	6516615660	43.3011919	-1.1743116	Urruty Bar-Restaurant				restaurant				
+relation	2811920			Arros-de-Nay	8	64800	64054					
+way	248750872	43.1686305	-0.2895980	Auberge Chez Lazare				restaurant	3508	64800	Route des Labassères	
+relation	1016569			Arthez-de-Béarn	8	64370	64057					
+node	1090901943	43.4653223	-0.6149657	Café Brasserie du Palais				cafe	8	64370	Place du Palais	
+node	6677202620	43.4647068	-0.6148000	Le Pingouin Alternatif				cafe				
+node	8540243103	43.4912417	-0.6164447	Célia				restaurant				
+way	1155568861	43.4599348	-0.6154174	Convivium				restaurant	2	64370	Allée des Sports et Loisirs	
+relation	2147227			Arthez-d'Asson	8	64800	64058					
+node	1369789828	43.0903442	-0.2523007	L'Estibette				cafe		64800	Route du Soulor	
+relation	167676			Artigueloutan	8	64420	64059					
+node	7670890092	43.2759069	-0.2487074	O'bistrot				restaurant				
+relation	2195069			Artiguelouve	8	64230	64060					
+node	7760242143	43.3163588	-0.4756763	Costedoat Raymonde				bar				
+way	229903283	43.3134840	-0.4780620	Le Kildara				restaurant				
+relation	168199			Artix	8	64170	64061					
+node	844861092	43.3976184	-0.5716786	Au Comptoir				bar				
+node	12551610324	43.3960248	-0.5746508	Auberge du Parc				restaurant				
+node	12551749523	43.3971188	-0.5727978	Les Tontons				restaurant				
+relation	2120173			Arudy	8	64260	64062					
+node	486131329	43.1055012	-0.4280550	A Caso				restaurant		64260	Place de l'Hôtel de Ville	
+node	5101432104	43.1020003	-0.4351515	Les délices de Nini				restaurant				
+node	9968348166	43.1018935	-0.4350758	Bella Italia				restaurant				
+node	14180854203	43.1053774	-0.4274787	Bobun et Manettes				restaurant	1 bis	64260	rue d'Arros	
+way	230429946	43.1057820	-0.4286110	Restaurant Logis Hotel de France				restaurant	1	64260		Place de l'Hôtel de Ville
+way	230431540	43.1058395	-0.4281736	Au Petit Bonheur				restaurant		64260	Place de l'Hôtel de Ville	
+relation	3231218			Arzacq-Arraziguet	8	64410	64063					
+node	5015977919	43.5366424	-0.4136282	Café des Sports				restaurant	17	64410	Place de la République	
+node	5551632122	43.5363064	-0.4126512	Café des Arcades				bar	9	64410	Place de la hall des sports	
+relation	1380255			Asasp-Arros	8	64660	64064					
+node	9968076554	43.1173746	-0.6148405	Pizzeria del Nono				restaurant				
+node	11119176300	43.1241397	-0.6125316	Chez Germaine				restaurant				
+relation	390211			Ascain	8	64310	64065					
+node	4741274360	43.3512087	-1.6256914	Zubiburu				restaurant				
+node	5183757374	43.3453534	-1.6214351	Xoko Ona				restaurant				
+node	7114821758	43.3485309	-1.6238465	Etorri				restaurant		64310	Rue Ernest Fourneau	
+node	7114821763	43.3474094	-1.6226153	A tutta pizza				restaurant		64310	Rue Ernest Fourneau	
+node	7119896686	43.3456779	-1.6212666	Bihotz				restaurant		64310	Rue Ernest Fourneau	
+node	7119896687	43.3452947	-1.6207021	Plazan				cafe		64310		
+node	7119896690	43.3446415	-1.6215915	Larralde				restaurant	55	64310	Rue Oletako Bidea	
+node	7151043855	43.3642916	-1.6371460	Eguzki				restaurant		64310	Zone Artisanale Lanzelai	
+node	7151043856	43.3647498	-1.6374387	Txopinondo				restaurant		64310	Chemin de la cidrerie - Zone Artisanale Lanzelai	
+node	8753312494	43.3454414	-1.6210718	Moments gourmands				restaurant				
+node	11983099422	43.3562848	-1.6319084	Entre Nous, Comptoir à Pizzas				restaurant	805	64310	Route de Saint-Jean-de-Luz	
+way	72618147	43.3389936	-1.6359381	Axafla Baïta				restaurant	20		lotissement Maldatxoa	
+way	72618538	43.3370034	-1.6598491	Hôtel Restaurant Trabenia				restaurant	3404	64310	Rue Oletako Bidea	
+way	72618956	43.3445411	-1.6203384	Restaurant des chasseurs				restaurant	45	64310	Route de Saint-Ignace	
+way	72620569	43.3454065	-1.6206428	Chez Gildas				restaurant				
+relation	2225912			Assat	8	64510	64067					
+node	8645121261	43.2507327	-0.2989255	Black Bearn				restaurant				
+way	598403247	43.2516368	-0.2825027	Portogalia				restaurant				
+relation	2146232			Asson	8	64800	64068					
+node	1369789825	43.1386470	-0.2550817	Chez Naty				cafe		64800	3 route de Lourdes	
+node	1369789884	43.1400351	-0.2545679	Le Squash				restaurant		64800	65 route de l'Aubisque	
+node	4346153466	43.1406868	-0.2546414	Chez Naty				restaurant				
+node	4346155727	43.1466821	-0.2576585	Bar Tabac Squash				bar				
+relation	2195076			Aubertin	8	64290	64072					
+way	185603458	43.2744014	-0.4839713	Peyrucq				cafe			Rue des Écoles	
+relation	1959458			Audaux	8	64190	64075					
+node	11076922910	43.3578314	-0.7911706	Auberge Claverie				restaurant	2	64190	Place de l'Estanquet	
+relation	2016159			Aussurucq	8	64130	64081					
+node	7866591515	43.0947442	-1.0172560	Ahusquy				restaurant		64130		Ahüzki
+way	177592892	43.0947323	-1.0172789	Ahusquy				restaurant		64130		Ahüzki
+relation	2190659			Auterrive	8	64270	64082					
+node	6320871289	43.4695603	-1.0013817	Restaurant L'Escale				restaurant				
+relation	2317364			Aydie	8	64330	64084					
+node	10840049844	43.5662470	-0.1294387	Le Relais d'Aydie				restaurant				
+relation	2105378			Aydius	8	64490	64085					
+way	448276053	43.0018999	-0.5430803	L'Auberge des Isards				restaurant				
+relation	167603			Ayherre	8	64240	64086					
+node	5092775122	43.3836277	-1.2508572	Attatea				restaurant				
+way	618211443	43.3919840	-1.2534084	Gozategia				restaurant				
+relation	229832			Banca	8	64430	64092					
+node	5036521570	43.1253377	-1.3743585	Erreguina				restaurant		64430		
+way	674713605	43.1262440	-1.3744811	Olhaberri Centre D'interprétation du Patrimoine Minier et Métallurgique				cafe		64430	Bourg	
+relation	2725478			Barcus	8	64130	64093					
+node	472365806	43.1852325	-0.7765717	Hôtel restaurant Chilo				restaurant				
+node	9122832320	43.1890607	-0.7699113	Bar Fronton				bar		64130		
+relation	2163837			Bardos	8	64520	64094					
+node	6699476312	43.4753184	-1.2036699	Chez Odile				restaurant	65		Place du Château Salha	
+node	6699476314	43.4745023	-1.2032850	chez Bixente				restaurant				
+node	7074468385	43.4634789	-1.2673232	Eguski				bar				
+relation	2811537			Barraute-Camu	8	64390	64096					
+node	8804098964	43.3850835	-0.9016957	Relais du Gave				restaurant				
+relation	166753			Bassussarry	8	64200	64100					
+node	6316554679	43.4461134	-1.5103207	Auberge de la Palombe				bar				
+node	10267383042	43.4414298	-1.4895219	Le 180°				restaurant				
+relation	168641			Baudreix	8	64800	64101					
+node	6470803818	43.2041377	-0.2622904	Restaurant du Lac				restaurant				
+relation	166713			Bayonne	8	64100	64102					
+node	472940837	43.4919902	-1.4744534	Le Victor Hugo				restaurant				
+node	597620678	43.4923307	-1.4746654	Katie Daly's				pub				
+node	597620979	43.4898328	-1.4738120	La pizza de Nico				restaurant	5	64100	Rue Pannecau	
+node	597622049	43.4893146	-1.4751158	Le Bistrot Itsaski				restaurant				
+node	597622054	43.4888880	-1.4751919	Le bistro' Quai				restaurant				
+node	631661851	43.4912519	-1.4737848	Le Bayonnais				restaurant				
+node	631661857	43.4923627	-1.4736039	Paul				cafe				
+node	979083785	43.4912892	-1.4870815	Le Trinquet Moderne				restaurant				
+node	1236244933	43.4908767	-1.4771316	A La Bolée				restaurant				
+node	1236273050	43.4928174	-1.4786771	Café des Remparts				cafe				
+node	1635655637	43.4904349	-1.4761799	Cafés Ramuntcho				cafe				
+node	1635658630	43.4894443	-1.4750950	Chez Txotx				restaurant				
+node	1828784581	43.4882853	-1.4740564	Taloka				restaurant				
+node	2133119333	43.4759475	-1.4840299	Maison le Souletin				bar				
+node	2429836013	43.4892852	-1.4733107	Izarrena				bar				
+node	2429836014	43.4892942	-1.4732498	Nuance				restaurant				
+node	2436291962	43.4885481	-1.4780203	Bar Basque				cafe				
+node	2437908663	43.4858999	-1.4765465	Au Bouchon Basque				restaurant				
+node	2437908666	43.4866073	-1.4758620	B.O.U.L.O.M				restaurant				
+node	2437908667	43.4855520	-1.4754627	Brasserie de la Nive				restaurant				
+node	2441623375	43.4953568	-1.4709661	Le Loustau				cafe				
+node	3638719232	43.4896844	-1.4720156	Café des Pyrénées				cafe	62		Rue Pannecau	
+node	3638928304	43.4890769	-1.4773848	Le Fandango				cafe				
+node	3640473493	43.4931508	-1.4773147	Café Moustache				cafe				
+node	3737650636	43.4895221	-1.4720680	Le BAB Café				cafe				
+node	3783762695	43.5022385	-1.4525025	ArtoteKafé				cafe	4 bis	64100	Esplanade Jouandin	
+node	3871575562	43.4948181	-1.4678735	Bidaian				restaurant				
+node	3871575571	43.4930033	-1.4880630	Chez Georges				restaurant				
+node	3871575573	43.4984990	-1.4879992	Bistro A				restaurant				
+node	3871575593	43.4925310	-1.4650124	Le petit bistrot				restaurant				
+node	3871575607	43.4888215	-1.4661075	Les Tam Long				restaurant				
+node	3871575860	43.4851654	-1.4727877	Wok64				restaurant				
+node	3871575923	43.4934128	-1.4681529	Le Bistrot Urbain				restaurant				
+node	4054831705	43.4909055	-1.4700197	Restaurant Universitaire de la Nive				restaurant				
+node	4119124861	43.4937792	-1.4770129	Le Perroquet				restaurant				
+node	4338054711	43.4889431	-1.4735984	Le Cancre				restaurant				
+node	4358109001	43.4914653	-1.4514676	Memphis Coffee				restaurant	8 bis	64100	Chemin de Hayet	
+node	4366416091	43.4918162	-1.4763416	Le Chistera				restaurant				
+node	4366486389	43.4918977	-1.4762523	Les Arcades				restaurant				
+node	4366487392	43.4925497	-1.4763789	Bouillon Armand				restaurant				
+node	4434052690	43.4899128	-1.4716873	Guernika				bar				
+node	4434082189	43.4896393	-1.4758532	Chai Ramina				bar				
+node	4434082290	43.4902018	-1.4767763	Bar du Palais				bar				
+node	4445486018	43.4886982	-1.4752337	The Black Pig				pub				
+node	4482436620	43.4893609	-1.4727961	Kapito Bia				bar				
+node	4494189491	43.4812384	-1.4885004	Zapi: La Trattoria des Bons Amis				restaurant				
+node	4504841650	43.4905337	-1.4755125	Le Relais des Halles				cafe				
+node	4641765006	43.4891430	-1.4775121	Atelier Mala				restaurant				
+node	4641773303	43.4893293	-1.4792106	Peña Cacao				bar		64100	Boulevard du Rempart Lachepaillet	
+node	4641773304	43.4894797	-1.4770485	Restaurant Dacquois				restaurant				
+node	4641943992	43.4908181	-1.4768270	Kalaka Café				cafe				
+node	4641984090	43.4909862	-1.4777597	La Cave des Gouverneurs				restaurant				
+node	4642074493	43.4898895	-1.4741117	Une Bouteille à la Nive				bar				
+node	4642074494	43.4895410	-1.4741388	Chai Beñat				bar				
+node	4642074495	43.4893404	-1.4741451	Kapito Café				cafe				
+node	4726507490	43.4897558	-1.4754727	Xurasco				restaurant				
+node	4741153093	43.4898533	-1.4733082	L'essai bayonnais				cafe				
+node	4741153097	43.4902769	-1.4779107	Le Mange Disque				cafe				
+node	4790240921	43.4917525	-1.4855838	Les Arènes				restaurant				
+node	4790297530	43.4913727	-1.4737787	Rosy				restaurant				
+node	4790433722	43.4902838	-1.4731059	Chez Baï Les Goûts d'Ailleurs				restaurant				
+node	4790453822	43.4910792	-1.4725711	Sen Viet				restaurant				
+node	4791583024	43.4912333	-1.4725755	Zamai Ostatua				cafe	53	64100	Rue Bourgneuf	
+node	4791583027	43.4901698	-1.4734894	Déjà vu				restaurant				
+node	4791590824	43.4901829	-1.4736136	O’jura mendia				restaurant				
+node	4791590827	43.4906121	-1.4739802	La Grange				restaurant				
+node	4791706121	43.4901997	-1.4737726	Le P'tit Pub				bar				
+node	4791804136	43.4899747	-1.4767280	Fufu Ramen				restaurant	66	64100	Rue d'Espagne	
+node	4791810027	43.4903441	-1.4764800	4 mmamma				restaurant				
+node	4798897524	43.4909162	-1.4753947	Patxamama				restaurant				
+node	4835012145	43.4888543	-1.4570764	Courtepaille				restaurant				
+node	4868223507	43.4893196	-1.4730770	Ttipia				restaurant				
+node	4868223508	43.4889828	-1.4730717	Los Tacos Chingones				restaurant				
+node	4868223512	43.4894289	-1.4741423	Kubata				bar				
+node	4868223514	43.4896231	-1.4741362	Paddy				bar				
+node	4868223515	43.4897393	-1.4734722	Hegoa				restaurant				
+node	4868223519	43.4919350	-1.4737326	Mona Lisa				restaurant				
+node	4868225025	43.4925075	-1.4731202	Cantine du Musée				restaurant				
+node	4868366893	43.4901501	-1.4756781	Le Belzunce				cafe				
+node	4868366894	43.4933179	-1.4747791	Café des Arts				cafe				
+node	4868366896	43.4930932	-1.4751130	Café du Théâtre				cafe				
+node	4868366912	43.4906960	-1.4750605	Café du Centre				cafe				
+node	4868366919	43.4924408	-1.4753949	Le Central				cafe				
+node	4868369131	43.4890994	-1.4784864	Influences				restaurant				
+node	4889167222	43.4925162	-1.4630385	Le Jaurès				restaurant				
+node	4889191449	43.4900420	-1.4768552	Capella Café				bar				
+node	4889199360	43.5034694	-1.4683833	Aux amis réunis				bar				
+node	4890132321	43.4917108	-1.4745473	La Table | Sébastien Gravé				restaurant				
+node	4890132322	43.4913136	-1.4747825	Au Ptit Bistro				restaurant				
+node	4890132421	43.4912537	-1.4748296	Les Tontons Flingueurs				restaurant				
+node	5030800524	43.4940318	-1.4769016	Pizza Cosy				restaurant	2		Avenue Léon Bonnat	
+node	5344927225	43.4918471	-1.4744799	Germaine				restaurant				
+node	5473072600	43.4961110	-1.4706897	Le Monte Carlo				restaurant				
+node	5478506696	43.4954551	-1.4689239	Relief Le Bar à Vins				bar				
+node	5478507046	43.4955225	-1.4688678	Relief				restaurant				
+node	5478507057	43.4950009	-1.4672057	Atlas				restaurant				
+node	5672561455	43.4898235	-1.4723545	Osméra				restaurant				
+node	5706151227	43.4907852	-1.4726737	Kalostrape				bar				
+node	5711188921	43.4889693	-1.4732513	Bistro M				restaurant				
+node	5753590828	43.4920696	-1.4760750	Quai 34				cafe				
+node	5768733622	43.4842987	-1.4804060	Bar Restaurant Tranquille				restaurant				
+node	5801672783	43.4850863	-1.4725784	La Boca				bar				
+node	5936881506	43.4922060	-1.4737173	Gueleton				restaurant				
+node	5971540418	43.4908661	-1.4769517	Le p'tit creux				restaurant				
+node	6163187173	43.4927593	-1.4766481	Tarte Julie				restaurant				
+node	6163192794	43.4931902	-1.4772757	Woods				restaurant				
+node	6199025441	43.4915404	-1.4746584	Séquence(s)				restaurant				
+node	6209786311	43.4908495	-1.4719403	Auberge du Cheval Blanc				restaurant				
+node	6330972837	43.4956689	-1.4692977	Xirimiri				bar				
+node	6430978621	43.4929627	-1.4755812	Théamora				cafe				
+node	6469967604	43.4959162	-1.4657710	O Cantinho Português				restaurant				
+node	6475224030	43.4951260	-1.4681185	Blondie				cafe				
+node	6490834389	43.4954964	-1.4704623	Le Bistrot				bar				
+node	6581785269	43.4928766	-1.4525340	Must				bar				
+node	6583590650	43.4898095	-1.4719839	Soinua				bar	63	64100	Rue Pannecau	
+node	6637013486	43.4932650	-1.4930131	Noon Café				cafe				
+node	6657869986	43.4868280	-1.4793193	Le Service				cafe				
+node	6688262351	43.4906451	-1.4753861	Bar François				bar				
+node	6707424580	43.4952974	-1.4687080	Pizz'osteria L'Angolo				restaurant				
+node	6715454648	43.4891765	-1.4751281	Bajadita				restaurant				
+node	6732273267	43.4900781	-1.4715939	La Treille				bar				
+node	6732290372	43.4905764	-1.4716286	A la cantine				restaurant				
+node	6945184014	43.4899904	-1.4715821	Café Moka				cafe				
+node	7003829821	43.4956042	-1.4714827	Le bistro de l'Atalante				restaurant				
+node	7013350154	43.4910977	-1.4726698	Le C.D.S.				bar				
+node	7058313248	43.4923362	-1.4726011	Le Carré				restaurant				
+node	7105028605	43.4927837	-1.4758070	Le Menteur				cafe	2	64100	Impasse Joseph Latournerie	
+node	7372258685	43.4928782	-1.4655094	Comme chez toi				restaurant				
+node	7400944448	43.4889913	-1.4776273	Etxe Gusto				restaurant				
+node	7401222996	43.4920923	-1.4761521	Écume				cafe				
+node	7404907126	43.4910987	-1.4756615	Le Tire Bouchon				restaurant				
+node	7442451860	43.4906744	-1.4751987	Étienne Coffee & Shop				cafe				
+node	7442451861	43.4886391	-1.4770748	Hôtel des Basses Pyrénées				restaurant				
+node	7486209048	43.4942562	-1.4774594	Mintza				restaurant				
+node	7486240156	43.4810996	-1.4886206	Le bistrot des filles				restaurant				
+node	7511314625	43.4889535	-1.4734615	Hebeho				restaurant				
+node	7511314626	43.4895480	-1.4756054	Le Bar du marché				restaurant	39		Rue des Basques	
+node	7511592759	43.4886300	-1.4752487	Quai n°15				restaurant	15	64100	Quai Amiral Jaureguiberry	
+node	7521713388	43.4927846	-1.4761322	Le Saint-Louis				restaurant				
+node	7536875657	43.4950072	-1.4670899	Le Café Lire				cafe				
+node	7551899000	43.4934531	-1.4668089	Bombay				restaurant				
+node	7629063160	43.4916619	-1.4771348	Coffee Muxu				cafe	3	64100	Rue des Gouverneurs	
+node	7639950991	43.4937985	-1.4621110	Bar de la Voie				bar	52	64100	Rue Daniel Argote	
+node	7639967513	43.4955955	-1.4663080	Beldi Grill				restaurant				
+node	7709783289	43.4955188	-1.4693989	Café La Fontaine				cafe				
+node	7825433150	43.4909005	-1.4727588	Plaisir				restaurant				
+node	7825433153	43.4907594	-1.4725484	Goxoki				restaurant				
+node	7825433155	43.4901240	-1.4730818	Akelarre				restaurant	4	64100	Rue Pontrique	
+node	7825433156	43.4902276	-1.4731248	Bakera				restaurant				
+node	7825433157	43.4902569	-1.4733885	Corsaire 2.0				bar				
+node	7825433158	43.4902713	-1.4735153	Paradox				bar				
+node	7825433159	43.4902984	-1.4738038	San Nicolas				bar				
+node	7825433160	43.4901637	-1.4734316	Naan Express				restaurant				
+node	7825433161	43.4901330	-1.4732758	Dos Latinos Bar				bar				
+node	7843712878	43.4909154	-1.4749324	Bar Rémy				bar				
+node	7843740382	43.4885132	-1.4752744	L'Imprévu				restaurant				
+node	7844150888	43.4898139	-1.4721013	Pépite				restaurant	61	64100	Rue Pannecau	
+node	7937539473	43.4921043	-1.4758246	Chez les Poulettes				cafe				
+node	8032776057	43.4901652	-1.4763036	Basa				restaurant	74	64100	Rue d'Espagne	
+node	8035218650	43.4965833	-1.4707709	Korail				cafe				
+node	8231779776	43.4901871	-1.4727675	Beti Aintzina				bar				
+node	8241039278	43.4939716	-1.4774117	San Severo				restaurant				
+node	8241057464	43.4930178	-1.4758962	Brasserie Le Thiers				restaurant				
+node	8242429415	43.4935023	-1.4785460	Café Express				cafe	10		Place des Basques	
+node	8400091451	43.4957296	-1.4700989	Goyty Bar				bar				
+node	8557342032	43.4915126	-1.4737734	La mia Toscana				restaurant				
+node	8626811541	43.4908160	-1.4721501	Peña BOC				bar				
+node	8628583571	43.4917369	-1.4764186	Le Port Neuf				bar				
+node	8808556526	43.4897190	-1.4726206	Cantine Dodue				restaurant				
+node	8870140390	43.4914499	-1.4737781	Nomad - Brunch bar				restaurant				
+node	8870140391	43.4908502	-1.4739191	Le Comptoir				bar				
+node	8904846127	43.4949962	-1.4695803	Le Balto Loco				bar				
+node	9144230060	43.4967986	-1.4684371	Kitoko				restaurant				
+node	9148270640	43.4893736	-1.4751010	Ibaia				restaurant				
+node	9196167092	43.4898409	-1.4728140	Le Jean Bart				bar				
+node	9196167095	43.4897266	-1.4728924	Mari				bar	38	64100	Rue Pannecau	
+node	9196167096	43.4897220	-1.4727270	Le 42				bar				
+node	9216410811	43.4917687	-1.4726439	Txalaparta				cafe		64100	Rue Jacques Laffitte	
+node	9248332364	43.4831064	-1.4899108	La balade gourmande				cafe				
+node	9600072266	43.4898356	-1.4734523	Boccia				bar				
+node	9887468698	43.4888454	-1.4752013	La Karafe				bar				
+node	9887468699	43.4888013	-1.4752110	Chez Gilles				restaurant				
+node	9946802217	43.4923088	-1.4755634	My little café				cafe	17		Rue Port Neuf	
+node	9975313608	43.4917459	-1.4732902	Koh-Lantak				bar				
+node	9975313609	43.4916655	-1.4734307	Astyanax				bar				
+node	9975313610	43.4916432	-1.4734804	Y				bar				
+node	9975313611	43.4916149	-1.4735438	Almadia				bar				
+node	10006339857	43.4902814	-1.4735781	Pottolo				restaurant	7		Rue des Tonneliers	
+node	10169557438	43.4893396	-1.4763321	Bar du Curé				bar				
+node	10215242001	43.4957594	-1.4704353	Ménage à trois				bar				
+node	10308412810	43.4887214	-1.4778551	French Coffee Shop				cafe	11	64100	Rue D'espagne	
+node	10596273529	43.4884378	-1.4778945	Le Vestiaire				bar				
+node	10633707353	43.4910302	-1.4724909	KMC				restaurant	52	64100	Rue Bourgneuf	
+node	10831657859	43.4927381	-1.4658017	Ibis Bar rendez-vous				restaurant				
+node	10929198946	43.4898351	-1.4772657	Jaia				restaurant				
+node	10984479545	43.4691324	-1.4902434	Les Chenapans				restaurant				
+node	11070585494	43.4913756	-1.4734631	Ttipiko Kideak				bar				
+node	11146053579	43.4910923	-1.4919110	L'épicier Bio				restaurant				
+node	11178949962	43.4914197	-1.4733374	Peña Muskerrak				bar				
+node	11178984606	43.4909922	-1.4720175	Peña Les Mille Pattes				bar				
+node	11356726977	43.4892257	-1.4774444	Les accords éphémères				restaurant				
+node	11356726981	43.4892935	-1.4771878	Chez Pierre Man'Ouché				restaurant				
+node	11361758437	43.4884198	-1.4975105	Columbus Café & Co				cafe	2	64600	Avenue Jean-Léon Laporte	
+node	11361758459	43.4877427	-1.4975509	Bigiz Bistro				restaurant		64600	Avenue Jean-Léon Laporte	
+node	11361758465	43.4876844	-1.4977484	Starbucks				cafe		64600	Avenue Jean-Léon Laporte	
+node	11380846109	43.4817477	-1.4450244	NKI SUSHI				restaurant		64990		
+node	11380846112	43.4813548	-1.4448438	Go Warung				restaurant	2	64990	Avenue du Portou	
+node	11380846130	43.4812918	-1.4450649	La Casa del Jamón				restaurant	3	64990	Avenue du Portou	
+node	11420393491	43.4897314	-1.4730625	Chez Brigitte				bar				
+node	11487134570	43.4648134	-1.4958491	Atéa				restaurant			Avenue du 08 Mai 1945	
+node	11711673602	43.4847219	-1.4796803	Aviron Bistronomie				restaurant				
+node	11849838098	43.4836946	-1.4523036	Cidrerie Kupela Sagardotegia				restaurant	79	64100	Avenue Capitaine Resplandy	
+node	11898315669	43.4893485	-1.4728806	La Pétrolette				bar	31	64100	Rue des Cordeliers	
+node	11966347736	43.4887117	-1.4776712	Cocotte et Popote				restaurant				
+node	11978954455	43.4892638	-1.4734778	Peñaka				bar				
+node	11978954456	43.4892763	-1.4733709	Izarrena				restaurant				
+node	12001148578	43.5039868	-1.4455004	Brassa Luna				restaurant	90	64100	Avenue Henri de Navarre	
+node	12001148582	43.5036493	-1.4456243	O'Snack				restaurant	90	64100	Avenue Henri de Navarre	
+node	12033031518	43.4948781	-1.4758659	Kulunka				bar		64100	Avenue Maréchal Leclerc	
+node	12120435470	43.4905261	-1.4787293	Délice Burek				restaurant				
+node	12140432847	43.4813569	-1.4502420	Le Bercail				restaurant				
+node	12382693726	43.4892485	-1.4737996	L'appartenance				restaurant				
+node	12382693727	43.4892207	-1.4729414	Errobi Kanta				bar				
+node	12382693733	43.4889168	-1.4739342	Haragia				restaurant				
+node	12382693735	43.4889713	-1.4731637	Le Kosy				restaurant				
+node	12382693736	43.4889867	-1.4730202	Txalupa				bar				
+node	12382693737	43.4889632	-1.4733315	Ezin-Aseak - Koruak				bar				
+node	12382693738	43.4889495	-1.4735144	Medikoak				bar				
+node	12382693739	43.4889358	-1.4736952	Cercle taurin bayonnais				bar				
+node	12382693740	43.4889225	-1.4738726	Peña Keriko				bar				
+node	12382693741	43.4892453	-1.4738676	Les copains d'abord				bar				
+node	12382693742	43.4892589	-1.4735809	Bodega Izarrena				bar				
+node	12382693743	43.4895103	-1.4733844	Pachac'or				bar				
+node	12382720418	43.4900999	-1.4754027	Au Quignon des Halles				restaurant				
+node	12382720419	43.4901534	-1.4753973	Georges & Co				bar				
+node	12409412922	43.4994411	-1.4565025	Café de la Place				cafe				
+node	12409412923	43.4990865	-1.4567991	Bar Saint-Pierre				bar				
+node	12409500424	43.4927244	-1.4521131	Le Hit Bar				bar				
+node	12409500427	43.4929614	-1.4520608	Chez Enzito				restaurant				
+node	12415399681	43.4892551	-1.4736610	Le Petit Cordelier				restaurant				
+node	12800380896	43.4937193	-1.4783294	Brasserie des Glacis				bar				
+node	12839894904	43.4852384	-1.4723222	Cocobongo				nightclub				
+node	13003897754	43.4860018	-1.4765466	Au Bouchon Basque Le Bistrot				bar				
+node	13009208372	43.4893337	-1.4729809	Xapatan				bar				
+node	13009233018	43.4898302	-1.4725314	Etcheto				bar				
+node	13086786570	43.4900592	-1.4720066	Trinquet Saint-André				bar				
+node	13152934659	43.5117119	-1.4406762	Chab'				restaurant				
+node	13158020106	43.4894794	-1.4756100	Chez Josette				restaurant				
+node	13234324385	43.4890165	-1.4756173	Cafecito				cafe				
+node	13362083132	43.4918566	-1.4723812	Kafe Tinda				cafe				
+node	13830326772	43.4855117	-1.4654759	L'Envol				restaurant				
+node	13912250702	43.4892925	-1.4741466	Café Rhubarbe				cafe				
+way	72680642	43.4890574	-1.4734027	Masaï Café				cafe				
+way	741950997	43.4891238	-1.4551124	Le Cinquième Élément				nightclub	16	64100	Rue de la Tillole	
+relation	2148493			Bedous	8	64490	64104					
+node	4982576502	42.9998397	-0.6004476	L'Expres So				cafe				
+node	6141021774	42.9987853	-0.6004455	Face à la Mer				cafe				
+node	6726293972	42.9957952	-0.6035748	Transhumance & Cie				restaurant				
+node	12071950391	42.9999281	-0.6011990	Café Handaye				cafe				
+way	228272983	43.0000320	-0.6012425	Le Mayabor				restaurant				
+way	228273501	42.9983375	-0.5997600	La Terrasse				restaurant		64490		
+relation	2815477			Bénéjacq	8	64800	64109					
+node	11407818299	43.1900820	-0.2097137	Les Petits Gourmands				restaurant				
+relation	2092425			Béost	8	64440	64110					
+node	897112705	42.9769791	-0.3400632	Restaurant du Col d’Aubisque				restaurant				
+node	1683417545	42.9716167	-0.3473727	Les Crêtes Blanches				restaurant				
+node	2268262035	42.9769968	-0.3404190	Bar le Cayolar				bar				
+node	7809334185	42.9933896	-0.4144616	Auberge de trey				restaurant				
+relation	1380258			Bérenx	8	64300	64112					
+way	230725670	43.5022590	-0.8567660	Auberge du Relais				restaurant				
+relation	2503801			Bescat	8	64260	64116					
+node	4348267623	43.1247083	-0.4265466	Cambilhou				bar				
+relation	166717			Biarritz	8	64200	64122					
+node	847559877	43.4819294	-1.5590677	La Coupole				cafe				
+node	1361379420	43.4813993	-1.5629494	Café du Commerce				restaurant	1	64200	Rue des Halles	
+node	1361379425	43.4813915	-1.5631311	Le Petit Coin...				bar	24	64200	Rue Gambetta	
+node	1361412576	43.4822128	-1.5622359	Le Caveau				bar				
+node	1361412603	43.4820942	-1.5618521	Cosmopolitain				cafe	1		Rue Gambetta	
+node	1361463829	43.4824770	-1.5586199	Les Colonnes				bar				
+node	1361463830	43.4825627	-1.5592120	Brasserie Gardères				restaurant				
+node	1361467438	43.4828229	-1.5581029	Comptoir Umami				restaurant		64200	Avenue Joseph Petit	
+node	1361473274	43.4817484	-1.5570530	Le Pim'Pi				restaurant				
+node	1361484299	43.4818957	-1.5638140	La Tireuse				bar				
+node	1362597014	43.4781112	-1.5571093	Bar restaurant Bistrot zingué				restaurant	5	64200	Avenue de la Gare	
+node	1362597015	43.4780809	-1.5567602	La bonne franquette				restaurant				
+node	1362597016	43.4781628	-1.5568088	Los tacos chingones				restaurant				
+node	1362597018	43.4780110	-1.5567337	Le TajMahal				restaurant				
+node	1362718059	43.4746928	-1.5637582	Paddo Café				bar				
+node	1362718060	43.4746072	-1.5636616	Le Crabe Tambour				restaurant				
+node	1362718063	43.4745254	-1.5638654	Chez Bibi				restaurant				
+node	1362724090	43.4728777	-1.5667815	Tantina de Burgos				restaurant	2	64200	Place Beaurivage	
+node	1362740469	43.4718749	-1.5552874	Le Café de la Baleine				cafe				
+node	1363029013	43.4807616	-1.5454596	Le Bayard				bar				
+node	1363045787	43.4844249	-1.5483352	Xuxu				restaurant	8bis	64200		
+node	1363055186	43.4866046	-1.5505081	Le Maitena				cafe				
+node	1363062182	43.4834904	-1.5469670	Le café fumant				bar				
+node	1415224366	43.4823514	-1.5607501	Le Royalty				restaurant				
+node	1464304895	43.4829443	-1.5595710	Octopus				restaurant	2	64200	Rue Gardères	
+node	1635643580	43.4820355	-1.5641008	Bistrot Etxeko				bar	1	64200	Place Sainte-Eugénie	
+node	1635645906	43.4692230	-1.5693349	Le Ponton				restaurant				
+node	1895026566	43.4800170	-1.5587227	Le café des artistes				restaurant	26		Avenue du Maréchal Foch	
+node	1895088895	43.4844030	-1.5588676	Bleu Café				cafe				
+node	1895089253	43.4836747	-1.5598990	Dodin				cafe				
+node	2013748912	43.4818472	-1.5595297	Newquay				cafe				
+node	2425144803	43.4833416	-1.5605998	Le P'tit Café de la Grande				cafe				
+node	2425148563	43.4835886	-1.5624047	Le Blé Noir				cafe				
+node	2425157642	43.4830524	-1.5657910	Casa Juan Pedro				restaurant				
+node	2425157673	43.4831011	-1.5653029	Chez Albert				restaurant	51	64200	Allée Port des Pêcheurs	
+node	2425157710	43.4831284	-1.5655281	Le Corsaire				restaurant				
+node	2425164179	43.4819511	-1.5648177	Ventilo Café - Restaurant & Bar				restaurant	30	64200	Rue Mazagran	
+node	2425164182	43.4819144	-1.5645971	La Marine				cafe				
+node	2425164191	43.4819277	-1.5646773	Crêperie				restaurant				
+node	2425309950	43.4821743	-1.5595007	Le Georges				bar				
+node	2426579863	43.4785380	-1.5645230	Les Terrasses				restaurant				
+node	2431579318	43.4813380	-1.5589757	Baillardran				cafe				
+node	2431603578	43.4814856	-1.5585135	Maison Plaisir				restaurant				
+node	2432919077	43.4816765	-1.5580367	Chez Pilou				restaurant				
+node	2432919097	43.4805829	-1.5583178	La Goulue				restaurant	3	64200	Rue Étienne Ardoin	
+node	2432919103	43.4810103	-1.5584573	Sillon				restaurant				
+node	2432927642	43.4818909	-1.5571667	Helbidea - Bistrot locavore				restaurant				
+node	2433918689	43.4811702	-1.5621003	La Bodega				bar	11		Rue des Halles	
+node	2433987631	43.4812782	-1.5625382	Bar Jean				restaurant	5	64200	Rue des Halles	
+node	2433987632	43.4811368	-1.5618861	Chistera & Coquillages				restaurant	13	64200	13 Rue des Halles	
+node	2435452685	43.4807533	-1.5624008	Bistrot des Halles				restaurant				
+node	2443499141	43.4788892	-1.5622154	Cantina Biarritz Bodega Restaurant de Nuit				restaurant				
+node	2443576959	43.4796789	-1.5639070	Bistrot du Haou				cafe				
+node	2702756266	43.4860631	-1.5509466	Le Bistrot gourmet				restaurant	18	64200	Rue de la Bergerie	
+node	2702756268	43.4864430	-1.5504442	L'Impertinent				restaurant	5	64200	Rue d'Alsace	
+node	2796127025	43.4844640	-1.5568829	L.M.B				restaurant	58	64200	Avenue Édouard VII	
+node	2796181655	43.4840173	-1.5569158	La Table Basque				restaurant				
+node	2796181656	43.4840241	-1.5568568	La Crêpe Dentelle				restaurant				
+node	2796181657	43.4840309	-1.5566502	Le Bistrot 2 Génie				restaurant				
+node	2798505760	43.4835492	-1.5583666	Le Set				nightclub	24	64200	Avenue Édouard VII	
+node	2798505764	43.4838587	-1.5580141	Happy Days Diner				restaurant	46	64200	Avenue Édouard VII	
+node	2799172201	43.4834852	-1.5584406	La Trattoria				restaurant	20	64200	Avenue Édouard VII	
+node	2959573482	43.4777786	-1.5664874	Bar de la Côte				cafe				
+node	3520080416	43.4769471	-1.5622883	Sidreria Hernani				pub	29	64200	Avenue du Maréchal Joffre	
+node	3520082111	43.4818866	-1.5541852	Le O2 Verdun				restaurant				
+node	3703207825	43.4840944	-1.5583338	Le Galion				restaurant				
+node	3704992427	43.4824114	-1.5686632	Eden Rock café				cafe				
+node	3731890887	43.4826119	-1.5636938	Pizzeria Le Capri				restaurant				
+node	3871575603	43.4828825	-1.5442289	Leonie				restaurant				
+node	4308055395	43.4494188	-1.5449932	Arosta				restaurant	52		Avenue Alan Seeger	
+node	4319202491	43.4863508	-1.5500134	Boka				restaurant				
+node	4330743199	43.4783499	-1.5645523	La Petite Plage				restaurant				
+node	4330743200	43.4823534	-1.5671689	Arena Biarritz				restaurant				
+node	4442609251	43.4624768	-1.5392862	Txinako				restaurant	4	64200	Rue des Mésanges	
+node	4446544978	43.4511544	-1.5574430	Snoopduck				restaurant				
+node	4578203599	43.4807197	-1.5617397	Les Contrebandiers				bar				
+node	4578333389	43.4808691	-1.5624686	Le Comptoir du Foie Gras				restaurant				
+node	4706405136	43.4735874	-1.5657735	Auberge 22				restaurant	22	64200	Rue Harispe	
+node	4726455591	43.4797579	-1.5641427	L'Artnoa Maison des Vins à Biarritz				bar		64200		
+node	4726498189	43.4816992	-1.5547474	Los dos hermanos				restaurant	36	64200	Avenue de Verdun	
+node	4789924527	43.4853541	-1.5536595	Un jour à Peyrassol				restaurant			Avenue de la Reine Victoria	
+node	4789924530	43.4852967	-1.5547711	Le Majestic				restaurant				
+node	4822597322	43.4793970	-1.5642859	Poza				restaurant	64	64200	Rue Gambetta	
+node	4822612421	43.4809451	-1.5588098	L'Entre Deux				restaurant	5	64200	Avenue du Maréchal Foch	
+node	4822759232	43.4795279	-1.5642051	Le Comptoir à Burger				restaurant	62	64200	Rue Gambetta	
+node	4822819623	43.4825318	-1.5595277	L'Etable				restaurant	6	64200	Rue Lavernis	
+node	4847100003	43.4825455	-1.5593255	Chez Coco				restaurant	5	64200	Rue Gardères	
+node	4862088921	43.4843303	-1.5381972	Txik Txak				restaurant				
+node	4871233715	43.4668986	-1.5401446	Campanile				restaurant				
+node	4877320049	43.4821591	-1.5658456	Le Palmarium				restaurant				
+node	4877320061	43.4819858	-1.5656631	La Humade				cafe				
+node	4877320066	43.4820880	-1.5663417	L'Equinoxe				restaurant				
+node	4877320069	43.4823065	-1.5667997	Les Baigneuses				restaurant				
+node	4877320120	43.4828281	-1.5595215	Bouillon Hortense				restaurant	11		Rue Gardères	
+node	4914369619	43.4818199	-1.5647688	Judicious				restaurant				
+node	5172904422	43.4827925	-1.5636450	Le Tandem				restaurant				
+node	5711382686	43.4793705	-1.5640997	Barranco				restaurant		64200	Rue Gambetta	
+node	5721802022	43.4821592	-1.5661352	La P’tite Creperie				restaurant				
+node	5873254385	43.4818009	-1.5657210	Bali Bowls				restaurant	4	64200	Rue Gaston Larre	
+node	5891630885	43.4819018	-1.5642448	Green Spot				cafe				
+node	5898598285	43.4816731	-1.5589934	Milwaukee Cafe				cafe				
+node	5929357255	43.4858039	-1.5514064	Charlie's Bar				bar	24	64200	Rue Albert 1er	
+node	6041759137	43.4795604	-1.5642039	Saline				restaurant				
+node	6076858394	43.4850217	-1.5561288	Palais de Jade				restaurant	2	64200	Avenue de la Reine Victoria	
+node	6166374337	43.4624846	-1.5524381	Restaurant d'Application du Lycée Hôtelier				restaurant				
+node	6274733931	43.4741817	-1.5642678	Les 3 Salsas				restaurant				
+node	6499493786	43.4819542	-1.5534274	Mori's				restaurant				
+node	6532047585	43.4811481	-1.5620094	Maison Dézamy				cafe				
+node	6759476071	43.4595724	-1.5465692	La Station				restaurant				
+node	6782441621	43.4826083	-1.5603040	Play Boy				nightclub				
+node	6813787753	43.4812640	-1.5585332	La Cantine				restaurant				
+node	6813960405	43.4817399	-1.5573723	Santosha				restaurant				
+node	6813970590	43.4817505	-1.5579604	Caracoli				cafe		64200	Rue Larralde	
+node	6813995850	43.4842919	-1.5559239	Tangor				restaurant				
+node	6813997511	43.4813841	-1.5578548	Epicerie & Cave à vin naturel EPOQ				bar	11	64200	Rue du Helder	
+node	6814013313	43.4809838	-1.5587567	Frozen Palm				restaurant				
+node	6817376288	43.4836712	-1.5675644	Olatua				restaurant				
+node	6828029868	43.4851115	-1.5557381	Le Bouchon Biarrot				restaurant				
+node	6852413086	43.4791626	-1.5642468	Little Trallalà				restaurant	51 bis		Rue Gambetta	
+node	6860096385	43.4836394	-1.5623101	Chez Fanny				restaurant				
+node	6871213086	43.4809507	-1.5632206	Le Saleya				restaurant	34	64200	Rue Gambetta	
+node	6990836830	43.4935636	-1.5540993	Pavillon du phare				restaurant	60 bis	64200	Esplanade Elisabeth II	
+node	7216291585	43.4821115	-1.5634264	Le Campero				restaurant				
+node	7275490985	43.4806291	-1.5624752	La Belloteka				restaurant				
+node	7350331594	43.4766224	-1.5479390	You Sushi				restaurant				
+node	7762180885	43.4831529	-1.5595161	Bar de la Plage				bar				
+node	7811400005	43.4843477	-1.5588180	Le Rooftop Grand Plage				bar				
+node	7823219522	43.4825674	-1.5611467	Café de Paris				cafe				
+node	7823219523	43.4825574	-1.5615552	Miremont				cafe				
+node	8000145796	43.4854606	-1.5569646	OPIOM				restaurant		64200		
+node	8003693208	43.4614015	-1.5495040	Le labo du Pizzaillo				restaurant				
+node	8013513985	43.4850859	-1.5483012	Xuxu				restaurant	8 bis	64200		
+node	8303136846	43.4815905	-1.5606442	Kanbar Sagardotegia				restaurant	4	64200	Rue de la Poste	
+node	8656532688	43.4722663	-1.5558488	Ahpe restaurant				restaurant	34	64200	Avenue du Président J.F. Kennedy	
+node	9319516618	43.4852604	-1.5570625	Carré Coast				bar	7		Boulevard du Général de Gaulle	
+node	10228958661	43.4692378	-1.5684216	Lagun				restaurant	28	64200	Avenue de la Milady	
+node	10293030427	43.4800239	-1.5588162	Caracoli				cafe	21		avenue du jardin public	
+node	10916635405	43.4736917	-1.5656593	Aiete				restaurant	22	64200	Rue Harispe	
+node	11051513713	43.4794499	-1.5642415	Zou				restaurant				
+node	11051515125	43.4791302	-1.5642817	Carøe				restaurant				
+node	11051515127	43.4793112	-1.5643474	California Kitchen				restaurant				
+node	11340936186	43.4588865	-1.5412241	Le Social Bar				bar				
+node	11374350862	43.4590350	-1.5409661	Taco del diablo				restaurant				
+node	11374405554	43.4593081	-1.5406662	La table des docks				restaurant				
+node	11407115894	43.4595761	-1.5405991	Chez Isabella				restaurant				
+node	11407115895	43.4595778	-1.5406413	Casa Santa Maria				restaurant				
+node	11407119003	43.4595554	-1.5400789	So Wok				restaurant				
+node	11407119006	43.4593470	-1.5409385	Café des Docks				cafe				
+node	11582052105	43.4806069	-1.5622801	Centro Biarritz				bar	5	64200	Rue du Centre	
+node	11582054630	43.4808262	-1.5622044	Bar du Marché				bar				
+node	11582063063	43.4812885	-1.5631543	Le Rendez-vous des Halles				bar	26	64200	Rue Gambetta	
+node	11666838619	43.4619469	-1.5400972	Café Grand Biarritz				cafe				
+node	11667048490	43.4619316	-1.5403822	2P Gourmands Les Épicuriens				restaurant				
+node	11667095518	43.4625204	-1.5396242	Chez Anna				restaurant				
+node	11898242985	43.4813610	-1.5632520	Haragia				restaurant	26	64200	Rue Gambetta	
+node	11898255369	43.4819008	-1.5653608	Le Bar Basque				bar	1	64200	Rue du Port-Vieux	
+node	11898257169	43.4788497	-1.5663315	Carlos				restaurant	7	64200	Boulevard du Prince de Galles	
+node	11898257170	43.4808384	-1.5631019	Marguerite				restaurant	21	64200	Rue Gambetta	
+node	11898258469	43.4783081	-1.5664672	Le Surfing Biarritz				restaurant	9	64200	Boulevard du Prince de Galles	
+node	11898258470	43.4782371	-1.5579602	Ardi Beltza				restaurant	42	64200	Avenue du Maréchal Foch	
+node	11898266670	43.4824809	-1.5578719	Après-Demain				restaurant	12	64200	Rue Louis Barthou	
+node	11898275172	43.4815909	-1.5628733	La Table de Michel				restaurant	13	64200	Rue Gambetta	
+node	11898275173	43.4805087	-1.5624103	Chez les gros				bar	12	64200	Rue du Centre	
+node	11898369169	43.4815038	-1.5578272	EPOQ				restaurant	11	64200	Rue du Helder	
+node	11916155408	43.4631280	-1.5397518	Le Jap Ona				restaurant	1	64200	Rue des Hirondelles	
+node	12070407869	43.4825711	-1.5642388	Café De La Place				restaurant				
+node	12228258701	43.4797978	-1.5584964	Bimbo				restaurant				
+node	12319141302	43.4830891	-1.5649239	Harremanak - Port des Pêcheurs				restaurant				
+node	12360179102	43.4727512	-1.5560017	Polo bistrot				restaurant				
+node	12589808202	43.4862168	-1.5499797	Bistrot Angeluan				restaurant				
+node	12643848201	43.4806743	-1.5602613	No. 4 Coffee Station				cafe	4		Avenue Jaulerry	
+node	12840736201	43.4852605	-1.5480897	The Bayou				restaurant				
+node	12843632101	43.4866559	-1.5496935	Freya				restaurant				
+node	12847517701	43.4696151	-1.5447483	Lobita				cafe				
+node	13123702501	43.4806679	-1.5601582	Le Jardin				restaurant	4	64200	Avenue Jaulerry	
+node	13142726153	43.4816151	-1.5612728	Ragazzi da Peppone				restaurant				
+node	13142726178	43.4807545	-1.5631464	Les Apar'Thés				cafe				
+node	13261731955	43.4812324	-1.5622569	L'Alchimie				restaurant				
+node	13274311001	43.4627247	-1.5393198	ASTRA				bar	4		Rue des Mésanges	
+node	13374083601	43.4816349	-1.5588936	Auzoko				restaurant				
+node	13375480902	43.4815358	-1.5590376	Sotoa				bar				
+node	13384307401	43.4616120	-1.5401297	PIUMA				restaurant				
+node	13434568401	43.4678243	-1.5533730	Sakae				restaurant				
+node	13481618701	43.4816080	-1.5588259	Smashé				restaurant				
+node	13786705701	43.4740504	-1.5646090	Deoun				restaurant				
+node	13794964301	43.4810268	-1.5581426	Gatxi				restaurant				
+node	13949695501	43.4840348	-1.5566769	Crêperie Biarritz Sarrasin				restaurant	6	64200	Avenue de la Marne	
+node	14024761701	43.4778583	-1.5664704	Les Bains				restaurant				
+node	14039778626	43.4864198	-1.5504462	Coffee shop L'Impertinent				cafe	5	64200	Rue d'Alsace	
+node	14094682218	43.4861193	-1.5502218	Espezia				cafe				
+node	14135891439	43.4810127	-1.5583278	Le Table d'Aurélien Largeau				restaurant				
+node	14242211515	43.4749737	-1.5624524	Bleach				restaurant				
+way	71968885	43.4755856	-1.5664407	Etxola Bibi				cafe				
+way	71976853	43.4654703	-1.5739827	Milady Beach				restaurant				
+way	71979159	43.4641228	-1.5422548	La Rhapsodie				nightclub	26	64200	Rue Chapelet	
+way	71981443	43.4912657	-1.5515938	Hôtel Régina				restaurant	24	64200	Avenue de l'Impératrice	
+way	71996616	43.4730086	-1.5560989	Marloe Biarritz				restaurant	45	64200	Avenue du Président J.F. Kennedy	
+way	72023447	43.4722104	-1.5348081	Amarys				restaurant				
+way	372694741	43.4817268	-1.5672157	Chez Miguel				bar				
+way	420884245	43.4838425	-1.5596551	Café de la Grande Plage				restaurant				
+relation	2014597			Bidache	8	64520	64123					
+node	7787834340	43.4837029	-1.1405664	Brasserie Xarnegu				restaurant				
+node	8701435250	43.4838332	-1.1377588	Le Comptoir de la Tour de Pizz				restaurant	70	64520	Route de Came	
+relation	229786			Bidarray	8	64780	64124					
+node	1414573479	43.2665239	-1.3375453	Erramundeya				cafe				
+node	8010384302	43.2652801	-1.3499324	Auberge Iparla				restaurant				
+node	8727800372	43.2682953	-1.3449960	Noblia				restaurant		64780		
+node	9934141241	43.2657151	-1.3485047	Barberaenea				restaurant				
+relation	166718			Bidart	8	64210	64125					
+node	1362429263	43.4388756	-1.5901267	Elissaldia				restaurant		64210	Place Sauveur Atchoarena	
+node	2023244877	43.4452812	-1.5831406	Bistrot Régent				restaurant		64210	Chemin Erreka	
+node	3228598323	43.4394840	-1.5906740	Mahaina				restaurant		64210	Rue de la Madeleine	
+node	3228598337	43.4437387	-1.5847397	Licorne				nightclub		64210	Avenue du Plateau	
+node	3891040374	43.4576114	-1.5766911	La Socket				restaurant		64210	Avenue du Château	
+node	4351710686	43.4227948	-1.5985337	bonjour				cafe				
+node	4402585103	43.4279019	-1.6067018	Bahia Beach				restaurant		64210	Chemin Borognenia Ko Bidea	
+node	4485486388	43.4331077	-1.5968118	Capybara				restaurant		64210	Rue de l'Uhabia	
+node	4485488189	43.4328278	-1.5965531	La Cucaracha				restaurant		64210	Rue de l'Uhabia	
+node	4485488192	43.4364071	-1.5964021	Anaia				restaurant		64210	Rue de la Plage	
+node	4485488193	43.4365228	-1.5963078	Tantina de la Playa				restaurant		64210	Plage du Centre	
+node	5411762054	43.4451095	-1.5887663	Le Kanttu				restaurant		64210	Plage d'Erretegia	
+node	6364758224	43.4548835	-1.5778850	Arzon				restaurant				
+node	6996723904	43.4392069	-1.5907420	Ezkia				restaurant		64210	Avenue de la Grande Plage	
+node	7014744808	43.4393202	-1.5904971	Venta Gaxuxa				restaurant		64210	Avenue de la Grande Plage	
+node	7015112228	43.4302394	-1.5980595	Chez Zéli				restaurant		64210	Zirlinga	
+node	7015112230	43.4301079	-1.5983077	L'Entourloupe				bar		64210	Résidence Zirlinga	
+node	7047423973	43.4598818	-1.5780737	La Plancha d'Ilbarritz				restaurant				
+node	7117628743	43.4302770	-1.6001914	La Frégate				restaurant				
+node	7117636939	43.4496979	-1.5615514	Fasthotel				restaurant				
+node	7120037748	43.4181736	-1.5981898	La Table des Frères Ibarboure				restaurant				
+node	7129065623	43.4336797	-1.5948582	Bonnat Vola				restaurant		64210		
+node	7129065624	43.4545827	-1.5736601	Le Poisson Rouge				restaurant		64210	Avenue de Biarritz	
+node	7129065625	43.4495921	-1.5775010	Ahizpak				restaurant				
+node	7129065626	43.4507490	-1.5632282	Étika				restaurant				
+node	7358948170	43.4393362	-1.5896467	Koskenia				restaurant		64210	Place Sauveur Atchoarena	
+node	7358998220	43.4389584	-1.5901077	Elissaldia				bar		64210	Place Sauveur Atchoarena	
+node	7359015506	43.4393231	-1.5900105	Bar du fronton				restaurant		64210	Place Sauveur Atchoarena	
+node	7359038705	43.4301385	-1.5982186	Le Peak				bar		64210	Parking Zirlinga	
+node	7556468031	43.4448001	-1.5843257	Chixko				restaurant		64210	Avenue du Plateau	
+node	7565534114	43.4385148	-1.5901129	Le café d'en bas				restaurant		64210	Rue de l'Église	
+node	7810499102	43.4461695	-1.5440748	Bistrot Lana				restaurant		64210	Rue Bazter	
+node	7810499103	43.4467876	-1.5445242	Le Mouss'				bar		64210	Rue Bazter	
+node	9826363721	43.4454386	-1.5533464	Basik				restaurant		64210	Allée Antoine d'Abbadie	
+node	11836749286	43.4339172	-1.5936169	Kaliko				restaurant				
+node	12084767023	43.4395961	-1.5900830	Basuku				restaurant				
+node	12965985898	43.4228235	-1.5986158	Corner Café				cafe				
+way	72771313	43.4393150	-1.5899878	Bar Du Fronton				bar		64210	Place Sauveur Atchoarena	
+way	72771663	43.4324795	-1.5988651	Bela Gorri - La Voile Rouge				restaurant		64210	Plage de l'Uhabia	
+way	72776308	43.4479379	-1.5559621	Le Spot				restaurant		64210		
+way	72779108	43.4471300	-1.5781623	Le Soleil des Antilles				bar		64210	Avenue Cumba	
+way	72779139	43.4487532	-1.5704902	Chez Peïo Cafétéria le Relais				restaurant		64210	Avenue de Bayonne	
+way	72784202	43.4329681	-1.5965923	Chez Auguste				restaurant		64210	Rue de l'Uhabia	
+way	751883963	43.4401714	-1.5893652	La Pizzeria				restaurant		64210	Rue Erretegia	
+way	751924925	43.4397103	-1.5899664	Crêperie Ty Ouessant				restaurant		64210	Rue Erretegia	
+way	754355475	43.4304848	-1.6001793	Le petit paradis				restaurant				
+way	757046360	43.4593311	-1.5785149	Blue Cargo				restaurant				
+way	824595510	43.4597071	-1.5782302	La Plancha d'Ilbarritz				bar				
+relation	2102437			Bielle	8	64260	64127					
+node	9748019386	43.0549526	-0.4319857	Le Petit Manseng				restaurant	7		Place de la Mairie	
+way	284854052	43.0638745	-0.4248220	Hôtel Logis L'Ayguelade				restaurant				
+way	284854843	43.0550845	-0.4315985	Maison Lavillete				restaurant	9		Place de la Mairie	
+relation	166807			Billère	8	64140	64129					
+node	4218772689	43.2946163	-0.4026182	Au Bord de l'Eau				restaurant				
+node	5007877571	43.3004118	-0.4094245	Le Tajinier				restaurant				
+node	7189872575	43.3137967	-0.3778006	Bollywood Café				restaurant	103		Avenue Jean Mermoz	
+node	8400307148	43.3020810	-0.3951643	Les Dames Moustache				restaurant		64140	Place François Mitterrand	
+node	8400904594	43.3018415	-0.3953105	Ma Bulle				cafe		64140	Place François Mitterrand	
+node	8402159880	43.3032241	-0.3981089	Le Diabolo				bar	70	64140	Route de Bayonne	
+node	10118328316	43.3021824	-0.4042051	Le 64				nightclub				
+node	10119844306	43.3043161	-0.4034021	La Terraza				bar	61	64140	Route de Bayonne	
+node	14038908707	43.3072956	-0.3813885	Le Beau Frêne				restaurant				
+way	617693383	43.3044307	-0.4024401	Europub				pub	66	64140	Route de Bayonne	
+relation	166739			Biriatou	8	64700	64130					
+node	4101433690	43.3330550	-1.7429513	Auberge Hiribarren				bar				
+node	8894896802	43.3481449	-1.7486805	La Cidrerie Camino Berri				restaurant				
+node	8897583481	43.3334587	-1.7442728	Les Jardins de Bakea				restaurant			Chemin Herri Alde	
+node	12373209548	43.3333440	-1.7436504	Xoldo				bar				
+relation	1380926			Biron	8	64300	64131					
+node	4358697274	43.4624786	-0.7364539	Auberge Escudé-Quillet				restaurant	38	64300	Rue La Carrere	
+node	9783193170	43.4669971	-0.7520923	La Boucherie				restaurant		64300		
+relation	167652			Bizanos	8	64320	64132					
+node	5007877592	43.2873985	-0.3508850	Le Joffre				restaurant				
+node	5007877593	43.2845077	-0.3465299	Chez Zezette				pub				
+node	5007886303	43.3032645	-0.3205411	V and B				bar	41	64320	Boulevard du Commandant René Mouchotte	
+node	7373414334	43.3033650	-0.3210070	Bistro Régent				restaurant				
+node	7373414335	43.3035210	-0.3209146	Little Italy				restaurant	2	64320	Avenue du Bataillon de Joinville	
+node	7472331267	43.3036648	-0.3208272	Le Bouillon Béarnais				restaurant	4	64320	Avenue du Bataillon de Joinville	
+node	7472331270	43.3025663	-0.3204023	Break Gourmand				restaurant	26	64320	Route de Tarbes	
+node	7649515963	43.2891547	-0.3545163	Bar Tabac Presse du Centre				pub				
+node	7650859288	43.2867404	-0.3592783	L'Aygo				restaurant				
+node	8380854001	43.2878718	-0.3520790	Bizanos Pizza				restaurant				
+node	8669619428	43.2843751	-0.3462752	La Pizz'à Ben & Kéké				restaurant				
+node	14163294900	43.3051819	-0.3187113	La Pataterie				restaurant				
+way	63030059	43.3047477	-0.3171484	La P'tite Guinguette des Sardines				pub				
+way	63032733	43.3023169	-0.3186327	l'Esberit				restaurant				
+way	63032899	43.3057195	-0.3290576	Campanile				restaurant				
+way	708312790	43.3029320	-0.3192868	Léon de Bruxelles				restaurant	43	64320	Boulevard du Commandant Mouchotte	
+relation	2812216			Boeil-Bezing	8	64510	64133					
+node	4364428889	43.2211719	-0.2666550	café tabac journeaux				cafe				
+way	285309790	43.2218260	-0.2666425	Au bon accueil				restaurant				
+relation	167593			Bonloc	8	64240	64134					
+way	82987956	43.3685876	-1.2666865	Chez Ttotte				bar				
+relation	2764710			Borce	8	64490	64136					
+way	228360388	42.9079710	-0.5723712	Bar-épicerie Le Communal				bar				
+relation	2477900			Bordes	8	64510	64138					
+node	5695020490	43.2407766	-0.2866536	Le Turbin				bar	26	64510	Avenue Joseph Szydlowski	
+node	7191437109	43.2350518	-0.2813372	Cambon				restaurant		64510	Rue Henri IV	
+way	932184933	43.2489841	-0.2795935	Orge & Houblon				bar		64510		ZA Parc Activité Clément Ader
+relation	2155859			Bosdarros	8	64290	64139					
+way	229873957	43.2106065	-0.3618520	Le Bosq d'Arros				restaurant	325	64290	Rue Pierre Bidau	
+relation	76018			Boucau	8	64340	64140					
+node	5464348583	43.5239415	-1.4898835	L'Estival				cafe				
+node	5819240582	43.5233223	-1.4913031	L'Adour				restaurant		64340	Quai du Bazé	
+way	74767596	43.5282839	-1.4919414	Les Affamés				restaurant	12	64340	Rue Paul Cazaurang	
+relation	166910			Briscous	8	64240	64147					
+node	9290953337	43.4601345	-1.3339899	Café Larre				bar				
+node	12181771164	43.4659814	-1.2820920	Le repère				restaurant				
+way	850884006	43.4603953	-1.3336560	Maison Joanto				restaurant				
+relation	2811754			Bruges-Capbis-Mifaget	8	64800	64148					
+node	3727502781	43.1264592	-0.3039775	Lastapis E.				bar				
+way	275496325	43.1272300	-0.3038955	Café du commerce				restaurant				
+relation	2155862			Buros	8	64160	64152					
+node	13106395101	43.3529354	-0.3098620	La Terrasse				restaurant	7	64160	Route de Morlaàs	
+relation	168630			Bussunarits-Sarrasquette	8	64220	64154					
+node	5926556555	43.1736510	-1.1307441	Gamia				restaurant	95	64220	Chemin de Munho	
+relation	2501204			Buzy	8	64260	64157					
+way	284902999	43.1591005	-0.4256240	L'étable d'Ossau				restaurant	1	64260	Chemin d'Ossau	
+relation	166905			Cambo-les-Bains	8	64250	64160					
+node	1776354614	43.3622660	-1.4009182	Oihana				cafe				
+node	3442978303	43.3602250	-1.3990284	Le café des Allées				cafe	2		Allée Edmond Rostand	
+node	4826926275	43.3616808	-1.3995593	Etxe Tipia				restaurant	4	64250	Rue Chiquito de Cambo	
+node	4828433843	43.3607641	-1.4013944	Mana Pizza				restaurant		64250	Allée Edmond Rostand	
+node	4828433844	43.3607135	-1.4012707	Brasserie le Chiquito				restaurant	13	64250		
+node	4828446067	43.3614641	-1.3996949	Lau Haizeak				bar	12	64250	Rue du Trinquet	
+node	4829138551	43.3612046	-1.3984663	Terrae				restaurant	7	64250	Avenue de la Mairie	
+node	4829209266	43.3559425	-1.4142210	Pizza 64				restaurant	50	64250	Avenue d'Espagne	
+node	5092818606	43.3552633	-1.3871763	Pavilion Bleu				restaurant				
+node	5093023744	43.3625031	-1.4014660	Bellevue				restaurant				
+node	6143405210	43.3629437	-1.4037094	Mendi Berdea				restaurant	12		Place de l'Église	
+node	6457576525	43.3623439	-1.4010872	Salon Cyrano				cafe				
+node	9919103017	43.3605882	-1.3996817	Café de la Mairie				restaurant		64250	Allée Edmond Rostand	
+node	11390188197	43.3555800	-1.4109224	H2Bière				bar				
+node	13822209126	43.3700706	-1.3995163	Chez Claudine				bar				
+way	739557586	43.3587260	-1.3975733	Ama				restaurant	6	64250	Avenue Anne de Neubourg	
+relation	2862867			Camou-Cihigue	8	64470	64162					
+node	8315170630	43.1153985	-0.9066287	Aguer Ostatua				restaurant				
+relation	1017408			Cardesse	8	64360	64165					
+way	66186715	43.2728662	-0.5919121	Ferme Estrem				restaurant				
+relation	2190539			Carresse-Cassaber	8	64270	64168					
+node	5003912310	43.4825887	-0.9984188	Bar Chez Camy				bar	2	64270	Route de Carresse-Cassaber	
+relation	2435151			Castagnède	8	64270	64170					
+way	231011882	43.4543326	-0.9945560	La Belle Auberge				restaurant		64270		
+relation	1016586			Castillon	8	64370	64181					
+node	13898360701	43.4662935	-0.5755614	Casti Bar				bar				
+relation	2787563			Cette-Eygun	8	64490	64185					
+node	7702176977	42.9343040	-0.5868058	Le cabanon de Sophie				cafe	39		N 134	
+way	219042087	42.9380590	-0.5855640	Auberge La Toison d'Or				restaurant				
+relation	1964167			Charritte-de-Bas	8	64130	64187					
+node	6109370928	43.2973428	-0.8863869	Auberge des chênes				restaurant				
+relation	2698742			Chéraute	8	64130	64188					
+node	1071028848	43.2292631	-0.8735172	Pizza Bella Family				restaurant				
+node	4775688317	43.2269723	-0.8396753	Le Panoramic				restaurant				
+relation	166728			Ciboure	8	64500	64189					
+node	1401842809	43.3848979	-1.6673185	Café Garra				restaurant				
+node	2749274320	43.3935226	-1.6851538	Chez Margot				restaurant		64500	Avenue du Commandant Passicot	
+node	4248223404	43.3934197	-1.6851894	Arraina				restaurant	39	64500	Avenue du Commandant Passicot	
+node	4248223405	43.3933335	-1.6852230	Pantxua				restaurant	37	64500	Avenue du Commandant Passicot	
+node	4248223406	43.3931236	-1.6852513	La Cueva du Fort				restaurant	29	64500	Avenue du Commandant Passicot	
+node	4387368460	43.3840143	-1.6681080	Maitenia				restaurant	8	64500	Place du Fronton	
+node	4387368462	43.3840709	-1.6680610	Bittor				pub				
+node	4485480135	43.3941444	-1.6850874	La Cabane à Moules				restaurant				
+node	4485480138	43.3944991	-1.6847501	Le SocoWa				restaurant	45	64500	Avenue du Commandant Passicot	
+node	4485480139	43.3911037	-1.6858984	Pizza Arteka				restaurant				
+node	4485480140	43.3908983	-1.6857053	Bistrot le Jeu de Paume				restaurant	11	64500	Avenue du Commandant Passicot	
+node	4485480141	43.3942182	-1.6850166	Snack du Fort				restaurant	45	64500	Avenue du Commandant Passicot	
+node	4947697322	43.3826422	-1.6692045	Chez Mattin				restaurant	63	64500	Rue Évariste Baignol	
+node	5003137823	43.3831939	-1.6636563	Arrantzaleak				restaurant		64500		
+node	5732091189	43.3830090	-1.6676873	Hannya sushi				restaurant	16	64500	Avenue Jean Jaurès	
+node	7673233995	43.3942897	-1.6849535	Chez Jules				restaurant	45	64500	Avenue du Commandant Passicot	
+node	7673239827	43.3932524	-1.6852534	Ispeguy				restaurant	35	64500	Avenue du Commandant Passicot	
+node	7698581938	43.3900767	-1.6848000	Zokoa Kanttu				restaurant	31	64500	Avenue du Commandant Passicot	
+node	7698588577	43.3900109	-1.6841883	Alaïa				restaurant	2	64500	Allée André Hiriart	
+node	7698662066	43.3805430	-1.6644376	Bar Marinela				pub	8	64500	Avenue Jean-Baptiste Duhau	
+node	7698736490	43.3834703	-1.6686255	Exte Kim				restaurant	41	64500	Rue Agorette	
+node	7701990737	43.3852118	-1.6674947	Ekaitza				restaurant	15	64500	Quai Maurice Ravel	
+node	9459015617	43.3843061	-1.6682431	Atalaia				restaurant	17	64500	Rue de la Fontaine	
+node	11898213358	43.3872289	-1.6851235	Kavea				restaurant	16	64500	Avenue Catherine Aguirre	
+node	12022663512	43.3879451	-1.6848729	Crocodiles				restaurant		64500	Place Koxe Arbiza	
+node	12329350245	43.3852710	-1.6675259	La Table de Megumi				restaurant	15	64500	Quai Maurice Ravel	
+node	12329350251	43.3936876	-1.6851211	Belhabar				restaurant	41	64500	Avenue du Commandant Passicot	
+node	12662263601	43.3852758	-1.6674592	La Table de Megumi				restaurant	15	64500	Quai Maurice Ravel	
+relation	2086237			Coarraze	8	64800	64191					
+node	1369789873	43.1805585	-0.2426589	Al Forno				restaurant		64800	45 avenue de la Gare	
+node	1369789876	43.1758329	-0.2347195	L'Iguana Café				restaurant		64800	Zone Commerciale Intermarché	
+node	1369789877	43.1751209	-0.2348476	Pizza Mona				restaurant				
+node	10831961332	43.1700070	-0.2303213	Nul Bar Ailleurs				bar				
+node	13020767302	43.1784464	-0.2405472	Agdam Kebab				restaurant				
+relation	2317355			Diusse	8	64330	64199					
+node	9610697459	43.5659734	-0.1640283	Relais des vignerons				restaurant				
+relation	2092350			Eaux-Bonnes	8	64440	64204					
+node	2700273385	42.9575773	-0.3333963	Le Tremplin				restaurant				
+node	2700273398	42.9579923	-0.3327677	L'igloo				restaurant				
+node	2700273400	42.9578924	-0.3328488	Étoile des Neiges				restaurant				
+node	2700273401	42.9577593	-0.3330346	Chez Régis				restaurant				
+node	2700273402	42.9575790	-0.3316440	Le Valentin				restaurant				
+node	2700273403	42.9571208	-0.3312444	Le Bar des Cimes				bar				
+node	2700987340	42.9598683	-0.3316757	Restaurant L'Amoulat				restaurant				
+node	3429870504	42.9570457	-0.3312934	Le Refuge				bar				
+node	4404975452	42.9735382	-0.3920547	Le Valentin				restaurant				
+node	4404976190	42.9730256	-0.3935472	Chez Georges				restaurant				
+node	5314712422	42.9574844	-0.3314604	Le Farfadet				restaurant				
+node	8696884645	42.9582270	-0.3330796	Le Schuss				restaurant				
+node	8696884646	42.9586751	-0.3331652	Café Nature				restaurant				
+node	8696884647	42.9575277	-0.3315442	Relais de la Maison d'Ossau				restaurant				
+node	9202179622	42.9568359	-0.3334891	La boule de neige				restaurant				
+node	9202179623	42.9569173	-0.3335223	La boule de neige				bar				
+node	9529632925	42.9573418	-0.3311931	La Cuisine des Pistes				restaurant				
+node	9939913919	42.9572323	-0.3311609	Casa Panko				restaurant				
+node	9939913920	42.9573901	-0.3312728	La Quebotte				restaurant				
+way	197595796	42.9512480	-0.3389372	Le Cairn				restaurant				
+way	264338026	42.9499833	-0.3297730	Le Snow K'Fé				restaurant				
+relation	2148503			Escot	8	64490	64206					
+node	12029117369	43.0763431	-0.6062051	La Taverne de Pyrene				cafe			Rue de Labuchoa	
+relation	166904			Espelette	8	64250	64213					
+node	4303093600	43.3410424	-1.4490192	Aintzina				restaurant	4440	64250	Karrika Nagusia	
+node	4363581389	43.3411925	-1.4497740	Pottoka				restaurant	5	64250	Place du Jeu de Paume	
+node	5029663823	43.3395101	-1.4473113	Chez Doxpi				restaurant	80	64250	Merkatu plaza	
+node	7572709286	43.3410161	-1.4493026	Etxemendi				restaurant	455	64250	Karrika Nagusia	
+node	7772818585	43.3415485	-1.4447912	Choko Ona				restaurant	155	64250	Xerrendako Bidea	
+node	8025460108	43.3402318	-1.4479609	Restaurant Euzkadi				restaurant	285	64250	Karrika Nagusia	
+node	8035709571	43.3406520	-1.4495152	Restaurant Chilhar				restaurant	25	64250	Xilarreneko Karrika	
+node	8036344618	43.3406546	-1.4491778	Labea				restaurant	409	64250	Karrika Nagusia	
+node	13121535601	43.3413006	-1.4495885	Etchehandia				restaurant				
+way	1423332780	43.3535911	-1.4491732	La Guinguette				bar				
+way	1443307057	43.3250884	-1.4433391	Ferme Erreka				restaurant	2105	64250	Itsasuko Errebidea	
+relation	2690138			Esquiule	8	64400	64217					
+way	232509990	43.1943880	-0.7090945	Chez Château				restaurant				
+relation	170587			Estérençuby	8	64220	64218					
+node	4615781026	43.1036244	-1.1964673	Restaurant Andreinia				restaurant		64220		
+way	226256584	43.1043480	-1.1959180	Carricaburu				restaurant				
+relation	2764711			Etsaut	8	64490	64223					
+way	219093007	42.9122602	-0.5712693	Le Randonneur				restaurant		64490		
+relation	6838417			Ance-Féas	8	64570	64225					
+way	657660895	43.1569477	-0.6882769	Chez Zélie				restaurant				
+relation	3221548			Fichous-Riumayou	8	64410	64226					
+node	14251709802	43.4855572	-0.4478421	AmiChemin Petit Pause				cafe				
+relation	208026			Gan	8	64290	64230					
+node	9315523448	43.2293291	-0.3873548	Le Bistrot de l'Ossau				restaurant				
+node	9315523452	43.2299114	-0.3870519	Le Carton Rouge - Café du Centre				cafe				
+node	13048509739	43.1987896	-0.3872826	Le Tucq				restaurant				
+relation	2531512			Garindein	8	64130	64231					
+node	1113843309	43.2078676	-0.9044689	Trinquet Urrupean				bar				
+node	10895981026	43.2083674	-0.9056313	Ostatua				bar				
+relation	2146251			Garlin	8	64330	64233					
+node	9346944452	43.5604566	-0.2718568	Le Theo				restaurant	22	64430	Cours de la République	
+node	9347031919	43.5594004	-0.2741461	Bar Tabac le PMU Marcadieu				bar	8	64430		Place du Petit Marcadieu
+relation	3009882			Gayon	8	64350	64236					
+node	7687621085	43.4898707	-0.1621731	Restaurant Aü Rey				restaurant				
+relation	167653			Gelos	8	64110	64237					
+node	6244129185	43.2857067	-0.3692887	Bistrot du Pradeau				bar				
+relation	2814122			Ger	8	64530	64238					
+node	4642425692	43.2298517	-0.0792778	Lunch Grill				restaurant				
+way	1339033575	43.2519620	-0.0525314	Le 380				restaurant	385	64530	Rue du Gleysia	
+way	1339033576	43.2518920	-0.0526880	Le Bidule 64				restaurant	54	64530	Chemin Lalia	
+relation	2809922			Géronce	8	64400	64241					
+node	2649432330	43.2398843	-0.6905653	Chez Cousté				cafe		64400	Route de Josbaig	
+relation	2809879			Geüs-d'Oloron	8	64400	64244					
+node	3501288668	43.2503703	-0.7055572	Chez Germaine				restaurant				
+relation	166719			Guéthary	8	64210	64249					
+node	3036956666	43.4233388	-1.6086969	Getaria				restaurant		64210	Avenue du Général de Gaulle	
+node	4428729389	43.4252164	-1.6102018	Le Poinçon				restaurant		64210	Rue du Comte G. de Swiecinski	
+node	5667333321	43.4261525	-1.6088620	Heteroclito				restaurant		64210	Sentier des baleines - Baleen xendera	
+node	5862127556	43.4252684	-1.6088157	Bar Basque				restaurant		64210	Place Toulet	
+node	5862159857	43.4259462	-1.6121055	Restaurant de la jetée des Alcyons				restaurant		64210	Jetée des Alcyons	
+node	5862159858	43.4259667	-1.6107376	Txamara				restaurant		64210	Chemin du Port	
+node	5862159860	43.4251953	-1.6090558	Le Madrid				restaurant		64210	Avenue du Général de Gaulle	
+node	7019193283	43.4258149	-1.6086824	Snack Parlementia				restaurant		64210	Chemin du Port	
+node	7019218622	43.4249748	-1.6089355	Providence café				cafe				
+node	7039071423	43.4194552	-1.6060129	Briketenia				restaurant		64210	Rue de l'Église	
+node	7271641111	43.4241374	-1.6049978	La Voile Blanche				restaurant				
+node	8904128511	43.4194388	-1.6060267	Briket'Bistrot				restaurant			Rue de l'Église	
+node	9113231996	43.4226075	-1.6187946	Cenitz Eko Borda				restaurant		64210	Chemin de Cenitz	
+node	12662260802	43.4270100	-1.6085288	Pasaia Guethary				restaurant				
+way	71288290	43.4269177	-1.6086089	Pasaia				bar		64210	rue de la Promenade	
+way	71288492	43.4226185	-1.6187278	Cenitzen Borda				restaurant		64210	Chemin de Cenitz	
+relation	2137203			Guiche	8	64520	64250					
+node	3496512536	43.5212466	-1.1975099	Le Gantxo				restaurant				
+node	13074806580	43.5114541	-1.2048201	Chez Paula				restaurant				
+relation	167739			Gurmençon	8	64400	64252					
+node	5592840184	43.1554946	-0.5966225	Relais Aspois				restaurant				
+relation	2084668			Halsou	8	64480	64255					
+node	12847122601	43.3760664	-1.4242562	Le bouxon				restaurant		64480	Karrikako bidea	
+relation	373986			Hasparren	8	64240	64256					
+node	4423962192	43.3836614	-1.3047736	Deni's				bar		64240	Rue Pierre Broussain	
+node	4424026589	43.3872940	-1.3039824	Brasserie Etxeko Bob's Beer				pub		64240	Rue Francis Jammes	
+node	8414648672	43.3843734	-1.3053252	Xuriatea				restaurant		64240	Rue Francis Jammes	
+node	8414693154	43.3849495	-1.3041266	Mimi Ostatua - bar du fronton				restaurant		64240	Place du Jeu de Paume	
+node	8429426219	43.3634496	-1.3468953	Komeiteko Borda				restaurant	1480	64240	Chemin de Komeitekoborda	
+node	10657195357	43.3847925	-1.3040418	Mimi Ostatua - pizza				restaurant		64240	Place du Jeu de Paume	
+node	10922013233	43.3864136	-1.3028322	Hordago				restaurant		64240	Rue de Navarre	
+node	10922041727	43.3684857	-1.3524002	Restaurant La Maison de Pierre				restaurant		64240	Quartier Urcuray	
+node	12441704101	43.3921613	-1.3241969	Elizaberriko Etxeberria				restaurant				
+relation	2174017			Haux	8	64470	64258					
+node	8704854493	43.0778834	-0.8492963	Auberge XOKO-HUNA				restaurant				
+relation	167589			Hélette	8	64640	64259					
+node	1737432421	43.3081665	-1.2444442	Ttotte				pub				
+node	8701403586	43.3111298	-1.2567319	Restaurant Ezkaratza				restaurant		64640	Maison Errekartia	
+node	12725382376	43.3085942	-1.2450326	Bar chez Mattin				pub				
+way	82466398	43.3085053	-1.2440125	Auberge Idioinia				restaurant		64640		
+way	82466512	43.3081762	-1.2444876	Chez Ttotte				restaurant		64640		
+relation	166738			Hendaye	8	64700	64260					
+node	546874361	43.3528580	-1.7810362	Casa Jose				cafe				
+node	546874391	43.3514419	-1.7779774	Santiago				bar				
+node	1446886121	43.3725827	-1.7756573	kanttu				bar				
+node	1446886779	43.3724959	-1.7756627	Ttipia				bar				
+node	1446887183	43.3722982	-1.7738049	L'oceanic				pub				
+node	1446894614	43.3724045	-1.7756663	Bao Ttiki				restaurant	14	64700	Rue des Eucalyptus	
+node	1446894616	43.3723048	-1.7756814	Café des Délices				restaurant				
+node	1791437915	43.3479927	-1.7707485	Sukaldea				restaurant				
+node	1791445513	43.3581417	-1.7746215	Favela hendaye				restaurant	11	64700	Place de la République	
+node	1791458314	43.3725421	-1.7734789	Café de la Plage				pub				
+node	2542281304	43.3727183	-1.7476082	Aguerria				restaurant				
+node	3520072367	43.3675234	-1.7710757	L'Odyssée				restaurant				
+node	3520072368	43.3754285	-1.7625755	Le Resto de l'Océan				restaurant				
+node	3736295081	43.3707996	-1.7847772	Kote café				cafe				
+node	4075590120	43.3582755	-1.7749118	Restaurant Pizzeria Maxime				restaurant				
+node	4075590122	43.3582345	-1.7749227	Ttiki Baci				restaurant			Place de la République	
+node	4075650878	43.3529049	-1.7812379	Casa Jose				restaurant		64700	Rue du Général de Gaulle	
+node	4076986672	43.3567628	-1.7744418	Le Comptoir des Allées				restaurant				
+node	4076986673	43.3565615	-1.7744517	Au Bon Moment				cafe				
+node	4077058223	43.3584105	-1.7760546	Maitena				bar				
+node	4158994289	43.3676721	-1.7814746	Jimba				restaurant		64700	Quai de la Floride	
+node	4171759116	43.3585803	-1.7741883	L'Apostrophe				restaurant	11	64700	Rue de l'Église	
+node	4171969646	43.3710200	-1.7728583	Gogoko				restaurant		64700	Boulevard du Général Leclerc	
+node	4189706266	43.3706008	-1.7721906	Le Jardin des Thés				cafe		64700	Rue des Aubépines	
+node	4316891689	43.3719946	-1.7732620	Regina				bar	76		Boulevard du Général Leclerc	
+node	4487412244	43.3719697	-1.7747570	Itsas Zaldi				restaurant	9		Rue des Figuiers	
+node	4487412245	43.3720778	-1.7747731	Trattoria della Nonna				restaurant				
+node	4487412246	43.3719668	-1.7744656	Hell's Burger				restaurant				
+node	5107210775	43.3628671	-1.7692601	La Kantoche				restaurant	21	64700	Rue d'Ouristy	
+node	5228397022	43.3733140	-1.7745363	Hegoa Café				cafe	2	64700	Boulevard de la Mer	
+node	5228417524	43.3733151	-1.7743705	La croisière chez Patxi				restaurant				
+node	6483445436	43.3723008	-1.7751794	Serino				restaurant				
+node	7832672217	43.3723160	-1.7738928	L'Océ				restaurant	9	64700	Avenue des Mimosas	
+node	7846980712	43.3709180	-1.7848103	La Pinta				restaurant				
+node	9054087859	43.3580066	-1.7750262	Bidassoa Jatetxea				bar				
+node	9054139377	43.3583104	-1.7749031	LO VI kafetegia				cafe				
+node	9851665091	43.3719421	-1.7728251	Brasserie de l'Hôtel de Paris				restaurant	1	64700	Rue des Jasmins	
+node	9885006136	43.3708517	-1.7839350	La Santa				restaurant				
+node	9927733634	43.3724311	-1.7739263	Daya				restaurant	10		avenue des mimosas	
+node	9927753679	43.3724170	-1.7740355	The chicken kitchen				restaurant	12		avenue des mimosas	
+node	10059419974	43.3744960	-1.7669535	Hôtel Bar Valencia				bar	29		Boulevard de la Mer	
+node	10866124893	43.3485180	-1.7722358	Goxo Goxoa				cafe				
+node	10967589405	43.3682972	-1.7794083	le Chantier				restaurant				
+node	11133966850	43.3688363	-1.7796153	Le parc à Huîtres				restaurant				
+node	11280169786	43.3716918	-1.7738117	Granada				restaurant				
+node	11280170027	43.3734407	-1.7738318	Côté Plage				restaurant				
+node	11280171787	43.3714255	-1.7726703	Le Palmier				cafe				
+node	11280173003	43.3721104	-1.7730909	Le Battela				restaurant				
+node	11652562025	43.3713899	-1.7851870	Le Solsol				restaurant			Boulevard de la Mer	
+node	12063731069	43.3711194	-1.7842239	Iguzkian				restaurant				
+node	12066106969	43.3714085	-1.7850874	Bar à Manger				cafe			Boulevard de la Mer	
+node	12066116869	43.3715560	-1.7842789	Jaizkibel				cafe			Boulevard de la Mer	
+node	12066116970	43.3726321	-1.7766867	Bi Ur Arte				restaurant				
+node	12066505169	43.3706825	-1.7847532	La Vinotek				restaurant				
+node	12066846669	43.3716343	-1.7835292	Restaurant Olivier				restaurant				
+node	12071240469	43.3707200	-1.7856127	Le Bidassoa				restaurant				
+node	12278689411	43.3466754	-1.7722111	JATETXEA Restaurant des joncaux				restaurant				
+node	13158240689	43.3559593	-1.7744348	Saveurs & Pizzas				restaurant	16	64700	Avenue des Allées	
+node	13208755045	43.3526960	-1.7814924	Le Kafé Olé				cafe	97		Boulevard du Général de Gaulle	
+node	13770361815	43.3720303	-1.7734904	Oh là là				cafe				
+way	72064610	43.3480477	-1.7673380	Campanile				restaurant				
+way	72065619	43.3726416	-1.7558574	La table d'Ametza				restaurant	156	64700	Boulevard de l'Empereur	
+way	600638699	43.3721451	-1.7823030	Hirukiak				cafe				
+relation	229686			Herrère	8	64680	64261					
+way	75046096	43.1658928	-0.5577541	Le Club				nightclub				
+relation	2714120			L'Hôpital-Saint-Blaise	8	64130	64264					
+node	4334661191	43.2520657	-0.7704069	Restaurant Le Saint-Blaise				restaurant				
+relation	167648			Idron	8	64320	64269					
+node	5007886308	43.3021093	-0.3090895	Bourbon street				bar				
+node	8584194817	43.3026329	-0.3090133	Le Roy'home				restaurant				
+node	8584194848	43.3022132	-0.3095350	Pizza di Mamma				restaurant				
+way	62501742	43.2988100	-0.3044656	Délices d'Asie				restaurant				
+way	62502688	43.2981260	-0.3015838	Royal Pau				restaurant				
+way	62509750	43.3080687	-0.3063679	La Marina				nightclub				
+way	708311536	43.3001496	-0.3112508	Le Mas des arômes				restaurant				
+relation	2088773			Igon	8	64800	64270					
+node	13337122801	43.1624193	-0.2330997	Chez Ludo				restaurant			Avenue du Pic du Midi	
+relation	1673887			Iholdy	8	64640	64271					
+node	1947441115	43.2823056	-1.1810558	Restaurant Malgorenia				restaurant				
+relation	1016559			Irissarry	8	64780	64273					
+node	5675620730	43.2570880	-1.2325384	Restaurant Art'Zain				restaurant	20	64780		Place d'Ospitalia
+way	168997273	43.2558181	-1.2259654	Mendi Eder				restaurant	135	64780	Route de Bitorieta	
+relation	168236			Irouléguy	8	64220	64274					
+node	4499277681	43.1770550	-1.2996820	Jarapea				restaurant	94	64220	Rue du Fronton	
+relation	168245			Ispoure	8	64220	64275					
+node	3982558300	43.1713046	-1.2353641	Bar Restaurant de L'Arradoy				restaurant		64220	Bourg	
+relation	2144405			Issor	8	64570	64276					
+node	11042006576	43.1011392	-0.6611127	Café				cafe				
+relation	166907			Itxassou	8	64250	64279					
+node	3736442506	43.2821058	-1.4272886	Saint-Pierre				restaurant				
+node	4465183876	43.3325241	-1.4105003	Haize Hegoa				restaurant				
+node	8096615852	43.3293039	-1.3970098	Hôtel restaurant Txistulari				restaurant	442	64250	Route d'Errobo	
+node	8111238977	43.3322740	-1.4111069	Maison Bonnet				restaurant	41	64250	Larrondoko bidea	
+node	8758634505	43.3327751	-1.4112071	Bistrot Etchepare				restaurant				
+node	13644631272	43.3329273	-1.4083204	Balaki				restaurant				
+node	13673683710	43.3253022	-1.4046148	Hôtel Restaurant du Chêne				restaurant	979	64250	Elizako bidea	
+node	14309779768	43.3365198	-1.4042060	Chez Boroi				bar				
+relation	2120285			Izeste	8	64260	64280					
+way	284862962	43.0856970	-0.4224405	Auberge de la Vallée d'Ossau				restaurant				
+relation	2084658			Jatxou	8	64480	64282					
+node	12299711388	43.4247102	-1.3952610	Aureka				restaurant				
+node	13827689998	43.3884426	-1.4302652	Cidrerie Pourteau				restaurant				
+relation	166806			Jurançon	8	64110	64284					
+node	8773677508	43.2709319	-0.3886160	Le Kiosque à Pizza				restaurant				
+node	8906980142	43.2881768	-0.3898239	Le Rallye				restaurant				
+node	13068148140	43.2827712	-0.3874174	Bar du Rugby				bar				
+way	63120456	43.2926722	-0.3899793	Wok Away				restaurant	12	64110	Avenue du Corps Franc Pommiès	
+relation	2793899			Laàs	8	64390	64287					
+node	6750752024	43.3815382	-0.8508946	L'auberge de la Fontaine				restaurant				
+node	11618297258	43.3817104	-0.8505666	La table de la fourmi rouge				restaurant		64390		
+relation	2163858			La Bastide-Clairence	8	64240	64289					
+node	5032335021	43.4290315	-1.2561251	Les Arceaux				restaurant			Place des Arceaux	
+node	5617951892	43.4291798	-1.2555367	La Table de Bastida				restaurant				
+node	13662776101	43.4129542	-1.1961365	Asinerie de Pierretoun				restaurant				
+relation	170555			Lacarre	8	64220	64297					
+node	2503124135	43.1906934	-1.1654060	Le Pottok				restaurant				
+relation	16915517			Lacq	8	64170	64300					
+node	11134946995	43.4116092	-0.6237085	Le Reflet des Torches				restaurant				
+relation	76024			Lahonce	8	64990	64304					
+node	8142933100	43.4909777	-1.3827989	Bar du Port Chez Nicolas				restaurant				
+node	10217245246	43.4897096	-1.4316962	Izarlilia				restaurant				
+node	13072411264	43.4870812	-1.3870907	Le Bar à Bière				bar				
+relation	2162609			Lanne-en-Barétous	8	64570	64310					
+node	11608219573	43.1124430	-0.7659644	Cidrerie Lacassie				restaurant				
+node	14024077112	43.1131733	-0.7611935	Au Family's				restaurant				
+relation	1404343			Larceveau-Arros-Cibits	8	64120	64314					
+node	5675620729	43.2328269	-1.0962707	Espelletenia				restaurant	15	64120	Route de Garazi	
+relation	2195080			Laroin	8	64110	64315					
+node	5007877563	43.3063594	-0.4348381	Maison des Lacs				restaurant				
+way	229906142	43.3047040	-0.4431855	Les Dames Moustache				restaurant				
+way	301044204	43.3063565	-0.4348894	La Maison des Lacs				restaurant				
+relation	2141214			Larrau	8	64560	64316					
+node	1304848350	43.0189156	-0.9546155	Etchemaïte				restaurant		64560	Bourg	
+node	1323300322	43.0177013	-0.9562981	Carricaburu				cafe				
+node	1323300327	43.0175295	-0.9544138	Despouey				pub				
+way	232839373	43.0181470	-0.9277148	Auberge Logibar				restaurant		64560		
+way	232839424	43.0385293	-1.0264937	Restaurant des chalets d'Iraty				restaurant		64560		
+relation	166899			Larressore	8	64480	64317					
+node	8791678744	43.3715550	-1.4363402	Auberge Aldaburua				restaurant			Place de la Mairie	
+relation	2090949			Laruns	8	64440	64320					
+node	877050560	42.8902334	-0.4282387	Le Biscaü				bar				
+node	908960313	42.8975723	-0.3960981	Le Panoramic				restaurant				
+node	3034437725	42.9876086	-0.4263985	Bar L'Aventure				bar				
+node	3034475181	42.9910043	-0.4249255	Auberge Bellevue				restaurant				
+node	3034475185	42.9891959	-0.4265092	La Grange				restaurant				
+node	3034593733	42.9880443	-0.4266711	Chez Lilou				bar				
+node	3034593735	42.9883335	-0.4261109	Crêperie Le Montagnon				restaurant	4		Place de la Mairie	
+node	3034593737	42.9883322	-0.4262681	Hôtel d'Ossau				restaurant				
+node	3034593741	42.9882219	-0.4237911	L'Embaradère				restaurant				
+node	3034593742	42.9886198	-0.4266161	Le Pourquoi Pas				restaurant				
+node	3034593747	42.9880905	-0.4266716	Le Pamplona				restaurant				
+node	3034593750	42.9883336	-0.4261795	Le Petit Larunsois				restaurant				
+node	6299501821	42.9884752	-0.4264855	Au magasin				restaurant				
+node	7805029485	42.9883226	-0.4260168	L'estive				restaurant				
+node	8761882417	42.8067761	-0.4191640	Le Sorbier				restaurant				
+node	8933635076	42.8795234	-0.3962513	Le Fario				cafe				
+node	9111161767	42.8795827	-0.3967894	Crêperie de l'ours				cafe				
+node	11903182883	42.8796501	-0.3962981	Restaurant Le Petit Lurien				restaurant		64440		Fabrèges
+node	12140541546	42.8660617	-0.4504409	Buvette de l'Ecurie				cafe				
+way	284490232	42.8681371	-0.4488029	La guinguette de Bious				cafe				
+way	297024115	42.8484065	-0.4912000	Refuge d'Ayous				cafe				
+way	854466339	42.8641958	-0.3352471	Restaurant du Lac				restaurant				
+relation	168583			Lasse	8	64220	64322					
+node	8727385339	43.1569318	-1.2601660	Restaurant Auberge Etchoinia				restaurant		64220		
+relation	168013			Lasseube	8	64290	64324					
+node	2305740559	43.2204625	-0.4768163	La promenade				restaurant				
+node	9883956831	43.2215441	-0.4787733	Les Moutchasssss				bar				
+node	12480743171	43.2209501	-0.4777537	Mademoiselle Valentine				cafe				
+relation	170609			Lecumberry	8	64220	64327					
+node	5068209035	43.1350796	-1.1442666	Ferme auberge Ibarnia				restaurant				
+node	8384400603	43.1349394	-1.1441093	Larraneta				bar				
+relation	168637			Ledeuix	8	64400	64328					
+way	52823264	43.2175714	-0.6215595	La chênaie - Le Cotoliu				restaurant				
+relation	167651			Lée	8	64320	64329					
+node	6447728826	43.2916921	-0.2895203	La Croque Sel				restaurant				
+node	7670871867	43.2938198	-0.2880790	L'Ovalien				restaurant				
+relation	2787564			Lées-Athas	8	64490	64330					
+node	9363839727	42.9744090	-0.6212300	Le Goût des Rencontres - café associatif				cafe				
+relation	3011521			Lembeye	8	64350	64331					
+node	7997521855	43.4497769	-0.1120965	Central Park				pub				
+node	7997521860	43.4491757	-0.1115691	Le Vic-Bilh				bar				
+node	7997521871	43.4488052	-0.1127195	Le Restaurant de la Tour				restaurant				
+relation	167647			Lescar	8	64230	64335					
+node	2297690645	43.3189481	-0.4317634	La Pataterie				restaurant	10	64230	Rue Joseph Cugnot	
+node	3172256261	43.3168964	-0.4325900	Ristorante Del Arte				restaurant	180	64230	Boulevard de l'Europe	
+node	3664715494	43.3351968	-0.4353148	L'Estanquet				bar		64230		
+node	3664766520	43.3313934	-0.4376822	La crémaillère				restaurant	23	64230	Place de la Libération	
+node	5007877551	43.3276322	-0.4394021	Le Bistrot Gourmand				restaurant				
+node	5007877552	43.3252602	-0.4402781	Fujin				restaurant				
+node	5007877553	43.3236809	-0.4418175	Brasserie La Récup'				restaurant				
+node	5007877554	43.3238917	-0.4369157	Bistrot des Oliviers				restaurant				
+node	5007877555	43.3227229	-0.4347646	La Factory				restaurant				
+node	5007877556	43.3197237	-0.4290971	Cidrerie TTipia				pub				
+node	5007877557	43.3154904	-0.4275054	Columbus Café & Co				cafe	8	64230	Rue Jean Jaurès	
+node	5007877558	43.3155211	-0.4276312	Le Vietnam				restaurant	8	64230	Rue Jean Jaurès	
+node	5007877561	43.3148395	-0.4299332	Boramei				restaurant				
+node	6123728253	43.3157327	-0.4271185	Crescendo				restaurant	8	64230	Rue Jean Jaurès	
+node	6123778556	43.3155740	-0.4274123	Crêp'Eat Lescar				restaurant	8	64230	Rue Jean Jaurès	
+node	6124641283	43.3168012	-0.4327259	Le Bistro Régent				restaurant	180	64230	Boulevard de l'Europe	
+node	6124650703	43.3169027	-0.4330103	La Bigoudène				restaurant	180	64230	Boulevard de l'Europe	
+node	6125422314	43.3170772	-0.4341464	Le Petit Moka				restaurant	180	64230	Boulevard de l'Europe	
+node	6125436092	43.3172079	-0.4343986	Starbucks				cafe	180	64230	Boulevard de l'Europe	
+node	6755664407	43.3190860	-0.4259619	Hippopotamus				restaurant				
+node	8186849104	43.3324115	-0.4368011	Arraditz				restaurant	2	64230	Rue Cachau	
+node	8622887077	43.3191354	-0.4321682	Le Comptoir du Sud Ouest				restaurant				
+node	8622887174	43.3190902	-0.4316117	La Madeleine				restaurant				
+node	8632791200	43.3240128	-0.4368849	Europ'Café				cafe				
+node	9668462845	43.3167956	-0.4331628	La Cantoche				restaurant				
+node	10313369249	43.3430305	-0.4171000	La Pachamama				restaurant				
+node	10797359568	43.3154032	-0.4305415	Jam Pub				bar				
+node	11741463737	43.3432980	-0.4166302	Bistrot du village				cafe				
+node	12912325401	43.3207105	-0.4516541	Restaurant Bar City Nature				restaurant				
+node	14077722502	43.3175905	-0.4312903	L'Escarpolette				restaurant				
+way	230195678	43.3208547	-0.4327324	Le Welcome				restaurant				
+way	731150135	43.3312305	-0.4506170	Buffalo Grill				restaurant				
+relation	2787565			Lescun	8	64490	64336					
+way	228377424	42.9331850	-0.6345910	Bar des Bergers				restaurant			Impasse du Bar des Bergers	
+relation	2147147			Lestelle-Bétharram	8	64800	64339					
+node	1369789864	43.1278360	-0.2074897	Le Central				restaurant		64800	2 avenue de Bétharram	
+node	13478846361	43.1294174	-0.2085082	Lestelle Café				restaurant				
+relation	2139602			Licq-Athérey	8	64560	64342					
+node	5682443841	43.0664286	-0.8764306	Alfitcha				restaurant		64560	Bourg	
+way	233511739	43.0575343	-0.8785538	L'Irrintzina				restaurant				
+way	233512052	43.0681649	-0.8764715	Chez Bouchet				restaurant				
+relation	166786			Lons	8	64140	64348					
+node	1968545581	43.3221370	-0.4025016	La Comédie				pub				
+node	4979483229	43.3282069	-0.3826050	L'Estanquet				restaurant				
+node	5007877543	43.3066228	-0.4034685	Bistrot à moules				restaurant				
+node	5007877544	43.3081623	-0.4069819	New Asia				restaurant				
+node	5007877545	43.3084806	-0.4082805	Le Resto				restaurant				
+node	5007877546	43.3086583	-0.4088646	Bistro Pacelya				restaurant				
+node	5007877547	43.3098210	-0.4096356	Karthik’s Biryani				restaurant				
+node	5007877548	43.3095970	-0.4103511	Le Txotx				pub				
+node	5007877562	43.3114091	-0.4262634	Pizzeria Mets Gusto				restaurant				
+node	5007877564	43.3063336	-0.4282790	Induspal				restaurant				
+node	5007877565	43.3074663	-0.4204673	Le Vogue				restaurant				
+node	5007877566	43.3073375	-0.4203333	Lhospital				restaurant	12	64140	Avenue des Frères Montgolfier	
+node	5007877567	43.3064532	-0.4208379	Fiesta Latina				restaurant				
+node	5007877568	43.3046551	-0.4187893	Carte Blanche				restaurant				
+node	5007877569	43.3022781	-0.4126634	Gourmets d'Asie				restaurant				
+node	5007886302	43.3356782	-0.3799295	Le Fer à Cheval				restaurant				
+node	5827139614	43.3242340	-0.3931510	Le Triple A				restaurant				
+node	8674264396	43.3008293	-0.4116990	Vejaa				restaurant				
+node	9328211207	43.3220505	-0.4027541	Pizza Service City				restaurant				
+node	9921138384	43.3342141	-0.3933285	L'Agora				bar				
+node	10118336717	43.3480365	-0.3818502	La Noche				nightclub				
+node	12914961205	43.3015698	-0.4120653	Asie'ette				restaurant				
+node	14299769901	43.3090432	-0.4082472	Wok 86				restaurant	34	64140	Boulevard Charles de Gaulle	
+way	63478728	43.3288985	-0.3800752	À la bonne heure				restaurant	21	64140	Avenue Didier Daurat	
+way	63488383	43.3254899	-0.3940169	Le moulin				bar				
+way	63493071	43.3295845	-0.3837593	Au Grand Bonheur				restaurant		64140	Avenue de l'Hippodrome	
+way	636812679	43.3097680	-0.4096127	Karthik’s Biryani				restaurant				
+relation	166925			Louhossoa	8	64250	64350					
+node	13909002341	43.3162498	-1.3517954	Kafe Mintzo				cafe				
+node	14111898435	43.3164736	-1.3560519	Makitoki 64				restaurant				
+relation	2116685			Louvie-Juzon	8	64260	64353					
+node	9158203264	43.0867862	-0.4191374	Les Copains d'abord				cafe	2	64260	Place Camps	
+relation	1017414			Lucq-de-Béarn	8	64360	64359					
+way	66196275	43.2871960	-0.6587331	La Taverne de l'Ange Olivier				restaurant				
+relation	2418134			Lurbe-Saint-Christau	8	64660	64360					
+node	693380962	43.1167089	-0.5980513	Au Bon Coin				restaurant				
+relation	166926			Macaye	8	64240	64364					
+node	12847665081	43.3308030	-1.3214154	Bidegaraia				bar				
+way	82565027	43.3296741	-1.3275435	Ogibarnia				restaurant		64240		
+relation	1268674			Maslacq	8	64300	64367					
+node	12850235178	43.4389072	-0.6947039	Bar Snack Épicerie				cafe				
+relation	168022			Mauléon-Licharre	8	64130	64371					
+node	789740697	43.2196802	-0.8900499	Xibero				bar	7	64130	Rue de la Navarre	
+node	789740790	43.2209430	-0.8917565	Plaza Gizon				bar				
+node	789740811	43.2201239	-0.8907130	Café de l'Europe				bar	7		Rue du Jeu de Paume	
+node	798167622	43.2247748	-0.8885861	Chez Pilla				bar				
+node	798225621	43.2217238	-0.8872048	Chez Jean-Pierre				bar	61		Rue Victor Hugo	
+node	807796387	43.2237623	-0.8845302	Les Arcades				restaurant				
+node	807798295	43.2260509	-0.8782479	Le Drop				bar				
+node	1071028931	43.2214856	-0.8840350	Etcheto Ostatüa				restaurant	14	64130	Rue de Bela	
+node	1071029045	43.2217818	-0.8829920	Bar Chez Alain				bar				
+node	5003161068	43.2257367	-0.8962036	Domaine Agerria				restaurant	3	64130	Rue du Frère Alban	
+node	5312671495	43.2197932	-0.8896425	Jatetextea				restaurant				
+node	5434738441	43.2226823	-0.8914753	Etxola				restaurant	30	64130	Boulevard Gambetta	
+node	11295824151	43.2231584	-0.8915670	Café Berria				bar	3		Cité Saint-Jean	
+node	12228410130	43.2236867	-0.8919346	Mendililia				restaurant				
+node	13786660019	43.2242437	-0.8830876	Chez Yaya				restaurant				
+node	14076551988	43.2201357	-0.8892965	Goza To Go				restaurant				
+node	14152240429	43.2251464	-0.8916616	L'instant Bella Family				restaurant				
+relation	168650			Mazères-Lezons	8	64110	64373					
+node	8638452515	43.2805824	-0.3603945	Le Bar à Bord				restaurant				
+relation	167587			Mendionde	8	64240	64377					
+node	974349800	43.3405512	-1.2988171	Etchebarne				restaurant				
+node	3800054392	43.3101042	-1.2828188	La Gaita				restaurant				
+way	82244145	43.3401018	-1.2986559	Dermit				restaurant				
+relation	170641			Mendive	8	64220	64379					
+node	588403582	43.0367977	-1.0747258	Chalet Pédro				restaurant		64220		
+node	1323280676	43.0444080	-1.0738893	Le Kayolar				restaurant		64220	Iraty Sorho	
+node	2353422678	43.0485334	-1.0731075	Etxola, Chalet de Cize				restaurant				
+node	5068237111	43.1274195	-1.1380894	Le Relais d'Iraty				bar			Iratiko Bidea	
+relation	1017381			Monein	8	64360	64393					
+node	1895331890	43.3200812	-0.5789772	Au Petit Manseng				pub				
+node	2315195032	43.3198673	-0.5808704	L'Estaminet				restaurant				
+node	2679314576	43.3200513	-0.5789106	L'Union d'Elles				pub				
+node	9781695801	43.3370999	-0.5856182	Le Cabanon				restaurant				
+node	10693762674	43.3337276	-0.5827223	Une pause s'impose				restaurant				
+node	11395682273	43.3197467	-0.5786872	Pizz'Adhoc				restaurant	6	64360	Rue du Commerce	
+node	13787749501	43.3415373	-0.5826333	Le Moulin Bouge				restaurant	10	64360	Chemin du Moulin Cassou	
+node	13957314141	43.3198302	-0.5789867	L'Escale				cafe				
+node	13957314145	43.3200011	-0.5788732	Café Restaurant des Voyageurs				restaurant				
+node	13957314146	43.3201273	-0.5790336	Paillote				bar				
+way	66081528	43.3489426	-0.5947848	L'Auberge des Roses				restaurant				
+way	66082071	43.3201477	-0.5787776	Au Petit Manseng				bar				
+relation	168017			Montardon	8	64121	64399					
+node	5734634089	43.3685266	-0.3483295	Le temps de...				bar				
+relation	2139375			Montory	8	64470	64404					
+node	5682420724	43.0980638	-0.8175829	Auberge de l'Étable				restaurant				
+relation	1270822			Morlaàs	8	64160	64405					
+node	2908737582	43.3447096	-0.2639081	Pizza La Roma				restaurant	57	64160	Rue des Cordeliers	
+node	2908762398	43.3440040	-0.2625187	Le Chat Botté				restaurant	10	64160	Rue Marcadet	
+node	2908791426	43.3476116	-0.2613888	Café de la Bastide - Brasserie				bar				
+node	2909022554	43.3477915	-0.2613935	Le Bourgneuf				restaurant	3	64160	Rue Bourgneuf	
+node	2909042317	43.3422006	-0.2644358	Chez Curon				bar		64160	Place de la Hourquie	
+node	2909109596	43.3407005	-0.2649078	L'Amandier				restaurant	6	64160	Place de la Hourquie	
+node	2910391901	43.3453984	-0.2632937	Hôtel de France				restaurant	15	64160	Place Sainte-Foy	
+node	2910943126	43.3466250	-0.2559111	Oh la Pizza				restaurant				
+node	2910964792	43.3240648	-0.2961062	Le Poivron Bleu				restaurant				
+node	2911051823	43.3483023	-0.2616620	Le Bourgneuf				restaurant				
+node	9881468147	43.3253342	-0.2996188	L'Entrepot				bar				
+relation	2798105			Morlanne	8	64370	64406					
+node	9191653154	43.5112353	-0.5344443	Ferme Auberge Grandguillotte Lauzet				restaurant				
+node	9191653159	43.5124294	-0.5344849	Lou Cap e Tot				restaurant				
+node	9191653160	43.5123649	-0.5342408	Le Lutrin Gourmand				restaurant				
+node	14115217356	43.5112792	-0.5347948	Table d'hôtes				restaurant				
+relation	166768			Mouguerre	8	64990	64407					
+node	1853410664	43.4699856	-1.4258639	La cabane à pizzas				restaurant		64990		
+node	6710195477	43.4841850	-1.4435790	Le Croque Bedaine				restaurant	36	64990	Route de Bigot	
+node	7860496108	43.4699412	-1.4257228	Le Point de Rdv				cafe				
+way	76067017	43.4416245	-1.4001965	Le Xamango				restaurant				
+relation	168202			Mourenx	8	64150	64410					
+node	5931021421	43.3704052	-0.6290487	Le Bistrot M				restaurant				
+node	9884563875	43.3703711	-0.6305123	Coffee Time				cafe				
+relation	2171446			Musculdy	8	64130	64411					
+node	9898374365	43.1973515	-1.0217117	Restaurant du Col D'Osquich				restaurant		64130		
+relation	1959492			Navarrenx	8	64190	64416					
+node	6029898564	43.3235084	-0.7619925	Les Canons de Navarrenx				cafe	76		Rue Saint-Germain	
+node	9981472388	43.3233783	-0.7618429	Hôtel Le Commerce				restaurant	1			Place des Casernes
+node	9981709343	43.3216668	-0.7610439	Shakespeare Brasserie and cafe				pub	30	64190	Rue Saint-Antoine	
+node	11618320464	43.3224186	-0.7619679	Bar des Sports				restaurant			Rue Saint-Antoine	
+node	11763865057	43.3224529	-0.7608397	L'enchanté				cafe	35		Rue Saint-Germain	
+node	11763910788	43.3223649	-0.7615851	Le P'tit Bistrot				restaurant	4		Place d'Armes	
+node	11763924101	43.3226283	-0.7608372	L'estanquet				restaurant	50		Rue Saint-Germain	
+node	11766325716	43.3220697	-0.7603395	Chez Maurice				bar	23		Rue Saint-Germain	
+node	11766408022	43.3233383	-0.7617813	Restaurant l'ARSENAL				restaurant			Place des Casernes	
+node	13284870466	43.3211444	-0.7591485	Le comptoir des herbes sauvages				restaurant				
+node	14076954181	43.3219781	-0.7602160	Pizzayoyo				restaurant	21	64190	Rue Saint-Germain	
+relation	2083055			Nay	8	64800	64417					
+node	1369789802	43.1796608	-0.2626531	Chez Larrouy				bar		64800	1 rue Maréchal Joffre	
+node	1369789813	43.1771395	-0.2619621	Restaurant du Midi				restaurant		64800	23 rue des Pyrénées	
+node	1369789817	43.1790425	-0.2617933	Le Pizzaiol				restaurant	12	64800	Rue Clemenceau	
+node	1369789827	43.1809627	-0.2605569	L’encanayais				restaurant		64800	Rue de la poste	
+node	1369789837	43.1768325	-0.2619982	La Pizza				restaurant		64800	27 rue des Pyrénées	
+node	1369789838	43.1796189	-0.2613248	Le Chanzy				restaurant		64800	5 allées Chanzy	
+node	1369789850	43.1790777	-0.2616981	Le Baraka				restaurant		64800	Rue Clemenceau	
+node	1369789859	43.1796361	-0.2615604	Le Moderne				restaurant		64800	9 allées Chanzy	
+node	1369789863	43.1813858	-0.2436111	Chez Monique				restaurant		64800	49 avenue de la Gare	
+node	1369789888	43.1796782	-0.2632958	Le café des Halles				bar		64800	Place Marcadieu	
+node	1369789897	43.1801395	-0.2641786	Les Deux Palmiers				restaurant		64800		
+way	275419725	43.1795130	-0.2611855	Le Saint Pierre				restaurant	2	64800	Rue du Saillet	
+relation	2196171			Nousty	8	64420	64419					
+node	441643842	43.2675462	-0.2105266	Bar des sports				cafe				
+relation	167718			Oloron-Sainte-Marie	8	64400	64422					
+node	1912927780	43.1900259	-0.6106816	Le Loft Café				restaurant				
+node	2315024863	43.1875585	-0.6164361	La Part des Anges				restaurant				
+node	2315053645	43.1888682	-0.6108186	Bistrot du Pont d'Istanbul				restaurant	1			
+node	2315053659	43.1897292	-0.6116183	Pizza Nostra				restaurant	14		Rue Carrerot	
+node	2315053665	43.1890200	-0.6103387	La Croqu'antine				restaurant	58			
+node	2558651523	43.1884327	-0.6115070	Van Tuong Vinh Hoang				restaurant	3			
+node	2558651526	43.1881265	-0.6134517	Pizzas San Pablo				restaurant	32			
+node	4699295981	43.1915844	-0.6131152	O' My'K Burger				restaurant	57	64400	Rue Carrerot	
+node	4701552537	43.1916960	-0.6116040	Le Vigny				restaurant				
+node	4971879157	43.1791025	-0.6174618	L'Entracte				restaurant				
+node	4972275347	43.1939647	-0.6117522	Don Camilo				restaurant				
+node	4975479991	43.1968596	-0.6182309	Pizza Vivo				restaurant				
+node	4977474308	43.1872197	-0.6181996	Le Trinquet				restaurant				
+node	4985658487	43.1925031	-0.6095645	Patati & Patata				restaurant				
+node	4985658488	43.1923892	-0.6090606	O Bistrot Gourmand !				restaurant				
+node	4998084449	43.1877431	-0.6164951	Café central				cafe				
+node	4998092533	43.1878418	-0.6165789	Bar Saint-Honoré				bar				
+node	5025216788	43.1882288	-0.6040879	La Gogaille				restaurant				
+node	5025258872	43.1917087	-0.6111232	Chez Jeanne				cafe				
+node	7425242504	43.1882155	-0.6158813	Mademoiselle Chloé				restaurant	5	64400	Place de la Cathédrale	
+node	7714727022	43.1844607	-0.6088782	Les baguettes d'or				restaurant				
+node	7794020061	43.1977290	-0.6188186	Caféteria E.Leclerc				cafe				
+node	7900364857	43.1937665	-0.6049669	Le pain d'ici				cafe	11		Rue Jean Mendiondou	
+node	7900444983	43.1942664	-0.6047290	Le sporting				cafe				
+node	7900455237	43.1931782	-0.6053251	Les instants gourmands				restaurant	3			
+node	7900455870	43.1937684	-0.6113628	Mélina				restaurant				
+node	7900460958	43.1933390	-0.6048405	Brasserie de la Poste				restaurant				
+node	8240672662	43.1905803	-0.6222661	Le Pastoral				restaurant				
+node	9876732617	43.1792784	-0.6174803	La Petite Boucherie Côté Resto				restaurant	1o	64400	Boulevard de l'Aragon	
+node	9876805419	43.1951041	-0.6218523	Le Chaudron				restaurant	18	64400	Avenue du Maréchal de Lattre de Tassigny	
+node	9984082836	43.1939456	-0.6115866	Le Central				bar	21	64400	Avenue Sadi Carnot	
+node	10846240805	43.1891480	-0.6116278	Hôtel Bristol				restaurant				
+node	11450119154	43.1906779	-0.6083678	Café Jules				restaurant			Rue Louis Barthou	
+node	13031168401	43.1912008	-0.6078971	Papo‘thé				cafe				
+node	13715610629	43.1897958	-0.6116975	Zam Zam				restaurant				
+node	13732136473	43.1845224	-0.6300614	Pyrénées Cycles				cafe	6	64400	Avenue du 19 Mars 1962	
+way	63851060	43.1891101	-0.6118320	Le Bristol				restaurant				
+way	63852687	43.1899924	-0.6107593	Loft café				restaurant				
+way	63858307	43.1866846	-0.6266137	Aux Pyrénées				restaurant				
+way	1473619060	43.1932249	-0.6093778	L'Un Sans l'Autre				restaurant				
+way	1473621362	43.1930021	-0.6097223	Brouissailles				cafe				
+way	1473621363	43.1929746	-0.6097126	Les Amis de la Friche				bar				
+relation	2015297			Ordiarp	8	64130	64424					
+node	4925807578	43.1934288	-0.9547561	Le Chistéra				restaurant				
+node	8946576130	43.1867673	-0.9440477	Herriko Ostatua				restaurant				
+relation	167704			Orthez	8	64300	64430					
+node	6679861667	43.4891774	-0.7749082	Les Piétonnes				restaurant				
+node	7592185613	43.4859876	-0.7667426	O'Garage				restaurant				
+node	8151283036	43.4864274	-0.7684287	Café de la Gare				bar				
+node	8347014359	43.4826519	-0.7542694	La Soupière				restaurant				
+node	9600848656	43.4878442	-0.7734459	Corral Café				restaurant				
+node	9600848658	43.4876352	-0.7731109	Chez Bertin				restaurant				
+node	9600848677	43.4885586	-0.7725348	Le Régalty				restaurant				
+node	9600848683	43.4894182	-0.7714172	La Casa				restaurant	11	64300	Place du Foirail	
+node	9600848684	43.4895651	-0.7712351	L'Endroit				restaurant				
+node	11899046169	43.4886481	-0.7753189	La crêperie				restaurant	14	64300	Rue Roarie	
+node	12052851207	43.4886087	-0.7745496	La Maison				restaurant				
+node	12359952537	43.4893779	-0.7746277	Ronron et Gourmandises				restaurant	24		Boulevard Des Pommes	
+node	12663066697	43.4877475	-0.7770646	Seven				restaurant				
+node	13943669733	43.4894174	-0.7745724	Bouchon				bar				
+node	14248746417	43.4914331	-0.7767609	Chez Cabeillou				restaurant				
+way	62572553	43.4865456	-0.7738600	An Nam				restaurant	6	64300	Avenue du Pont Neuf	
+way	62573156	43.4883188	-0.7756547	La cuisine à musée				restaurant	7	64300	Avenue de la Moutète	
+way	62575429	43.4820639	-0.7466069	V&B				bar				
+way	62580312	43.4868942	-0.7739208	Le Godefroy				restaurant	2	64300	Impasse du Sablar	
+way	732958395	43.4733659	-0.7566513	Le Grill du Lac				restaurant		64300	Avenue Marcel Paul	
+way	1105984694	43.4897229	-0.7955539	aciu Pizza				restaurant				
+relation	2141759			Osse-en-Aspe	8	64490	64433					
+node	5573331481	42.9958158	-0.6168598	Les Trois O				bar				
+node	7112565705	42.9958328	-0.6167343	Epicerie Bar Chaneü				bar	10	64490	Rue du Temple	
+way	219151685	43.0091530	-0.6100810	Pimparela				restaurant				
+way	219152062	42.9958306	-0.6167289	Epicerie Bar Chaneü				bar	10	64490	Rue du Temple	
+relation	167591			Ossès	8	64780	64436					
+node	4163587733	43.2246594	-1.2657176	Auberge Etxeko Borda				restaurant		64780		
+node	9166883188	43.2326454	-1.2997143	Asteburua				bar	694	64780	Arrosako errepidea	
+node	10815282796	43.2418364	-1.2842400	Menta				cafe				
+node	12041569042	43.2589589	-1.2621695	La Ferme Gourmande				restaurant		64780	Maison Landaburi, Lieu-dit Landaburia	
+relation	167654			Ousse	8	64320	64439					
+node	7671605477	43.2896816	-0.2717354	La Pergola				restaurant				
+relation	168204			Pardies	8	64150	64443					
+node	13994656659	43.3626988	-0.5785025	Pincho pizza				restaurant				
+way	63680687	43.3677816	-0.5838742	Restaurant Inter Entreprise				restaurant				
+relation	162431			Pau	8	64000	64445					
+node	340353931	43.3033402	-0.3709970	La tireuse				pub				
+node	340353932	43.3031328	-0.3710058	Les Amants du Marché				restaurant				
+node	442929582	43.3034120	-0.3699288	Chez Laurette				restaurant				
+node	465205784	43.2953092	-0.3680935	Oscar & Owen				pub				
+node	683908505	43.2993787	-0.3630555	Le Garage				pub				
+node	782124509	43.3111357	-0.3512376	Maqani				restaurant				
+node	782200186	43.3109806	-0.3489023	Saïbi-Saïbi				restaurant				
+node	821883116	43.2924095	-0.3686958	Maynats				restaurant				
+node	1298903022	43.2999022	-0.3745360	New Red Lion				bar				
+node	2187852305	43.3062328	-0.3761364	Le Club				bar				
+node	2303531037	43.2964764	-0.3724867	Le Durango Café				pub				
+node	2390508846	43.3331933	-0.3665812	Le Pilota				restaurant				
+node	2390540951	43.2964676	-0.3739092	Omnivore				restaurant				
+node	2390542629	43.2966416	-0.3739686	Gueuleton				restaurant				
+node	2390549702	43.2965750	-0.3715284	Jòïa Mâa				restaurant				
+node	2390584441	43.2954467	-0.3691436	Le Berry				restaurant				
+node	2404847190	43.2967824	-0.3741084	L'Ossau				restaurant				
+node	2522006105	43.2941268	-0.3711797	M restaurant				restaurant				
+node	3396512210	43.2973010	-0.3657125	L'entrecôte				restaurant				
+node	3514918099	43.3146268	-0.3777046	Li Mei				restaurant				
+node	3514943144	43.2944758	-0.3735135	Le Chabada				restaurant	9			
+node	3514943145	43.2946254	-0.3736638	Visnu				restaurant				
+node	3664675293	43.2961515	-0.3762809	Mixolab				restaurant				
+node	3664696339	43.2943173	-0.3773755	Bar du Château				bar				
+node	3664696342	43.2940765	-0.3772334	Le Château de l'Egypte à la Syrie				cafe	9	64000	Place de la Monnaie	
+node	3693735156	43.3107895	-0.3769865	Le Sulky				bar				
+node	3740041341	43.2990598	-0.3687461	Brasserie du Centre				bar				
+node	3740045300	43.3005007	-0.3695929	Les B				restaurant				
+node	3740045301	43.2997212	-0.3701785	Le Supervie				bar		64000		
+node	3740050017	43.3002941	-0.3653271	La Galetterie				restaurant				
+node	3740050736	43.3002261	-0.3659322	La petite brasserie				restaurant				
+node	3740056308	43.2972053	-0.3595856	Le Jeu de Paume				restaurant				
+node	4289095053	43.2934329	-0.3688910	L'Aragon				restaurant				
+node	4336593092	43.2934272	-0.3696299	The Galway				pub				
+node	4660478490	43.2960526	-0.3658581	Le W				bar				
+node	4665208190	43.3003062	-0.3664720	VTS dream eat				restaurant				
+node	5007877573	43.3230471	-0.3242118	La Forge O'Saveurs				restaurant				
+node	5007877574	43.3196872	-0.3297455	L'Ombrière				restaurant				
+node	5007877577	43.3150943	-0.3245912	Restaurant E.S.A.T le Hameau				restaurant		64000	Avenue Larribau	
+node	5007877579	43.3092327	-0.3561735	Pizzeria du loup				restaurant				
+node	5007877581	43.3109875	-0.3491380	Tourasse Tashi Delek				restaurant	54		boulevard tourasse	
+node	5007877584	43.3090447	-0.3274843	Le Sud				restaurant				
+node	5007877586	43.3032043	-0.3484391	Le Corona				bar				
+node	5007877587	43.2989063	-0.3470318	Villa Navarre				restaurant				
+node	5007877589	43.2944726	-0.3626089	La Belle Epoque				restaurant				
+node	5007877591	43.2925754	-0.3578658	La Pagode de Jade				restaurant				
+node	5007886301	43.3399794	-0.3795963	Les Platanes				restaurant				
+node	5434083040	43.2965363	-0.3656720	Le Ouarzazate				restaurant				
+node	5434083046	43.2961769	-0.3672719	Connemara Irish Pub				nightclub				
+node	5434083048	43.2960393	-0.3664501	Les Pipelettes				restaurant				
+node	5434084793	43.2947014	-0.3727381	Bleu				restaurant				
+node	5438333918	43.2964174	-0.3712141	Toastinpau				restaurant				
+node	5464965293	43.3099363	-0.3657176	Pepicaf				cafe	4	64000	Avenue Robert Schuman	
+node	5475383118	43.3020354	-0.3722563	Mr & Mrs M				restaurant				
+node	5475383119	43.3020076	-0.3726403	La table d'Eric				restaurant				
+node	5475383120	43.3024407	-0.3735385	L'Ardoise				restaurant				
+node	5478741513	43.2996302	-0.3704098	7&7				restaurant				
+node	5478787852	43.2978872	-0.3709368	Café du Palais				cafe				
+node	5478821427	43.2963202	-0.3726364	La dolce Italia				restaurant				
+node	5478821428	43.2963835	-0.3724045	La ruse				bar				
+node	5478821429	43.2966332	-0.3719049	Habanita chic				bar				
+node	5478838851	43.2971603	-0.3716843	Les cordeliers				bar				
+node	5485497975	43.2953200	-0.3733662	Maison Francis Miot				cafe				
+node	5485497980	43.2948623	-0.3725578	Tandem - Crêperie locale				restaurant				
+node	5486518473	43.2946697	-0.3691573	No Comment...				pub				
+node	5486518492	43.2952335	-0.3677509	Ô Petit Pau				restaurant				
+node	5486518497	43.2945443	-0.3673874	Toques et gourmandises				cafe				
+node	5486518501	43.2948425	-0.3678433	Les Sardines				bar				
+node	5486618473	43.2972343	-0.3675938	L'entre-temps				bar				
+node	5613329603	43.2990897	-0.3684118	Chez Laguilhon				restaurant				
+node	5660917611	43.3416294	-0.3691445	AFASEC				restaurant				
+node	5968190986	43.2972314	-0.3743983	Au Fût et À Mesure				bar				
+node	5972652995	43.3031647	-0.3695432	El Alguazil				restaurant				
+node	5972652997	43.3029219	-0.3692006	Hong Chang				restaurant				
+node	5972652999	43.3026100	-0.3688339	Bar du foirail				bar				
+node	5972709057	43.2989967	-0.3692443	Bistrot des halles				restaurant				
+node	5998935385	43.2950804	-0.3745636	Snug				bar				
+node	6123622477	43.3240273	-0.3792592	You Sushi				restaurant				
+node	6126229944	43.2984340	-0.3659963	La Brûlerie				cafe				
+node	6135528288	43.2952676	-0.3685489	Columbus Café & Co				cafe				
+node	6203796988	43.2952637	-0.3724523	Café du Passage				restaurant				
+node	6203853785	43.2935054	-0.3717693	Le Poulet à 3 Pattes				restaurant				
+node	6204017628	43.2948192	-0.3725474	Cari Amici Pau				bar				
+node	6245293226	43.3004913	-0.3648497	Le Drop				bar				
+node	6269789573	43.2934284	-0.3695092	Winfield Café				cafe				
+node	6269789574	43.2934262	-0.3697285	Café Russe				cafe				
+node	6269790860	43.2949159	-0.3673856	Boga boga				bar				
+node	6269790861	43.2934319	-0.3690515	Le Boulevard				restaurant				
+node	6269790863	43.2935147	-0.3720480	Maison Constanti				cafe				
+node	6286839717	43.2936225	-0.3687586	Cépages				bar				
+node	6286839721	43.2957255	-0.3702618	Little Mama				restaurant				
+node	6286842714	43.2979563	-0.3699223	Horea paninoteca				restaurant				
+node	6286842795	43.2938162	-0.3685013	Aux délices de Marie				restaurant				
+node	6286842815	43.2996063	-0.3715132	Phnom-Penh				restaurant				
+node	6286842816	43.3001641	-0.3722689	Les délices d'Afrique				restaurant				
+node	6298135262	43.3178328	-0.3586473	V and B				bar				
+node	6304589999	43.3004659	-0.3759871	Bad luck saloon				restaurant				
+node	6304590000	43.2997018	-0.3749431	O Beto				pub				
+node	6304590839	43.3005644	-0.3753276	Au réveil matin				cafe				
+node	6304590995	43.2992921	-0.3745090	Côtes & Mer				restaurant				
+node	6305272385	43.2962384	-0.3679389	L'Europe				cafe				
+node	6341735436	43.2992768	-0.3635088	Best food				restaurant				
+node	6341735986	43.2994848	-0.3635246	African Food				restaurant				
+node	6381655164	43.2984350	-0.3747016	Le Père Festin				restaurant				
+node	6387818372	43.3043428	-0.3679937	VTS best indian				restaurant				
+node	6387821599	43.3043677	-0.3681008	Le Boulevard				cafe				
+node	6387832316	43.3067429	-0.3643728	Le Lyautey				bar				
+node	6450030733	43.2965743	-0.3677485	Le Cristal				bar				
+node	6468701071	43.2986683	-0.3704244	Au Cosy Luno Coffee				cafe				
+node	6491966407	43.2961956	-0.3754991	Les Pyramides				bar				
+node	6500140820	43.2961994	-0.3674344	Tchin-tchin Wok				restaurant				
+node	6500166061	43.2971910	-0.3739218	Dragon Rouge				restaurant				
+node	6500166072	43.2984872	-0.3698693	Bar des 7 cantons				bar				
+node	6500168037	43.2979388	-0.3672900	Chez Zoé				restaurant				
+node	6500168039	43.2978346	-0.3671744	L'opéra				restaurant				
+node	6500175833	43.2961940	-0.3667438	Coffeeti				cafe				
+node	6500175834	43.2961849	-0.3666904	Bouchée Saine				restaurant				
+node	6500177818	43.2950119	-0.3667191	Casa Iruña				restaurant				
+node	6500177820	43.2950373	-0.3672611	Le Bakara				bar				
+node	6511939519	43.3014317	-0.3584640	Le Édouard VII				bar				
+node	6511939860	43.3009838	-0.3605348	La taberna				bar				
+node	6513529659	43.3094804	-0.3437739	Café des Lilas				cafe				
+node	6564767027	43.2958030	-0.3698779	Santosha				restaurant				
+node	6564799906	43.2957323	-0.3709038	Bondi Beach				pub	14	64000	Rue du Maréchal Joffre	
+node	6564811065	43.2956608	-0.3712279	Yofro				restaurant	16	64000	Rue du Maréchal Joffre	
+node	6661454985	43.2963425	-0.3660886	Blend				cafe				
+node	6770696236	43.3037177	-0.3778917	Le Nolivos II				cafe				
+node	6779291256	43.2950959	-0.3739038	L'Etna				restaurant				
+node	6779302681	43.2947279	-0.3735830	La bergerie				restaurant				
+node	6779342056	43.2950420	-0.3742583	Le Vintage Café				cafe				
+node	6779345805	43.2953437	-0.3732211	No 5 bar				bar				
+node	6779348239	43.2950078	-0.3737741	Au grain de raisin				bar				
+node	6779350632	43.2946572	-0.3733793	Henri IV				restaurant				
+node	6779350850	43.2945511	-0.3735445	Le Piano sans nuit				bar				
+node	6779355470	43.2946812	-0.3739025	Le burger royal				restaurant				
+node	6779358601	43.2949736	-0.3721560	Resto dit vin				restaurant				
+node	6779363596	43.2953729	-0.3737962	Napoli				restaurant				
+node	6779369806	43.2951891	-0.3739553	La buvette				restaurant				
+node	6779370036	43.2949170	-0.3739973	Le canard royal				restaurant				
+node	6779373413	43.2954136	-0.3728014	Baracuba				bar				
+node	6779374321	43.2949647	-0.3720269	Resto dit vin				restaurant				
+node	6779376344	43.2948302	-0.3737318	Manhattan bar				bar				
+node	6779376517	43.2948490	-0.3735235	La solera				bar				
+node	6779380323	43.2954667	-0.3724856	Pau's café				cafe				
+node	6779382471	43.2949007	-0.3721418	Andong Meas				restaurant				
+node	6779385064	43.2951768	-0.3740601	O'Gascon				restaurant				
+node	6779387046	43.2949441	-0.3740452	Le dauphin				restaurant				
+node	6779387413	43.2949467	-0.3745146	Crêperie du château				restaurant	6		Rue du Château	
+node	6815465011	43.2976417	-0.3648376	Le Matisse				bar				
+node	6815472014	43.2960913	-0.3660114	Pau'lymorphe				cafe				
+node	6815478997	43.2972531	-0.3644167	Meltdown				pub				
+node	6868040520	43.3152855	-0.3778292	Le Zen				bar				
+node	6935661831	43.2983389	-0.3647458	L'Instant				bar				
+node	6935766725	43.2922991	-0.3783291	El Toro				bar				
+node	6935766726	43.2875154	-0.3803425	Café du Stade				bar				
+node	7040635768	43.2992234	-0.3641116	Le Dec Bar chez "Vivi"				bar				
+node	7040673736	43.2983556	-0.3661280	French Coffee Shop				cafe				
+node	7040680037	43.2974278	-0.3688140	Brut				bar				
+node	7090567885	43.3048331	-0.3580201	Chez Giovanni Trattoria				restaurant				
+node	7123343481	43.2949227	-0.3704053	Suzani				cafe				
+node	7159571233	43.3024326	-0.3648195	La jardinière				restaurant				
+node	7179048703	43.3148624	-0.3599390	Au Bureau				restaurant				
+node	7182194278	43.3115357	-0.3560343	Kim				restaurant				
+node	7191480711	43.3206165	-0.3462387	Chez Fati				restaurant				
+node	7392689455	43.3034535	-0.3779315	Le Mékong				restaurant				
+node	7412501520	43.3039845	-0.3776329	La tour 2 Pise				restaurant				
+node	7506553649	43.2886329	-0.3798211	Mailing				restaurant				
+node	7506727987	43.2917497	-0.3783379	Coco Viet				restaurant				
+node	7578450614	43.3245595	-0.3634369	Léo Café				cafe		64000	Rue du Général Laperrine	
+node	7581020823	43.2987872	-0.3745053	Brasserie d'Orléans				restaurant				
+node	7683797255	43.2952482	-0.3731286	Maison Francis Miot				restaurant				
+node	7837253226	43.3175999	-0.3782651	Auteuil Longchamp				bar				
+node	7925495251	43.2963818	-0.3738790	Kanpai				restaurant				
+node	7966863981	43.3202762	-0.3667279	Hélio club				restaurant				
+node	7969359409	43.2956193	-0.3673969	Au Dali				restaurant				
+node	8017468335	43.2946510	-0.3717662	Jumo & Co				restaurant				
+node	8111775345	43.3043262	-0.3679247	Aiko				restaurant				
+node	8491494449	43.3008150	-0.3620136	Taj Mahal				restaurant				
+node	8513389658	43.2956584	-0.3672233	Papa ors				restaurant				
+node	8513527834	43.2951053	-0.3667318	L'Interprète				restaurant				
+node	8516247677	43.2955451	-0.3719206	House of Coffee				cafe				
+node	8665326217	43.3012275	-0.3736330	Chez Rélie				cafe				
+node	8772486591	43.3017393	-0.3693257	New Delhi				restaurant				
+node	8835224571	43.2969887	-0.3732916	La fiancée du désert				restaurant				
+node	8835224583	43.2971978	-0.3726730	L'Aubalade				restaurant				
+node	8842017137	43.3316089	-0.3589074	La Boucherie				restaurant				
+node	9281091484	43.3229273	-0.3694283	Café de la Paix				restaurant				
+node	9321763449	43.3244179	-0.3791792	Thang Long				restaurant				
+node	9459089957	43.3269948	-0.3485957	Relais H café				cafe				
+node	9484598050	43.2947001	-0.3723354	Chez Clem				restaurant				
+node	9484621251	43.2950214	-0.3721668	Le cocoon				restaurant				
+node	9484621638	43.2956429	-0.3721240	Jo's bar				bar				
+node	9503567682	43.3302396	-0.3537685	La Basse-Cour				restaurant				
+node	9739978462	43.2939666	-0.3711831	La rumeur				restaurant				
+node	10032157453	43.2937752	-0.3685851	Le vert galant				restaurant				
+node	10032175908	43.2937967	-0.3711943	La brasserie royale				restaurant				
+node	10032196944	43.2938291	-0.3684009	Beanz				cafe				
+node	10032211421	43.2964642	-0.3681678	Starbucks				cafe				
+node	10044533460	43.2972269	-0.3602254	Ristorante Le Padelle				restaurant				
+node	10049620396	43.2966655	-0.3712435	Paute				restaurant				
+node	10187782277	43.2950127	-0.3676343	You Sushi				restaurant				
+node	10280733041	43.2966697	-0.3747050	La Piazza				restaurant				
+node	10292975152	43.2915957	-0.3640404	Le Barn's				pub				
+node	10302282469	43.2961329	-0.3744273	Maison Gramont				cafe	5	64000	Place Gramont	
+node	10597351714	43.2942302	-0.3711779	Les Pyrénées				restaurant				
+node	10681929188	43.2958798	-0.3739759	Durango café				cafe				
+node	10832477008	43.2955112	-0.3722191	Casa Dudul				bar				
+node	10889551080	43.2964827	-0.3731117	Aqueras montanhas				cafe	5-7	64000	Rue de la Fontaine	
+node	10889926882	43.2965771	-0.3727432	La Tour du bourreau				bar				
+node	11083285845	43.2914221	-0.3775644	Bis' Pro				cafe				
+node	11228697250	43.3039182	-0.3711996	Yuri. M				restaurant				
+node	11441499419	43.2961439	-0.3656503	Tropical Café				bar				
+node	11483845182	43.2988558	-0.3703421	Café de Pau				cafe				
+node	11514365482	43.2996676	-0.3686104	La caféline				cafe				
+node	11514365484	43.2996970	-0.3687629	Coco viet				restaurant				
+node	11514365490	43.2994865	-0.3689871	L’esprit des halles				cafe				
+node	11534864749	43.2966545	-0.3734057	Le Durango				nightclub				
+node	11537748819	43.2950789	-0.3676689	Jaia				restaurant				
+node	11563791439	43.2938170	-0.3731495	Pixel art				cafe				
+node	11602351811	43.2950426	-0.3665583	Païo				restaurant				
+node	11607280492	43.2950780	-0.3660200	Niko niko				restaurant				
+node	11694621390	43.3088532	-0.3412960	Tour 2 Pise				restaurant				
+node	11721968682	43.2962122	-0.3759594	Le Bombay				restaurant				
+node	11722024093	43.2963685	-0.3758076	Takata				bar				
+node	11748415830	43.2987678	-0.3676699	Z 3 en 1 épicerie & café				cafe				
+node	11749486042	43.2994683	-0.3633265	Œno bar				bar				
+node	11771218123	43.2971494	-0.3594069	Café le Grand Prix				cafe				
+node	11781075249	43.2954931	-0.3673808	Pizza Hut				restaurant				
+node	11823964355	43.3199802	-0.3048609	Le Nobel				restaurant				
+node	11833142049	43.3037692	-0.3571654	Beldi'z				restaurant				
+node	11904345261	43.3006300	-0.3608387	Le 241 bar				bar				
+node	11925621715	43.3099937	-0.3612957	Restaurant Inter Administratif				restaurant				
+node	11925655072	43.3117805	-0.3582026	Gambas royale				restaurant				
+node	11925726470	43.3077244	-0.3300078	So good				restaurant				
+node	11942179799	43.2966524	-0.3747969	La Craft Pyrénées				bar				
+node	11944431732	43.3066444	-0.3764974	Basilic & Co				restaurant				
+node	12000720286	43.3162886	-0.3780146	Viet Nam				restaurant				
+node	12001544121	43.3222645	-0.3790748	La Marinière				restaurant				
+node	12002541732	43.3152204	-0.3601874	Le Kbourut				restaurant				
+node	12009511064	43.3211114	-0.3079271	L'Europa				restaurant				
+node	12171466277	43.2951847	-0.3704228	Oumi				cafe				
+node	12188313798	43.2975306	-0.3654031	Da pomodoro				restaurant				
+node	12229409106	43.2972747	-0.3739768	L'entropie				cafe				
+node	12244950895	43.3104621	-0.3772081	Au feu de bois				restaurant				
+node	12269683961	43.3180539	-0.3078649	Les petites canailles				restaurant				
+node	12277551976	43.3147864	-0.3596562	Chope et compagnie				bar				
+node	12288288363	43.2945504	-0.3683876	Salon des tokés				cafe				
+node	12324193108	43.3235930	-0.3165838	The golf lounge				cafe				
+node	12328943199	43.3028403	-0.3701899	Eclipse klub				nightclub				
+node	12502482776	43.2957811	-0.3666663	South brunch				restaurant				
+node	13711706851	43.3031479	-0.3703612	Le Café Méliès				cafe				
+node	14191571530	43.2962547	-0.3755162	Le Gueuleton				restaurant				
+node	14248716736	43.3225372	-0.3615589	L'Insolite				restaurant				
+node	14303071512	43.2961393	-0.3664006	Villa				restaurant				
+node	14331486513	43.2973554	-0.3721512	Mosa				restaurant				
+way	44523566	43.3158090	-0.3666230	Cafétéria l'Arlequin				restaurant				
+way	62875392	43.3135659	-0.3710303	Au cabanon				bar				
+way	62876291	43.3130339	-0.3673428	Restaurant Universitaire Cap Sud				restaurant				
+way	62881977	43.3128467	-0.3718771	Brasserie Béarnaise				bar				
+way	62884164	43.2936337	-0.3826632	À la maison				restaurant				
+way	62896869	43.3155828	-0.3641443	Brasserie Universitaire La Vague				restaurant				
+way	62899726	43.3188160	-0.3585463	Tiryaki Mezzé				restaurant				
+way	62920511	43.3065486	-0.3324647	La Brasserie				restaurant				
+way	888651736	43.3159440	-0.3586765	Ristorante Del Arte				restaurant				
+way	1290351030	43.3161997	-0.3594997	Tempo Resto				restaurant				
+relation	1959473			Poey-de-Lescar	8	64230	64448					
+node	11310123367	43.3526833	-0.4694729	O Lusitano 2				restaurant				
+relation	167691			Pontacq	8	64530	64453					
+node	5336242954	43.1837789	-0.1139133	Hôtel Restaurant du Commerce				restaurant				
+node	5336242957	43.1854030	-0.1144131	Le Central				bar				
+node	5336242958	43.1852156	-0.1145913	Le Barafa				bar				
+node	7691533085	43.1924274	-0.1240499	Les papilles s'en mêlent				restaurant				
+node	9570986087	43.1868124	-0.1159648	Café de France				restaurant				
+way	69695750	43.1917560	-0.1238181	Bar Trinquet Le Cabanon				bar		64530	Rue du Pré du Roy	
+relation	3047134			Poursiugues-Boucoue	8	64410	64457					
+node	9946745810	43.5491066	-0.3730893	Alimentation				pub				
+relation	2811698			Rébénacq	8	64260	64463					
+node	3337855631	43.1600767	-0.3964299	Chez Palu				restaurant				
+relation	2155866			Rontignon	8	64110	64467					
+node	1745783162	43.2599128	-0.3288646	Taverne du Gaulois				restaurant				
+relation	2822883			Saint-Castin	8	64160	64472					
+node	5733502445	43.3771042	-0.3052417	Le Castine				restaurant				
+relation	2174036			Sainte-Engrâce	8	64560	64475					
+node	1336106625	43.0168387	-0.8610607	Bar Camping				pub				
+node	2950513558	42.9986244	-0.8404867	La Cascade				cafe				
+node	7951237581	42.9958230	-0.8100065	Auberge Elichalt				restaurant				
+way	234256956	42.9964858	-0.8041693	Auberge Berriex				restaurant				
+relation	168235			Saint-Étienne-de-Baïgorry	8	64430	64477					
+node	1401399263	43.2063761	-1.3362069	Manechenea				restaurant				
+node	4308887902	43.1742022	-1.3485105	Juantorena				restaurant		64430		
+node	7380424464	43.1793872	-1.3399868	Café du Fronton				cafe	439		Behereko karrika	
+node	8727344790	43.1752761	-1.3488103	Restaurant Arcé				restaurant		64430		
+node	8727354085	43.1792204	-1.3398954	Brasserie du Fronton				restaurant		64430	Baigorriko plaza	
+node	8888227711	43.1832064	-1.3336449	Trinquet Herriarena				restaurant				
+node	9151246035	43.1787939	-1.3402227	Kortxo				restaurant			Place de la Mairie	
+node	9152225431	43.1796425	-1.3396918	Txanogorritxo				restaurant			Behereko karrika	
+relation	2195024			Saint-Faust	8	64110	64478					
+node	9802302076	43.2699053	-0.4519746	Le KFaustin (associatif)				cafe				
+relation	1271329			Saint-Jammes	8	64160	64482					
+node	6053029787	43.3591912	-0.2446132	Restaurant le relais de la patte d'oie				restaurant				
+relation	166727			Saint-Jean-de-Luz	8	64500	64483					
+node	1125914341	43.4064987	-1.6414180	Batxuri				restaurant	48	64500	Erromardie Plage	
+node	1837356897	43.3882183	-1.6642909	La Diva				restaurant	7	64500	Rue de la République	
+node	1837359135	43.3873601	-1.6640029	Txalupa				restaurant				
+node	3172043288	43.3875225	-1.6624436	L'Hirondelle				restaurant	3	64500	Rue du 17 Pluviôse	
+node	3519438120	43.3870528	-1.6601335	Chez Pablo				restaurant	5	64500	Rue Mademoiselle Etcheto	
+node	3519843474	43.3905480	-1.6586802	Chez Michel				restaurant	65	64500	Rue Saint-Jacques	
+node	3520000994	43.4017250	-1.6596468	Ilura				restaurant	1		Avenue Gaëtan de Bernoville	
+node	3520002689	43.3926219	-1.6598101	L'Océan				restaurant				
+node	3520002692	43.3916892	-1.6592781	Erroa				restaurant	32	64500	Boulevard Adolphe Thiers	
+node	3520009463	43.3904122	-1.6594328	Le Bistrot Luzien				restaurant	23	64500	Boulevard Adolphe Thiers	
+node	3520009464	43.3907980	-1.6593871	Brasserie du Madison				restaurant				
+node	3520039777	43.4069069	-1.6279656	Tokiko				restaurant	45	64500	Chemin de Chibau	
+node	3520039779	43.3864700	-1.6603584	Le komptoir des amis				restaurant	7	64500		
+node	3520048489	43.3860489	-1.6559084	Pizza Donna				restaurant	4	64500	Rue Philippe Veyrin	
+node	4579686697	43.3879221	-1.6644592	La marine				bar	18	64500	Place Louis XIV	
+node	4579686698	43.3880269	-1.6642053	Le Majestic				bar		64500	Place Louis XIV	
+node	4579707095	43.3874825	-1.6627025	Cosmopolitain				cafe	7	64500	Place du Maréchal Foch	
+node	4579718192	43.3918164	-1.6603367	Duke				bar				
+node	4579719490	43.3919847	-1.6603802	Cafe de Paris				cafe	5		Rue Dalbarade	
+node	4579719491	43.3904316	-1.6601431	Cosy West				restaurant	19	64500	Rue Loquin	
+node	4579720591	43.3918528	-1.6604879	Le Prado				restaurant		64500	Promenade Jacques Thibaud	
+node	4579749897	43.3875369	-1.6627169	Xaya La cave à manger				restaurant	3	64500	Rue Saint-Jean	
+node	4579749899	43.3875488	-1.6640188	Le p'tit suisse				bar		64500	Place des Corsaires	
+node	4579749900	43.3885808	-1.6644333	Kaïku				restaurant	17	64500	Rue de la République	
+node	4579753396	43.3875621	-1.6638297	Le Suisse				restaurant		64500	Place des Corsaires	
+node	4579762894	43.3910984	-1.6615420	Le Sud				restaurant	20	64500	Promenade Jacques Thibaud	
+node	4579763094	43.3915323	-1.6611779	Crèperie Ilunabarra				restaurant	9	64500	Promenade Jacques Thibaud	
+node	4579763095	43.3915982	-1.6610633	Toki Goxoa				restaurant	7	64500	Promenade Jacques Thibaud	
+node	4579785292	43.3887834	-1.6643649	L'Artha				restaurant	28	64500	Rue de la République	
+node	4741244011	43.3882833	-1.6634980	Le Peita				restaurant	21	64500	Rue Pierre-Louis Tourasse	
+node	4741244012	43.3871341	-1.6613712	Cocoon				cafe	15	64500	Rue du Maréchal Harispe	
+node	4741244014	43.3889738	-1.6637691	Kaia Ostatua				restaurant	39	64500	Tourasse karrika	
+node	4741244020	43.3886672	-1.6636555	Le Patio				restaurant	33	64500	Rue Pierre-Louis Tourasse	
+node	4741244727	43.3863639	-1.6618298	Bocata				cafe	9	64500	Avenue de Verdun	
+node	4741244729	43.3862836	-1.6609053	Le Martxuka				cafe	3	64500	Boulevard du Commandant Passicot	
+node	4795376225	43.4055820	-1.6269539	Brasserie Luz				restaurant	107	64500	Avenue de Jaldaï	
+node	4796868223	43.4076151	-1.6393811	Guinguette Erromardie				bar			Plage Erromardie	
+node	4947684325	43.4140569	-1.6257760	Ostalamer				restaurant	160	64500	Route des Plages	
+node	4976227063	43.3863787	-1.6634699	La Grillerie du port				restaurant			Quai Marechal Leclerc	
+node	5075299822	43.4057978	-1.6303748	Courtepaille				restaurant				
+node	5128770499	43.3872458	-1.6618592	Le sportif				pub	10	64500	Boulevard Victor Hugo	
+node	5128770500	43.3873345	-1.6621944	Le Macadam café				cafe	3	64500	Boulevard Victor Hugo	
+node	5415413022	43.3872459	-1.6591481	Etxe Nami				restaurant	11	64500	Avenue Jauréguiberry	
+node	6087398790	43.4065460	-1.6223317	Snack Lunchery				restaurant	13		Rue de l'Industrie	
+node	6657526465	43.3959146	-1.6470688	Kia Ora				cafe	77	64500	Avenue André Ithurralde	
+node	6697954786	43.4181172	-1.6247022	Ti Cab'				restaurant	661	64500	Route des Plages	
+node	7082110387	43.3878213	-1.6609937	Xistera				restaurant	23	64500	Boulevard Victor Hugo	
+node	7131026616	43.3906970	-1.6600689	La mia Toscana				restaurant	20	64500	Rue Loquin	
+node	7595666124	43.3925817	-1.6598663	Aho Fina				restaurant	43	64500	Boulevard Adolphe Thiers	
+node	7595702647	43.3929131	-1.6518557	La Cidrerie Luzienne				restaurant	16 bis	64500	Avenue André Ithurralde	
+node	7595819518	43.3912954	-1.6613827	Hélianthal, Thalazur Saint-Jean-de-Luz				restaurant		64500	Hôtel Thalazur Saint-Jean-de-Luz	
+node	7595863372	43.3916689	-1.6600727	L'Essentiel				restaurant	4	64500	Rue Dalbarade	
+node	7595867441	43.3881386	-1.6603817	Le Sélect				restaurant	29	64500	Boulevard Victor Hugo	
+node	7631893915	43.3823676	-1.6563292	Côté Bistro - Urdazuri				pub	20	64500	Avenue Pierre Larramendy	
+node	7646196870	43.3915686	-1.6596173	Tavola Calda				restaurant	2-5	64500	Rue Dornaldeguy	
+node	7646215061	43.3912404	-1.6614211	Juice box				pub				
+node	7646215441	43.3891585	-1.6578510	Mezze Ona				restaurant	52	64500	Boulevard Victor Hugo	
+node	7646227396	43.3897670	-1.6588257	La Vauban				cafe	15	64500	Boulevard Adolphe Thiers	
+node	7646231933	43.3910237	-1.6616009	Le dauphin				restaurant	39	64500	Promenade Jacques Thibaud	
+node	7646243413	43.3911338	-1.6614832	Horizon Brunch				cafe				
+node	7649492934	43.3888112	-1.6610936	La Boëte				restaurant	3	64500	Rue Jean Bague	
+node	7649508779	43.3890030	-1.6608631	Txomin fruits presses et yaourts				pub				
+node	7649509715	43.3880564	-1.6643678	Bar de la Baleine				pub	2	64500	Rue de la Baleine	
+node	7649511449	43.3876663	-1.6633008	Akeita Coffee				cafe	7	64500	Rue Pierre-Louis Tourasse	
+node	7649513412	43.3888956	-1.6606595	Chez Mimi				restaurant	2	64500	Place du Collège	
+node	7649520007	43.3883815	-1.6641522	Pub du Corsaire				pub	16	64500	Rue de la République	
+node	7649526573	43.3885655	-1.6642134	L'Alcalde, l'écailler				restaurant	22	64500	Rue de la République	
+node	7649534321	43.3877111	-1.6633202	L'Escale				restaurant	9	64500	Rue Pierre-Louis Tourasse	
+node	7649534322	43.3881333	-1.6642040	Le Fandango				bar	3	64500	Rue de la République	
+node	7649542426	43.3886690	-1.6644808	Restaurant Hor Dago				restaurant	19	64500	Rue de la République	
+node	7649542505	43.3881783	-1.6642600	La Taverne Basque				restaurant	5	64500	Rue de la République	
+node	7649550409	43.3884375	-1.6641997	Uhaina				restaurant	18	64500	Rue de la République	
+node	7652717467	43.3888596	-1.6643893	Chez Gus				restaurant	28	64500	Rue de la République	
+node	7673166672	43.3886217	-1.6636323	Le Bodega La Plancha				restaurant	31	64500	Rue Pierre-Louis Tourasse	
+node	7673179180	43.3880914	-1.6608407	La pile d'assiettes				restaurant	6	64500	Rue d'Ellissagaray	
+node	7673179861	43.3881444	-1.6613752	Le bar Battela				pub	21	64500	Rue du Midi	
+node	7673183899	43.3895167	-1.6627750	La cueva				restaurant	32	64500	Rue Garat	
+node	7673191821	43.3886884	-1.6634903	La Vieille Auberge				restaurant	22	64500	Rue Pierre-Louis Tourasse	
+node	7673194100	43.3893816	-1.6628583	Crêperie Piper Beltz				restaurant	29	64500	Rue Joseph Garat	
+node	7673197119	43.3873222	-1.6603712	Le P'tit Hasard				restaurant	26	64500	Rue du Maréchal Harispe	
+node	7673212894	43.3872328	-1.6613754	Le café du marché				cafe	12	64500	Avenue Joachim Labrouche	
+node	7673221289	43.3871004	-1.6609757	Kako Etxea				restaurant	18	64500	Rue du Maréchal Harispe	
+node	7674028492	43.3873026	-1.6617035	Hoso Sushi - Café& Fresh Food				restaurant	14	64500	Boulevard Victor Hugo	
+node	7677319434	43.3888859	-1.6619508	Casa del Sol				restaurant	25	64500	Rue Abbé Onaindia	
+node	7677344853	43.3872848	-1.6590236	Pil Pil Enea				restaurant	3	64500	Rue Salagoity	
+node	7698566146	43.3962978	-1.6464199	Trinquet Bordatxo				pub	85		Avenue André Ithurralde	
+node	7701968385	43.3867871	-1.6615928	Donnie Ocean				restaurant				
+node	7764607343	43.3993286	-1.6628401	Le Spot de Sainte-Barbe				restaurant		64500	Rue de Sainte-Barbe	
+node	8004146268	43.3887991	-1.6610590	Aupa Pizza				restaurant	3	64500	Rue Jean Bague	
+node	8753087377	43.4182732	-1.6247313	Restaurant Ti Cabanon				restaurant			Plage de Mayarko	
+node	8760942723	43.3883882	-1.6635578	Restaurant Le Tourasse				restaurant	25	64500	Rue Pierre-Louis Tourasse	
+node	8785433077	43.4027665	-1.6269422	Cidrerie Aurrera				restaurant				
+node	8789369890	43.3865578	-1.6613652	Café Belardi				restaurant	5	64500	Avenue Joachim Labrouche	
+node	8789540166	43.3876936	-1.6612722	Chistera				restaurant	17		Boulevard Victor Hugo	
+node	8791506119	43.3891088	-1.6592507	Le Trinquet Maitena				restaurant	42	64500	Rue du Midi	
+node	8791761235	43.3881235	-1.6639741	Restaurant aux Pigeons blancs				restaurant	8	64500	Rue de la République	
+node	8792151473	43.3889381	-1.6625403	Restaurant Instincts				restaurant	20	64500	Rue Garat	
+node	8794365232	43.3915123	-1.6604830	Restaurant Le Comptoir JOA				restaurant			Place Maurice Ravel	
+node	8814202302	43.3983329	-1.6404936	Le Lohitzun				restaurant			Avenue de Layatz	
+node	9521280601	43.3925562	-1.6530213	You Sushi				restaurant	25	64500	Avenue André Ithurralde	
+node	9521313961	43.3857575	-1.6550678	Le Maritema				bar				
+node	9685729696	43.4180222	-1.6245537	Le Miam				restaurant				
+node	9881389392	43.3887959	-1.6645286	Merendino				restaurant				
+node	9881389393	43.3887403	-1.6645025	Xabi-krakada				restaurant	21	64500	Rue de la République	
+node	10052780464	43.3876070	-1.6607225	Buvette de la Halle				restaurant				
+node	10052780465	43.3874954	-1.6610064	Maison Mokoka				restaurant				
+node	11148366006	43.4151191	-1.6264043	Bat Bi HIru				restaurant				
+node	11410599415	43.3872349	-1.6590666	Denen Kanttua				cafe	13	64500	Avenue Jauréguiberry	
+node	11410599419	43.3893166	-1.6583564	Le Point Barre				pub		64500	Boulevard Adolphe Thiers	
+node	11415500911	43.3875264	-1.6622900	Alma				restaurant	6	64500	Rue du 17 Pluviôse	
+node	11415500912	43.3875021	-1.6625335	Bar du Cru				bar	3	64500	Rue du 17 Pluviôse	
+node	11415500922	43.3883513	-1.6643313	Balea				restaurant	11	64500	Rue de la République	
+node	11415500924	43.3884676	-1.6643914	Ongi Ethorri				restaurant	15	64500	Rue de la République	
+node	11415500925	43.3884664	-1.6634402	Brut, table de saison				restaurant		64500	Rue Pierre-Louis Tourasse	
+node	11415500927	43.3882139	-1.6634886	Epela				cafe	19	64500	Rue Pierre-Louis Tourasse	
+node	11425819540	43.3910729	-1.6591049	Le Bar Basque				pub	22	64500	Boulevard Adolphe Thiers	
+node	11425819551	43.3917881	-1.6592458	Maison Ama				restaurant	34	64500	Boulevard Adolphe Thiers	
+node	11425819559	43.3905051	-1.6597532	Bellini				restaurant	31	64500	Rue Martin de Sopite	
+node	11425819568	43.3901602	-1.6596195	Café Frappé				cafe	54	64500	Rue Saint-Jacques	
+node	11435345981	43.3882635	-1.6646484	Familia				restaurant	3	64500	Rue de la Baleine	
+node	11435345983	43.3881022	-1.6649349	Zoko Moko				restaurant	6	64500	Rue Mazarin	
+node	11559897403	43.3877354	-1.6617486	Gédéon				restaurant	4	64500	Rue Joseph Garat	
+node	11559897422	43.3895007	-1.6628918	L'Acanthe				cafe	31	64500	Rue Joseph Garat	
+node	11917490839	43.4115617	-1.6189010	La Peña Bodega				restaurant	1904	64500	D810	
+node	12002745550	43.3868096	-1.6627911	Bizipoz Bar				bar	2	64500	Boulevard Victor Hugo	
+node	12036482952	43.3869980	-1.6625738	Bizipoz Cave				bar	4	64500	Boulevard Victor Hugo	
+node	12036482953	43.3866116	-1.6626277	Bobby				restaurant	3	64500	Rue Marion Garay	
+node	12099230009	43.4075198	-1.6377456	L'Océanic				restaurant				
+node	12115806435	43.3871376	-1.6621853	Gilda Bar				bar	17	64500	Rue Marion Garay	
+node	12671239240	43.3910083	-1.6608195	Erdiko Thalazur Saint-Jean-de-Luz				restaurant		64500	Place Maurice Ravel	
+node	12825801101	43.3876614	-1.6622651	Pluviôse				restaurant				
+node	13255534701	43.3875331	-1.6632439	Moko Etxea				bar				
+node	13325781801	43.3890316	-1.6624896	Petit Grill Basque				restaurant				
+node	13329004850	43.3887724	-1.6646163	Papypizz's				restaurant				
+node	13392674317	43.3859591	-1.6558344	Fargeot				restaurant	5	64500	Rue Philippe Veyrin	
+node	13912792501	43.3918805	-1.6608131	Arthabar				bar	12	64500	Promenade Jacques Thibaud	
+node	14091165733	43.3909096	-1.6616860	La Terrasse Rouge				restaurant				
+node	14140704105	43.4170966	-1.6232660	Bibampizz				restaurant				
+way	72477535	43.4075029	-1.6377918	L'Océanic				restaurant				
+way	72480625	43.3862663	-1.6633663	Kaiola				cafe				
+way	72481868	43.4067350	-1.6417029	Bistro du Mata				restaurant	71	64500	Chemin d'Erromardie	
+way	72483584	43.3797403	-1.6393619	Le 1928 Restaurant				restaurant		64500	Route d'Ascain	
+way	72483776	43.3965267	-1.6562233	Parc Victoria				restaurant	5	64500	Rue Cépé	
+way	1287225018	43.3864720	-1.6631345	kruxti kruxti				bar				
+relation	168593			Saint-Jean-le-Vieux	8	64220	64484					
+node	3697230963	43.1651855	-1.1950095	Café Bera				cafe				
+node	8727414352	43.1651754	-1.1973321	Restaurant Choko Ona				restaurant		64220		
+node	8727546322	43.1653407	-1.1936313	Restaurant Mendy				restaurant		64220		
+node	10744861689	43.1656650	-1.1941583	Bar Sotua				bar				
+relation	168589			Saint-Jean-Pied-de-Port	8	64220	64485					
+node	3351832510	43.1622966	-1.2386387	Café Ttipia				restaurant	2	64220	Place Floquet	
+node	3351941947	43.1621127	-1.2388935	Café de la Paix				restaurant	4	64220	Place Floquet	
+node	3398130453	43.1628032	-1.2376849	Amatto				restaurant				
+node	3697213253	43.1638789	-1.2370106	Ziripot				restaurant	1		Place du Trinquet	
+node	3780979403	43.1617102	-1.2387873	Le Navarre				cafe				
+node	4434073796	43.1668960	-1.2373763	Paris				bar				
+node	4795897783	43.1624835	-1.2392681	Café des Remparts				cafe				
+node	4947440908	43.1634218	-1.2355595	Le Kawa				restaurant	46	64220	Rue de la Citadelle	
+node	5051856021	43.1637669	-1.2365236	Pizza One Garaxi				restaurant				
+node	5051858157	43.1640407	-1.2366870	Bar du Trinquet				bar	7	64220	Place du Trinquet	
+node	5209321424	43.1630890	-1.2362686	Comme a la maison				restaurant	28	64220	Rue de la Citadelle	
+node	5209321427	43.1628144	-1.2374651	Paxkal Oillarburu				restaurant	8	64220	Rue de l'Église	
+node	7232506785	43.1613710	-1.2400482	Le chaudron				bar				
+node	8725492469	43.1624219	-1.2372783	Kuka				restaurant	1	64220	Rue de l'Église	
+node	8727491091	43.1633521	-1.2377039	Restaurant Les Pyrénées				restaurant	19	64220	Place Charles de Gaulle	
+node	8727756406	43.1634767	-1.2368612	La Vieille Auberge - Chez Dédé				restaurant	3	64220	Rue de France	
+node	8727800395	43.1631213	-1.2365229	Ramuntcho				restaurant	1	64220	Rue de France	
+node	8727812184	43.1627523	-1.2370898	Hurrup eta Klik				restaurant	3	64220	Rue de la Citadelle	
+node	8727835232	43.1629177	-1.2368489	Le Chat Perché				restaurant	11	64220	Rue de la Citadelle	
+node	8898716217	43.1626976	-1.2380074	Le Relais de la Nive				restaurant	4	64220	Place Charles de Gaulle	
+node	9158376143	43.1633087	-1.2378040	Chez Luis				bar			Place Charles de Gaulle	
+node	10742081968	43.1610660	-1.2389888	Zuharpeta				restaurant				
+node	10802574265	43.1627885	-1.2403640	Pizza K				restaurant				
+node	10802611276	43.1628333	-1.2404249	Kantina				restaurant				
+node	11482346990	43.1656507	-1.2352252	Café des Sports				cafe				
+node	12643034464	43.1641754	-1.2363546	Lily Woks and Sushis				restaurant	11	64220	Place du Trinquet	
+node	13907677901	43.1632607	-1.2406755	Damico's				restaurant	127	64220	Route de Bayonne	
+relation	1405150			Saint-Just-Ibarre	8	64120	64487					
+node	4341010376	43.1937452	-1.0561897	Briseteia				restaurant		64120	Bourg	
+node	8831395236	43.1885855	-1.0500067	Cidre Eztigar				bar			Site Beltxu	
+relation	167608			Saint-Martin-d'Arberoue	8	64640	64489					
+node	1331514443	43.3449102	-1.1959269	Goxoki				restaurant				
+relation	167609			Saint-Martin-d'Arrossa	8	64780	64490					
+node	8727406983	43.2336413	-1.3044681	Restaurant Eskualduna Chez Katina				restaurant		64780		
+relation	168596			Saint-Michel	8	64220	64492					
+node	3360162062	43.1243834	-1.2448026	Ferme Thurburia				cafe				
+node	8727538214	43.1349295	-1.2202903	Restaurant Xoko Goxoa				restaurant		64220		
+node	13654439765	43.1356144	-1.2216845	Xoko Goxoa				restaurant	1748	64220	Route Zuzinate	
+relation	2068818			Saint-Palais	8	64120	64493					
+node	2979278620	43.3283016	-1.0349959	Restaurant Le Midi				restaurant		64120	Place du Foirail	
+node	2979278623	43.3289378	-1.0349653	Bar Brasserie au Comptoir				restaurant		64120	Avenue de Garris	
+node	5675620723	43.3283284	-1.0351353	Restaurant le Petit Chinois				restaurant	12	64120	Rue du Jeu de Paume	
+node	5675668330	43.3287583	-1.0347629	Restaurant chez Lafitte				restaurant	35	64120	Rue Thiers	
+node	5677286152	43.3278159	-1.0345277	Restaurant Le Trinquet - Le Bouchon Basque				restaurant	31	64120	Rue du Jeu de Paume	
+node	5677286153	43.3280027	-1.0348618	Restaurant de la Paix				restaurant	33	64120	Rue du Jeu de Paume	
+node	5677286154	43.3281179	-1.0350520	Auberge du Foirail				restaurant		64120	Place du Foirail	
+node	6577066585	43.3273898	-1.0331496	Le Kennedy				bar				
+node	8933744637	43.3281327	-1.0342491	Etche Pizza				restaurant				
+node	8933744641	43.3268616	-1.0337998	Chez Fredo				restaurant	19	64120	Rue Gambetta	
+node	9091753779	43.3263299	-1.0343456	Le Gambetta				restaurant				
+node	9246238206	43.3276308	-1.0329311	Au Platane				restaurant	15	64120	Place de l'Hôtel de Ville	
+node	9280450561	43.3280522	-1.0338728	Délices et gourmandises				restaurant	19	64120	Rue Thiers	
+node	12643108221	43.3227882	-1.0289092	Sagarnotegia				restaurant	115	64120	Rue de Pertikenea	
+way	231187594	43.3289310	-1.0350515	Chez Xavier				restaurant				
+relation	390265			Saint-Pée-sur-Nivelle	8	64310	64495					
+node	2344621543	43.3561831	-1.5507322	Anaiak				restaurant				
+node	9459732227	43.3675439	-1.5847425	L'auberge Basque				restaurant	745		Vieille Route de Saint-Pée	
+node	11235874176	43.4003411	-1.5971754	La ferme Ostalapia				restaurant	2621	64210	Chemin d'Ostalapea	
+node	11982958482	43.3556827	-1.5634178	La Table D'Anto				restaurant	365	64310	Route de Saint-Jean-de-Luz	
+node	11982958486	43.3560085	-1.5628946	Pizza Nana				restaurant	365	64310	Route de Saint-Jean-de-Luz	
+node	11982958488	43.3560047	-1.5683286	Le Fronton				restaurant	706	64310	Route de Saint-Jean-de-Luz	
+node	11983068614	43.3608874	-1.5805285	Kinka Restaurant Bar				restaurant	684	64310	Rue de Errota Berria	
+node	12509571634	43.3564908	-1.5694029	Restaurant Bonnet				restaurant	5	64310	Route d'Ahetze	
+node	13066263056	43.3216290	-1.5501400	Zuzulua				restaurant				
+node	13094135601	43.3559880	-1.5504794	Aroberri				restaurant				
+node	13136681397	43.3562255	-1.5504563	Arno Ostatua				bar				
+node	13136734367	43.3556190	-1.5506588	Café Karrika				cafe				
+node	13136734370	43.3563201	-1.5507406	Mahatsa				cafe				
+way	75998687	43.3453715	-1.5276281	Aintzira				restaurant	9	64310	Rue Charles Cami	
+way	76005195	43.3473173	-1.5235497	Bizi				restaurant	19	64310	Rue Artzamendi	
+relation	167699			Saint-Pierre-d'Irube	8	64990	64496					
+node	3737600279	43.4735930	-1.4517350	Hiriburu				restaurant	27		Avenue de la Basse Navarre	
+node	8792461887	43.4738433	-1.4528502	Bar du Fronton				bar				
+node	11380846080	43.4800975	-1.4444365	Blue Bask Coffee				cafe	2	64990	Avenue du Portou	
+node	11380846105	43.4815717	-1.4444564	Zaka Bistrot				restaurant	2	64990	Avenue du Portou	
+node	11380846106	43.4816761	-1.4445256	Tia Romana				restaurant	2	64990	Avenue du Portou	
+node	11380846107	43.4817850	-1.4445818	Bistrot Régent				restaurant	2	64990	Avenue du Portou	
+node	11380846108	43.4817827	-1.4448155	Big Easy				restaurant	4	64990	Avenue du Portou	
+node	12999105150	43.4769266	-1.4563729	Pause Pizza				restaurant				
+node	14041984001	43.4654862	-1.4404640	Paleta				restaurant	1	64990	Rue d'Etxerruti	
+relation	2819149			Saint-Vincent	8	64800	64498					
+node	8860292692	43.1722111	-0.1560268	La Roseraie de Saint Vincent				restaurant				
+relation	2076861			Salies-de-Béarn	8	64270	64499					
+node	3743268025	43.4721005	-0.9306400	Restaurant de la Gare				restaurant				
+node	3744590725	43.4735855	-0.9279539	L'atrium				restaurant				
+node	3744590726	43.4714548	-0.9269993	Casabelle				restaurant	1	64270	Rue de la Tannerie	
+node	3751937925	43.4720130	-0.9236559	Viet Nam				restaurant				
+node	3752102625	43.4715703	-0.9239838	Bistrot 4 grains				restaurant	6	64270	Place Jeanne d'Albret	
+node	3752103025	43.4716890	-0.9239368	La Tour de Pizz'a				restaurant				
+node	3756339726	43.4704333	-0.9246328	Grignotine				restaurant				
+node	3756340029	43.4705255	-0.9251940	Assemblage				bar	16		Place du Bayaa	
+node	3764460963	43.4721599	-0.9253576	La Terrasse				restaurant				
+node	3774668258	43.4663144	-0.9259347	Le Petit Béarn				restaurant				
+node	4452273427	43.4712480	-0.9257994	Restaurant Des Voisins				restaurant				
+node	7156163068	43.4750492	-0.9170895	Food truck asiatique				restaurant				
+node	8114315057	43.4753879	-0.9309347	Au Repaire				restaurant	14	64270	Avenue Al Cartero	
+node	9099343528	43.4717613	-0.9242819	L'instant thé				cafe	5	64270	Place Jeanne d'Albret	
+node	9901754246	43.4712014	-0.9250608	Le Singlar				bar				
+node	10155013638	43.4704855	-0.9246138	Duli bar				pub				
+node	11749972247	43.4704628	-0.9251886	La Pause Gourmande				cafe	18		Place du Bayaa	
+node	11780352775	43.4715150	-0.9250890	Da Claute				restaurant	10	64270	Place de la Trompe	
+node	11977806736	43.4715511	-0.9266940	Café des thermes				cafe			Rue Paul Jean Toulet	
+node	12182284455	43.4739168	-0.9138782	Le Lodge				restaurant				
+way	218140356	43.4749676	-0.9130365	L'estanquet				bar				
+way	218144282	43.4712470	-0.9254130	Le Tivoli				cafe	16		Place de la Trompe	
+way	218145963	43.4715285	-0.9267585	Café des Thermes				cafe				
+relation	390214			Sare	8	64310	64504					
+node	3014055033	43.3124881	-1.5801345	Arraya				restaurant			Plaza	
+node	3014055035	43.3126951	-1.5804136	Café de la Mairie				cafe				
+node	3014055036	43.3125674	-1.5804236	Mimosa				restaurant				
+node	3629839440	43.3256914	-1.6029497	Les Trois Fontaines				restaurant				
+node	4741305234	43.3250243	-1.6003262	Le Pullman				restaurant				
+node	6691812011	43.2607902	-1.5767563	Loretxoa				restaurant				
+node	6808206085	43.2611861	-1.6192751	Hordago ostatua				restaurant			Col de Lizarrieta	
+node	8684243368	43.3121060	-1.5805024	Boutique Akoka				cafe				
+node	8780696095	43.3130935	-1.5800959	Akoka				restaurant				
+node	9048761174	43.3127881	-1.5816236	Kafia				restaurant				
+node	9048761175	43.3131023	-1.5800102	Éphéméride				restaurant				
+node	13662513565	43.3126710	-1.5812648	Arka				restaurant	35	64310	Santa Maria Poghjuko karrika	
+way	72845303	43.3032802	-1.5872576	Pikassaria				restaurant				
+way	72845925	43.2627514	-1.6173868	Hiruetako borda				restaurant				
+way	662329893	43.3119188	-1.5684181	Baratxartea				restaurant				
+way	662408467	43.3135044	-1.5825698	Trinquet Pleka				restaurant		64310		
+relation	2148431			Sarrance	8	64490	64506					
+way	228215024	43.0524965	-0.5995855	Les pas sages				restaurant				
+relation	2163933			Sauguis-Saint-Étienne	8	64470	64509					
+node	4745887389	43.1512485	-0.8904263	Goiz Eder				bar				
+relation	2533746			Sault-de-Navailles	8	64300	64510					
+node	9129779074	43.5509511	-0.6727966	La Tour Galante				restaurant	699	64300	Rue de France	
+node	11511456009	43.5453802	-0.6767829	La Parenthèse				restaurant	35	64300	Avenue de Chalosse	
+relation	168019			Sauvagnon	8	64230	64511					
+way	63368633	43.4036627	-0.3872703	Bar Tabac Boulangerie Malabat				cafe	8	64230	Rue du Béarn	
+relation	1268700			Sauvelade	8	64150	64512					
+way	170947936	43.3950300	-0.7070750	Le Petit Laa				bar		64150	Camin Gaston lo Crozat	
+relation	2071186			Sauveterre-de-Béarn	8	64390	64513					
+node	1842379089	43.3984204	-0.9401166	PMU- Bar de la Terrasse				bar				
+node	5807748183	43.3984748	-0.9400941	La Terrasse du Gave				restaurant				
+node	5929211287	43.3978535	-0.9392466	Au fil de l'eau				cafe				
+node	11962780275	43.3976984	-0.9423591	L'Arsenal				restaurant				
+node	12231466446	43.3887739	-0.9418269	Pichette				restaurant	12	64390	Route d’Oloron	
+way	837931222	43.3987470	-0.9392734	La Légende				restaurant	5	64390	Rue de l'Abbé Duplech	
+way	887947946	43.3994870	-0.9381922	Bar Restaurant de la Mairie				restaurant				
+way	887947947	43.3998575	-0.9393649	La Guinguette Sud				restaurant				
+relation	167683			Sendets	8	64320	64518					
+node	7512081685	43.3008313	-0.2608920	Le Tison				restaurant				
+relation	168014			Serres-Castet	8	64121	64519					
+node	4618152796	43.3769249	-0.3793791	Le relais				bar				
+node	5836733946	43.3583932	-0.3819799	Le Bistrot de la Mère Michette				restaurant				
+node	5836733948	43.3577988	-0.3807500	Le Tutti				restaurant				
+node	5836733958	43.3571071	-0.3805939	L'Oranger				restaurant				
+node	5836777208	43.3569481	-0.3796722	One Again				bar				
+node	6119344272	43.3552937	-0.3805379	Le Meiling				restaurant				
+node	6124045452	43.3769258	-0.3791622	La Crêperie des Quatre Saisons				restaurant				
+node	9321768796	43.3909765	-0.3807530	Le Routier				restaurant				
+way	63343951	43.3687300	-0.3806669	L'Atelier				restaurant				
+relation	2811723			Sévignacq-Meyracq	8	64260	64522					
+way	284884735	43.1143080	-0.4096840	La Parenthèse				restaurant				
+relation	2825240			Sévignacq	8	64160	64523					
+way	234271854	43.4415258	-0.2624917	Chez Dades				restaurant				
+way	234272368	43.4418511	-0.2629883	Darricau				restaurant				
+way	234272467	43.4416480	-0.2632520	Chez Courbet				restaurant				
+relation	167741			Soumoulou	8	64420	64526					
+node	441650708	43.2648029	-0.1895745	Le Navarre				restaurant				
+node	6445703709	43.2655102	-0.1859543	Hôtel restaurant du Béarn				restaurant				
+node	9074780000	43.2680359	-0.1939176	Les Glycines				bar				
+node	11542648436	43.2665568	-0.1900581	L'Univers				restaurant				
+node	11542648452	43.2655772	-0.1870434	Pizza Costa				restaurant				
+node	11542648453	43.2643405	-0.1817026	Caty Pizza				restaurant				
+relation	1966020			Souraïde	8	64250	64527					
+node	8137919930	43.3415807	-1.4740917	Hôtel restaurant Bergara				restaurant		64250	Rue principale	
+node	8314591519	43.3631573	-1.4843041	Epherra				restaurant		65250	Chemin d'Urlo Erreka	
+node	9907985183	43.3419735	-1.4741139	Galzagorry				restaurant				
+relation	1750339			Suhescun	8	64780	64528					
+node	4497534389	43.2305615	-1.2021372	Le P'tit Bistrot				restaurant		64780	Route Départementale 22	
+relation	2137636			Tardets-Sorholus	8	64470	64533					
+node	5242688043	43.1163365	-0.8635051	Ostatüa				bar				
+node	5242688044	43.1162425	-0.8633415	Les Pyrénées				restaurant		64470	Place Centrale	
+node	8009783702	43.1166608	-0.8634563	Fred & Co				cafe				
+node	8010064192	43.1145897	-0.8618573	Prefosta Elkartea				bar				
+node	13093070445	43.1101631	-0.8601835	La Cheminée de Mamie				restaurant				
+relation	168588			Uhart-Cize	8	64220	64538					
+node	8727367905	43.1088327	-1.2392316	L’Auberge Orisson				restaurant		64220		
+node	9169862084	43.1642926	-1.2423649	Bar Snack Pausa				bar		64220	Route de Bayonne	
+relation	2764712			Urdos	8	64490	64542					
+node	13450178416	42.7964252	-0.5325971	Le Somport 1600				restaurant				
+relation	168584			Urepel	8	64430	64543					
+node	4001052363	43.0660568	-1.4117848	Auberge Koxeinea				restaurant		64430		
+node	4001053079	43.0642690	-1.4094825	Auberge Lafitte				restaurant		64430		
+node	4770775560	43.0705120	-1.4165719	Restaurant C'Vall				restaurant		64430		
+relation	166733			Urrugne	8	64122;64700	64545					
+node	4485480133	43.3902931	-1.6859822	Le Restaurant du café de la plage				restaurant				
+node	4485480136	43.3905175	-1.6861116	O'Chat Noir				bar		64122	Route de la Corniche	
+node	5417099921	43.3624474	-1.6997936	Trinquet Léon Dongaïtz				bar	5		Rue Bernard de Coral	
+node	6488491223	43.3450731	-1.7627180	Xaia				bar		64700	Ur bidexka karrika	
+node	7159713653	43.3105106	-1.6884246	Bitcha Eder				restaurant				
+node	7159713654	43.3105848	-1.6885614	Etxola				restaurant				
+node	7159713655	43.3106746	-1.6887746	Snack Sara Sol				restaurant				
+node	7701788644	43.3782677	-1.6708606	Kechiloa				bar	10	64122	Rue Paul Gélos	
+node	8565399681	43.3448002	-1.7619551	Beho Vino				bar				
+node	8894713279	43.3692553	-1.6920108	Ferme Lizarraga				restaurant	550		Chemin de Lizarraga	
+node	8894935525	43.3621901	-1.6999630	Auberge Lukaïna				restaurant				
+node	8928912081	43.3617873	-1.7037512	Auberge Associative Etxeberria - Restaurant Arotzenia				restaurant				
+node	11196070584	43.3734872	-1.6783348	Jules & John				restaurant		64122	RD 810	
+node	11196122716	43.3737305	-1.6784305	Le Bistrot				bar		64122	RD 810	
+node	11212857752	43.3761458	-1.6735660	Camietako Sukaldea				restaurant	94	64122	Mahastiko Bidea	
+node	11440000009	43.3748328	-1.6795298	Gaua				restaurant	210	64122	D810	
+node	13188348063	43.3627001	-1.6988310	Casa Pizza				restaurant				
+node	13206866892	43.3481842	-1.6901861	El Ritchie cars and coffee				bar				
+node	13206943329	43.3612157	-1.7225842	La Ferme Ilharregui Baita				restaurant				
+node	13229847083	43.3453560	-1.6928414	Luz Pizza Urrugne				restaurant				
+node	13229896340	43.3109865	-1.6893276	Chez Suzette				restaurant				
+node	13840865264	43.3448974	-1.7624791	Muga				bar	42	64122	Rue Charles Pucheu	
+node	14137347005	43.3622848	-1.6998134	Plazan				cafe				
+way	72580444	43.3468352	-1.7574436	Arroenia				restaurant				
+way	72586104	43.3706778	-1.6852382	La Table de Larrouleta				restaurant			chemin de Socoa	
+relation	390199			Urt	8	64240	64546					
+node	4944179321	43.4996316	-1.2981119	La Galupe				restaurant		64240	le port	
+node	5920462351	43.4936402	-1.2938522	Le Bistrot de Manu				restaurant				
+node	6741850588	43.4937575	-1.2907797	Le pub urtois				cafe				
+node	12959819049	43.4922424	-1.2968040	La Grange				restaurant				
+way	74136677	43.4940193	-1.2907765	L'Estanquet				restaurant				
+relation	166896			Ustaritz	8	64480	64547					
+node	4933378075	43.3944471	-1.4526745	Bar-Restaurant Auberge du Fronton				restaurant				
+node	4933378909	43.3944032	-1.4522569	Bar-Restaurant La Petite Auberge				restaurant	340		Rue du Bourg	
+node	5856226443	43.3925673	-1.4558191	Jap 64				restaurant		64480	Bazter Karrika	
+node	6365413789	43.3925995	-1.4557718	Pizza Manu				restaurant				
+node	7206524536	43.4039907	-1.4609245	Pizza Giorgio				restaurant				
+node	8314492059	43.4208518	-1.4813096	Leku eder				bar				
+node	11370413775	43.3990824	-1.4557705	Guapita Café				cafe	233	64480	Rue de Hiribehere	
+node	11515851941	43.3993717	-1.4563403	Garage des Pyrénées				bar				
+node	12072208369	43.4007832	-1.4572376	Chez Poulpe				restaurant				
+node	14356919977	43.3910798	-1.4547119	Chez Simone				cafe				
+node	14359051454	43.3915245	-1.4554861	Rotisserie Kokoko				restaurant				
+way	74943988	43.3932333	-1.4514365	Restaurant Capbourrut				restaurant		64480	Place de la croix du Bourg	
+relation	2087433			Uzos	8	64110	64550					
+node	5023010908	43.2700656	-0.3434515	Le pare faim				restaurant				
+relation	166774			Villefranque	8	64990	64558					
+node	4697018980	43.4359164	-1.4554361	Bar Restaurant Eskularia				restaurant	89	64990	Chemin Oihan Bazter	
+node	8130397566	43.4376958	-1.4534517	La Pena				bar				
+node	9887303144	43.4333051	-1.4568291	Zubixka La Guinguette				bar		64990	Chemin de la Gare	
+node	13827922003	43.4374431	-1.4533375	Pizza Labia				restaurant				

@@ -1,0 +1,383 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	111921			Albaret-Sainte-Marie	8	48200	48002					
+node	4217161291	44.8826557	3.2456011	Bar Tabac l'Escale				bar	773			
+node	4218904978	44.8710592	3.2516429	Toutatis				restaurant				
+relation	1050361			Allenc	8	48190	48003					
+node	3395277365	44.5281567	3.6876774	Auberge du Vallon				restaurant		48190	Le Villaret	
+relation	1050363			Altier	8	48800	48004					
+node	7778863385	44.4721471	3.8583734	L'arbre à pain				restaurant				
+relation	6837824			Peyre en Aubrac	8	48130	48009					
+node	1561998918	44.7165198	3.2876365	Restaurant Cyril Attrazic				restaurant	334		Route du Languedoc	
+node	2160806893	44.7481138	3.2224511	Bar-Tabac				bar				
+node	5728052003	44.7454574	3.2834455	Delices de l'Aubrac				restaurant	809		Lieu-dit Buron Saint-Jacques, 48130, Aumont-Aubrac	
+node	5955443993	44.7480117	3.2223932	Restaurant del Faôu				restaurant				
+node	8932281717	44.7067740	3.1927864	Chez Régine				bar				
+node	9998121617	44.7224451	3.2837451	La Pause				restaurant	21		Avenue de Peyre	
+node	10277806695	44.7225288	3.2845784	Bar de la Mairie				bar	24	48130	Avenue de Peyre	
+way	142728339	44.7220360	3.2851637	Aubrac Hôtel				restaurant			Place du Foirail	
+way	142728951	44.7225395	3.2840005	Bar Tabac Jeux				cafe	1		Place du Portail	
+relation	287424			Badaroux	8	48000	48013					
+node	979790929	44.5358070	3.5456442	L'Ozen				restaurant				
+node	979791127	44.5358183	3.5458826	L'Escale				cafe				
+relation	287406			Pied-de-Borne	8	48800	48015					
+node	13094011502	44.4768594	3.9832571	La taverne de l' Aïga				restaurant				
+relation	5812013			Banassac-Canilhac	8	48500	48017					
+node	1998695257	44.4380350	3.1967737	Le Calice du Gévaudan				restaurant	2		Montée de Pissa Lebre	La Mothe
+node	6445541931	44.4422022	3.1948781	Malakoff & Co.				cafe		48500	La Mothe, ZA L'Oasis	
+relation	283818			Barjac	8	48000	48018					
+node	5614920014	44.5011692	3.4107768	Hôtel Restaurant Paradis				restaurant	6		Avenue de la Resistance	
+relation	1050374			Barre-des-Cévennes	8	48400	48019					
+node	1330093916	44.2447069	3.6538029	Als Dos Corses				restaurant				
+node	4939780958	44.2444098	3.6539984	Café des Cévennes				cafe				
+node	9943134056	44.2450955	3.6533497	Le Château				restaurant				
+relation	1050379			La Bastide-Puylaurent	8	48250	48021					
+node	9875007323	44.5920218	3.9059613	Les Genêts				restaurant				
+node	9875010278	44.5919104	3.9054243	Point Montagne				cafe				
+node	9875017176	44.5918883	3.9062115	Les Pins				restaurant				
+relation	6837828			Mont Lozère et Goulet	8	48170;48190;48250	48027					
+node	430710867	44.5065012	3.6649376	Modern'Hôtel				restaurant	9		Place du Pont	
+node	430715905	44.5063656	3.6647079	Hôtel du Pont				restaurant	1		Avenue du Pont	
+node	3396496989	44.5046530	3.6679812	L'atelier S				restaurant				
+node	5208820286	44.5074018	3.6621202	Le Bistrot				restaurant				
+node	9877065796	44.5500611	3.8310533	Hôtel restaurant Les Sources				restaurant				
+node	9877086436	44.4902647	3.7393091	La Remise				restaurant				
+relation	1067629			Les Bondons	8	48400	48028					
+node	5604437421	44.3859176	3.6198777	Restaurant				restaurant				
+relation	111902			Brion	8	48310	48031					
+node	2016849044	44.7726327	3.0450433	La Chaldette				restaurant				
+node	2016849060	44.7727760	3.0447066	La Vallée du Bès				restaurant				
+node	2161117514	44.7727998	3.0451537	Bar-Tabac				bar				
+relation	283824			Le Buisson	8	48100	48032					
+node	2155986721	44.6439083	3.2352884	Auberge du Lac du Moulinet				restaurant				
+relation	283812			La Canourgue	8	48500	48034					
+node	3066897323	44.3792364	3.2529096	Chez Louis				restaurant				
+node	6723905412	44.4322342	3.2143378	La Citadelle				restaurant	1		Chemin de Saint Amans	
+relation	1050410			Cassagnas	8	48400	48036					
+node	4227293090	44.2717676	3.7305454	Espace Stevenson				restaurant				
+relation	1060327			Chadenet	8	48190	48037					
+way	290583455	44.5180367	3.6339700	La Chadenède				bar				
+relation	9069064			Bel-Air-Val-d'Ance	8	48600	48038					
+way	213182448	44.8324377	3.6190857	La Baraque du Tribe				bar				
+way	443427948	44.8528791	3.6594536	Le Cyrano				bar	19	48600	Place des Chirac	
+relation	283811			Chanac	8	48230	48039					
+node	1993097908	44.4667791	3.3400597	Le Relais des Causses				restaurant				
+node	4883827742	44.4652378	3.3446395	Pizza Rock				restaurant				
+way	187438989	44.4654986	3.3448763	Lou Cantou				restaurant				
+way	187441576	44.4664334	3.3448339	Hôtel des Voyageurs				restaurant				
+relation	1060736			Châteauneuf-de-Randon	8	48170	48043					
+node	5543371121	44.6406096	3.6752088	L'oustalet bar tabac				bar				
+way	357198703	44.6348615	3.6781045	Hotel le Grand Connétable				restaurant			L'Habitarelle	
+relation	403827			Chaudeyrac	8	48170	48045					
+node	13132871696	44.6595645	3.7544707	Bar de Jojo				bar		48170	Rue des Hirondelles	
+relation	403822			Cheylard-l'Évêque	8	48300	48048					
+node	5044793291	44.6476589	3.8030312	Le Refuge du Moure				bar				
+relation	5812015			Bédouès-Cocurès	8	48400	48050					
+node	5605124321	44.3440243	3.6048942	Cévenn'sonne				restaurant				
+way	289953086	44.3477563	3.6200530	La Lozerette				restaurant	89		Route du Pont de Montvert	
+relation	287432			Le Collet-de-Dèze	8	48160	48051					
+node	1866581270	44.2454702	3.9228773	La Petite Halte				restaurant				
+node	4337837743	44.2508219	3.9531675	La Source				restaurant				
+relation	283817			Esclanèdes	8	48230	48056					
+node	2472123986	44.4816812	3.3584205	L'Escalette				restaurant	34		Place de la Mairie	
+relation	5812017			Florac Trois Rivières	8	48400	48061					
+node	1718145547	44.3257555	3.5940520	Chez les paysans				restaurant	3 bis		Rue Théophile Roussel	
+node	2401443371	44.3237334	3.5940098	La Madeleine				bar	6		Place Louis Dides	
+node	2401443373	44.3251870	3.5932486	Hôtel Restaurant "Le 21				restaurant	21	48400	Esplanade Marceau Farelle	
+node	2401443375	44.3247293	3.5938506	Le Globe				restaurant				
+node	2401443376	44.3238116	3.5943585	Au Pêcher Mignon				restaurant			Place Louis Dides	
+node	2401443378	44.3249521	3.5939730	Le Belluno				restaurant	6	48400	Esplanade Marceau Farelle	
+node	2401443379	44.3248398	3.5933989	La dolce vita, Pizzeria				restaurant	24		Rue Armand Jullie	
+node	2401443380	44.3265360	3.5922656	Les tables de la fontaine				restaurant	31		Rue du Thérond	
+node	2435123679	44.3255195	3.5930695	Chez Martine et John				bar	4		Place Boyer	
+node	2535294654	44.3228676	3.5951070	Cave du 25				bar				
+node	2535762056	44.3205080	3.5968725	Les Volets Rouges				restaurant				
+node	2551014935	44.3166890	3.6133183	L'Auberge Cévenole				restaurant				
+node	3063620704	44.3245547	3.5944299	La Salamandre				restaurant	10		Rue des Marches	
+node	6598905887	44.3245822	3.5930562	Le Subvers				restaurant	5		Rue Serpente	
+node	9881085266	44.3257554	3.5941559	Le Shinc				bar				
+node	9947907217	44.3218497	3.5956241	L'Adonis				restaurant			Rue du Pêcher	
+node	10185628279	44.3239016	3.5944699	L'embuscaf				cafe	11	48400	Place Louis Dides	
+node	13985844053	44.3217618	3.5959438	Bistro Hotel des Gorges du Tarn				bar			Rue du Pêcher	
+way	177939554	44.3361975	3.5878215	L'Estival				restaurant		48400	Route du pont de Monvert	
+way	177941054	44.3248630	3.5936510	Dédé La Braise				restaurant	7	48400	Esplanade Marceau Farelle	
+way	177941220	44.3191178	3.5984754	Hôtel Restaurant Le Pont Neuf				restaurant				
+relation	111910			Fontans	8	48700	48063					
+way	320224880	44.7413775	3.3521220	Le Saint-Pas				cafe				
+relation	111899			Fournels	8	48310	48064					
+node	3004138816	44.8166966	3.1210657	La table fournelaise				pub				
+relation	283804			Fraissinet-de-Fourques	8	48400	48065					
+way	734621594	44.2286811	3.5238926	Ferme Auberge du Veygalier				restaurant		48400	Lieu-dit Le Veygalier	
+relation	1070498			Grandrieu	8	48600	48070					
+node	471029955	44.7857100	3.6333657	Laurès				restaurant				
+node	471030288	44.7845697	3.6336674	Café				cafe				
+node	471031201	44.7837923	3.6343017	Chez Daudet				bar				
+node	5060325748	44.7838119	3.6342654	Chez Daudet				restaurant				
+relation	287689			Hures-la-Parade	8	48150	48074					
+node	760533768	44.2645226	3.4608361	Auberge du Chanet				restaurant				
+node	6703148376	44.2075684	3.2942862	Hôtel Restaurant de la Jonte				restaurant	1		Les Douzes Route des Gorges	
+node	13162479010	44.2447643	3.3525109	Ô-Garage				restaurant	5	48150	Rue de l'Église	
+node	13849206086	44.2522127	3.4266241	909 Bar				cafe				
+relation	1067627			Ispagnac	8	48320	48075					
+node	2533779198	44.3702185	3.5354493	La Table Ronde				restaurant				
+node	2533779205	44.3705876	3.5349085	Le Galeton				restaurant				
+node	2533779209	44.3707095	3.5352617	Le Royal Bar				bar	10	48320		Place Jules Laget
+node	2533779216	44.3706077	3.5356220	Les Vignes Rouges				restaurant		48320	Chemin Royal	
+node	5825440815	44.3702521	3.5347681	Le Boulodrome				bar		48320	Rue des Barrys	
+relation	403825			Langogne	8	48300	48080					
+node	9868896143	44.7343725	3.8355523	Le Tonnelier				restaurant				
+node	9870869461	44.7361064	3.8342253	La Table du Lac				restaurant				
+node	9870952250	44.7334757	3.8576885	Restaurant Pizzeria Gaillard				restaurant				
+node	9870957163	44.7267615	3.8559992	Le Saint-Joseph				bar				
+node	9870967383	44.7295640	3.8565583	Ô Bon Moment				restaurant				
+node	9871001116	44.7255813	3.8542251	Le 22				restaurant				
+node	9871016318	44.7268595	3.8563621	Le Gévaudan				restaurant				
+node	9871016319	44.7260372	3.8560228	Le Vieux Pont				bar				
+node	9872591193	44.7252828	3.8538219	Napoli Pizza				restaurant				
+node	9872596862	44.7351974	3.8587174	Les Tilleuls				bar				
+node	9872597884	44.7264310	3.8545988	Café de la Halle				cafe				
+node	11105519571	44.7262553	3.8551495	Café de l'Univers				bar				
+node	13092573271	44.7267705	3.8546832	Les délices de la Tour				bar				
+node	13092579734	44.7287649	3.8566396	La Bohème				restaurant				
+node	14132951181	44.7265051	3.8557563	Café du Midi				pub				
+way	305667837	44.7265430	3.8544615	La cuisine de greco				restaurant				
+way	429082698	44.7325387	3.8574664	La Table de Bistou				restaurant				
+way	429108746	44.7294646	3.8574035	Le Boulodrome				restaurant				
+relation	1070564			Laubert	8	48170	48082					
+node	5792565247	44.5828497	3.6351558	Bar restaurant la pontière				restaurant				
+relation	287688			Laval-du-Tarn	8	48500	48085					
+node	10037585807	44.3355140	3.3589299	Château de la Caze				restaurant				
+relation	6837826			Prinsuéjols-Malbouzon	8	48100;48270	48087					
+node	1394602289	44.7008844	3.1352179	Bar Restaurant Perret				restaurant				
+relation	287414			La Malène	8	48210	48088					
+node	1919250150	44.3013480	3.3205974	Le Manoir de Montesquiou				restaurant				
+node	9968238417	44.3128908	3.3369757	La buvette du Gabitou				bar				
+way	124524911	44.3016750	3.3203580	La Table de Lisa				restaurant				
+way	124525501	44.3010920	3.3201635	Les 4 Voutes				restaurant				
+way	124525550	44.2914819	3.2902917	Le Roc des Hourtous				restaurant				
+relation	111894			Le Malzieu-Ville	8	48140	48090					
+node	2511475417	44.8555535	3.3322880	Chez Ponpon				restaurant				
+node	8757659859	44.8547475	3.3310468	Chez Pierrot				restaurant				
+node	8757659862	44.8548990	3.3314414	Les Arches				restaurant				
+node	13042522803	44.8552019	3.3310712	Le Drogol				cafe	2	48140	Avenue Pierre Rousset	
+relation	960293			Marchastel	8	48260	48091					
+node	2016705575	44.6505696	3.1064740	Auberge de la Tourre				restaurant				
+node	7965130785	44.6176375	3.0744758	Buron Cap Combattut				restaurant		48260		
+way	186827973	44.6122479	3.1012287	Buron de Born				restaurant				
+relation	283813			Marvejols	8	48100	48092					
+node	1341316774	44.5546289	3.2909536	Café du Globe				cafe				
+node	1392092545	44.5558401	3.2909272	Bar tabac : La barrière				bar				
+node	1392102482	44.5518837	3.2921235	Bar restaurant A la bête du Gévaudan				bar				
+node	1392102487	44.5546819	3.2922039	Les délices du Gévaudan				restaurant				
+node	1392102499	44.5537645	3.2925794	Ô Mareva				restaurant				
+node	1392102501	44.5551177	3.2913403	Bar le Diabolo				bar				
+node	1392102507	44.5547584	3.2920484	Le Daytona				bar				
+node	1392109097	44.5517767	3.2920913	Bar La terasse				bar				
+node	1392109100	44.5517155	3.2919089	Café restaurant de Paris				cafe				
+node	1392113184	44.5515550	3.2932017	Café du Nord				cafe				
+node	1392447206	44.5518610	3.2915600	Pizzeria				restaurant				
+node	1398470687	44.5526130	3.3159714	Domaine De Carrière				restaurant		48100	Quartier de l'Empéry	
+node	2472636666	44.5543765	3.2926497	Le Duplex - Giuseppe				restaurant				
+node	2521098108	44.5527175	3.2912424	Bar Glacier - Le Griffon				bar				
+node	2521098112	44.5526935	3.2908494	Café du commerce - Chez Mimi				bar				
+node	8883419019	44.5534060	3.2904621	Le Royal				restaurant	11;13	48100	Rue de la République	
+node	10048816864	44.5420190	3.2861391	Sillon Lauzé				cafe				
+relation	6837823			Massegros Causses Gorges	8	48210;48500	48094					
+node	760604584	44.3127795	3.2427580	Snack Bar du Point Sublime				cafe				
+node	1329677980	44.3001815	3.2779297	Les Détroits				restaurant				
+node	7709972757	44.2904642	3.2379199	Buvette du Pas de Soucy				cafe				
+node	7792308804	44.2778909	3.2274785	Chez alex				restaurant				
+node	9967512676	44.3094021	3.1734741	Chez Ricou				restaurant	28		Place de la Mairie	
+way	411696819	44.2756984	3.2260703	Hôtel Le Parisien				restaurant	2	48210	Rue de la Tieule	
+relation	287404			Mende	8	48000	48095					
+node	1841069203	44.5174542	3.4975610	Le Drakkar				pub	12 bis		Boulevard Henri Bourrillon	
+node	3294109210	44.5161603	3.4994333	Café de Paris				cafe				
+node	3294109211	44.5173556	3.5010484	Ô’mya’M				cafe				
+node	3294109213	44.5159764	3.4985082	Brasserie Le Provençal				cafe	3		Boulevard Henri Bourrillon	
+node	3428787520	44.5189851	3.5003636	Hôtel de France				restaurant	7		Boulevard Lucien Arnault	
+node	3428787521	44.5194736	3.4974103	Les Remparts				bar				
+node	3430370199	44.5177848	3.4971082	GTM - La Caille				restaurant				
+node	3803431861	44.5163573	3.4990763	Le Commerce				cafe	2		Boulevard Henri Bourrillon	
+node	5602720022	44.5164394	3.4993473	Latina Café				bar	1 bis		Boulevard du Soubeyran	
+node	5619229721	44.5178866	3.4979166	Les Voutes				restaurant				
+node	5619229730	44.5176135	3.4992974	Irish Pub				restaurant				
+node	5679654845	44.5159028	3.4804846	Café U				cafe	21	48000	Chemin de Ramilles	
+node	6461324072	44.5163848	3.4893943	Le Barresto				restaurant	21 bis	48000	Avenue des Gorges du Tarn	
+node	9976832019	44.5180482	3.4994350	Suzette & thé ô				restaurant	6		Rue de l'Ange	
+node	10807976638	44.5177365	3.4995412	Beurre Noisette				restaurant	1		Rue de l'Abbaye	
+node	10807976643	44.5179191	3.4989082	Boulevard des Thés				cafe				
+node	10807976652	44.5177377	3.5000333	Dragon d'Asie				restaurant				
+node	10807976657	44.5178122	3.5011398	Le Kfé				restaurant	1		Place Charles de Gaulle	
+node	13430033505	44.5180607	3.5000347	Dialika shop afeo exotic				restaurant	11		Rue Droite	
+node	13468561484	44.5060457	3.5279684	L'Aerodrome				restaurant		48000	Aerodrome de Mende-Brenoux	
+way	1442098882	44.5179070	3.5007892	Le Duo Gourmand				restaurant	7		Rue d'Angiran	
+way	1442107030	44.5177231	3.4950487	Notto's				restaurant	4		Rue Charles Morel	
+way	1442139651	44.5163906	3.4973193	Mr & Mrs Bund				restaurant	13		Boulevard Henri Bourrillon	
+way	1442144055	44.5178854	3.4980541	Au P'tit Bonheur				restaurant				
+way	1442451983	44.5176308	3.4961012	Le Sanglier				restaurant	5	48000	Avenue Maréchal Foch	
+way	1442680188	44.5169299	3.4995854	Taj Mahal Mende				restaurant	1		Rue Saint-Privat	
+way	1442684736	44.5184418	3.4986679	Le Tipaza				restaurant	10		Rue de l'Ancienne Maison Consulaire	
+way	1443898187	44.5184327	3.4998884	Ozmoz				restaurant				
+way	1443900651	44.5174318	3.4974803	L'Oxxo				restaurant	7		Place Urbain Ⅴ	
+relation	283798			Meyrueis	8	48150	48096					
+node	2435123652	44.1790381	3.4292245	Café de l'Union				cafe				
+node	2460326066	44.1782298	3.4289311	L'Imprévu				restaurant	17	48150	Place Sully	
+node	2460326070	44.1785866	3.4293978	Aven Gourmand				restaurant				
+node	4616230047	44.1827959	3.4398925	Château d'Ayres				restaurant				
+node	5611353822	44.1785889	3.4289066	La Cardabelle				restaurant				
+node	5611356323	44.1788276	3.4290804	Jef Bar				bar				
+way	121602215	44.1796940	3.4302887	Le Jardin des Glaces				restaurant				
+way	702560955	44.1775442	3.4284177	Hôtel Familly				restaurant				
+relation	287403			Moissac-Vallée-Française	8	48110	48097					
+node	3684474645	44.1480902	3.7714065	La Patache				restaurant				
+relation	5812014			Bourgs sur Colagne	8	48100	48099					
+node	1995017456	44.5153374	3.2550941	Bar Urbain V				cafe				
+node	5792580477	44.5153852	3.2555866	Le P'tit Marché				restaurant	1	48100	Place Urbain V	
+node	14103544941	44.5228721	3.2653994	La Cour d'École				restaurant	8	48100		Place de la Pieta
+relation	138714			Nasbinals	8	48260	48104					
+node	316861286	44.6725561	3.0740388	Buron du Ché				restaurant				
+node	1970785238	44.6675644	3.0459021	La Randonnée				restaurant				
+node	1995544908	44.6582411	3.0723719	Maison de Rosalie				restaurant				
+node	2084493716	44.6625848	3.0460177	Bastide				restaurant				
+node	2084493717	44.6627659	3.0462289	Bar-Tabac-Journaux L'Occitan				bar	24		Rue Principale	
+node	2084858513	44.6635774	3.0443521	Les Sentiers de l'Aubrac				restaurant				
+relation	5812018			Naussac-Fontanes	8	48300	48105					
+node	6895746151	44.7252062	3.8376165	Le bistrot du lac				restaurant				
+node	7822678585	44.7265578	3.8366599	L'Oasis				restaurant				
+relation	1067754			Paulhac-en-Margeride	8	48140	48110					
+way	348243421	44.9463136	3.3807516	Auberge le Bon Accueil				restaurant				
+relation	287427			Le Pompidou	8	48110	48115					
+way	345609871	44.1950614	3.6540642	Le Cuisineur				restaurant				
+relation	5812019			Pont de Montvert - Sud Mont Lozère	8	48220	48116					
+node	614381328	44.3630891	3.7447709	La Truite Enchantée				restaurant				
+node	614381329	44.3629687	3.7453910	Le sources du Tarn				restaurant				
+node	614381333	44.3632811	3.7440963	Café du commerce				bar		48220		
+node	614381334	44.3633141	3.7438047	Chez Romain				bar				
+node	2319798144	44.3504942	3.7974461	Le Cantou du Poncet				restaurant				
+node	2319798146	44.3464079	3.8025111	Domaine du Cerf - Restaurant				restaurant		48220	Masmejean	
+node	8893795041	44.3660003	3.7447598	Le Bouffadou				restaurant		48220	Rue du Pré Platon	
+relation	287430			Pourcharesses	8	48800	48117					
+way	126593123	44.4514949	3.8942358	Guinguette du Bout du Lac				restaurant				
+relation	287428			Prévenchères	8	48800	48119					
+node	1354134337	44.4776826	3.9344884	Auberge de la Régordane				restaurant				
+node	1354134339	44.5209073	3.9099518	Auberge du Vieux Tilleul				restaurant				
+node	3670318791	44.4778927	3.9347137	Le Comptoir de La Régordane				restaurant				
+node	4983374121	44.5211357	3.9090229	Chiff's Café				restaurant				
+node	14085031837	44.4775126	3.9352840	La Parerie				restaurant				
+node	14085061486	44.4776199	3.9353975	L'atelier de Marie-Noëlle				cafe				
+relation	283825			Recoules-d'Aubrac	8	48260	48123					
+node	1857360110	44.6924809	3.0348325	Le buron du bès				restaurant				
+relation	1070548			Recoules-de-Fumas	8	48100	48124					
+node	5611299015	44.6410778	3.3456556	L'oustal				restaurant				
+relation	9080462			Monts-de-Randon	8	48000;48700	48127					
+node	8882017846	44.6319814	3.4773905	O'Mineola				restaurant				
+way	324619897	44.6159448	3.4765877	Ferme de Saltel				restaurant				
+relation	111909			Rimeize	8	48200	48128					
+node	12000715260	44.7342506	3.3399053	Café Bigose				cafe				
+way	373033219	44.7656521	3.3233419	Bar du Pont				bar				
+relation	409851			Rocles	8	48300	48129					
+way	274271871	44.7384191	3.7809482	Rondin des bois				restaurant				
+relation	960977			Rousses	8	48400	48130					
+way	254169472	44.2059977	3.5883752	Le refuge de Rousses				restaurant				
+relation	283801			Le Rozier	8	48150	48131					
+node	5609066921	44.1902920	3.2096230	Capluc Kfé				restaurant				
+node	5792613843	44.1913975	3.2075011	Le Gévaudan				restaurant				
+node	5792613844	44.1911571	3.2075225	Entre Tarn et Jonte				restaurant				
+node	5792613845	44.1911033	3.2075466	O’Rozier				restaurant	1		Impasse des Faïsses	
+node	11163328575	44.1904897	3.2083657	Brasserie Le Rozier				restaurant				
+node	11163521723	44.1907982	3.2073769	Didrock Cafe				restaurant				
+node	13807860544	44.1918267	3.2069248	La Guinguette Barraquita				restaurant				
+node	13807860549	44.1904604	3.2090618	L’Alicanta				restaurant				
+way	177972475	44.1904185	3.2090510	Hôtel Doussière				restaurant				
+relation	111897			Saint-Alban-sur-Limagnole	8	48120	48132					
+node	2511371610	44.7811507	3.3867698	Auberge Saint-Jacques				restaurant				
+node	2514248791	44.7811464	3.3879773	Bar du Centre				pub				
+node	2514248793	44.7810632	3.3879251	Le gîte du Centre				restaurant	32		Grand Rue	
+node	3764370202	44.7825716	3.3883493	La butte aux oiseaux				restaurant				
+node	9951036063	44.7807544	3.3877009	Le Chemin des Sens				restaurant				
+node	9951227182	44.7812854	3.3880352	Le Gevaudan				restaurant	38		Grand Rue	
+way	139473141	44.7810070	3.3879380	Gite d´Etape et Bar "L'Europe"				bar				
+relation	287420			Saint-André-Capcèze	8	48800	48135					
+node	1394577881	44.4040313	3.9482033	Le Four				restaurant				
+relation	1114104			Saint-Bauzile	8	48000	48137					
+node	3342195218	44.4781167	3.4963376	Le Val d'Eaux				restaurant				
+relation	111901			Saint-Chély-d'Apcher	8	48200	48140					
+node	496820758	44.8011679	3.2745194	L'Atelier des Sens Restaurant pédagogique				restaurant		48200	Place du 8 Mai 1945	
+node	6855116072	44.7994942	3.2745230	Le Rabelais Brasserie pédagogique				restaurant		48200	Boulevard Guérin d'Apcher	
+node	9047866837	44.7995136	3.2766952	Bar du Pont				restaurant				
+node	12587606220	44.8002542	3.2721297	Aumega				restaurant	47	48200	Avenue de la Gare	
+node	13703152903	44.8035636	3.2761260	Le Lion d'Or				restaurant				
+relation	287413			Mas-Saint-Chély	8	48210	48141					
+way	232930535	44.3134436	3.3773538	Auberge de la Grive				restaurant				
+relation	386239			Sainte-Croix-Vallée-Française	8	48110	48144					
+node	1902355777	44.1799688	3.7420702	La Baraka				restaurant				
+node	1902355779	44.1803546	3.7423477	Café du Globe				bar				
+relation	1070511			Saint-Denis-en-Margeride	8	48700	48145					
+node	2514623424	44.7354967	3.4717878	Restaurant				restaurant				
+relation	6837827			Gorges du Tarn Causses	8	48210;48320	48146					
+node	1088159124	44.3663391	3.4116370	La Halle au blé				restaurant				
+node	1912484065	44.3370380	3.3838643	La Loupiote				restaurant				
+node	1918024895	44.3657336	3.4124723	Auberge du Moulin				restaurant				
+node	1918024902	44.3656006	3.4124130	Bar de la Digue				bar		48210	Rue du Front du Tarn	
+node	1918024904	44.3658482	3.4121197	Bar-Restaurant des Gorges du Tarn				restaurant				
+node	1918024928	44.3656500	3.4107810	Chez Léon				bar				
+node	1918024953	44.3655517	3.4116428	Restaurant aux Petits Galets				restaurant				
+node	1918024956	44.3656904	3.4102595	La Cazelle				bar				
+node	1918024960	44.3655605	3.4114352	La Tendelle				restaurant				
+node	1918024963	44.3657312	3.4111907	Le Bel Été				restaurant				
+node	1918024967	44.3655974	3.4113342	Le Central				bar				
+node	1918024975	44.3656350	3.4121421	Restaurant du Nord				restaurant				
+node	1919285010	44.3361801	3.3844544	Auberge de la Cascade				restaurant				
+node	3063430022	44.3463719	3.3956306	Café				cafe				
+node	10055856004	44.3655848	3.4119815	Abracadabar				bar				
+node	12879040401	44.3293442	3.3843540	Le Panorama				restaurant				
+node	13027900245	44.3409799	3.4667665	Les cinq arches				restaurant				
+way	65401402	44.3391630	3.4664460	Lou Claux				restaurant				
+way	289803602	44.3393625	3.4740460	Les copains d'Abord				restaurant				
+relation	1113769			Saint-Étienne-du-Valdonnez	8	48000	48147					
+node	4119054686	44.4552962	3.5619791	Le Bram's				restaurant				
+relation	287690			Saint-Étienne-Vallée-Française	8	48330	48148					
+node	1257316757	44.1568871	3.8403162	Le Martinet				restaurant			Chemin de la Cascade	
+node	1868880906	44.1667965	3.8423570	Un Dimanche à la Campagne				restaurant				
+way	115544076	44.1733735	3.8419345	La halte cévenole				restaurant		48330		Le Meyran
+relation	403826			Saint-Flour-de-Mercoire	8	48300	48150					
+node	5057186169	44.6851196	3.8259727	La Tartine de Modestine				restaurant				
+relation	5812020			Ventalon en Cévennes	8	48160;48240	48152					
+node	7653515909	44.3104851	3.8811873	Le Relais de l'Espinas				restaurant			Route des Crêtes	
+relation	287422			Saint-Germain-de-Calberte	8	48370	48155					
+node	5827440875	44.2181895	3.8088434	Au Figuier des Cévennes				bar				
+node	5827440876	44.2181208	3.8087864	Au Figuier des Cévennes				restaurant				
+node	9248275131	44.2246501	3.8012561	Le Petit Calbertois				restaurant				
+way	176356990	44.2247027	3.8738243	Lou Raiol				restaurant	0		Col du Pendedis	
+way	407841935	44.2173315	3.8085065	Chez Roger				bar				
+relation	5812016			Cans et Cévennes	8	48400	48166					
+node	9900294127	44.2712298	3.6052894	Brasserie du Tarnon				pub				
+relation	1070577			Saint-Léger-de-Peyre	8	48100	48168					
+node	8894835689	44.6075751	3.2773887	La Devèze				cafe				
+relation	287408			Saint-Martin-de-Boubaux	8	48160	48170					
+node	7801940375	44.2004845	3.9219846	L'Essentiel				restaurant				
+relation	1113925			Saint-Michel-de-Dèze	8	48160	48173					
+node	796356182	44.2503102	3.8956858	La Source				restaurant				
+relation	283807			Les Salelles	8	48230	48185					
+way	189194775	44.4786645	3.2746055	Ferme Auberge du Montet				restaurant				
+relation	283820			Les Salces	8	48100	48187					
+node	1998899447	44.5262916	3.1705028	Le Radal du Trébatut				restaurant				
+way	64167176	44.5716058	3.1222374	Relais des Lacs				restaurant				
+relation	111920			Serverette	8	48700	48188					
+node	7774149470	44.7056145	3.3864444	Chez Guy Laroche				cafe				
+node	9954439691	44.7044685	3.3856765	Chez Gustou				restaurant	39		Rue Royale	
+relation	287409			Vebron	8	48400	48193					
+node	12424801953	44.2534318	3.5832476	La Petite Maison de Blanche				restaurant				
+node	12430310334	44.2386394	3.5795203	Le Maki				restaurant				
+relation	287423			Vialas	8	48220	48194					
+node	5788121053	44.3851271	3.8751929	Auberge du Mas de la Barque				restaurant				
+node	6458983606	44.3327476	3.8952210	Bar du Nord				bar				
+node	12875711344	44.3319326	3.8973739	La pizzaiolette				restaurant				
+way	240401863	44.3330065	3.8952705	Boucherie				restaurant				
+relation	287418			Villefort	8	48800	48198					
+node	3029576762	44.4400948	3.9322594	Le Louvre				cafe				
+node	3029576763	44.4407144	3.9317404	Le National				restaurant				
+node	5795215157	44.4412944	3.9315354	O'Bistrot d'Alex				restaurant				
+node	8988409497	44.4387493	3.9323846	Produits Régionaux				cafe				
+node	11044572622	44.4422535	3.9322474	Au Partage des Saveurs				restaurant				
+way	118680846	44.4581687	3.9280675	Accueil pêche et nature du lac				cafe				
+way	118681116	44.4389125	3.9325155	Hôtel Balme				restaurant				

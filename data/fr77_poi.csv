@@ -1,0 +1,1669 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	216281			Achères-la-Forêt	8	77760	77001					
+node	4758031281	48.3478928	2.5641276	Graines de Café				cafe				
+relation	408512			Amillis	8	77120	77002					
+node	14070004392	48.7400134	3.1284059	Au QG d'Amillis				cafe	18	77120	Rue du Point du Jour	
+relation	1368386			Andrezel	8	77390	77004					
+node	2089383628	48.6115545	2.8131929	Café du Centre				cafe				
+relation	1287613			Annet-sur-Marne	8	77410	77005					
+node	3124131675	48.9158343	2.7272934	Cafétéria				restaurant				
+relation	78979			Arbonne-la-Forêt	8	77630	77006					
+node	10107983932	48.4177239	2.5653872	Dolce Pizza				restaurant	635	77630	Rue Grande	
+way	113234652	48.4015470	2.5512290	La Forêt - Chez Francis et Corinne				restaurant				
+relation	1412742			Aufferville	8	77570	77011					
+way	349228359	48.2171024	2.6059063	Le Relais de la Diligence				restaurant				
+relation	216360			Avon	8	77210	77014					
+node	2293991280	48.4169837	2.7265310	Au Buffet de la Gare				restaurant			Place de la Gare	
+node	2611722751	48.4167105	2.7243230	Itouya				restaurant				
+node	2611722752	48.4163776	2.7244103	Le Départ				restaurant				
+node	2611722757	48.4163731	2.7242472	Pizza Pazza				restaurant	6		Rue de la Gare	
+node	3689050470	48.4163548	2.7240682	Domaine du Magnat				restaurant	4		Avenue Franklin Roosevelt	
+node	3689058827	48.4167368	2.7244026	Tabac de la Gare				cafe				
+node	6755909924	48.4161846	2.7224246	Le smile				restaurant				
+node	11137767564	48.4121335	2.7253406	Café du Viaduc				cafe	124	77210	Rue du Montceau	
+way	286909093	48.4226306	2.7398711	O Garden				restaurant				
+way	286911780	48.4222647	2.7393440	Buffalo Grill				restaurant				
+relation	1412786			Bagneaux-sur-Loing	8	77167	77016					
+way	319361669	48.2306460	2.7067735	Bar de l'Hôtel de Ville				bar				
+relation	89575			Bailly-Romainvilliers	8	77700	77018					
+node	694179181	48.8356640	2.8148672	Crockett's Tavern				restaurant				
+node	1118965073	48.8502564	2.8189026	O San Sushi				restaurant				
+node	1118965097	48.8500830	2.8202898	Bistronome				restaurant				
+node	2932069971	48.8358407	2.8140933	Crockett’s Saloon				bar				
+node	8068250588	48.8507974	2.8195368	Café Le Capsyl				cafe				
+node	8191121714	48.8466099	2.8232798	Au bon petit Bailly				restaurant				
+node	8191121716	48.8502573	2.8201510	Mets raisins d'être				restaurant				
+node	8191123554	48.8499034	2.8199069	Warsi				restaurant				
+node	8191158320	48.8487509	2.8309898	Buffalo Grill				restaurant				
+node	8191158322	48.8508671	2.8195334	Le Capsyl				restaurant				
+node	14025175878	48.8513530	2.8201607	Level Up Coffee				cafe	5		Boulevard de Romainvilliers	
+relation	77632			Barbizon	8	77630	77022					
+node	536385654	48.4530715	2.6221684	Blackbird				restaurant				
+node	1597550076	48.4440963	2.6091538	Hôtellerie du Bas-Bréau				restaurant				
+node	2381710094	48.4445498	2.6075884	L'Angelo				restaurant	31	77630	Grande Rue	
+node	2381710095	48.4438219	2.6098475	O Bout Barbizon				restaurant	16	77630	Grande Rue	
+node	2381710096	48.4447374	2.6072079	La Bohème				restaurant				
+node	5630632022	48.4453120	2.6062091	Le Royal				pub				
+node	5630674721	48.4453492	2.6056502	Ermitage Saint-Antoine				restaurant	51		Grande Rue	
+node	5630694936	48.4455771	2.6044727	Crêperie Barjole				cafe				
+node	10106871476	48.4463449	2.6015170	Le Relais de Barbizon				restaurant				
+node	10107040578	48.4455419	2.6053405	Le Gaulois sur le Grill				restaurant				
+node	12346095403	48.4442020	2.6088629	La Juxtaposition				cafe				
+node	12346095405	48.4454654	2.6057464	Chez Pauline				restaurant				
+node	12860377704	48.4446974	2.6073384	L'A				cafe				
+way	113287337	48.4428615	2.6115015	Bobo Club				nightclub				
+relation	1391851			Bazoches-lès-Bray	8	77118	77025					
+node	6763637485	48.3977087	3.1903337	La Détente				bar	21	77118	Rue Grande	
+way	227542280	48.3973565	3.1883255	Champ Ramard				restaurant	9	77118	Rue Grande	
+relation	1330734			Beton-Bazoches	8	77320	77032					
+node	6731784461	48.6992509	3.2677969	Auberge de l'Est				restaurant				
+relation	80489			Blandy	8	77115	77034					
+way	113273839	48.5661855	2.7812775	Le Donjon				restaurant	19	77115	Place des Tours	
+way	113274700	48.5672660	2.7826040	Auberge des Tours				restaurant	5	77115	Place des Tours	
+relation	216256			Bois-le-Roi	8	77590	77037					
+node	512460231	48.4790455	2.6947641	Le BLR				restaurant	18	77590	Avenue Paul Doumer	
+node	512460324	48.4749841	2.6914926	Café de la gare				cafe				
+node	13301370859	48.4754752	2.6918009	Le goûter de Sophie				cafe				
+way	388723635	48.4680224	2.7076891	Bar de la Cité				pub				
+way	388724557	48.4675853	2.7072381	Sakura				restaurant	9	77590	Rue de la République	
+way	389345366	48.4637082	2.7055233	Le Milton Pub				restaurant				
+way	391063170	48.4693498	2.7064379	La Bacotte				restaurant	92	77590	Avenue du Maréchal Foch	
+relation	80122			Boissise-la-Bertrand	8	77350	77039					
+node	1020776643	48.5270437	2.5877749	L'Auberge des Chasseurs				restaurant				
+node	11964476169	48.5360466	2.5621009	Brasserie des grottes				pub	1806		Rue de Seine	
+relation	74355			Boissy-le-Châtel	8	77169	77042					
+way	749204638	48.8140602	3.1288742	La Cachette				restaurant	48	77169	Rue des Papeteries	
+relation	1419672			Bougligny	8	77570	77045					
+node	5585711228	48.1961751	2.6576465	Bar tabac				pub		77570	Rue Grande	
+relation	1304515			Bouleurs	8	77580	77047					
+node	3270507287	48.8790633	2.9057298	Le Vieux Lavoir				cafe				
+relation	1424886			Bourron-Marlotte	8	77780	77048					
+node	2372766214	48.3398242	2.7002102	Café de la Paix				restaurant				
+node	4172191989	48.3408334	2.7184182	Le Bistot du Broc				restaurant	5		Rue Mürger	
+node	13459852515	48.3394933	2.6974049	Les Prémices				restaurant	12		Avenue Blaise de Montesquiou	
+node	13592263765	48.3424167	2.7176589	La Papote				restaurant	35b		Rue Mürger	
+relation	411030			Bransles	8	77620	77050					
+node	1873160543	48.1521575	2.8342222	Lé Tendé				bar				
+node	1873160545	48.1520759	2.8342360	Lé Tendé				restaurant				
+relation	1393025			Bray-sur-Seine	8	77480	77051					
+node	10836393565	48.4159249	3.2377788	Göksu				restaurant				
+node	10836398659	48.4161456	3.2373128	Dream's Pizza				restaurant				
+node	10836409059	48.4164589	3.2365787	Le Romairy				cafe				
+node	10962029835	48.4167525	3.2357462	Le Flamboyant				restaurant				
+node	12047082353	48.4150189	3.2474079	La Guinguette				restaurant		77480	Rue des Pâtures	
+relation	87136			Brie-Comte-Robert	8	77170	77053					
+node	1861994079	48.6906434	2.6137064	Auberge de Tizi				restaurant				
+node	1861994082	48.6914383	2.6102277	La Guilde Gourmande				restaurant				
+node	1861994091	48.6944788	2.6098685	Kidaya				restaurant				
+node	1861994093	48.6957397	2.6087953	La Briardise				restaurant				
+node	1861994100	48.6912724	2.6100616	La Brasserie Briarde				restaurant				
+node	1861994102	48.6920618	2.6124179	Le Royal				cafe				
+node	1861994104	48.6967610	2.6068763	Les 4 Vents				cafe				
+node	1861994217	48.6909854	2.6099464	Le Luteta				cafe				
+node	1861994229	48.6913068	2.6133380	La Mosaïque				restaurant				
+node	1861994293	48.6970265	2.6152762	buffet de la gare				cafe				
+node	1863066231	48.7016972	2.6021439	Leopard 77				restaurant				
+node	5240802088	48.6966997	2.6124027	La Fabrique				restaurant				
+node	5591941921	48.7006842	2.6080388	Discothèque Seven				nightclub				
+node	9794528811	48.6901810	2.6078406	L'arquebuse				restaurant				
+node	9794570335	48.6899210	2.6077301	Palmanova				restaurant				
+node	10919754995	48.6907786	2.6138834	Planète Pizza				restaurant				
+node	13536719301	48.6899272	2.6076515	Laynou Thai Kitchen				restaurant	1	77170	Rue Paul Savary	
+way	113065034	48.6918050	2.6130055	A la Grâce de Dieu				restaurant				
+way	113110628	48.7000960	2.6023730	Wafu				restaurant				
+way	165517131	48.7022475	2.6006191	Délice d'Asie				restaurant				
+relation	1427559			La Brosse-Montceaux	8	77940	77054					
+node	1835629754	48.3486150	3.0263160	Le petit Périchois				restaurant	33	77940	Rue de la Vallée	
+relation	402643			Brou-sur-Chantereine	8	77177	77055					
+node	6263803741	48.8824604	2.6317837	Bel Ostia Pizza				restaurant	2	77177	Rue Lazare Carnot	
+node	7984911935	48.8805779	2.6288989	Le Fleuri				bar		77177	Avenue Jean Jaurès	
+way	115358884	48.8792275	2.6244995	African Evasion				restaurant	16	77177	Avenue Jean Jaurès	
+way	115358917	48.8850375	2.6238070	Casa Caldeira				restaurant	46	77177	Rue Lazare Carnot	
+way	115360092	48.8827415	2.6310210	Le Lotus de Brou				restaurant		77177	Rue Lazare Carnot	
+way	115360320	48.8821720	2.6325595	L'Auberge de Brou				restaurant	2	77177	Avenue Victor Thiébaut	
+relation	403039			Bussy-Saint-Georges	8	77600	77058					
+node	275727690	48.8383128	2.7114089	L'atelier du Wok				restaurant				
+node	603028511	48.8304949	2.7104209	Palombaggia				restaurant				
+node	3746193113	48.8377802	2.7255512	Shiang Yun				restaurant	3		Allée Madame de Montespan	
+node	4436083890	48.8392459	2.7108415	Au Bistrot				restaurant				
+node	4566577966	48.8394000	2.7107900	Au Bussy				restaurant				
+node	5071628902	48.8368923	2.7092311	Panda Sushi				restaurant	5	77600	Place Fulgence Bienvenue	
+node	5080256072	48.8343955	2.7084774	Villa de Bussy				restaurant	13	77600	Boulevard Pierre Mendès France	
+node	5133743366	48.8382159	2.7101126	Sheesh Mahal				restaurant				
+node	5599822528	48.8409145	2.7013027	D. Sushi				restaurant				
+node	5599822585	48.8428172	2.6975190	Les Trois Tilleuls				restaurant	4	77600	Rue de Ferrières	
+node	6925238687	48.8357332	2.7107307	Myu Myu				cafe				
+node	8241015857	48.8372875	2.7075934	La table de Myu-Myu				restaurant				
+node	9250725478	48.8358282	2.7081971	Villa de Bussy				restaurant				
+node	9274828017	48.8462780	2.7137171	La Terrasse				restaurant			Promenade des Golfeurs	
+node	11068927164	48.8369043	2.7094146	Hibar Fondue (嗨锅)				restaurant	5	77600	Pl. Fulgence Bienvenue,	
+node	11576985169	48.8287152	2.7420472	Charal L'Atelier				restaurant				
+node	13659070854	48.8387109	2.7093495	Brasserie De Paris				restaurant				
+node	13753139059	48.8308405	2.7106835	Red Corner				bar				
+relation	402925			Bussy-Saint-Martin	8	77600	77059					
+node	13430369272	48.8388468	2.6594400	Leopard				restaurant				
+relation	1419536			Buthiers	8	77760	77060					
+node	12114543754	48.2864203	2.4303622	Les Roches Gourmandes				restaurant	33	77760	Rue de l'Église	
+way	197549821	48.2945150	2.4301755	Auberge Canard				restaurant	88	77760	Rue des Roches	
+relation	224108			Cannes-Écluse	8	77130	77061					
+node	7067461285	48.3647453	2.9847741	Pizza Jojo				restaurant	6	77130	Place Charles de Gaulle	
+relation	78641			Cély	8	77930	77065					
+node	7855927219	48.4592127	2.5374121	La Celysienne				restaurant	44		Route de Fontainebleau	
+relation	80135			Cesson	8	77240	77067					
+node	1204247063	48.5628790	2.6033604	Le Sénart				cafe				
+node	11306273026	48.5871966	2.6016432	Mon Bistrot				restaurant		77240		
+node	11306273027	48.5877896	2.6001473	Le Dragon du Soleil				restaurant		77240		
+node	11306273028	48.5869818	2.6012258	O'Charbon				restaurant		77240		
+node	12369323301	48.5668472	2.5932690	Publicité 4/3				pub				
+node	13734636701	48.5839851	2.6030996	French Coffee Shop				cafe				
+way	113230058	48.5546253	2.5844415	The Bistro				cafe				
+relation	77631			Chailly-en-Bière	8	77930	77069					
+node	1597618665	48.4663005	2.6070527	Le Cheval blanc				cafe				
+node	1597618671	48.4659432	2.6068648	Le Lion d'or				restaurant				
+way	113306059	48.4698855	2.6038470	Le Paddy O'Neil				pub	27			
+way	113306304	48.4673860	2.6074625	Le Tournebride				pub	26			
+way	113307063	48.4659260	2.6068360	Le Lion d'Or				pub				
+way	113307880	48.4671485	2.6065700	La Chaillotine Burger & Rôtisserie				restaurant		77930	20 Rte de Paris	
+relation	74356			Chailly-en-Brie	8	77120	77070					
+node	1646776855	48.8089676	3.1123519	Caibotin				restaurant	1547	77120	Route du Clos Bourdin	
+relation	403841			Chalifert	8	77144	77075					
+node	8211044627	48.8990385	2.7709606	L'Ermitage Lounge				bar	68	77144	Chem. de Meaux	
+node	8211044628	48.8876356	2.7728539	Café nature & Co				cafe				
+node	12053022371	48.8900733	2.7659440	Le Cabanon de Papa				bar				
+relation	1368389			Champeaux	8	77720	77082					
+node	1492185600	48.5830456	2.8032496	La Palmeraie du Sud				restaurant				
+node	2089383633	48.5845110	2.8066636	Le Triangle Vert				cafe				
+relation	402751			Champs-sur-Marne	8	77420	77083					
+node	974149273	48.8411982	2.5915651	Chez Cathy				cafe				
+node	2071155184	48.8390627	2.5862570	FDK				cafe				
+node	2290424195	48.8413475	2.5844911	Ó Poké				restaurant	27	77420	Avenue André-Marie Ampère	
+node	2294302466	48.8426480	2.5850867	Le Trois Quatorze				restaurant				
+node	2705344356	48.8382501	2.5928806	Cafeteria Crous				cafe				
+node	2792767814	48.8523754	2.6002501	Fujiyama				restaurant	2	77420	Rue de Chelles	
+node	2792776868	48.8530258	2.6023037	La Perle du Maroc				restaurant	11	77420	Rue de la Mairie	
+node	2883404224	48.8562600	2.5902269	Tommy's				restaurant		77420	Place Matteotti	
+node	4977843328	48.8523996	2.6025828	Chez Colette				restaurant		77420		
+node	4977851821	48.8522657	2.6020696	Restaurant le VII				restaurant		77420		
+node	4977851823	48.8523803	2.6033305	Tabac du Château				cafe	27	77420	Rue de Paris	
+node	4979115038	48.8413238	2.5876719	Chez Jeanine				cafe				
+node	4979115039	48.8422747	2.5874377	Cafétéria Michèle Aubertel				cafe				
+node	4980223122	48.8553266	2.5836505	K Music Bar Concept				bar				
+node	4980270221	48.8552221	2.5835592	Skyway				restaurant				
+node	5936455261	48.8441396	2.5835351	Pizza Uno				restaurant	9	77420	Avenue André-Marie Ampère	
+node	6951144638	48.8523369	2.6010101	Bois & Braises				restaurant	13	77420	Rue de Paris	
+node	6951192819	48.8523258	2.6058438	Marco Polo				restaurant	36	77420	Rue de Paris	
+node	7931526544	48.8489946	2.5798514	Royal Wok				restaurant	40	77420	Boulevard de Nesles	
+node	8096939165	48.8541091	2.5817045	DM Sushi				restaurant	2	77420	Avenue des Pyramides	
+node	8318741794	48.8414439	2.6048731	Tabac Le Picasso				cafe	24	77420	Place Pablo Picasso	
+node	9799394972	48.8405413	2.5935686	L'Asian 77				restaurant	19	77420	Avenue Blaise Pascal	
+node	9934315264	48.8406017	2.5933715	Golden Star				restaurant	19	77420	Avenue Blaise Pascal	
+node	10058478986	48.8535329	2.5817418	Le Shang Hai				restaurant				
+node	11401713957	48.8408852	2.5846404	Les Lumières				restaurant				
+node	11993430237	48.8428744	2.5850583	Panda King				restaurant				
+node	12006100579	48.8435116	2.5838605	Go to the Chicks				restaurant	8	77420	Boulevard Archimède	
+node	12017629084	48.8440655	2.5835647	La Bonne Graye				restaurant	9	77420	Avenue André-Marie Ampère	
+node	12017741341	48.8412888	2.5845075	Kebab Berliner				restaurant	27		Avenue André-Marie Ampère	
+node	12018169307	48.8405142	2.5926858	Campus Food Court				restaurant				
+node	13893239204	48.8428407	2.5818735	Le Comptoir de Noisy-Champs				cafe				
+node	14129876937	48.8523563	2.6073478	bimbambao				restaurant	48		Rue de Paris	
+node	14144072241	48.8501303	2.6013743	Shiba				restaurant				
+way	1524046946	48.8420529	2.5842665	Le Descartes				cafe	19		Avenue André-Marie Ampère	
+relation	87686			Changis-sur-Marne	8	77660	77084					
+node	6790017694	48.9589746	3.0240206	Café de la Gare				cafe	7	77660	Rue de la Gare	
+relation	402916			Chanteloup-en-Brie	8	77600	77085					
+node	3681741348	48.8577609	2.7515917	Dock 39				bar				
+node	3681741353	48.8575421	2.7510212	3 Brasseurs				restaurant				
+node	5979512995	48.8558562	2.7437173	Le Soleil d'Agadir				restaurant				
+node	5979531729	48.8559979	2.7456237	Ai Pho				restaurant				
+node	6080999198	48.8564074	2.7480244	Fuxin Sushi Bar				restaurant	97	77600	Route de la Ferme du Pavillon	
+node	13672110810	48.8536342	2.7488298	Peanut's Coffee				restaurant				
+node	13672110811	48.8536884	2.7485699	Au Fût et à mesure				bar				
+relation	1423194			La Chapelle-la-Reine	8	77760	77088					
+node	12981993419	48.3172288	2.5703392	La Suite				restaurant	5	77760	Place de la République	
+node	12981993420	48.3174071	2.5700665	Chez Corvus				bar	11	77760	Place de la République	
+way	209267015	48.3171120	2.5711698	Pizza Rella				restaurant	27	77760	Rue du Général de Gaulle	
+relation	1289641			Charny	8	77410	77095					
+node	2653730751	48.9707148	2.7613486	Le Saint-Patoche				pub				
+node	8071935454	48.9714317	2.7638907	Terroir et Saveurs				restaurant				
+relation	1364244			Chartrettes	8	77590	77096					
+node	5772483107	48.4850119	2.7030518	Restaurant le Chalet				restaurant	37	77590	Rue Foch	
+node	5772483109	48.4884972	2.6988624	La Dolce Vita				restaurant	46Bis	77590	Rue Georges Clemenceau	
+relation	1337505			Chartronges	8	77320	77097					
+node	5668222377	48.7591523	3.2770881	Entre ciel et Terre				restaurant				
+relation	403931			Château-Landon	8	77570	77099					
+node	3394266052	48.1495431	2.7027096	Aux Remparts				pub				
+node	7557017886	48.1483264	2.7008711	Le Carré d'Or				restaurant				
+node	12947078890	48.1492091	2.7027003	Kapadokya				restaurant				
+node	12947100450	48.1498877	2.7040830	Auberge de la Ville forte				restaurant				
+node	12947117319	48.1493369	2.7018291	Le Cheval Blanc				restaurant				
+relation	215332			Le Châtelet-en-Brie	8	77820	77100					
+node	1835630650	48.5047273	2.7922675	Istanbul Kebab				restaurant				
+node	2427078939	48.5040843	2.7932205	Restaurant Le Châtelain				restaurant				
+node	2979209918	48.5044780	2.7939122	Café des Sports				cafe				
+relation	1375216			Châtres	8	77610	77104					
+way	813636303	48.7264499	2.8314007	Le Nationale 4				restaurant				
+relation	1373350			Chaumes-en-Brie	8	77390	77107					
+node	1785357809	48.6654622	2.8424788	Au Coin Musard				bar				
+node	3935933177	48.6646777	2.8430867	La Civette				bar				
+node	3956336107	48.6650326	2.8413628	Café des Sports				bar				
+relation	402614			Chelles	8	77500	77108					
+node	2307933807	48.8781784	2.5871303	L'Avenue				restaurant				
+node	2307933866	48.8790004	2.5879374	Le Larzac				cafe				
+node	2307982387	48.8760212	2.5836399	Authentique Burger				restaurant				
+node	2430511532	48.8791644	2.5931262	Le Cigalou				restaurant	42	77500	Rue Gambetta	
+node	4969937560	48.8727666	2.5790381	L'Envol				restaurant	24	77500	Avenue du Maréchal Foch	
+node	4974158011	48.8784582	2.5778379	Crêperie À l'Ouest				restaurant	32	77500	Avenue Georges Digoy	
+node	6924281898	48.8738896	2.5904192	Kala				restaurant	2	77500	Boulevard Chilpéric	
+node	6924295201	48.8739623	2.5905217	La petite Vitesse				restaurant	1	77500	Avenue François Mitterrand	
+node	6924326429	48.8764539	2.5842640	La Guinche Bières des bords de Marne				pub				
+node	6924355233	48.8778675	2.5862240	Pizza Hut				restaurant				
+node	6926754548	48.8789521	2.5888398	Crep'Suzette				restaurant	40	77500	Rue Louis Eterlet	
+node	7169239200	48.8739811	2.5807644	Étoile Traiteur Asiatique				restaurant	4	77500	Avenue du Maréchal Foch	
+node	7328363235	48.8769290	2.5814457	Le Week End				bar		77500		
+node	7328392564	48.8777313	2.5865634	Le Phenix				restaurant				
+node	7410958525	48.8893084	2.5946723	Le Jardin de la Tuilerie				restaurant	16	77500	Rue de l'Ormeteau	
+node	7433531314	48.8801930	2.5858218	Sushi Sumo				restaurant	27	77500	Rue Gustave Nast	
+node	7438167804	48.8696063	2.5882835	L'olivier				restaurant	64	77500	Rue Auguste Meunier	
+node	7438217008	48.8711771	2.5886274	Le Margala				restaurant	44	77500	Rue Auguste Meunier	
+node	7438608961	48.8755494	2.5834432	Mistinguett				restaurant				
+node	8081051804	48.8715988	2.5773696	Crêpes Story				restaurant	40	77500	Avenue du Maréchal Foch	
+node	8081068620	48.8713371	2.5769989	Galaxy Lounge				pub	44	77500	Avenue du Maréchal Foch	
+node	8081135933	48.8715595	2.5777862	O' Black Lust				cafe	31	77500	Avenue du Maréchal Foch	
+node	8158153368	48.8746522	2.5817127	Le Chateau				cafe				
+node	8158230415	48.8748010	2.5819235	O'CHAKO				cafe				
+node	8180039853	48.8747095	2.5825354	Malakas				restaurant		77500	Place Gasnier Guy	
+node	8183480640	48.8749613	2.5837787	Miyako Royal				restaurant	54	77500	Boulevard Chilpéric	
+node	8208920453	48.8754041	2.5940422	Pepper Grill				restaurant	12	77500	Boulevard Pierre Mendès-France	
+node	8209025352	48.8763577	2.6002778	BKK SKY				restaurant	44	77500	Avenue François Mitterrand	
+node	8289364587	48.8774730	2.6132260	Globe Trotter				restaurant		77500	Avenue du Gendarme Castermant	
+node	8289434922	48.8774994	2.6120566	Sushi Daily				restaurant		77500	Avenue du Gendarme Castermant	
+node	8390291513	48.8721880	2.5891315	DK Burgers				restaurant		77500	Rue Auguste Meunier	
+node	9521977086	48.8748126	2.5824094	La Chelloise				restaurant				
+node	10159610700	48.8792674	2.5932658	Pizza Le Kiosque				restaurant	50	77500	Rue Gambetta	
+node	10159692970	48.8789720	2.5928485	Yakitori				restaurant	34	77500	Rue Gambetta	
+node	10159692971	48.8787634	2.5925593	Le Gambetta				bar				
+node	10159692973	48.8785287	2.5922242	Poke Boba				restaurant	16	77500	Rue Gambetta	
+node	10916150997	48.8778931	2.5862778	Restaurant de Maman				restaurant				
+node	12160469835	48.8715167	2.5890287	Le Green				restaurant				
+node	13155238452	48.8740679	2.5911322	Kay				restaurant				
+node	13705021554	48.8766894	2.6078850	Au Bureau				restaurant				
+way	111007268	48.8691945	2.5882725	Bordo Mavi				restaurant	70	77500	Rue Auguste Meunier	
+way	111010592	48.8708350	2.5883130	L'Escale du Maroc				restaurant	48	77500	Rue Auguste Meunier	
+way	111011986	48.8680284	2.5876598	La Goujonnette				restaurant	86	77500	Rue Auguste Meunier	
+way	111021678	48.8705185	2.5758956	L'Orchidée				restaurant	54	77500	Avenue du Maréchal Foch	
+way	111022260	48.8766510	2.6043968	Met Steakhouse				restaurant	14	77500	Rue Gabriel de Mortillet	
+way	111022418	48.8702848	2.5911371	Golden Wok Grill				restaurant	14	77500	Avenue de Sylvie	
+way	111023950	48.8890840	2.6060205	Au Bon Poulet				restaurant	182	77500	Rue du Tir	
+way	111025565	48.8914820	2.6094775	Le 150				restaurant	150	77500	Avenue de Claye	
+way	111026873	48.8748710	2.5825475	Guo Fa				restaurant	67	77500	Avenue de la Résistance	
+way	111028547	48.9044035	2.5855915	Le Petit Portugal				restaurant				
+relation	11771107	48.8678880	2.5726840	Le Longchamp				bar	87	77500	Avenue du Maréchal Foch	
+way	111030267	48.8780585	2.5863200	Montoros				restaurant	20	77500	Avenue de la Résistance	
+way	111032405	48.8857610	2.5859490	L'Asiane				restaurant	1	77500	Rue des Sources	
+way	111033067	48.8732473	2.5903276	Tabac des Pêcheurs				cafe		77500		
+way	111033775	48.8788195	2.6228080	Le Palmier				restaurant	92	77500	Avenue du Gendarme Castermant	
+way	111034891	48.8854205	2.6221505	Le Balto				cafe	184	77500	Rue des Cités	
+relation	10228344	48.8783445	2.5913260	Le Flipper				bar	1	77500	Rue Gambetta	
+relation	11659946	48.8781370	2.6033630	Sokdee				restaurant	65	77500	Avenue du Gendarme Castermant	
+relation	9082259			Chenoise-Cucharmoy	8	77160	77109					
+node	1702596944	48.6155351	3.1946168	Le Champd'or				restaurant				
+relation	89553			Chessy	8	77700	77111					
+node	650088652	48.8741170	2.7778260	Café Hyperion				restaurant				
+node	2187139744	48.8571565	2.7724494	Brasserie Flo				restaurant				
+node	2299178997	48.8563527	2.7743811	Grill Time				restaurant				
+node	2299178999	48.8562681	2.7744872	Pizza di Roma				restaurant				
+node	2965821498	48.8792466	2.7642749	Auberge Saint-Nicolas				restaurant				
+node	4586560302	48.8679452	2.7832977	Vapiano				restaurant		77700	Avenue Paul Séramy	
+node	5804028455	48.8787957	2.7656605	Mr & Mrs Wine				bar				
+node	9860326543	48.8658429	2.7784887	Super Diner				restaurant				
+node	13241400781	48.8581170	2.7712704	L'emphase				bar				
+node	13241400783	48.8575329	2.7720013	Fémèzon				restaurant				
+node	14129398656	48.8566636	2.7725494	Phở 14				restaurant	8	77700	Rue d'Ariane	
+node	14132670901	48.8555134	2.7719558	GOO POPCAFE				restaurant	5	77700	Rue de la Fontaine Rouge	
+node	14211776385	48.8641277	2.7739554	Nordic Crowns Tavern				restaurant				
+way	40278387	48.8723569	2.7746682	Café de la Brousse				cafe				
+way	49736351	48.8658437	2.7784923	Super Diner				restaurant				
+way	78037068	48.8689048	2.7857410	Rainforest Café				restaurant				
+way	78038168	48.8719326	2.7738610	Cool Post				cafe				
+way	78038196	48.8745150	2.7748991	March Hare Refreshments				cafe				
+way	78039324	48.8697485	2.7837251	Annette's Diner				restaurant				
+way	87218499	48.8741370	2.7755220	L'Arbre Enchanté				cafe				
+way	204492491	48.8748993	2.7750481	The Old Mill				cafe				
+way	205730568	48.8744230	2.7793734	Rocket Café				cafe				
+way	295701506	48.8732604	2.7781040	Cool Station				cafe				
+way	395168196	48.8675089	2.7759442	Bistrot Chez Rémy				restaurant				
+way	1094521916	48.8659599	2.7755621	The Regal View Restaurant & Lounge				restaurant			Adventure Way	
+way	1101506654	48.8668517	2.7790571	Hollywood & Lime				restaurant				
+way	1160445672	48.8690457	2.7848854	Starbucks				cafe		77777	Disney Village	
+way	1160445673	48.8691077	2.7846008	Billy Bob's				restaurant		77777	Disney Village	
+way	1160445674	48.8688701	2.7849202	The Steakhouse				restaurant				
+way	1160445680	48.8695129	2.7848574	Sports Bar & Lounge				bar				
+way	1160445686	48.8693131	2.7861138	Rosalie				restaurant				
+way	1160449831	48.8690692	2.7840692	The Royal Pub				pub				
+way	1163742127	48.8703950	2.7884894	Downtown Restaurant				restaurant		77700	Avenue René Goscinny	
+way	1163742128	48.8701663	2.7888022	Manhattan Restaurant				restaurant		77700	Avenue René Goscinny	
+way	1163742129	48.8705676	2.7874410	Skyline Bar				bar		77700	Avenue René Goscinny	
+way	1163742130	48.8704306	2.7874891	Bleecker Street Lounge				bar		77700	Avenue René Goscinny	
+way	1165411520	48.8700575	2.7824721	Starbucks				cafe				
+way	1216756117	48.8702125	2.7797564	Fleur de Lys				bar				
+way	1216756126	48.8704422	2.7795808	Castle Club Lounge				bar				
+way	1216756127	48.8703407	2.7792620	Royal Banquet				restaurant				
+way	1216756129	48.8706373	2.7797899	La Table de Lumière				restaurant				
+way	1223755262	48.8716357	2.7767470	The Lucky Nugget Saloon				restaurant				
+way	1223755263	48.8714247	2.7769481	Silver Spur Steakhouse				restaurant				
+way	1223755264	48.8714195	2.7766299	Last Chance Cafe				restaurant				
+way	1226260299	48.8677442	2.7794767	Hollywood Gardens Restaurant				restaurant				
+way	1226302856	48.8717590	2.7746722	Casa de Coco – Restaurante de Familia				restaurant				
+way	1226302857	48.8720108	2.7746628	Restaurant Hakuna Matata				restaurant				
+way	1226302867	48.8709738	2.7730055	Cowboy Cookout Barbecue				restaurant				
+way	1228047092	48.8716594	2.7731888	Colonel Hathi’s Outpost Restaurant				restaurant				
+way	1237114456	48.8740874	2.7737021	Toad Hall Restaurant				restaurant				
+way	1240805707	48.8727150	2.7751789	Agrabah Café Restaurant				restaurant				
+way	1243668337	48.8733797	2.7726888	Captain Jack's - Restaurant des Pirates				restaurant				
+way	1267201550	48.8733156	2.7746381	Au Chalet de la Marionnette				restaurant				
+way	1271516006	48.8656858	2.7800453	Stark Factory				restaurant				
+way	1271516007	48.8659756	2.7800472	PYM Kitchen				restaurant				
+way	1343552235	48.8658748	2.7736384	La Terrasse Panoramique				restaurant				
+way	1355436991	48.8718888	2.7781100	Market House Deli				restaurant				
+way	1355436996	48.8718067	2.7784228	The Coffee Grinder				cafe				
+way	1355437000	48.8720294	2.7779180	Cable Car Bake Shop				restaurant				
+way	1355437003	48.8721328	2.7778566	Victoria's Home-Style Restaurant				pub				
+way	1355437015	48.8716761	2.7777370	Walt’s – an American restaurant				restaurant				
+way	1355437017	48.8718796	2.7773390	Casey's Corner				restaurant				
+way	1359114709	48.8726023	2.7781190	Plaza Gardens Restaurant				restaurant				
+way	1359847732	48.8737948	2.7759600	Auberge de Cendrillon				restaurant				
+way	1359852385	48.8742143	2.7762605	Pizzeria Bella Notte				restaurant				
+way	1379850346	48.8716960	2.7749675	Overland Trail Cafe				restaurant				
+way	1392173862	48.8675039	2.7795995	Searchlight: refreshments and snacks				cafe				
+relation	87124			Chevry-Cossigny	8	77173	77114					
+node	1861994078	48.7244413	2.6565774	Le Morgan'dine				restaurant	18	77173	Rue Charles Pathé	
+node	1861994116	48.7247804	2.6577058	Bar Tabac de la Mairie				cafe	33	77173	Rue Charles Pathé	
+node	1861994408	48.7250911	2.6596628	Chez Miloud - Le Briard				cafe	51	77173	Rue Charles Pathé	
+node	5434741572	48.7443409	2.6972946	La Marsaudière				restaurant		77173	Route Départementale 471	
+node	11279097624	48.7247647	2.6569927	Le 20 sur vins				bar	29	77173	Rue Charles Pathé	
+relation	79339			Claye-Souilly	8	77410	77118					
+node	1069302456	48.9470144	2.6680245	Villa César				restaurant				
+node	1303998761	48.9445580	2.6809680	La Cigogne d'Argent				restaurant				
+node	8559775118	48.9441697	2.6539185	Del Arte				restaurant		77410		
+node	10949233558	48.9440023	2.6541418	Crêpe Touch				restaurant				
+node	11599711661	48.9445687	2.6554567	Starbucks				cafe				
+node	11854084135	48.9455923	2.6870830	Ça Graille				restaurant				
+node	11854112792	48.9454702	2.6871357	Le Jaurès				cafe				
+node	11854112795	48.9451340	2.6850077	La Verdure				restaurant				
+node	11854217505	48.9443916	2.6963744	Saint Patrick				pub				
+node	11854242749	48.9454943	2.6882763	Bistrot de Diane				restaurant				
+node	11854245680	48.9449062	2.6930702	Casa Mia				restaurant				
+relation	1359134			Clos-Fontaine	8	77370	77119					
+way	149732834	48.5945768	3.0139008	Le Pélican				restaurant	56	77370	Chemin Départemental	
+relation	402776			Collégien	8	77090	77121					
+node	2022029380	48.8290962	2.6803321	Del Arte				restaurant		77090	Parc d'Activités Les Portes de la Forêt	
+node	7682733686	48.8382796	2.6698135	Tabac de la Mairie				cafe				
+node	7787781663	48.8371601	2.6620876	Chatime				cafe		77090	Rue du Général de Gaulle	
+node	8228568025	48.8365946	2.6719563	Le Repère de Merlin				restaurant				
+node	10790450301	48.8364450	2.6616934	Autour du Comptoir				restaurant				
+node	10790450303	48.8364428	2.6624764	Bay 2 Chine				restaurant				
+node	10790450304	48.8366288	2.6623372	L'Escale Bay2				bar				
+node	10790453140	48.8386219	2.6611781	Columbus Café & Co				cafe				
+node	10790453143	48.8388653	2.6615668	Saikōon				restaurant				
+node	10790453145	48.8388183	2.6609682	Bay Café				cafe				
+way	115404612	48.8278750	2.6794630	Buffalo Grill				restaurant				
+relation	80407			Combs-la-Ville	8	77380	77122					
+node	2018444893	48.6542204	2.5616202	Rio Coa				restaurant				
+node	4618618700	48.6593370	2.5646188	Grill House				cafe				
+node	4618619601	48.6593857	2.5646441	Le Brigadier				restaurant				
+node	4618674566	48.6669316	2.5488636	Restaurant Sashimi Japonais				restaurant				
+node	4618686894	48.6657632	2.5483577	Le Fontenoy				bar				
+node	4618705380	48.6677691	2.5440490	Hokkaido				restaurant				
+node	9273000158	48.6493145	2.5658348	La Boucherie				restaurant				
+node	10198401838	48.6663630	2.5596529	Café Du Centre				bar				
+node	10831609800	48.6653240	2.5618123	Sushis Thai				restaurant	70	77380	Rue Sommeville	
+node	11361732085	48.6658552	2.5535868	Pizza House				restaurant				
+node	11361732222	48.6659343	2.5589222	Harput				restaurant				
+node	11361732225	48.6659206	2.5584191	Le Delta				restaurant				
+node	11361732396	48.6641984	2.5673273	Le Sommeville				bar	43	77380	Rue Sommeville	
+node	11362434428	48.6635929	2.5667223	Le Louisiane				bar	1	77380	Rue Batelière	
+node	11362434432	48.6634761	2.5670064	Tenshi				restaurant				
+node	11459251769	48.6493966	2.5663295	Planet' Asia				restaurant				
+node	12919264479	48.6663471	2.5574632	Kerala				restaurant				
+node	12919389239	48.6658940	2.5545781	Ali Baba				restaurant				
+node	12919389240	48.6658694	2.5549429	Ayothaya Café				restaurant				
+relation	89043			Congis-sur-Thérouanne	8	77440	77126					
+node	3395211457	49.0089396	2.9764866	Café des sports				cafe				
+way	115411246	49.0069550	2.9739930	Bistrot du village				bar				
+relation	1373323			Coubert	8	77170	77127					
+node	10968227679	48.6704053	2.6944667	Crêperie De Coubert				restaurant				
+relation	954994			Couilly-Pont-aux-Dames	8	77860	77128					
+node	7227396886	48.8858117	2.8561850	L'Auberge de la Brie				restaurant	14		Avenue Alphonse Boulingre	
+node	9856111604	48.8840222	2.8577120	Villa du Kashmir				restaurant				
+relation	74354			Coulommiers	8	77120	77131					
+node	3956338941	48.8099417	3.0832541	La Libération				bar				
+node	6563525361	48.8133356	3.0775020	Le Roi de la Gambas				restaurant				
+node	6563525362	48.8133498	3.0773115	Gepetto				restaurant				
+node	6563529455	48.8120124	3.0830839	L'Orizon				restaurant	1	77120	Rue de la Pêcherie	
+node	6585437522	48.8131435	3.0836993	Au Coin du Pétrin				cafe				
+node	6825497716	48.8140311	3.0845615	Chez Vito				restaurant				
+node	6964210487	48.8141406	3.0843815	Café de l'Union				cafe	4	77120	Place du Marché	
+node	6976402659	48.8144650	3.0845501	Royal Coulommiers				restaurant				
+node	9963515642	48.8071435	3.0841072	Okasushi				restaurant				
+node	10139542418	48.8129119	3.0842555	Tenshi Sushi				restaurant	1	77120	Rue du Général de Gaulle	
+node	12073095464	48.8120285	3.0834731	O Carré Rouge				restaurant	4	77120	Quai de l'Hôtel de Ville	
+way	222643272	48.8066396	3.0777084	Pizza Helena				restaurant				
+relation	954801			Coupvray	8	77700	77132					
+node	1070165819	48.8730980	2.7959686	La Cantina				restaurant				
+node	1070166598	48.8729883	2.7960884	Rio Grande Bar				bar				
+node	1070167257	48.8743008	2.7918277	Red Garter Saloon				bar				
+node	2303422615	48.8744630	2.7921943	Chuck Wagon Café				restaurant				
+node	5976469407	48.8964541	2.7985302	La Bordée				cafe	37	77700	rue d'Esbly	
+node	9895642974	48.8732363	2.7960522	Starbucks				cafe		77700		
+way	373768007	48.8911608	2.7937867	Les Cocottes d'Hélène				restaurant				
+way	1163742131	48.8686820	2.7906287	Redwood Bar and Lounge				bar		77700	Avenue Robert Schuman	
+way	1164645316	48.8655595	2.7889917	Cape Cod				restaurant		77700	Avenue Robert Schuman	
+way	1164645317	48.8655190	2.7890143	Captain’s Quarters				restaurant		77700	Avenue Robert Schuman	
+way	1164819928	48.8656489	2.7894844	Yacht Club				restaurant				
+way	1164819929	48.8655824	2.7894824	Fisherman’s Wharf				bar				
+way	1195934910	48.8689711	2.7906607	Beaver Creek Tavern				restaurant				
+way	1195934911	48.8684066	2.7908187	Hunter's Grill				restaurant				
+relation	403955			Courtacon	8	77560	77137					
+way	149740269	48.6968314	3.2929518	Gastrocourt				restaurant				
+relation	1229358			Courtomer	8	77390	77138					
+node	3668994740	48.6535819	2.9022820	Chez Maria				cafe				
+relation	402629			Courtry	8	77181	77139					
+node	7401881990	48.9176482	2.6017541	Chicken'life				restaurant	3	77181	Rue des Bonnes Vignes	
+node	8214057850	48.9185389	2.6033165	Café de la place				cafe	3	77181	Rue de la Bergerie	
+way	104065508	48.9091477	2.6060679	Raizes Brasil O.B.C				restaurant	18	77181	Rue de la Régale	
+relation	1302682			Crécy-la-Chapelle	8	77580	77142					
+node	4340019273	48.8589732	2.9069719	La Luigia				restaurant	3	77580	Rue de Bouleurs	
+node	6699455982	48.8572718	2.9099479	La Perle d'Orient				restaurant				
+node	6699477986	48.8575893	2.9085725	La Cervoise				cafe				
+node	7878426511	48.8571453	2.9089850	Le Commerce				cafe			Michel Herry	
+node	9654485169	48.8418842	2.9443059	Le panoramic - Domaine de Crécy				restaurant		77580	Route de Guérard	
+node	9788857410	48.8587232	2.9074529	Côté Asiat				restaurant				
+node	9788857413	48.8577702	2.9092164	Kota Côté				restaurant				
+node	9788873221	48.8572258	2.9096161	Andiamo Pizza				restaurant				
+node	9788873227	48.8570141	2.9092298	Le Comptoire inattendu				cafe				
+node	9788873233	48.8574499	2.9084922	Chez Milly's				restaurant				
+node	9788873235	48.8577905	2.9076963	Chez Angelo				restaurant				
+way	956034914	48.8414420	2.9504305	Le Camp de Base				restaurant				
+way	956034916	48.8407747	2.9494306	Le Carbet - Manger				restaurant				
+relation	402786			Croissy-Beaubourg	8	77183	77146					
+node	3268299005	48.8289336	2.6439437	Le Comptoir de Beaubourg				restaurant	19	77183	Boulevard Georges Bidault	
+node	3268306437	48.8294335	2.6589513	L'Aigle d'Or				restaurant	8	77183	Rue de Paris	
+node	7046415871	48.8267916	2.6490152	Pizza House				restaurant	11	77183	Place Pierre de Cléry	
+node	7116732929	48.8216800	2.6447478	L'Open Restaurant				restaurant	11	77183	Rue des Vieilles Vignes	
+way	739543297	48.8269056	2.6331207	Restaurant l'Olivier				restaurant	7	77183	Rue Pelloutier	
+relation	1357877			La Croix-en-Brie	8	77370	77147					
+node	1925276008	48.5929822	3.0752384	Le Villageois				cafe				
+node	12874830040	48.5932946	3.0756307	Chez Wang				restaurant				
+relation	87573			Crouy-sur-Ourcq	8	77840	77148					
+node	3042263839	49.0903095	3.0755044	Le Bouche à Oreille				restaurant				
+relation	80063			Dammarie-les-Lys	8	77190	77152					
+node	3172253961	48.5171542	2.6235566	Ristorante Del Arte				restaurant	824	77190	Avenue du Lys	La Cartonnerie
+node	3590099979	48.5148827	2.6341541	Le Favori				bar				
+node	3731043749	48.5151471	2.6354759	Le Continental				restaurant				
+node	5255437438	48.5149928	2.6321910	Le Petit Lys				restaurant				
+node	5255448679	48.5172444	2.6435456	YAKICHI				restaurant				
+node	5255691307	48.5173937	2.6436746	Royal Sultan				restaurant		77190	Place Paul Gauguin	
+node	5255691308	48.5174866	2.6438096	El Mamounia				restaurant				
+node	6024499387	48.5177897	2.6383387	Dream's pizza				restaurant				
+node	13414067301	48.5147473	2.6348303	Meglio Pizza				restaurant	998	77190	Avenue du Maréchal Foch	
+relation	953479			Dammartin-en-Goële	8	77230	77153					
+node	4209945623	49.0539811	2.6802938	Café des Sports				cafe				
+node	5061161548	49.0532081	2.6869807	L'Intimiste				restaurant				
+node	11941548969	49.0534198	2.6756712	Chez Deva				restaurant				
+way	147976214	49.0539101	2.6806862	Le Cindy Bar				bar				
+way	147977488	49.0539715	2.6800780	Traiteur Kiss Foods				restaurant				
+way	147978773	49.0542679	2.6798997	Jardin de Prospérité				restaurant				
+relation	403831			Dampmart	8	77400	77155					
+node	7017334079	48.8835985	2.7360506	Le Quincangrogne				restaurant	7	77400	Rue de l'Abreuvoir	
+node	8183948991	48.8855046	2.7360986	Café de la Mairie				cafe				
+node	12053034769	48.8836494	2.7438421	Le clos guinguet				bar	18		Chemin des Tartreux	
+relation	1386441			Donnemarie-Dontilly	8	77520	77159					
+node	4103521192	48.4783317	3.1346255	Kebab Seval Uysal				restaurant			Place du Marché	
+node	11204986225	48.4762920	3.1323231	Au Bon Coin				bar	5		Rue Raymond Bellagué	
+relation	410608			Égreville	8	77620	77168					
+node	2549459498	48.1761762	2.8713408	La Pizz'				restaurant				
+node	2549459520	48.1746581	2.8723289	Le Bistrot				restaurant				
+node	2549459528	48.1764379	2.8721628	Le Patio				restaurant				
+node	2549459565	48.1758265	2.8721575	Selale kebab				restaurant				
+relation	402795			Émerainville	8	77184	77169					
+node	6746927085	48.8079827	2.6169024	Wok Etoile				restaurant	1	77184	Boulevard Olof Palme	
+node	7405294708	48.8201535	2.6149140	Au Bon Accueil				restaurant	62	77184	Boulevard de Beaubourg	
+node	7405442027	48.8115393	2.6227054	Brasserie de la Mairie				bar	2	77184	Place de l'Europe	
+node	8247822835	48.8295693	2.5990901	La Gascogne				restaurant	26	77184	Rue l’Ancien Monastère	
+way	115425179	48.8228571	2.6166364	La Capanna				restaurant	6	77185	Allée des Voyageurs	
+relation	954547			Esbly	8	77450	77171					
+node	4035512934	48.9029812	2.8116776	Eat Couscous				restaurant				
+node	4035512936	48.9029457	2.8112411	Fino				bar				
+node	4035512938	48.9030836	2.8115938	Le Longchamp				pub				
+node	4035512940	48.9028761	2.8118747	Le Bar à Cocottes				restaurant				
+node	6255870412	48.9017486	2.8118268	La barque aux livres				cafe				
+node	8209326903	48.9004130	2.8130056	Mitori				restaurant				
+node	8209326905	48.9016701	2.8120413	L'excuse				cafe				
+node	8209326911	48.8978995	2.8109269	Palais du délice				restaurant				
+node	8209326913	48.8981675	2.8131022	Dynastie d'Or				restaurant				
+relation	1417780			Esmans	8	77940	77172					
+node	1835629509	48.3609633	2.9566759	Le Petit Fossard				restaurant	58	77130	Route du Petit Fossard	
+node	1873223405	48.3484208	2.9745284	L'auberge du Lavoir				restaurant				
+way	771589728	48.3629000	2.9574038	Poivre Rouge				restaurant				
+way	1370052835	48.3603128	2.9584433	Taste & Buffet				restaurant				
+relation	86716			Évry-Grégy-sur-Yerre	8	77166	77175					
+node	4596787801	48.6659824	2.6216111	L'Auberge du Pont Saint Pierre				restaurant	31	77166	Rue Paul Cotasson	
+relation	1381820			Favières	8	77220	77177					
+node	13894072325	48.7635219	2.7761365	La marsange				restaurant	1	77220	Rue du Lavoir	
+relation	403036			Ferrières-en-Brie	8	77164	77181					
+node	2322385629	48.8276791	2.7038863	O Bamboo				restaurant				
+node	2322893789	48.8278751	2.7086477	L'Origano				restaurant				
+node	2322893807	48.8281170	2.7082534	Lounge				bar				
+node	8194755783	48.8218319	2.7039926	Le Relais de Ferrières				cafe				
+way	116082081	48.8199910	2.7131830	Le Chai				restaurant		77164	Rue du Château	
+way	116082818	48.8267800	2.7056380	L'Imprimerie				restaurant				
+relation	1325981			La Ferté-Gaucher	8	77320	77182					
+node	5085679452	48.7811021	3.3060091	Café de la Poste				bar				
+node	5085712076	48.7813021	3.3054524	Le Central				bar				
+node	5085712084	48.7808850	3.3057582	Chez le Petit Louis				restaurant				
+node	5085712093	48.7808160	3.3055302	Le Fertois				cafe				
+relation	409302			La Ferté-sous-Jouarre	8	77260	77183					
+node	9863946507	48.9501458	3.1286084	Basarabia				restaurant				
+node	11964515410	48.9495344	3.1302281	Le Trottoir				restaurant				
+way	116089856	48.9491869	3.1303271	Pizza Luigi				restaurant				
+way	116092047	48.9430150	3.1226590	Sara Rôtisserie				restaurant				
+way	116095740	48.9438255	3.1238465	La crêperie du Petit Morin				restaurant				
+way	116097142	48.9496910	3.1256825	Sashimi Yakitori				restaurant				
+way	116097521	48.9504495	3.1260205	Café de la Gare				cafe				
+way	116099482	48.9477340	3.1331945	Le Faubourg				cafe				
+way	116099677	48.9439960	3.1289645	Pizza Time				restaurant				
+way	116099993	48.9433719	3.1209217	Le Mandarin				restaurant				
+way	1331578764	48.9440465	3.1289759	Le Rallye				bar				
+way	1333163948	48.9491728	3.1314788	0'Berge				restaurant				
+way	1334182945	48.9433145	3.1213115	Luxy food				restaurant				
+way	1334987367	48.9494245	3.1305634	Chez Martine				bar				
+way	1334987368	48.9494312	3.1304957	La Brûlerie				cafe				
+relation	1433069			Flagy	8	77940	77184					
+node	12880357054	48.3134018	2.9202403	Le Moulin				restaurant	2		Rue du Moulin	
+way	278781815	48.3133971	2.9202375	Le Moulin				restaurant	2		Rue du Moulin	
+way	278782362	48.3121205	2.9220374	Ma P’tite Aubaine				cafe	5		Place de l'Église	
+relation	216359			Fontainebleau	8	77300	77186					
+node	566551951	48.4065159	2.7008555	Tabac des Halles				bar				
+node	566551955	48.4060141	2.7001381	Le Rubis Bar				pub	1	77300	Rue de la Paroisse	
+node	566552023	48.4040646	2.6999188	Au Délice Impérial				cafe	1	77300	Rue Grande	
+node	2267861941	48.4050500	2.6994784	Antica Trattoria				restaurant				
+node	2611399055	48.4024603	2.6964071	L'écailler du Château				cafe				
+node	2611399056	48.4030335	2.6977679	Ma Su				restaurant	7	77300	Rue Denecourt	
+node	2611399058	48.4034338	2.6980836	Le Bacchus				restaurant				
+node	2611399060	48.4034084	2.6984947	Le Shaker Bar				bar	15	77300	Rue Denecourt	
+node	2611399061	48.4033132	2.6983268	Maharaja				restaurant	11	77300	Rue Denecourt	
+node	2611463225	48.4042982	2.7010542	Bistrot des Amis				restaurant	1	77300	Rue Montebello	
+node	2611463229	48.4043229	2.7003744	Le Cadran				restaurant	11	77300	Rue Grande	
+node	2611463232	48.4042570	2.7003102	La table des Maréchaux				restaurant				
+node	2611463233	48.4040828	2.6993712	Le Grand Café				cafe	33	77300	Place Napoléon Bonaparte	
+node	2611463234	48.4028660	2.6968232	Le Mansard				restaurant				
+node	2611463235	48.4030211	2.6976881	Le Troubadour				restaurant				
+node	2611463236	48.4028152	2.6969243	Les délices du Château				restaurant				
+node	2611463240	48.4043838	2.7010104	JSushi				restaurant	24	77300	Rue Grande	
+node	2611586498	48.4057872	2.7021133	La Salamandre				restaurant				
+node	2611586501	48.4076123	2.7037387	La Nouvelle Asie				restaurant	146	77300	Rue Grande	
+node	2611586508	48.4044580	2.7005187	Les Glaces				restaurant	15	77300	Rue Grande	
+node	2611586533	48.4045427	2.7010400	Villa tokyo				restaurant				
+node	2611722753	48.4125218	2.7096605	Le Patton				restaurant				
+node	2611722758	48.4092544	2.7053411	Pizza Tradition				restaurant				
+node	2611722761	48.4111167	2.7082209	Restaurant Marocain				restaurant				
+node	2611722773	48.4092786	2.7055857	L'aristo				restaurant				
+node	2740847498	48.4044833	2.6993513	Le Chaplin				restaurant	4	77300	Rue des Trois Maillets	
+node	3127981314	48.4038292	2.7007154	Au Comptoir à pizzas				restaurant	1	77300	Rue du Coq Gris	
+node	3127981317	48.4045586	2.6992480	Raj Mahal				restaurant	7	77300	Rue des Trois Maillets	
+node	3208266469	48.4040028	2.7007598	Le Glasgow				pub	7	77300	Rue du Coq Gris	
+node	3208266470	48.4039233	2.7008690	Le Marquis de Pombal				restaurant				
+node	3372981344	48.4046726	2.7006958	La Taverne				restaurant				
+node	4170168394	48.4041455	2.7011541	Ristorante Italiano				restaurant				
+node	4170193289	48.4042557	2.7008226	Le Franklin				cafe	20	77300	Rue Grande	
+node	5168646022	48.4121342	2.7055287	Pizza Rella				restaurant				
+node	6465700590	48.4042106	2.7012948	Inalis - Néobistrot				restaurant				
+node	6465700591	48.4042560	2.7011921	Il Primo Bacio				restaurant	3	77300	Rue Montebello	
+node	6465700592	48.4047159	2.7000005	Le Houston				restaurant				
+node	6465700593	48.4072620	2.7022500	Milpan				restaurant	18	77300	Rue de la Cloche	
+node	6465700594	48.4050850	2.6967492	L'Hirondelle				restaurant	49	77300	Rue de France	
+node	6465700595	48.4050127	2.6994546	Pizza MiMi				restaurant	17	77300	Rue des Trois Maillets	
+node	6465700596	48.4068563	2.7014007	Luwei Brunch Café				restaurant	12	77300	Rue des Pins	
+node	6467079363	48.4040266	2.6993273	Bella Sera				cafe				
+node	6467079364	48.4041272	2.6994056	Le France				cafe				
+node	6715886603	48.4041466	2.7014086	Le Bistrot 9				restaurant	9	77300	Rue Montebello	
+node	6990607523	48.4079379	2.7035559	Au Bellifontain				restaurant	111	77300	Rue Grande	
+node	6990607524	48.4045694	2.6986875	Ô Phénicia				restaurant	22	77300	Rue de France	
+node	7077912791	48.4105598	2.7019199	Le Damesne				bar				
+node	7083047090	48.4093028	2.7044735	Au Quartier des Suisses				restaurant				
+node	7083047190	48.4091610	2.7043941	Alhambra				restaurant	168	77300	Rue Grande	
+node	7083047297	48.4072751	2.7032185	Yummy nouille				restaurant	87	77300	Rue Grande	
+node	7086553885	48.4051455	2.7011291	Le tendance				restaurant				
+node	7602999346	48.4049204	2.6972177	L'Axel				restaurant	43	77300	Rue de France	
+node	7752573737	48.4041406	2.6979828	Machina Coffee				cafe	16	77300	Rue de Ferrare	
+node	7777901177	48.4046739	2.6994024	L'atelier du goût				restaurant	10	77300	Rue des Trois Maillets	
+node	7832708257	48.4094659	2.6959953	Cantine du lycée François-Ier				restaurant				
+node	7856299149	48.4058828	2.6949560	La Couronne d'Argent				restaurant	84	77300	Rue de France	
+node	7856299159	48.4046294	2.6980819	ADMA				restaurant				
+node	7856312331	48.4047600	2.6982321	L'Orée des sablons				restaurant	32	77300	Rue de France	
+node	8177314741	48.4039500	2.7015082	La Petite Ardoise				restaurant	16	77300	Rue Montebello	
+node	8177314742	48.4037851	2.7008365	Le Bonaparte				bar	5	77300	Rue de la Chancellerie	
+node	8378388833	48.4071170	2.7035466	Café de l'Étape				restaurant	128	77300	Rue Grande	
+node	9526460213	48.4029322	2.6975031	The Society Bar				restaurant	7		Rue Denecourt	
+node	9526483216	48.4048754	2.6973635	Fuumi				restaurant	39		Rue de France	
+node	9529265490	48.4024837	2.6963560	L'écailler du Château				restaurant	3		Rue Royale	
+node	9962066601	48.4033501	2.6979051	L'Ephémere				bar	9	77300	Rue Denecourt	
+node	9962066602	48.4014863	2.7004788	Les Mariniers				bar				
+node	10124286549	48.4047318	2.6996035	Elemiah				cafe	10	77300	Rue des Trois Maillets	
+node	10259293868	48.4060360	2.7002175	Le Viand'Art				restaurant	3	77300	Place de la République	
+node	10289625940	48.4047598	2.6994258	Bo-Bun				restaurant				
+node	10289918116	48.4064138	2.7023549	Le Swing				bar	63	77300	Rue Grande	
+node	10302114827	48.4044581	2.6981715	L'Under				restaurant	24		Rue de Ferrare	
+node	10302114828	48.4045154	2.6982162	Au Sommelier du Château				restaurant	26		Rue de Ferrare	
+node	10824110886	48.4079636	2.6894042	Japa / Thai				restaurant				
+node	11056827700	48.4037258	2.6921708	Le Royal				pub				
+node	11304959538	48.4069461	2.7014682	Le potager de Paul & Louis				restaurant	14	77300	Rue des Pins	
+node	12070098297	48.4052228	2.6994626	Paul & Paulette				cafe				
+node	14045356801	48.4046782	2.7000629	Le BarBack77				restaurant	18	77300	Rue de la Corne	
+node	14293343745	48.4040546	2.7007860	Le Triptik				pub	7	77300	Rue du Coq Gris	
+node	14293343746	48.4040472	2.7008685	L'Enclave				pub	10	77300	Rue du Coq Gris	
+way	38686122	48.4401418	2.6248928	Châlet de la Caverne des Brigands				cafe		77630	Allée des Vaches	
+way	38686126	48.4402583	2.6250312	Châlet de la Caverne des Brigands				restaurant				
+way	289357278	48.4039971	2.7008996	Eight Ball Café				cafe	8	77300	Rue du Coq Gris	
+way	289359784	48.4251491	2.7096681	Auberge de la croix d'Augas				restaurant	116	77300	Route Départementale 39	
+way	1123174777	48.4039707	2.6991541	Le Montijo				bar				
+relation	1355560			Fontenay-Trésigny	8	77610	77192					
+node	829775401	48.7071402	2.8629425	Les 3 Valets				cafe				
+node	3935947678	48.7067649	2.8702385	Le Cyrano				bar				
+node	12620380349	48.7053402	2.8756641	Pizzeria Da Renato				restaurant				
+way	115156958	48.7057145	2.8748710	Auberge du Bréon				restaurant				
+relation	1404788			Forges	8	77130	77194					
+node	11212649444	48.4259443	2.9278779	Atelier Café				cafe				
+relation	1287607			Fresnes-sur-Marne	8	77410	77196					
+node	9053855679	48.9411150	2.7397120	Venezia				restaurant				
+relation	402926			Germigny-l'Évêque	8	77910	77203					
+node	11638360419	48.9936695	2.9427664	Hotel Restaurant Le Gonfalon				restaurant	2	77910	Rue de l'Église	
+relation	402894			Gouvernes	8	77400	77209					
+node	8245452752	48.8604512	2.6914807	Au Gouverniaud				restaurant				
+relation	222564			La Grande-Paroisse	8	77130	77210					
+node	1470670503	48.3859845	2.9013810	Café du Centre				bar				
+relation	409480			Gretz-Armainvilliers	8	77220	77215					
+node	13411164828	48.7416961	2.7315783	Le Singe Vert				restaurant	2	77220	Boulevard Victor Hugo	
+relation	1425077			Grez-sur-Loing	8	77880	77216					
+node	1651602868	48.3171668	2.6917202	Au Puits d'Amour				bar				
+relation	413073			Grisy-Suisnes	8	77166	77217					
+node	11146552580	48.6858339	2.6669398	Au Cha l'heureux				restaurant				
+relation	1379446			Guérard	8	77580	77219					
+node	1233854728	48.8239865	2.9577549	Auberge du Printemps				pub				
+relation	402897			Guermantes	8	77600	77221					
+node	5110072140	48.8549171	2.7018181	Pizza Cesena				restaurant	12	77600	Avenue des 2 Chateaux	
+node	7682725385	48.8546904	2.7044545	Le Relais de Guernantes				restaurant				
+relation	80760			Guignes	8	77390	77222					
+node	1286180304	48.6354950	2.7994680	Bar de l'Europe				restaurant				
+node	10017906142	48.6374250	2.7955069	Pizzeria grill carlo				restaurant				
+node	13744757203	48.6363109	2.7968124	Le Papagaio				restaurant				
+way	113419488	48.6370025	2.7968445	Hôtel Sainte-Barbe				restaurant				
+relation	1377529			La Houssaye-en-Brie	8	77610	77229					
+node	12752961796	48.7538195	2.8749355	La Fleur de Lys				restaurant				
+relation	86616			Isles-les-Meldeuses	8	77440	77231					
+node	3394541047	48.9989149	3.0053479	Le Calypso				cafe	4	77440	Place Olivier Marteau	
+relation	1287436			Jablines	8	77450	77234					
+node	1799961623	48.9179444	2.7617112	La Locanda				restaurant	2	77450	Rue de la Mairie	
+way	1226865766	48.9130705	2.7309320	Bistrot Nature				restaurant				
+relation	403043			Jossigny	8	77600	77237					
+node	8244956968	48.8381561	2.7531239	Restaurant du Cheval Blanc				restaurant				
+node	8244956969	48.8383662	2.7528611	L'Escale de Jossigny				restaurant				
+relation	404467			Jouarre	8	77640	77238					
+node	3739718749	48.9267994	3.1297883	Le Vincennes				bar				
+node	6580384824	48.9269840	3.1307512	Les Terrasses de la Crypte				cafe				
+way	116104833	48.9269715	3.1305735	Les Terrasses de la Crypte				bar				
+relation	1400885			Jutigny	8	77650	77242					
+node	11058161005	48.4980635	3.2307035	l'Escale				restaurant	11	77650	Route Nationale	
+relation	402922			Lagny-sur-Marne	8	77400	77243					
+node	3172252062	48.8704142	2.6807816	Ristorante Del Arte				restaurant				
+node	3760371075	48.8799202	2.7048851	Go Gorilla				restaurant	3	77400	Rue du Chemin de Fer	
+node	3778420759	48.8774694	2.7048457	Thé Art Café				bar	1	77400	Place de la Fontaine	
+node	3778420760	48.8775505	2.7044031	Le Saint-Furcy				bar				
+node	3778420761	48.8775788	2.7046847	Café de l'Abbaye				bar				
+node	3778480290	48.8773659	2.7016934	Tentori				restaurant				
+node	3778480291	48.8773976	2.7014868	Le Room				nightclub				
+node	3780984757	48.8821316	2.7205727	La Villa				restaurant				
+node	3782259794	48.8785688	2.7049279	La Loco				bar				
+node	8157986113	48.8724077	2.6859346	Le Bistrot Gourmand				restaurant				
+node	8158030417	48.8707674	2.6809859	Anatolie				restaurant				
+node	8193920304	48.8793965	2.7108550	Le Saint-Denis				cafe				
+node	8193927234	48.8783769	2.6908404	Tabac de la Pointe				cafe				
+node	8240859599	48.8750120	2.6938820	Au Passage				cafe				
+node	9764545829	48.8796593	2.7047490	Lion's Coffee				cafe				
+node	12053022372	48.8816075	2.7170937	Aux Deux Barrés				bar				
+node	12420430934	48.8774757	2.7035996	Mishka				cafe	9	77400	Rue Saint-Furcy	
+node	12420502721	48.8770746	2.7037193	Le Tandem				cafe	12	77400	Rue Vacheresse	
+node	13386704856	48.8723905	2.6828256	Au jardin des Nymphéas				restaurant				
+node	13695456550	48.8785328	2.7058236	Soleil de Saigon				restaurant	111	77400	Rue Saint-Denis	
+node	14234757001	48.8775158	2.7186764	Les délices du Maroc				restaurant	98	77400	Avenue Georges Clemenceau	
+way	113254940	48.8726015	2.6821950	Escale Gourmande				restaurant				
+relation	1423271			Larchant	8	77760	77244					
+node	4170312994	48.3033511	2.6000717	Auberge de la Dame Jouanne				restaurant	8	77760	8 Rocher de Dame Jouanne	
+node	14256379596	48.2843610	2.5952797	Mathurin				cafe	5	77760	Rue des Sablons	
+way	255198117	48.2844404	2.5981584	La Grange				restaurant				
+relation	403064			Lésigny	8	77150	77249					
+node	1863066222	48.7482336	2.6158764	L'Annexe				restaurant				
+node	1863066261	48.7439884	2.6151173	Le Lésigny				cafe				
+node	1863066269	48.7476534	2.6152686	Le Saint-Yon				cafe				
+relation	80395			Lieusaint	8	77127	77251					
+node	1934897640	48.6269511	2.5641915	Resto U l’Arlequin				restaurant		77127	Avenue Pierre Point	
+node	2402929769	48.6426358	2.5518537	La Mandoline				restaurant				
+node	3287758667	48.6300643	2.5544266	Otaké				restaurant		77127	Boulevard Victor Schoelcher	
+node	8022856647	48.6313751	2.5523899	Malifood				restaurant	56	77127	Rue de Paris	
+node	9394391606	48.6310525	2.5553201	Oud				restaurant				
+node	12197378001	48.6333165	2.5514284	Resto Chaud Spécialités Turques				restaurant				
+node	12728519329	48.6141215	2.5474884	Starbucks				cafe				
+node	13046184139	48.6161974	2.5456066	La Brigade				restaurant				
+node	13046184140	48.6158264	2.5473276	James Bun				restaurant				
+node	13046184141	48.6159304	2.5462886	La Fabrique À Cookies				restaurant				
+node	13046184143	48.6162314	2.5454316	Vapiano				restaurant				
+node	13046184144	48.6156578	2.5470338	Sloopy Jo				restaurant				
+node	13046184145	48.6158615	2.5472098	Waffle Factory				restaurant				
+node	13046184146	48.6156139	2.5471903	Pizza Hut				restaurant				
+node	13046184147	48.6158981	2.5470936	Fresh Burritos				restaurant				
+node	13046184149	48.6161228	2.5456396	Le Goût Du Persil				restaurant				
+node	13046184151	48.6161418	2.5457861	La Cuisine Libanaise				restaurant				
+node	13046184152	48.6160876	2.5460087	Le Trisk'l				restaurant				
+node	13046184154	48.6159515	2.5455072	Katori				restaurant				
+node	13503423202	48.6204926	2.5401341	Le Douze				restaurant				
+way	38118220	48.6150293	2.5435975	Il Naturale				restaurant				
+way	38118222	48.6149851	2.5434405	Au Paradis du Fruit				restaurant				
+way	113455023	48.6141430	2.5440630	Madras Café				restaurant		77127		
+way	113455352	48.6154750	2.5432240	indiana				restaurant				
+way	113458746	48.6151355	2.5439810	El Rancho				restaurant				
+way	113459863	48.6156035	2.5436820	Au Bureau				restaurant				
+way	318176852	48.6200202	2.5428347	Bistrot Régent				restaurant	3	77127	Allée du Préambule	
+relation	1371399			Limoges-Fourches	8	77550	77252					
+way	150714794	48.6168377	2.6659095	Le Paris Villaroche - Restaurant d'entreprises				restaurant				
+relation	1371397			Lissy	8	77550	77253					
+node	13109281570	48.6256910	2.6944603	Le Petit Grillon				restaurant				
+relation	1375203			Liverdy-en-Brie	8	77220	77254					
+node	6288170459	48.6997223	2.7751101	Estaminet				cafe				
+node	6288170460	48.6997223	2.7751101	Estaminet				bar				
+relation	215390			Livry-sur-Seine	8	77000	77255					
+node	4318394915	48.5104606	2.6817284	Restaurant scolaire				restaurant				
+relation	76387			Lizy-sur-Ourcq	8	77440	77257					
+node	9053907532	49.0247536	3.0217405	Le Jean Jaures				cafe				
+node	9341249383	49.0269610	3.0251358	Aux bons amis - Real Sabor				restaurant	3	77440	Rue de l'Ancienne Sucrerie	
+node	9727214105	49.0277176	3.0246667	Le Village				bar	6	77440	Rue Cugnot	
+node	13626388399	49.0237316	3.0286768	Relais de l'Ourcq				restaurant				
+node	13628580714	49.0221898	3.0309068	La Royale				cafe				
+way	116108910	49.0221523	3.0307946	La Royale				restaurant				
+relation	402773			Lognes	8	77185	77258					
+node	1745491013	48.8384876	2.6315922	New Saigon				restaurant	13	77185	Rue Nicolas Appert	
+node	1745548743	48.8416517	2.6317768	Le Mékong				restaurant	4	77185	Square de la Bergerie	
+node	4356307601	48.8365269	2.6497355	Le Segrais				cafe				
+node	5223867325	48.8374895	2.6303569	Tang Gourmet				restaurant	3	77185	Place des Libertés Publiques	
+node	5223867921	48.8412235	2.6322471	Café de Lognes				cafe	6	77185	Cours des Lacs	
+node	5223880621	48.8376979	2.6306553	Le Paris				restaurant	15	77185	Place des Libertés Publiques	
+node	5223890322	48.8361448	2.6274492	Auberge de la Fontaine				restaurant	26	77185	Rue de la Mairie	
+node	5223890323	48.8366714	2.6276121	Jardin du Dragon				restaurant	3	77185	Rue de la Mairie	
+node	5223892621	48.8379110	2.6274895	Le Village				restaurant	1	77185	Rue du Village	
+node	6001202688	48.8363141	2.6359675	Garden Coffee				restaurant				
+node	8210216870	48.8387978	2.6327437	Pizza & Pasta Bar				restaurant		77185		
+node	8320786931	48.8373274	2.6304115	Wing Heng				restaurant	1	77185	Place des Libertés Publiques	
+node	8320797507	48.8376384	2.6304220	Panda Kitchen				restaurant	11	77185	Place des Libertés Publiques	
+node	8320797509	48.8374486	2.6310908	Oke Resto				restaurant	2	77185	Place des Libertés Publiques	
+node	9471710470	48.8411634	2.6317198	Hauky				restaurant	1	77185	Mail Gaston Plante	
+node	10202401197	48.8335870	2.6375636	Yelis				restaurant				
+node	11592274193	48.8361850	2.6360356	Be Sushi				restaurant				
+node	11736720371	48.8335697	2.6396951	Star food				restaurant				
+node	12358598238	48.8376853	2.6273055	Fish & Bowl				restaurant				
+way	116113772	48.8255930	2.6303985	Le 31				restaurant				
+way	116116313	48.8260695	2.6296705	Nolia				restaurant	33	77185	Rue de la Maison Rouge	
+way	116116586	48.8410406	2.6319150	Asiatico				restaurant	5	77185	Mail Gaston Plante	
+way	116117024	48.8221190	2.6232460	Le Briefing				restaurant				
+relation	953421			Longperrier	8	77230	77259					
+node	11941545769	49.0468739	2.6630780	A La Belle Étoile				restaurant	2		Rue de la Belle Étoile	
+node	12383872393	49.0466972	2.6626901	Orlando's Café				restaurant	2		Rue de la Belle Étoile	
+node	12383886153	49.0465932	2.6627928	100 % Crousti Original				restaurant	2		Rue de la Belle Étoile	
+node	12383988748	49.0468013	2.6632015	Le Mango				restaurant	2		Rue de la Belle Étoile	
+relation	409386			Longueville	8	77650	77260					
+node	8472115912	48.5159807	3.2464611	Bar Tabac				bar	2	77650	Rue Henri Fouilleret	
+node	9959314590	48.5133000	3.2496364	Buffet de la Gare				cafe	6	77650	Rue de Verdun	
+relation	1376328			Lumigny-Nesles-Ormeaux	8	77540	77264					
+node	13358388290	48.7125878	2.9635352	La Marula				restaurant				
+relation	1298118			Luzancy	8	77138	77265					
+node	3477953166	48.9721992	3.1863471	Le Dauphin				cafe				
+relation	1304244			Magny-le-Hongre	8	77700	77268					
+node	8075481373	48.8651510	2.8134763	Microbrasserie Second Degré				bar				
+node	8202638654	48.8649583	2.8140731	Bangkok 63				restaurant				
+node	8202638666	48.8658197	2.8144459	Zeugma Grill				restaurant	10	77700	Rue de l'Épinette	
+node	8202638667	48.8656093	2.8143313	Le Comptoir Lounge				restaurant				
+node	8202638670	48.8637941	2.8132061	Le Codebar				bar				
+node	8202638674	48.8642357	2.8126945	Délice Sushi				restaurant				
+node	8202638679	48.8675546	2.8126422	Le Zèbre de Magny				restaurant				
+node	8202638684	48.8670535	2.8097051	Asuka				restaurant				
+way	203003343	48.8575400	2.8081695	Club-House Grill				restaurant				
+relation	1229363			Maincy	8	77950	77269					
+node	2836862838	48.5677190	2.7121386	L'Écureuil				restaurant				
+relation	422584			Maisoncelles-en-Brie	8	77580	77270					
+way	115153281	48.8625165	2.9903200	Le Caprice				restaurant				
+way	129927190	48.8741217	2.9850125	Le Fournil				restaurant				
+relation	406900			Mareuil-lès-Meaux	8	77100	77276					
+node	1744066173	48.9386584	2.8791064	Chez Léon de Bruxelles				restaurant				
+node	1762580987	48.9384348	2.8758323	Balladins				bar				
+node	4035774535	48.9256455	2.8594836	Café de Mareuil				cafe				
+node	9394699663	48.9419893	2.8783541	Memphis				restaurant	19	77100	Rue des Montaubans	
+node	9394699665	48.9419978	2.8785706	OKB - O'Kebab				restaurant		77100	Rue Charles de Gaulle	
+way	116113879	48.9416551	2.8788398	Courtepaille				restaurant	79	77100	Rue des Montaubans	
+way	506069051	48.9335236	2.8779493	La criée				restaurant	230	77100	Avenue de la Grande Haie	
+way	506069060	48.9342222	2.8778310	Restaurant Au Bout Du Monde				restaurant	190	77100	Avenue de la Grande Haie	
+way	511511206	48.9407510	2.8786879	O Wok				restaurant	150	77100	Route Côte de la Justice	
+relation	76388			Mary-sur-Marne	8	77440	77280					
+node	9896970259	49.0140225	3.0243394	Château Marysien				restaurant	2	77440	Quai Jacques Papin	
+node	9896985103	49.0142300	3.0237988	Quai des Brumes				restaurant	4	77440	Quai Jacques Papin	
+relation	185716			Mauperthuis	8	77120	77281					
+node	1269608126	48.7680232	3.0383187	Bar-restaurant de l'Aubetin				restaurant				
+relation	953305			Mauregard	8	77990	77282					
+node	4558562910	49.0141578	2.5421009	Paul				restaurant			Terminal 1	
+node	4558601307	49.0144310	2.5414572	Starbucks				cafe			Terminal 1	
+node	5062457299	49.0141460	2.5416313	Starbucks				cafe				
+node	6400913354	49.0138604	2.5412067	Café Eiffel				cafe				
+relation	86609			Meaux	8	77100	77284					
+node	1770022625	48.9589628	2.8839908	Basilic & Co				restaurant	16	77100	Place Henri IV	
+node	2304001806	48.9581594	2.9161217	Flunch				restaurant				
+node	3239845754	48.9574912	2.8894243	La Grignotière				restaurant	36	77100	Rue de la Sablonnière	
+node	4035774541	48.9547888	2.8794815	Le Cornillon				bar				
+node	5871562337	48.9586446	2.8815767	Kokiyo				restaurant	20		Rue du Tan	
+node	5871562338	48.9589599	2.8795355	La Brûlerie de Meaux				cafe				
+node	5967793811	48.9587833	2.8818530	Hima no ya				restaurant	13		Rue du Tan	
+node	5967800417	48.9588362	2.8846144	Maison Paroissiale Saint-Nicolas				restaurant				
+node	5981611920	48.9587829	2.8795239	Le Café Rose				bar	10		Rue Darnetal	
+node	6699472588	48.9599502	2.8772044	L'Escargot d'Or				bar				
+node	7886555185	48.9599358	2.8778690	L'Ardoise				restaurant				
+node	7886596487	48.9595558	2.8801072	Un Air de Famille				cafe				
+node	7968449294	48.9563973	2.9059962	Auberge du Champ de Mars				restaurant	16	77100	Avenue de la Victoire	
+node	9023472015	48.9600882	2.8775020	Pio Pio Rico				restaurant	12	77100	Rue Saint-Rémy	
+node	9044116971	48.9602572	2.8778588	Bella Ciao				restaurant				
+node	9503071818	48.9598596	2.8767281	La Maison Meldoise				restaurant	33		Rue Saint-Rémy	
+node	9708940017	48.9573944	2.8854929	Délices de l'Orient				restaurant				
+node	9708948517	48.9588034	2.8838708	Le Celtic				cafe				
+node	9708961317	48.9597630	2.8794946	L'Esplanade				restaurant				
+node	9709046317	48.9588411	2.8789887	Maison Dugast				restaurant				
+node	9709046517	48.9588335	2.8770479	Le Meldi				restaurant				
+node	9709090917	48.9565486	2.8769540	Delishi				restaurant				
+node	9795283841	48.9573615	2.8808908	La Péniche				restaurant	6	77100	Quai Sadi Carnot	
+node	9988523175	48.9578797	2.8765270	Le Riverside				restaurant				
+node	11536308329	48.9586739	2.8801105	Brick a Brack				restaurant				
+node	11775535169	48.9582621	2.8791518	Les Moulins				restaurant	8		Quai Victor Hugo	
+node	12142392247	48.9589357	2.8798099	Les Fées Solidaires - L'Éthique Café				cafe				
+node	12142392248	48.9582835	2.8812175	L'escapade				restaurant				
+node	13121544966	48.9551155	2.8794469	Brasserie du Luxembourg				cafe				
+node	13686368201	48.9583871	2.8871772	Pinsa Romana				restaurant	50	77100	Rue du Faubourg Saint-Nicolas	
+node	14003594450	48.9588831	2.8793340	CBT - Chop Bières Team				bar				
+node	14003616001	48.9588810	2.8793497	CBT - Chop Bières Team				bar		77100	Place Darnetal	
+node	14003646801	48.9597745	2.8762842	Baïty5				restaurant		77100		
+node	14003662901	48.9559495	2.8801054	Club Le 55 - Billard				bar		77100		
+node	14003678901	48.9589705	2.8796983	Crêperie KITO'Z				restaurant	2	77100	Petite Rue Saint-Christophe	
+node	14069860973	48.9521323	2.9104806	Maison Aya				restaurant				
+node	14293858301	48.9603098	2.8778107	Les Sales Micohes				restaurant			Place Charles de Gaulle	
+way	112055820	48.9584206	2.8769384	Cirkus				restaurant				
+way	112058493	48.9562355	2.8944530	La table du rotisseur				restaurant				
+way	112060914	48.9571234	2.9076244	King Steak House				restaurant				
+way	112061153	48.9652145	2.8831750	La Sainte Trinité				bar				
+way	112064387	48.9572075	2.9100632	Wok Grill Meaux				restaurant				
+way	112069701	48.9554720	2.9155081	Myu Myu Maison				restaurant				
+way	417328443	48.9575926	2.8738230	Berry Coffee				cafe				
+way	1327865261	48.9565568	2.9157382	UGO				restaurant				
+way	1470889471	48.9571110	2.9068575	Istanbull Grill 63 Meaux				restaurant				
+relation	80105			Le Mée-sur-Seine	8	77350	77285					
+node	670083962	48.5359877	2.6446744	Le Robinson				cafe				
+node	6473502160	48.5403036	2.6246811	Tabac de la Gare				cafe				
+node	9951560499	48.5316224	2.6275778	Résidence du Château du Mée				restaurant				
+way	999667908	48.5404724	2.6244352	Pizza Lucky				restaurant				
+relation	80071			Melun	8	77000	77288					
+node	670083967	48.5390853	2.6579574	Café du Commerce				cafe				
+node	1518649338	48.5391570	2.6590910	Le Maryland				cafe				
+node	1554858769	48.5342807	2.6571009	Chez Tonton				bar				
+node	1579684973	48.5379434	2.6585452	Mont Everest				restaurant	1	77000	Rue du Presbytère	
+node	1584175215	48.5411234	2.6600571	Jardin de Pékin - 北京?園				restaurant				
+node	1584183370	48.5437697	2.6609180	Le rallye				cafe				
+node	1731858591	48.5412579	2.6749157	L'Usine				restaurant	9	77000	Route de Nangis	
+node	1839007959	48.5350438	2.6571838	Le Kenavo				cafe				
+node	2365019991	48.5281313	2.6557708	The Barista				cafe	5	77000	Place Gallieni	
+node	2717238430	48.5393316	2.6615292	Fuji				restaurant		77000		
+node	2989040071	48.5412312	2.6567591	Le Detour				restaurant				
+node	2989040072	48.5415314	2.6562415	Le Barthélémy				cafe				
+node	3656855134	48.5385704	2.6617466	Papa Grill				restaurant				
+node	3686594392	48.5392258	2.6589646	Le cyclamen				restaurant				
+node	3686594393	48.5384746	2.6579628	Monsieur le Zinc				bar		77000		
+node	3695975936	48.5396381	2.6627271	Le Saint-Jean				restaurant				
+node	3698707259	48.5395261	2.6605054	Le Bistro Français				cafe				
+node	3703603481	48.5378921	2.6590592	Le Campanella				bar				
+node	3895613426	48.5379790	2.6613925	Le 8e Art				restaurant	12	77000	Boulevard Gambetta	
+node	3904397479	48.5283718	2.6552613	Café de la gare				cafe				
+node	4359203227	48.5325589	2.6563614	Chez Loulou				restaurant	1	77000	Avenue Thiers	
+node	4359854943	48.5360043	2.6598778	Akoya				restaurant				
+node	4369540984	48.5476724	2.6488468	Royal Melun				restaurant				
+node	4369540986	48.5468672	2.6502389	Sakura Sushi				restaurant				
+node	4369540987	48.5461196	2.6510516	Pizza Hut				restaurant			Avenue du Général Patton	
+node	4404216259	48.5399431	2.6597729	Braise House				bar				
+node	4438854118	48.5396794	2.6584177	L'Abreuvoir				restaurant	9	77000	Rue de l'Abreuvoir	
+node	5327532430	48.5368600	2.6550374	Astrocafé				cafe				
+node	5656024541	48.5372494	2.6562320	CROUS				restaurant				
+node	6297528286	48.5386762	2.6583132	Doctor Beer				bar			Place Jacques Amyot	
+node	6632342548	48.5349414	2.6576058	Brasserie du Pont				restaurant				
+node	6669762111	48.5346163	2.6570682	Au Bonheur du Goût				restaurant	10	77000	Rue Saint-Ambroise	
+node	6669787182	48.5340380	2.6567578	Sista Place				restaurant	20	77000	Rue Saint-Ambroise	
+node	6669814068	48.5341255	2.6538061	Félicita				restaurant	14	77000	Boulevard Chamblain	
+node	6669814069	48.5354177	2.6557508	La Bodega Don Felipe				restaurant	18	77000	Quai Hippolyte Rossignol	
+node	6669814070	48.5352878	2.6562342	Il Melograno				restaurant	10	77000	Quai Hippolyte Rossignol	
+node	6669814072	48.5344510	2.6572102	Le Grillon				restaurant	15	77000	Rue Saint-Ambroise	
+node	8830045604	48.5264605	2.6544154	Le bistrot du palais				pub				
+node	8830045608	48.5267833	2.6538934	La Rotonde				pub				
+node	9950621572	48.5379927	2.6587504	Pizzeria Cynthiana				restaurant				
+node	9950631488	48.5382360	2.6588791	Green Délice				restaurant	3	77000	Rue Jacques Amyot	
+node	9950666700	48.5396523	2.6587784	Primavera				restaurant				
+node	9950669666	48.5384433	2.6581101	Les canailles				restaurant	13			
+node	9950680430	48.5391156	2.6584391	Momji				restaurant				
+node	9955053670	48.5421701	2.6605859	L'ardoise				restaurant				
+node	9959512806	48.5387450	2.6579907	La Crêperie de la Place				restaurant				
+node	9959512808	48.5385124	2.6582669	Chez Fabrice				restaurant				
+node	9959512809	48.5387228	2.6583246	Maison Sushi				restaurant				
+node	9959512810	48.5386225	2.6582830	Papa Jacques				restaurant				
+node	9959525138	48.5383472	2.6580443	MaMé				restaurant			Place Vaugrain	
+node	9959533060	48.5385464	2.6591147	Adhavan				restaurant				
+node	9962130891	48.5391532	2.6615319	Aux délices de melun				restaurant				
+node	10669716385	48.5433818	2.6538175	Tonton Grill				restaurant				
+node	12223022614	48.5260246	2.6538832	Ô'Jap				restaurant	3	77000	Rue Rosa Bonheur	
+node	12466731501	48.5357238	2.6591256	Place D				restaurant	13-15	77000	Rue Notre-Dame	
+node	12579474516	48.5463336	2.6508037	le 24				restaurant				
+way	112361273	48.5398375	2.6650260	L'Etoile Kabyle				restaurant	11	77000	Rue Saint-Liesne	
+way	112362383	48.5403590	2.6629595	Pizza di Roma				restaurant				
+way	112363819	48.5297210	2.6544135	Kintaro				restaurant				
+way	112364798	48.5393295	2.6619650	Le Francilien				cafe		77000	Place Saint-Jean	
+relation	953279			Le Mesnil-Amelot	8	77990	77291					
+node	356064527	49.0202929	2.5876826	L'Auberge de la Pomme d'Or				restaurant				
+node	356065437	49.0207746	2.5901258	L'Escale				restaurant				
+node	4563764389	49.0060144	2.5788949	Starbucks				cafe		95711		
+node	4568623596	49.0061536	2.5746586	Paul				bar		95711		
+node	4568668592	49.0058197	2.5757849	Salon Air France				restaurant		95711		
+node	4568676291	49.0052379	2.5765122	Laduree				cafe		95711		
+node	4568676292	49.0052526	2.5775061	Starbucks				cafe		95711		
+node	4568676590	49.0051434	2.5750223	Maison Pradier				restaurant		95711		
+node	5372933921	49.0025744	2.5784207	Salon Air France				bar				
+node	6140903587	49.0190203	2.5897710	Casa Nostra				restaurant				
+node	6183011607	49.0061273	2.5786684	Guy Savoy				restaurant				
+node	6183011609	49.0062532	2.5786893	Yo Sushi				restaurant				
+node	6528392566	49.0048600	2.5901533	Bellota-Bellota				restaurant				
+node	6528392570	49.0048827	2.5905655	Food & Café				cafe				
+node	6528392578	49.0046348	2.5900908	Starbucks				cafe				
+node	6538894205	49.0028064	2.5849897	Starbucks				cafe				
+node	6538894210	49.0040865	2.5850621	I Love Paris by Guy Martin				restaurant				
+node	7040784289	49.0198499	2.5866584	Sushirama				restaurant				
+node	9962335727	49.0059404	2.5786448	The French Taste				restaurant				
+node	9980252623	49.0034987	2.5768537	Café Eiffel				restaurant				
+node	10804295705	49.0051476	2.5843483	Lounge Air France				restaurant				
+node	10883135862	49.0025936	2.5780850	Starbucks				cafe				
+node	10883135870	49.0022055	2.5772552	Caviar House & Prunier				restaurant				
+node	10883135879	49.0023393	2.5763901	Yo Sushi				restaurant				
+node	11521952869	49.0069172	2.5847568	Yo Sushi				restaurant				
+node	11522231903	49.0060852	2.5788535	Seafood Bar - Caviar House & Prunier				restaurant				
+node	11524320369	49.0060862	2.5789123	Bellota-Bellota				restaurant				
+node	11524422669	49.0028994	2.5849791	Bar Coliving				bar				
+node	13397695302	49.0049695	2.5913642	Air France Lounge 2E - Hall M				restaurant				
+node	13665138601	49.0195168	2.5859207	Restaurant le Nautilus Roissy				restaurant				
+way	325758724	49.0179692	2.5862698	Campanile				restaurant				
+way	422423864	49.0040422	2.5714207	Starbucks				cafe				
+relation	79338			Mitry-Mory	8	77290	77294					
+node	966198279	48.9772618	2.6144716	Le Bistrot du Marché				restaurant				
+node	3343810090	48.9838211	2.6202085	L'Himalaya				restaurant				
+node	3765270124	48.9840390	2.6182910	Le Longchamp				bar				
+node	3765270127	48.9840855	2.6196882	O'Resto				restaurant				
+node	3765278888	48.9835733	2.6149627	Auberge du Cheval Blanc				restaurant				
+node	3765278890	48.9833621	2.6137959	Santa Rita				restaurant				
+node	4623603227	48.9752938	2.6424315	Café de la Gare				cafe				
+node	7308762685	49.0056975	2.6028318	Paul				cafe				
+node	9318060856	48.9737662	2.6413849	O'Plaza				restaurant				
+node	9318060857	48.9735629	2.6420930	Les 4 Saisons				restaurant				
+node	11425777470	49.0054579	2.6023969	Starbucks Coffee				cafe				
+node	11559520364	48.9552065	2.5903355	Le Central				bar	1	77290	Place Salvador Allende	
+node	11559520366	48.9555557	2.5896941	Le Mulberry				restaurant				
+node	11559523069	48.9585037	2.5978291	La Chouannerie				restaurant				
+node	11559523070	48.9583625	2.5935107	A La Boule Joyeuse				restaurant				
+node	11737368094	48.9546845	2.5980527	L'exclusif				restaurant	25	77290	Avenue Franklin Roosevelt	
+node	11737368095	48.9548414	2.5985497	Le Franklin				restaurant	26	77290	Avenue Franklin Roosevelt	
+node	13713335159	48.9565885	2.6022746	Home Pizza				restaurant				
+node	13713335163	48.9567890	2.6026960	Le Bosquet				bar				
+node	13928377561	48.9741940	2.6296498	Café du Centre				restaurant				
+way	112222520	48.9539030	2.6011355	La P'tite Bouffe				restaurant				
+relation	80236			Moissy-Cramayel	8	77550	77296					
+node	3544484258	48.6271493	2.5895436	Pizza Yolo				restaurant	251	77550	Avenue Philippe Bur	
+node	3544580744	48.6276704	2.5898082	Ali Baba				restaurant	242	77550	Avenue Philippe Bur	
+node	3563852157	48.6174152	2.5697532	Pedra Alta				restaurant	71	77550	Avenue Henri Poincaré	
+node	3578333540	48.6281407	2.5904441	Rama Ruamchay				restaurant	32	77550	Place du 14 Juillet 1789	
+way	114146530	48.6224410	2.5640595	Buffalo Grill				restaurant	612	77550	Avenue André Ampère	
+way	114150511	48.6186845	2.5681735	Courtepaille				restaurant	116	77550	Avenue André Ampère	
+way	114150679	48.6272830	2.5905175	Étoile Sénart				restaurant	187	77550	Avenue Philippe Bur	
+way	114152824	48.6282580	2.5991065	Poppie's Pizza				restaurant	361	77550	Avenue Pasteur	
+way	114153682	48.6220205	2.5846480	The chateau				restaurant				
+way	326000472	48.6281278	2.5973128	Auberge du Cheval Blanc				restaurant	247	77550	Avenue Pasteur	
+way	326000529	48.6279995	2.5971497	Pizza Dolce				restaurant	223	77550	Avenue Pasteur	
+way	350629941	48.6213378	2.5652115	La Pataterie				restaurant	525	77550	Avenue André Ampère	
+way	1001046959	48.6284384	2.5706238	Kitoko Coffee				cafe				
+relation	1386454			Mons-en-Montois	8	77520	77298					
+node	4103521393	48.4885040	3.1465601	Bar la Fontaine Saint-Fiacre				cafe			Rue Grande	
+relation	86612			Montceaux-lès-Meaux	8	77470	77300					
+way	82716124	48.9413782	2.9855805	Auberge du Vieux-Pavé				restaurant				
+relation	1342577			Montceaux-lès-Provins	8	77151	77301					
+node	2293735218	48.6951283	3.4406632	Tabac Montceaux les Provins				restaurant				
+relation	1427770			Moncourt-Fromonville	8	77140	77302					
+way	273698810	48.3087405	2.7078194	CHABADA				restaurant	4	77140	Rue de la Boissière	
+way	1283686981	48.3087331	2.7078217	CHABADA				restaurant				
+relation	1383106			Montereau-Fault-Yonne	8	77130	77305					
+node	444644415	48.3848976	2.9564809	Bar de l'Hôtel de Ville				bar				
+node	444644417	48.3860291	2.9570883	Seine et Marne				cafe				
+node	444644420	48.3863027	2.9541958	Le Marigny				cafe				
+node	444644422	48.3879345	2.9568511	Tonton Grill				restaurant	6		Quai d'Yonne	
+node	444644428	48.3837148	2.9552687	421				cafe				
+node	444644429	48.3850202	2.9533718	La Faïencerie				cafe				
+node	444644430	48.3873629	2.9553373	BeBop				pub				
+node	446201046	48.3857707	2.9575524	Le Loft				restaurant				
+node	1835629480	48.3898292	2.9597045	Corino				restaurant				
+node	1835629486	48.3970813	2.9434442	La Côte Rit				restaurant				
+node	1835629507	48.3898304	2.9595619	Le Gallia				cafe				
+node	2482007495	48.3977772	2.9463728	L'atelier				cafe				
+node	4524568629	48.3802583	2.9434384	Le Select				cafe				
+node	4524568630	48.3792019	2.9490663	Le relais Saint-Bernard				cafe				
+node	5993716734	48.3768777	2.9572602	Royal Garden				restaurant				
+node	6376701778	48.3858657	2.9563267	Torréfaction Dabid				cafe	1		Place du Colonel Fabien	
+node	11179010992	48.3867140	2.9571199	Au Bon Coin				bar				
+node	11179011009	48.3838151	2.9554105	Le Carré D'as				bar				
+node	12091423670	48.3825816	2.9548760	Crispy sushi & wok				restaurant	2	77130	Boulevard de la République	
+way	161848195	48.3763168	2.9564439	Buffalo Grill				restaurant				
+way	349315376	48.3980007	2.9513845	Napoléon				cafe				
+way	349315594	48.3828332	2.9565741	Entre Noues				restaurant	22	77130	Rue des Arches	
+relation	89586			Montévrain	8	77144	77307					
+node	603022393	48.8568680	2.7552854	ZAZA				restaurant	1	77144	Rue de Rome	
+node	4690825190	48.8775428	2.7501985	Wok Etoile				restaurant			Boulevard Charles de Gaulle	
+node	6277459840	48.8535933	2.7652156	Le Cercle				restaurant				
+node	7717200432	48.8528497	2.7662003	Mama Thaï				restaurant				
+node	7717249107	48.8532380	2.7656169	Okiyama				restaurant				
+node	7717259702	48.8530553	2.7657001	L'étoile du Liban				restaurant				
+node	7717264808	48.8528815	2.7659401	Les Intouchables				bar				
+node	7731335161	48.8533763	2.7662538	Graziella				restaurant				
+node	8167942594	48.8751438	2.7461993	Sushi wasabi				restaurant				
+node	10148419517	48.8553412	2.7697359	Moxy Bar				bar		77700		
+node	11244281705	48.8554097	2.7693598	Bistrot51				restaurant				
+node	11278245517	48.8537101	2.7643277	La Famila				cafe	34-36		Allée de Dublin	
+node	11283935631	48.8522061	2.7657923	SYA				restaurant	6	77144	Rue d'Amsterdam	
+node	13022353102	48.8531861	2.7664904	Kous				restaurant				
+node	13022361901	48.8532418	2.7664069	Jimby				restaurant				
+node	13022371101	48.8537347	2.7643899	Sushi Oishi				restaurant				
+node	13022454214	48.8544534	2.7712677	Croissanterie				cafe				
+node	13085063504	48.8656176	2.7598819	ALERTE HIT by Mikope				bar				
+node	13110163919	48.8654347	2.7608903	Baan Thai 2				restaurant				
+node	13110163959	48.8654661	2.7593372	Jia²Tea				cafe				
+node	13110163960	48.8654336	2.7596527	Pho 12 Chez Tata				restaurant				
+node	13110163963	48.8657876	2.7594976	Kitchen Kulture				restaurant				
+node	13110163964	48.8657875	2.7596398	La Roti'nès				restaurant				
+node	13124598977	48.8828578	2.7478195	Le Moulin				restaurant				
+way	116124813	48.8777955	2.7446480	La Tavola				restaurant	37	77144	Avenue Thibaud de Champagne	
+way	116127214	48.8777220	2.7438575	Planète indienne				restaurant	45	77144	Avenue Thibaud de Champagne	
+way	388670350	48.8538334	2.7574875	Memphis				restaurant	1	77144	Fontenelle	
+way	388670351	48.8539477	2.7576399	Léon de Bruxelles				restaurant	1	77144	Fontenelle	
+way	480019340	48.8543454	2.7577462	restaurant				restaurant		77144	Rue fontanelle	
+relation	1292800			Montgé-en-Goële	8	77230	77308					
+node	13278187426	49.0285221	2.7486406	L'unique de la goële				restaurant				
+relation	215268			Montigny-sur-Loing	8	77690	77312					
+node	448873396	48.3345209	2.7473280	La Vanne Rouge				restaurant				
+node	2682630032	48.3369362	2.7387352	Pizza Loreto				restaurant				
+node	7628364375	48.3351323	2.7433191	Le Petit Cormier				cafe	2		Ruelle des Cormiers	
+node	7646122048	48.3351174	2.7451479	Le Div'20				restaurant	20		Rue du Loing	
+way	115265545	48.3348750	2.7474740	Le Trefle à Cinq Feuilles				pub	3	77690	Rue de la Libération	
+relation	406915			Montry	8	77450	77315					
+node	2803993277	48.8902699	2.8268455	Au Bon Accueil				restaurant				
+node	8205926386	48.8871361	2.8276196	Le Réfectoire				restaurant				
+node	8205926394	48.8852083	2.8346624	L'Auberge Marocaine				restaurant				
+relation	6838466			Moret-Loing-et-Orvanne	8	77250	77316					
+node	7192892470	48.3727140	2.8187988	La Poterne				restaurant	1	77250	Rue du Pont du Loing	
+node	7444151418	48.3729011	2.8179839	Zen Sushi				restaurant	51		Rue Grande	
+node	7456221815	48.3772720	2.7938963	Bouledog Café				cafe	90		Avenue de Fontainebleau	
+node	7937757113	48.3734079	2.8160108	Maison des Arts				cafe	15	77250	Rue Grande	
+node	8303099686	48.3729199	2.8178782	La Pizzeria				restaurant	49		Rue Grande	
+node	9540419340	48.3793094	2.8000221	Les Petits Plats de Cordelia				restaurant	44		Rue du Viaduc	
+node	11942697220	48.3736135	2.8155793	Le P'tit Moret				restaurant	5	77250	Rue des Granges	
+node	12918970069	48.3730658	2.8205719	Le Tendance MSL				restaurant				
+node	12919177003	48.3731811	2.8169509	L'entre 2 Portes				restaurant	25	77250	Rue Grande	
+node	12919177008	48.3734696	2.8166878	Le Louny				cafe	16		Rue des Granges	
+node	12941433489	48.3715471	2.8231739	Le Jardin des Lys				restaurant	14	77250	Rue du Peintre Sisley	
+node	13097883124	48.3764445	2.8202376	Salut les Moches				biergarten	1		Allée Gustave Prugnat	
+node	13974803363	48.3725185	2.8179685	L'Eski				restaurant	8		Rue de l'Église	
+way	30645091	48.3740004	2.8145608	Le Cheval Noir				restaurant	47	77250	Avenue Jean Jaurès	
+way	30645092	48.3740034	2.8142744	La Gavotte				restaurant	43	77250	Avenue Jean Jaurès	
+way	31245321	48.3743085	2.8116985	La Palette				restaurant	10	77250	Avenue Jean Jaurès	
+way	278785269	48.3342653	2.7819680	Auberge de l'Écluse				restaurant	1	77250	Grande Rue	
+way	386955883	48.3770595	2.7935675	Chez Noulek				restaurant	95		Avenue de Fontainebleau	
+relation	414478			Mortcerf	8	77163	77318					
+node	4040458763	48.7891770	2.9160867	Bar Brasserie Le Commerce				bar				
+node	14305423901	48.7891838	2.9158409	Iron Man Pizzas				restaurant				
+relation	408316			Mouroux	8	77120	77320					
+node	1901475843	48.8211283	3.0377127	Le Grand Morin				cafe				
+node	1901475849	48.8215731	3.0372485	Le Café des Sports				cafe				
+node	1901475851	48.8216201	3.0377790	La Chaumière				cafe				
+relation	953320			Moussy-le-Neuf	8	77230	77322					
+node	4408919089	49.0643281	2.5958090	TRI ANN				restaurant				
+node	6138040785	49.0637523	2.6025823	L’Atelier Brasserie Traiteur				restaurant				
+node	8806917333	49.0643172	2.6027789	Le Moussy				bar				
+relation	1384426			Nangis	8	77370	77327					
+node	2315806761	48.5557814	3.0139960	Le Palace				restaurant	9	77370	Rue du Maréchal de Lattre de Tassigny	
+node	3751374979	48.5575268	3.0136935	Le Mandarin de Nangis				restaurant	16	77370	Rue Aristide Briand	
+node	3751374983	48.5567664	3.0136256	S&J African				restaurant	5	77370	Rue Aristide Briand	
+node	9961209983	48.5623737	3.0128275	Bienvenue chez Mike et Marine				restaurant	16	77370	Route de Paris	
+node	9961209984	48.5561733	3.0135792	Le Poney Fringant				restaurant	4	77370	Rue du Maréchal de Lattre de Tassigny	
+node	9961209991	48.5604633	3.0134981	Le Luso K Fé				bar				
+node	9961229253	48.5611232	3.0122595	Hôitel de la Gare				restaurant				
+node	10839308401	48.5561645	3.0108891	Chez Mymi				bar	59	77370	Rue du Général Leclerc	
+node	10839349162	48.5565447	3.0127299	La Comédie				cafe	4	77370	Rue du Dauphin	
+node	10839349163	48.5564621	3.0127281	Le Soleil du Printemps				restaurant	2	77370	Rue du Dauphin	
+relation	1431303			Nanteau-sur-Lunain	8	77710	77329					
+node	8314116263	48.2572323	2.8090014	La Nantellienne				restaurant	14b		Avenue des Tilleuls	
+way	418486233	48.2571990	2.8105230	Le Petir Coq Hardi				restaurant				
+relation	86613			Nanteuil-lès-Meaux	8	77100	77330					
+node	10941938086	48.9286169	2.8971685	Tabac de la mairie				bar				
+way	41503788	48.9401598	2.8802929	Buffalo Grill				restaurant				
+way	41503807	48.9361704	2.8804983	Ristorante Del Arte				restaurant				
+way	511511216	48.9419183	2.8805885	Au Bureau				restaurant	75	77100	Avenue de la Foulée	
+way	1421421101	48.9369830	2.8806535	Hiro				restaurant				
+relation	1298100			Nanteuil-sur-Marne	8	77730	77331					
+way	161094842	48.9773653	3.2210719	Auberge Du Lion D'or				restaurant	2	77730	Rue du Bac	
+relation	216518			Nemours	8	77140	77333					
+node	1755351160	48.2544492	2.7017713	Le relais savoyard				restaurant				
+node	2177750351	48.2675398	2.6989548	Le Palanquin				restaurant	7	77140	Rue du Souvenir	
+node	2177750352	48.2725173	2.6938452	L'écluse				restaurant	4	77140	Rue de l'Écluse	
+node	2624927663	48.2801529	2.6990539	Buffalo Grill				restaurant				
+node	3246548912	48.2649664	2.7170228	Le dragon de Nemours				restaurant				
+node	4044625003	48.2645726	2.7196083	Courtepaille				restaurant				
+node	6419472586	48.2671367	2.6944730	Le Délice de la Goulette				restaurant				
+node	7752025679	48.2662485	2.6986070	Chez Pin				restaurant	29–31	77140		
+node	9216860617	48.2633979	2.7223649	Territoires de France				restaurant				
+node	9909933504	48.2647706	2.6976800	La Terrasse du Moulin de Nemours				bar				
+node	10300540455	48.2801437	2.6995609	Royal Garden. Restaurant Asiatique				restaurant			Route de Moret. 77240 Nemours	
+node	12346800780	48.2634055	2.6942413	Pavillon Hugo - Maison Étape				restaurant	1	77140	Quai Victor Hugo	
+node	12346805395	48.2641816	2.6959652	La Primula				restaurant				
+node	13323865385	48.2682281	2.6968133	Le Picardeau Bar & Cucina				restaurant				
+node	14018029431	48.2649647	2.6934918	L'Entre Deux				restaurant	35	77140	Quai Victor Hugo	
+node	14118683601	48.2652195	2.6961743	ZigZag				bar	5	77140	Rue Gauthier 1er	
+way	387086300	48.2649070	2.6991460	L'Iberico				bar				
+way	387090991	48.2801135	2.6981755	Au Bureau				restaurant				
+way	387091480	48.2630280	2.7172515	Restaurant WAFU				restaurant				
+relation	87636			Chauconin-Neufmontiers	8	77124	77335					
+way	116131113	48.9774127	2.8395920	Pizzas & Saveurs du Rutel				restaurant	37	77124	Grande Rue	
+relation	402757			Noisiel	8	77186	77337					
+node	1312783402	48.8431344	2.6155976	Villa de Noisiel				restaurant				
+node	1312783423	48.8438639	2.6155624	Bar Cours des Roches				bar				
+node	1312783453	48.8437413	2.6146779	Oshino				restaurant	3	77186	Place Gaston-Defferre	
+node	1312808399	48.8456062	2.6156554	Ta Ly				bar	43	77186	Cours des Roches	
+node	5223814023	48.8452920	2.6238481	Royal Noisiel				restaurant	2	77186	Passe Louis Logre	
+node	6957230432	48.8544791	2.6278889	Laï Laï Street Food				restaurant	29	77186	Place Émile Menier	
+node	6957230435	48.8544868	2.6282280	?				restaurant	29	77186	Place Émile Menier	
+node	6957230437	48.8544629	2.6271718	Hôtel du Pécheur				restaurant		77186	Place Émile Menier	
+node	6957230442	48.8550091	2.6271399	Le Site du Moulin				restaurant	225	77186	Place Émile Menier	
+node	8124950535	48.8439639	2.6145921	Pho 12				restaurant	10	77186	Allée Boris-Vian	
+node	11518862134	48.8564626	2.6201293	ShowCo by 1848				bar	5	77186	Boulevard Pierre Carle	
+way	116136894	48.8428870	2.6159235	Cantine des lycées de Noisiel				restaurant		77186	Cours des Roches	
+relation	9216981	48.8507330	2.6253390	Ristorante Del Arte				restaurant	15	77186	Rue de la Mare Blanche	
+way	653185462	48.8444250	2.6252031	Le Relais du Buisson				restaurant				
+relation	79666			Noisy-sur-École	8	77123	77339					
+node	3423134180	48.3743475	2.4823489	Auberge d'Auvers Galant				restaurant	7	77123	Rue d'Auvers	
+relation	955091			Oissery	8	77178	77344					
+node	5264044458	49.0704103	2.8164719	Le Calypso				cafe				
+relation	1399263			Les Ormes-sur-Voulzie	8	77134	77347					
+node	11058176105	48.4635294	3.2270811	Restaurant Chez Grand'Mère				restaurant	3	77134	Route de Bray	
+relation	955023			Othis	8	77280	77349					
+node	5544462221	49.0710583	2.6780117	Le Restaurant				restaurant				
+relation	403076			Ozoir-la-Ferrière	8	77330	77350					
+node	1863066224	48.7618286	2.6646528	La Bergerie				restaurant	6	77330	Rue de la Verrerie	
+node	2269493202	48.7647965	2.6727525	Ma Che				restaurant	13	77330	Avenue du Général Leclerc	
+node	2291758576	48.7707584	2.6894459	Le Mistral				cafe	9	77330	Avenue Raoul Nordling	
+node	2292248995	48.7662366	2.6733556	Café des Sports				cafe	1	77330	Avenue Grimeler	
+node	2294135851	48.7793226	2.6807216	Le Relais des Amis				cafe	126	77330	Avenue du Général Leclerc	
+node	2294135876	48.7740413	2.6771029	Pizzeria da Vanessa				restaurant	84	77330	Avenue du Général Leclerc	
+node	2297581711	48.7616528	2.6752859	La Terrasse				cafe	17	77330	Avenue du Général de Gaulle	
+node	3823577577	48.7628171	2.6665936	Asian Sky				restaurant	93	77330	Avenue du Général de Gaulle	
+node	3984741109	48.7661964	2.6736974	Le Quitéria				restaurant	3	77330	Avenue Grimeler	
+node	4085677994	48.7691182	2.6737629	L'Excuse				bar	46	77330	Avenue du Général Leclerc	
+node	4986606444	48.7614078	2.6978222	Tuga Grill				restaurant	19	77330	Rue François de Tessan	
+node	5235175094	48.7625790	2.6717772	Bar Tabac de la Mairie				pub	44	77330	Avenue du Général de Gaulle	
+node	5461943542	48.7608751	2.6787619	Ristorante Fedora				restaurant	1	77330	Rue Danton	
+node	5924051338	48.7659759	2.6735032	La Gondole				restaurant	2A	77330	Avenue Grimeler	
+way	112292027	48.7622959	2.6686212	Le Sud du Maroc				restaurant	65	77330	Avenue du Général de Gaulle	
+way	112293551	48.7618488	2.6672744	Le Pont du Rialto				restaurant	3	77330	Rue de Férolles	
+way	112294715	48.7772957	2.6794994	Au Pavillon Bleu				restaurant	108	77330	Avenue du Général Leclerc	
+way	112296847	48.7632632	2.6725654	Le Nigelle				restaurant	8	77330	Avenue du Général Leclerc	
+way	112297102	48.7622345	2.6636205	City Bowling d'Oz				bar	1	77330	Rue de la Ferme du Presbytère	
+way	112301647	48.7626230	2.6693505	La Gueulardière				restaurant	66	77330	Avenue du Général de Gaulle	
+way	112301650	48.7686295	2.6733020	La Muraille de Chine				restaurant	45	77330	Avenue du Général Leclerc	
+way	221191520	48.7622596	2.6682818	Le Ferrière				restaurant	73	77330	Avenue du Général de Gaulle	
+way	222667915	48.7639442	2.6728262	Oki Sushi				restaurant	14ter	77330	Avenue du Général Leclerc	
+way	232318961	48.7713461	2.6747658	O Chavinhas				cafe	77	77330	Avenue du Général Leclerc	
+relation	1405871			Pamfou	8	77830	77354					
+node	14238831384	48.4628035	2.8684233	Brasserie d'la Brie				restaurant				
+relation	78626			Perthes	8	77930	77359					
+node	472340221	48.4756562	2.5539476	Rapid' Market				cafe				
+relation	953249			Le Pin	8	77181	77363					
+node	12169360371	48.9143024	2.6297919	L'ami de Pin				restaurant				
+relation	413193			Poigny	8	77160	77368					
+node	10688405953	48.5448962	3.2846666	La Terrasse Du Churrasco				restaurant		77160	Avenue de Poigny	
+relation	402261			Poincy	8	77470	77369					
+node	3663367969	48.9681454	2.9330047	La Chaumière				restaurant				
+relation	402735			Pomponne	8	77400	77372					
+node	1933426261	48.8819336	2.6964425	Crêperie Grain de Sel				restaurant	51	77400	Rue Général Leclerc	
+relation	403055			Pontault-Combault	8	77340	77373					
+node	1790143962	48.7996477	2.6083322	Le Central				cafe		77340	Avenue de la République	
+node	2029957535	48.7768177	2.6020980	Shinjuku				restaurant	32	77340	Rue Raoul Dautry	
+node	5585232683	48.7997235	2.6080602	Pizza Hut				restaurant		77340	Avenue de la République	
+node	5595219993	48.7825092	2.6007640	L'Eclipse				cafe	87	77340	Rue Lucien Brunet	
+node	5595219995	48.7827538	2.6006882	Pizzeria Le Pingouin				restaurant	93	77340	Rue Lucien Brunet	
+node	5602710617	48.7951377	2.6046743	Café d'Paris				bar	49	77340	Avenue Charles Rouxel	
+node	5604259840	48.7982573	2.6055908	Chrono Sushi				restaurant	6	77340	Avenue des Marguerites	
+node	5604259841	48.7977644	2.6050880	Pontault Sushi				restaurant	11	77340	Avenue Charles Rouxel	
+node	5623108223	48.7874922	2.6027996	Luna Rossa				restaurant	144	77340	Avenue Charles Rouxel	
+node	5941073917	48.8033206	2.6114171	Pâte à Pizza				restaurant	59	77340	Avenue de la République	
+node	6159040086	48.7768312	2.5952302	Poulet Pedro				restaurant				
+node	7372841976	48.8032576	2.6113146	Brasserie de l'Hôtel de Ville				bar	59	77340	Avenue de la République	
+node	7372907328	48.8059417	2.6162824	Restaurant Mandarin				restaurant		77340	Avenue de la République	
+node	7375372967	48.8057119	2.6177613	Tabac de la Gare				cafe		77340		
+node	7375595624	48.8052885	2.6150475	Wooden Lounge				restaurant	19	77340	Avenue de la République	
+node	7375655244	48.8048778	2.6142889	Le Bistrotier				restaurant	29	77340	Avenue de la République	
+node	7375928159	48.8043515	2.6133341	Le Churrasco chez Carlos				restaurant		77340	Avenue de la République	
+node	7379597393	48.8002190	2.6097928	Dalya Asie Sushi				restaurant	3	77340	Rue de l'Orme au Charron	
+node	7379632902	48.8005445	2.6097509	African Evasion				restaurant	105	77340	Avenue du Général de Gaulle	
+node	7380311555	48.8027454	2.6141192	Pastelaría Royal				restaurant	61	77340	Avenue du Général de Gaulle	
+node	7380478234	48.8041992	2.6164411	J Délices				cafe	26	77340	Avenue du Général de Gaulle	
+node	7385382312	48.7995418	2.6081048	Noodles & Co				restaurant		77340	Avenue de la République	
+node	7385548762	48.7980416	2.6051585	Au Bouquet				bar	7	77340	Avenue Charles Rouxel	
+node	7385733797	48.7973373	2.6046646	L'Etoile du Maroc				restaurant	16	77340	Avenue Charles Rouxel	
+node	7385822525	48.7961570	2.6046420	Le Val d'Aoste				restaurant	37	77340	Avenue Charles Rouxel	
+node	7385926957	48.7945463	2.6046930	Kawtar Traiteur				restaurant	53	77340	Avenue Charles Rouxel	
+node	7385926958	48.7945357	2.6044030	Nela				restaurant	48	77340	Avenue Charles Rouxel	
+node	7385965886	48.7937572	2.6045551	Le Petit Lisbonne Churrasqueira				restaurant	61	77340	Avenue Charles Rouxel	
+node	7385968573	48.7923231	2.6040486	Bangkok 63				restaurant	72	77340	Avenue Charles Rouxel	
+node	7385974701	48.7929013	2.6044159	L'Etoile				restaurant	71	77340	Avenue Charles Rouxel	
+node	7406260373	48.7778688	2.6088082	O Feu De Bois				restaurant		77340	Rue de Monthéty	
+node	8364197525	48.7765499	2.5983547	Royal Pontault				restaurant	4	77340	Route de Paris	
+node	8434847633	48.7875604	2.6028467	Thaï Food 77				restaurant	146	77340	Avenue Charles Rouxel	
+node	8437113088	48.7795179	2.6106803	Billards Street				pub	1	77340	Rue Saint-Claude	
+node	8437117636	48.7777617	2.6115077	Bollywood Palace				restaurant	61	77340	Rue de Monthéty	
+node	8448841591	48.7969646	2.6062631	Gujral				restaurant	32	77340	Avenue des Marguerites	
+node	13254259501	48.7759064	2.5925807	Overland				bar				
+way	112034071	48.7896355	2.6067255	Grill Corner				restaurant	36	77340	Avenue du Château	
+way	112035095	48.7759750	2.6020685	Sushi Club				restaurant		77340		
+way	112037961	48.7997147	2.6261906	Pépé Manzo				restaurant		77340	Rue du Pré des Aulnes	
+way	112039401	48.7833430	2.6157735	Buffalo Grill				restaurant	96	77340	Rue des Prés Saint-Martin	
+way	112043637	48.7778425	2.5884880	Pedra Alta				restaurant				
+relation	12186074	48.7969545	2.6254695	Le Vintage				restaurant		77340	Rue de Strasbourg	
+way	202335750	48.7781460	2.5873100	Ristorante Del Arte				restaurant	31	77340	Route de Paris	
+way	202335807	48.7782365	2.5869010	Hippopotamus				restaurant	31	77340	Route de Paris	
+relation	10847527	48.8064479	2.6166854	Le Bellevue				cafe				
+way	753894826	48.7994210	2.6264715	Ô Bistro				restaurant	89	77340	Rue du Pré des Aulnes	
+relation	1381769			Pontcarré	8	77135	77374					
+node	1803434056	48.8009864	2.7040120	Malocco				restaurant	10	77135	Grande Rue	
+node	1803434065	48.8028521	2.7036633	Domaine du Parc				restaurant	11	77135	Grande Rue	
+relation	1371491			Presles-en-Brie	8	77220	77377					
+node	2780351546	48.7155680	2.7409903	Le Petit Preslois				bar	2	77220	Place de l'Église	
+relation	78982			Pringy	8	77310	77378					
+node	8490527985	48.5167747	2.5648893	Maiko Wok				restaurant				
+node	13056866562	48.5254585	2.5576947	La Fantasia				restaurant	70	77310	Avenue de Fontainebleau	
+node	13059563119	48.5274368	2.5510141	Wok N Co				restaurant	25	77310	Avenue de Fontainebleau	
+node	13059586489	48.5277680	2.5502340	BOR & GINI				restaurant	21	77310	Avenue de Fontainebleau	
+node	13066699956	48.5232586	2.5597393	Le Cap Ouest				restaurant	95	77310	Avenue de Fontainebleau	
+way	33899734	48.5157365	2.5656647	Tajinier				restaurant			Avenue de Fontainebleau	
+relation	402221			Provins	8	77160	77379					
+node	2389937611	48.5593017	3.2945908	Hostellerie de la Croix D'Or				restaurant				
+node	3267088972	48.5596044	3.2974004	L'Instant				restaurant			6 place Honoré de Balzac	
+node	3433470376	48.5625643	3.2872626	Aux Vieux Remparts				restaurant	3	77160	Rue Couverte	
+node	3471390619	48.5622434	3.2885540	Au Bon Terroir				restaurant	21	77160	Rue du Palais	
+node	3994200460	48.5625624	3.2875392	Chez Mamie				restaurant				
+node	4314853520	48.5580906	3.3032220	Miam's				restaurant	28	77160	Rue Victor Arnoul	
+node	6959947081	48.5626507	3.2869586	La P'tite Table				restaurant				
+node	6959947082	48.5626777	3.2872932	Le Dôme				restaurant				
+node	6959970485	48.5626001	3.2881817	La Terrasse Du Châtel				restaurant				
+node	6959970489	48.5621572	3.2884674	Au César Gourmand				restaurant				
+node	6959970497	48.5608081	3.2960272	Le Goût Thé				cafe				
+node	6959970500	48.5608249	3.2966414	Les Bistrophiles				restaurant				
+node	6959970502	48.5607273	3.2969981	Chez Yuzhou				restaurant				
+node	6959970503	48.5607104	3.2966146	L'appart				restaurant				
+node	6959970507	48.5605942	3.2971685	Indien Punjab				restaurant				
+node	6959970512	48.5606563	3.2974648	Le Pot à Tabac				pub				
+node	8468806036	48.5608102	3.2961261	Trattoria du val				restaurant				
+node	9427706308	48.5534021	3.2981688	Etoile de Provins				restaurant	9	77160	Rue François Rayer	
+node	10688307646	48.5603192	3.2980786	Best Brooklyn Cakes				cafe	7	77160	Rue du Val	
+node	10942462408	48.5626125	3.2871654	Le Lounge Bar des Remparts				bar				
+node	10944806744	48.5625304	3.2883141	Erik Shaix				restaurant				
+node	11295423396	48.5598921	3.2999310	La Malouinière				restaurant	19		Rue de la Friperie	
+node	11954145644	48.5554065	3.3041318	Maison Marrakech				restaurant	7		Route de Chalautre	
+node	11954169869	48.5583550	3.3030630	O-CANTINE				restaurant	23	77160	Rue Victor Arnoul	
+node	13198358760	48.5533854	3.2969427	Redhawk - Lancer de hache - bar à bières				bar	11	77650	Rue François Rayer	
+node	13964528993	48.5612702	3.2950750	Banquet des Troubadours				restaurant	14		Rue Saint-Thibault	
+way	113121095	48.5623535	3.2875480	Le Petit Écu				restaurant				
+way	113124717	48.5484645	3.2938150	Buffalo Grill				restaurant				
+way	113128024	48.5516915	3.2957295	KIOSQUE A PIZZAS PROVINS				restaurant	18	77160	Rue François Rayer	
+way	113128525	48.5595830	3.2811900	La Cure d'Air				restaurant				
+way	1022213057	48.5482809	3.2943260	Lucky Wok				restaurant	15	77160	Avenue de Voulzie	
+way	1022213058	48.5483518	3.2941117	L'usine Provins				restaurant	15	77160	Avenue de Voulzie	
+relation	89500			Quincy-Voisins	8	77860	77382					
+node	5249389222	48.8991301	2.8729618	Kebab Pizza				restaurant				
+way	116159113	48.8989550	2.8737545	Le Petit Chinon				restaurant				
+relation	80414			Réau	8	77550	77384					
+way	114154534	48.6149105	2.6280470	Stratto				restaurant				
+relation	1309504			Rebais	8	77510	77385					
+node	2253208155	48.8463236	3.2308242	Bar des Trois Routes				pub				
+node	14103272003	48.8506646	3.2395502	Chez les filles				restaurant	1	77510	Avenue de l'Industrie	
+relation	79674			La Rochette	8	77000	77389					
+node	10808404348	48.5215247	2.6619000	Four du Chef				restaurant				
+way	114174703	48.5180730	2.6554295	Buffalo Grill				restaurant				
+way	114176169	48.5213505	2.6613710	La cantine des grands				restaurant	46	77000	Rue Honoré Daumier	
+relation	403963			Roissy-en-Brie	8	77680	77390					
+node	2325466735	48.8007603	2.6329180	Chez Yang Co				restaurant				
+node	5568426255	48.7831808	2.6577860	Chez Tini				restaurant	3	77680	Route d'Ozoir	
+node	6126538819	48.7898115	2.6400915	Donerium Kebab				restaurant		77680		
+node	7485483043	48.7911656	2.6504040	Carre d'As				cafe	2	77680	Rue de la Gare d'Émerainville	
+node	7485559516	48.7914181	2.6527887	Chez Pedro				restaurant	26	77680	Rue Pasteur	
+node	8235052058	48.7900807	2.6404819	Best Wok				restaurant				
+node	8235062812	48.7951952	2.6446192	Le Roissy				cafe				
+node	8235062816	48.7907884	2.6680315	A Tasquinha				restaurant				
+node	8235137322	48.7909739	2.6657255	Deux Frères				restaurant				
+node	8235137324	48.7912717	2.6648524	L'Espérance				cafe				
+node	8235137331	48.7908339	2.6616780	Café des Sports				cafe				
+way	113029894	48.7905761	2.6579703	Cantine				restaurant				
+way	113032350	48.7909499	2.6656042	A Morena				restaurant		77680	Avenue du Maréchal Foch	
+way	671671023	48.7825926	2.6558085	Le Kiosque à Pizza				restaurant				
+relation	80222			Rubelles	8	77950	77394					
+way	114156606	48.5537220	2.6713580	Bistro Régent				restaurant		77950	Zac Saint-Nicolas	
+relation	414487			Saint-Augustin	8	77515	77400					
+way	115170499	48.7924255	3.0244956	Le Clos Briard				restaurant	72A	77515	Rue de Meaux	
+relation	1321615			Saint-Barthélemy	8	77320	77402					
+node	4806289045	48.8159071	3.3605028	Le St Barth				bar				
+relation	1312767			Saint-Cyr-sur-Morin	8	77750	77405					
+way	273703575	48.9144608	3.1947255	L'Hermitière				restaurant				
+way	273705894	48.9061999	3.1837594	Le Saint-Cyr				bar				
+relation	79617			Saint-Fargeau-Ponthierry	8	77310	77407					
+node	2678981494	48.5344195	2.5453113	Le Chayton				restaurant				
+node	3719638997	48.5638988	2.5420329	La Baraka				restaurant	119	77310	Avenue de la Gare	
+node	4885270519	48.5542656	2.5269212	La Toscane				restaurant				
+node	9263485834	48.5340370	2.5463028	Bar Tabac de la Gare				bar				
+node	9263508447	48.5335966	2.5457597	L'Atelier				restaurant				
+way	113151587	48.5348585	2.5295770	Buffalo Grill				restaurant				
+way	330854388	48.5380129	2.5205750	Jardin Royal				restaurant				
+relation	1304582			Saint-Fiacre	8	77470	77408					
+node	12423490308	48.9224574	2.9532881	Chez Hélo – L'Auberge de St Fiacre				restaurant	19	77470	Place du Breuil	
+relation	1404770			Saint-Germain-Laval	8	77130	77409					
+node	2482096206	48.4012463	2.9908456	Pizzeria				restaurant				
+relation	1380624			Saint-Germain-sur-Morin	8	77860	77413					
+node	1871832625	48.8827611	2.8515230	Café l'Alliance				cafe				
+node	8205162138	48.8833740	2.8532971	Caffé.it				cafe				
+node	8205162141	48.8832783	2.8524937	Le Fontenoy				cafe				
+node	8205162145	48.8823563	2.8512727	À Gouyette				restaurant				
+relation	226674			Saint-Mammès	8	77670	77419					
+node	11690200413	48.3889920	2.8082529	Au bon Couscous				restaurant	7		Rue Grande	
+node	13135953211	48.3886585	2.8073668	La Marée Jeanne				restaurant	3	77670	Quai de Seine	
+relation	1292656			Saint-Mard	8	77230	77420					
+node	5061161539	49.0362502	2.6942427	Le Saint-Moritz				bar				
+way	200534904	49.0324419	2.6979847	Café de la Gare				bar	3	77230	Rue Pasteur	
+way	592044685	49.0392916	2.6841928	Buffalo Grill				restaurant			Avenue de la Fontaine du Berger	
+way	1110326355	49.0371334	2.6838853	Beef House				restaurant	11	77230	Avenue de la Fontaine du Berger	
+way	1110326356	49.0375059	2.6838990	Ristorante Del Arte				restaurant		77230	Avenue de la Fontaine du Berger	
+way	1110326357	49.0378557	2.6838628	Au Bureau				restaurant	7	77230	Avenue de la Fontaine du Berger	
+way	1110326376	49.0390722	2.6865152	Au Soleil Levant				restaurant	23	77230	Avenue des Deux Moulins	
+relation	955078			Saint-Pathus	8	77178	77430					
+node	13978183984	49.0754137	2.7887574	Le bon Café				cafe	46	77178	Rue du Plessis	
+relation	88790			Saint-Pierre-lès-Nemours	8	77140	77431					
+node	7391910602	48.2711140	2.6787460	Brasserie Clos Saint-Jean				bar		77140		
+relation	1400794			Saint-Sauveur-lès-Bray	8	77480	77434					
+node	2752682583	48.4364809	3.2097057	Le Saint-Sauveur				restaurant				
+relation	402876			Saint-Thibault-des-Vignes	8	77400	77438					
+node	1933437142	48.8674591	2.6808803	Rigatoni Café				restaurant				
+node	1933437145	48.8677290	2.6783228	Le Palais de Saint-Thibault				restaurant				
+node	1933437146	48.8676197	2.6800086	La Criée				restaurant				
+node	1933456889	48.8688550	2.6883328	L'Auberge de Marrakech				restaurant	21	77400	Place de l'Église	
+node	8157621671	48.8687711	2.6881380	Chez les filles				cafe				
+node	8240859598	48.8637990	2.6752165	Sushi Sushi				restaurant				
+node	8240859601	48.8546087	2.6673697	Le Jeremily				cafe				
+relation	215334			Samois-sur-Seine	8	77920	77441					
+node	1998846692	48.4517086	2.7495579	L’Ardoise Samoisienne				restaurant				
+node	1999912601	48.4537463	2.7621423	Le Relais de l'Ecluse - Le "11"				restaurant	11		Quai de l'Écluse	
+node	2820477650	48.4523065	2.7476392	Le Philadelphia				nightclub	5		Avenue de la Libération	
+node	7863151680	48.4512976	2.7492634	L’Essentiel				restaurant	26	77920	Place de la République	
+node	7863151681	48.4506041	2.7577427	Démé Samois				restaurant	21	77920	Quai de la République	
+node	7863151682	48.4504706	2.7575652	La Dérive				restaurant	17	77920	Quai de la République	
+way	115282589	48.4512585	2.7492550	L’Essentiel				restaurant				
+way	115284620	48.4511175	2.7496245	Maison Sumac				restaurant	42		Place de la République	
+relation	224969			Samoreau	8	77210	77442					
+node	7398029181	48.4236345	2.7510912	Fenjy Bar				bar			Rue Grande	
+way	409557435	48.4221048	2.7478245	Buvette de Samoreau				biergarten				
+relation	80143			Savigny-le-Temple	8	77176	77445					
+node	4426743939	48.5964120	2.5920096	Villa d'or				restaurant				
+way	422452265	48.5953535	2.5835836	Universal Café				cafe				
+relation	80439			Seine-Port	8	77240	77447					
+node	3608623147	48.5579225	2.5484822	Café Restaurant La Terrasse				cafe	2	77240	Rue René Viviani	
+node	3608639887	48.5575049	2.5491973	Le Colimaçon				restaurant	11	77240	Rue de Melun	
+relation	409305			Sept-Sorts	8	77260	77448					
+way	161063684	48.9455462	3.1108233	Dragon d'Or				restaurant				
+way	161063811	48.9452735	3.1106200	Pizza Cesena				restaurant				
+way	1334244047	48.9469311	3.1103904	Poké bar la Ferté sous Jouarre				restaurant				
+relation	89587			Serris	8	77700	77449					
+node	1730603286	48.8560602	2.7746185	L'Agape Café				bar				
+node	1937466332	48.8414563	2.7901280	Les Marmottes				restaurant				
+node	1937467642	48.8426653	2.7914192	Le 6 bis				restaurant				
+node	1937468797	48.8416095	2.7907111	Sushi O-Hashi				restaurant				
+node	2299194513	48.8565286	2.7850718	L'Interprète				restaurant				
+node	2629770614	48.8414913	2.7908485	Le Royal du Bengale				restaurant				
+node	4339997667	48.8413424	2.7901840	Pizza Time's				restaurant	14	77700	Avenue de Saria	
+node	5931584394	48.8553733	2.7747253	Columbus Café & Co				cafe				
+node	6580401467	48.8523056	2.7833352	Menu Palais				restaurant				
+node	6580411816	48.8536698	2.7834622	Café Colon Atelier				cafe				
+node	8167942616	48.8558325	2.7844270	Nonna & Nonno				restaurant				
+node	8424714004	48.8401747	2.7849501	Restaurant EKLO				restaurant	1	77700	Avenue de Couternois	
+node	9250698812	48.8418219	2.7908727	Chez Meiling				restaurant	15	77700	Avenue de Saria	
+node	9250791338	48.8431537	2.7892181	O'Petit Pavé				restaurant				
+node	10781827430	48.8549879	2.7809594	Starbucks				cafe				
+node	13277572577	48.8555404	2.7847306	Le-S Serris Séoul BBQ				restaurant				
+node	13902466052	48.8541666	2.7749280	Wonderwoods by Ephemera				restaurant	1	77700	Rue de l'Hymne à la Joie	
+way	654045228	48.8554203	2.7833632	Segafredo				cafe				
+way	654438576	48.8556382	2.7841100	Noura				restaurant		77700		
+way	654440836	48.8554399	2.7838601	Le Dragon d'Europe				restaurant		77700		
+way	654449118	48.8551273	2.7831703	Ristorante Del Arte				restaurant		77700		
+way	654449119	48.8550023	2.7828981	Hippopotamus				restaurant		77700		
+relation	402928			Servon	8	77170	77450					
+node	5063094265	48.7125571	2.5819464	Royal Grill				restaurant				
+node	6813773178	48.7069183	2.5886313	Old Wild West				restaurant				
+node	6859828107	48.7061621	2.5875324	World Wok				restaurant				
+node	6859828111	48.7064984	2.5862530	Paye ta Crèpe				restaurant				
+node	6859828123	48.7070170	2.5883666	Bistrot Régent				restaurant				
+node	6859828128	48.7066294	2.5891551	Le Trisk'l				restaurant				
+node	6859828130	48.7068099	2.5888333	Coq and Cook				restaurant				
+node	6859828132	48.7063231	2.5877792	Lolly's				restaurant				
+node	6859828133	48.7063054	2.5879186	Anatol's				restaurant				
+node	6859828134	48.7063391	2.5875941	American Steak House				restaurant				
+node	10114111384	48.7158255	2.5856463	Le Servonnais				restaurant				
+node	11091212549	48.7096343	2.5863996	Le Kolam				restaurant		77170		
+node	11091214199	48.7094446	2.5866666	Seeds crêperie				restaurant		77170		
+node	11500246109	48.7116594	2.5821887	Léon				restaurant				
+way	114194222	48.7114563	2.5827087	La Criée				restaurant				
+way	114196082	48.7125890	2.5803492	Le Sushi				restaurant				
+way	694100515	48.7092218	2.5862918	Au Bureau				restaurant		77170		
+way	986724753	48.7064849	2.5880606	Steak 'n Shake				restaurant		77170	Le Noyer aux Perdrix ZAC du	
+way	986724754	48.7060658	2.5880782	Indiana Café				restaurant				
+way	986724756	48.7060753	2.5887624	Ayako Sushi				restaurant				
+way	1333408153	48.7060702	2.5884989	Volfoni				restaurant				
+relation	1364347			Sivry-Courtry	8	77115	77453					
+node	12771666031	48.5281964	2.7553541	La Vieille Auberge				restaurant				
+way	276549649	48.5285230	2.7548345	La vieille auberge				restaurant				
+way	276550674	48.5276610	2.7552435	Espace verres				restaurant				
+relation	1399246			Soisy-Bouy	8	77650	77456					
+node	10705871209	48.5116834	3.2947957	La Cucina				restaurant	1	77650	Rue du Bois aux Dames	
+relation	223646			Souppes-sur-Loing	8	77460	77458					
+node	7549862888	48.1858838	2.7320860	Poulet House				restaurant	65	77460	Avenue du Maréchal Leclerc	
+node	9787633649	48.1823678	2.7331596	Le Tempo				restaurant				
+node	9787633657	48.1825126	2.7315409	Le Miki				restaurant				
+way	115301754	48.1852110	2.7330450	Les Six Bornes				bar				
+relation	216293			Thomery	8	77810	77463					
+node	4415014233	48.4101033	2.7860858	À la bonne treille				cafe				
+node	8003645702	48.4100645	2.7860767	La Bonne Treille				bar	5	77810	Place Greffülhe	
+way	80555114	48.4062672	2.7940128	Aux Tilleuls				restaurant	5	77810	Route de Champagne	
+way	80556409	48.3962620	2.7832296	Salon de Thé				cafe	12	77810	Rue Rosa Bonheur	
+relation	403821			Thorigny-sur-Marne	8	77400	77464					
+node	2197614782	48.8824043	2.7050044	L'Atelier de Thorigny				cafe				
+node	3574969793	48.8844799	2.7130866	Le Celtique				bar				
+node	3759819914	48.8811028	2.7045721	Bar des 3 Communes				bar				
+node	3782259804	48.8811485	2.7049149	Les Terrasses				bar				
+node	3782259805	48.8810896	2.7050240	Tokyo				restaurant				
+node	3782259809	48.8816497	2.7043726	Café de la Passerelle				cafe				
+node	8184307088	48.8881171	2.7038739	Le Gourmandin				restaurant				
+node	8184307089	48.8980202	2.7138980	Au Convivial				restaurant				
+node	8184307090	48.8902365	2.7061786	O Lapinha				restaurant				
+relation	1432977			Thoury-Férottes	8	77940	77465					
+node	9901645389	48.2990098	2.9528605	Restaurant du Golf de la Forteresse				restaurant		77940	Ferme de la Forteresse	
+relation	402764			Torcy	8	77200	77468					
+node	482734863	48.8508245	2.6540016	La Causerie				restaurant	27	77200	Rue de Paris	
+node	2268098055	48.8439353	2.6556360	L'Ardoise				restaurant	5		Promenade du Gué Langlois	
+node	2976097999	48.8407762	2.6543489	Old Wild West				restaurant		77200		
+node	2976098002	48.8408732	2.6553679	Volfoni				restaurant				
+node	2976098003	48.8406666	2.6553842	Everest Swad				restaurant				
+node	2976098011	48.8409120	2.6558429	Le Menh'ir				restaurant		77200	Promenade du 7e Art	
+node	2976098014	48.8408892	2.6551881	Saveurs du Monde				restaurant	7	77200	Promenade du 7e Art	
+node	2976098017	48.8401195	2.6532972	Café de la Gare				cafe				
+node	2976098020	48.8402536	2.6543140	Timmur				restaurant				
+node	2976098026	48.8408096	2.6547566	Wok & Do				restaurant		77200	Promenade du 7 ème Art	
+node	2976098032	48.8399977	2.6533240	Saveurs d'Asie				restaurant				
+node	2976099833	48.8408980	2.6555398	Sushi King				restaurant		77200	Promenade du 7e Art	
+node	2976099843	48.8401335	2.6543489	Le Tuk Tuk de Saïgon				restaurant		77200		
+node	2976099844	48.8407990	2.6545822	Korea House				restaurant		77200		
+node	2976099846	48.8405343	2.6543620	Au Bureau				restaurant		77200	Promenade du 7e Art	
+node	2976099850	48.8407050	2.6540398	Le Tarsa Grill				restaurant	1	77200	Avenue de Lingenfeld	
+node	2976099854	48.8406359	2.6552526	Hippopotamus				restaurant		77200	Promenade du 7e Art	
+node	2976099858	48.8406647	2.6539097	Dragonland				restaurant	22	77200	Promenade du 7 Ème Art	
+node	3781137445	48.8413125	2.6489271	Le Royal Torcy				restaurant	31	77200	Cours des Lacs	
+node	4313439746	48.8382125	2.6538270	Pho Quynh				restaurant				
+node	4430938190	48.8430155	2.6454421	Konfusius				restaurant	20	77200	Cours des Lacs	
+node	4430978189	48.8437271	2.6451771	Le Café du Lac				cafe	16	77200	Rue Pablo Neruda	
+node	5134062836	48.8494632	2.6435782	Như ý				restaurant	99	77200	Rue de Paris	
+node	6164781707	48.8491848	2.6439969	Oomori Ramen				restaurant	99	77200	Rue de Paris	
+node	7402737797	48.8508890	2.6529201	Le Trente-six				cafe	36	77200	Rue de Paris	
+node	7502068473	48.8529180	2.6528344	Chrono pizza				restaurant	17	77200	Grande Rue	
+node	8202208083	48.8508515	2.6515489	Le Scorpion				restaurant	52	77200	Rue de Paris	
+node	8202208084	48.8527684	2.6504765	L'Escale				restaurant				
+node	8202208085	48.8527975	2.6504550	Café du Stade				cafe				
+node	8202208087	48.8531849	2.6501264	Bar du Jeu De Paume				cafe				
+node	8202208092	48.8532266	2.6539752	L'Ambiance				bar	48	77200	Grande Rue	
+node	9550365651	48.8392877	2.6547271	Le Comptoir				cafe				
+node	13714122008	48.8405165	2.6534850	Timamère				restaurant				
+way	115324188	48.8506890	2.6551505	Auberge des Charmettes				restaurant	15	77200	Rue de Paris	
+way	115324457	48.8443140	2.6546625	Wok Grill Torcy				restaurant	15	77200	Avenue de Lingenfeld	
+way	115325144	48.8516662	2.6358106	Restaurant communautaire				restaurant		77200	Place des Rencontres	
+relation	414500			Touquin	8	77131	77469					
+way	115177285	48.7344455	3.0110805	Le Jupiter				bar				
+relation	409493			Tournan-en-Brie	8	77220	77470					
+node	4397859130	48.7402833	2.7643772	Café de la Croix Blanche				cafe				
+node	6074566642	48.7393282	2.7637810	Favina				restaurant				
+node	8721082327	48.7400716	2.7645258	Café du Commerce				cafe				
+node	8721082331	48.7403548	2.7650847	Le Tournant				bar	2	77220	Rue de Paris	
+node	8721082339	48.7391488	2.7669347	BKK Sky				restaurant	42		Rue de Provins	
+node	8721082340	48.7388673	2.7676503	Asian Sky				restaurant				
+node	8721082341	48.7380761	2.7705928	La Tourelle				restaurant				
+node	8721082342	48.7388590	2.7614300	Chez Fabien				bar				
+node	8721082344	48.7394050	2.7624847	Comptoir des Indes				restaurant				
+relation	1419481			Tousson	8	77123	77471					
+node	4964528438	48.3463869	2.4590371	La tête des trains				pub				
+relation	86611			Trilport	8	77470	77475					
+node	9790633337	48.9591583	2.9495837	L'Auberge du Chemin de Fer				cafe				
+node	10941578698	48.9578489	2.9471448	Le Memphis				bar	17	77470	Rue du Maréchal Joffre	
+relation	1955945			Ury	8	77760	77477					
+node	9357992510	48.3429598	2.6013604	Le Lucky				bar				
+node	9357992514	48.3437779	2.6025037	La Griotte				restaurant				
+relation	1304386			Ussy-sur-Marne	8	77260	77478					
+node	13119039549	48.9539413	3.0718246	Café de la Marne				cafe				
+relation	402741			Vaires-sur-Marne	8	77360	77479					
+node	8025693493	48.8728609	2.6370273	La Crep'rit				restaurant	39	77360	Avenue Jean Jaurès	
+node	8025693495	48.8731771	2.6369900	Chez Migran				restaurant	40	77360	Avenue Jean Jaurès	
+node	8032180155	48.8697739	2.6407280	Vaires Fleuri				bar	6 bis	77360	Place de la République	
+node	8077987606	48.8744147	2.6387598	Le Royal				bar	3	77360	Avenue Jean Jaurès	
+node	8078040701	48.8742133	2.6385304	Délices de Hong-Kong				restaurant	9	77360	Avenue Jean Jaurès	
+node	8078042245	48.8743254	2.6380339	La Trattoria				restaurant	3	77360	Rue de Chelles	
+node	8078076698	48.8737758	2.6382130	Le Grignoton				restaurant	3	77360	Rue Alphonse Manceau	
+node	8078180329	48.8736923	2.6375567	Le Val d'Aoste				restaurant	24	77360	Avenue Jean Jaurès	
+node	8078183853	48.8735184	2.6373654	Le Bangkok				restaurant	30	77360	Avenue Jean Jaurès	
+node	8078269002	48.8742167	2.6394154	Fang Oishi				restaurant	8	77360	Boulevard de Lorraine	
+node	8214178100	48.8745688	2.6390979	Brasserie de la Gare				bar	3	77360	Place du Général de Gaulle	
+node	8214439697	48.8695986	2.6415776	Tabac de la République				cafe	9	77360	Rue de Lagny	
+node	14157702424	48.8660887	2.6472694	La Guiguette des Bords de Marne				bar		77360	La Pointe de l'Écluse	
+way	116317085	48.8734595	2.6370285	L'Authentique				restaurant	4	77360	Rue Jules Ferry	
+way	116320188	48.8663635	2.6426490	Le Rallye Nautique				restaurant	47	77360	Boulevard de la Marne	
+relation	1611604	48.8704150	2.6461080	La Boule d'Or				restaurant	10	77360	Place du Vieux Vaires	
+relation	1405943			Valence-en-Brie	8	77830	77480					
+node	11212644736	48.4441587	2.8899498	Chez Claudia				restaurant				
+relation	1417798			Varennes-sur-Seine	8	77130	77482					
+node	2011461451	48.3634367	2.9513480	Flunch				restaurant				
+node	2135198076	48.3621861	2.9500327	Au Bureau				restaurant				
+node	2135198086	48.3620329	2.9497404	La Marande				restaurant				
+node	3045255209	48.3616760	2.9497099	Asian Gold				restaurant				
+node	5993658425	48.3637239	2.9510396	La Coupole				restaurant				
+way	249302785	48.3707135	2.9405456	La taverne des pizzas				restaurant				
+way	459250381	48.3613020	2.9497278	L'atelier				restaurant				
+relation	402259			Varreddes	8	77910	77483					
+way	116243115	49.0037640	2.9267840	Café de la Mairie				cafe	51	77910	Rue Victor Clairet	
+way	116244152	49.0006685	2.9303665	Kaaz Bokit Cadran Solaire				restaurant				
+relation	1419514			Le Vaudoué	8	77123	77485					
+node	10790036568	48.3564672	2.5192801	L'Embuscade				bar				
+relation	80215			Vaux-le-Pénil	8	77000	77487					
+node	1731858497	48.5329503	2.6725165	La Table Saint-Just				restaurant				
+relation	80869			Verneuil-l'Étang	8	77390	77493					
+node	2089383631	48.6440917	2.8264254	La Niflette				restaurant				
+node	2089383637	48.6438850	2.8296833	Le Royal				cafe	18		Rue de la Source	
+node	8713211193	48.6448201	2.8254551	AM DELICES				restaurant	48		Rue de la Gare	
+relation	222545			Vernou-la-Celle-sur-Seine	8	77670	77494					
+node	8090415272	48.3889660	2.8472996	La Taverne				bar				
+relation	80225			Vert-Saint-Denis	8	77240	77495					
+node	3624904293	48.5621110	2.6340536	Memphis Coffee				restaurant				
+node	3911195010	48.5648273	2.6270020	Le Saint-Denis (Bar - Brasserie - Restaurant)				bar	27	77240	Avenue du Bois Vert	
+node	3911195014	48.5648893	2.6123272	Le Balto				bar	18	77240	Rue Pasteur	
+node	3911195020	48.5649584	2.6113327	Le Kampot 77				restaurant	6	77240	Place du Grand Village	
+node	11306273022	48.5669968	2.6286210	Wafu				restaurant	120	77240	Route Départementale 306	
+way	115139793	48.5665990	2.6325515	Campanile				restaurant	260	77240	Avenue de l'Europe	
+way	115140562	48.5662165	2.6290545	Léon de Bruxelles				restaurant				
+relation	1416413			Villemer	8	77250	77506					
+node	4570164492	48.3082793	2.7848366	Quebec				bar				
+relation	1380583			Villeneuve-le-Comte	8	77174	77508					
+node	9129152395	48.8303186	2.8151943	Suzette				restaurant				
+node	9129152396	48.8304829	2.8147678	Cépages				restaurant				
+node	9129152399	48.8300450	2.8137620	Vapiano				restaurant				
+node	10239189757	48.8270749	2.8116160	Les Délices De La Ferme				restaurant				
+node	13668806414	48.8148137	2.8302829	La Taverne				restaurant				
+node	13668806415	48.8148130	2.8305601	Le Palais De Marrakech				restaurant				
+way	372839857	48.8152524	2.8299432	audrey's cafe				cafe				
+relation	406293			Villenoy	8	77124	77513					
+node	9394488051	48.9433728	2.8640551	Le Balto				cafe	35		Rue de la Marne	
+node	13516887214	48.9503726	2.8731629	Brasserie Belladone				pub				
+relation	953247			Villeparisis	8	77270	77514					
+node	1069300523	48.9382269	2.5979180	Aux 2 Départements				bar				
+node	2138957997	48.9489740	2.6248604	Le Relais du Parisis				restaurant				
+node	2688494165	48.9511614	2.6019182	Traiteur asiatique Jin Li Lai				restaurant				
+node	3643102361	48.9500388	2.6009968	Royal kyo To				restaurant				
+node	3643102378	48.9511761	2.6007076	Brasserie de la Paix				cafe				
+node	3643103513	48.9512590	2.6009651	Yakichi				restaurant				
+way	433228909	48.9467266	2.6239250	Baiao Saveurs				restaurant				
+way	433232064	48.9459717	2.6255800	Léon				restaurant				
+way	504627498	48.9459880	2.6236454	Brasserie Le Balthazar				restaurant				
+relation	349699			Ville-Saint-Jacques	8	77130	77516					
+node	580799489	48.3424913	2.8958112	Café de la Place				cafe				
+way	294987550	48.3449148	2.9027931	Favola della pizza				restaurant	7	77130	Grande Rue	
+relation	402668			Villevaudé	8	77410	77517					
+node	2195170957	48.9003851	2.6724047	Le Petit Bordeaux				bar				
+relation	78653			Villiers-en-Bière	8	77190	77518					
+way	280923177	48.5020119	2.5782367	Courtepaille				restaurant				
+relation	1341855			Villiers-Saint-Georges	8	77560	77519					
+node	11164669232	48.6500928	3.4059924	Café de la place				cafe				
+relation	1381764			Villiers-sur-Morin	8	77580	77521					
+node	9909871959	48.8593964	2.8803860	La Table du Curé				restaurant				
+relation	80223			Voisenon	8	77950	77528					
+node	5327892255	48.5708217	2.6625861	Restaurant L'Hirondelle - Traiteur 77				restaurant	13	77950	Rue Grande	
+node	5327892256	48.5709831	2.6625434	Au Petit Voisenon				restaurant	15	77950	Rue Grande	
+relation	222104			Vulaines-sur-Seine	8	77870	77533					
+node	8926446760	48.4296297	2.7554128	Le Petit Cèdre				restaurant	17		Voie de la Liberté	
+way	249311682	48.4295139	2.7559903	La Sorcière				restaurant				
+way	249311834	48.4362962	2.7468374	Île aux Truites				restaurant	5		Quai Stéphane Mallarmé	
+way	304683956	48.4387318	2.7549100	Arôme				restaurant				
+relation	1368326			Yèbles	8	77390	77534					
+way	1009909568	48.6364071	2.7810435	Restaurant Ô LEVADA				restaurant	1 bis	77390	Rue de la Fraternité	

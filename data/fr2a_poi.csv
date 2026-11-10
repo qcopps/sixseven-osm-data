@@ -1,0 +1,966 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	134045			Afa	8	20167	2A001					
+node	14234245710	41.9833923	8.7972085	L'Orangeraie				restaurant				
+relation	73283			Ajaccio	8	20000;20167;20090	2A004					
+node	914983679	41.9251670	8.7373330	A Cantali restaurant bio-végétarien				restaurant				
+node	1438522393	41.9199944	8.7379901	La Belle Époque				restaurant	22		Rue Cardinal Fesch	
+node	1438522398	41.9236159	8.7389243	Le Pingouin				pub				
+node	1438536150	41.8973628	8.6112633	I Sanguinari				restaurant	8348	20000	Route des Sanguinaires	
+node	1785285358	41.9352558	8.7453023	Bar Candia				bar				
+node	1888132174	41.9175869	8.7387684	Bar a vin 1755				restaurant				
+node	1888137082	41.9178972	8.7390179	Jeunesse bar				cafe				
+node	1888144049	41.9180065	8.7394584	A Madunaccia				restaurant				
+node	1888151911	41.9182245	8.7396797	La Pizza				restaurant				
+node	1888151920	41.9183019	8.7397294	A Vista				restaurant				
+node	1888162750	41.9179157	8.7398587	A Calata				restaurant	8		Boulevard Danielle Casanova	
+node	1888162756	41.9180075	8.7398158	Le glacier du port				restaurant				
+node	2317369211	41.9189127	8.7365784	A Conca d'Oru				cafe				
+node	2317369222	41.9184275	8.7371439	Bar des Sports				bar				
+node	2317445154	41.9126726	8.7253891	Bella Storia				restaurant				
+node	2317445169	41.9300070	8.7375293	Le Mandarin				restaurant				
+node	2330127488	41.9112100	8.7218437	Le Parc				restaurant				
+node	2330506448	41.9183129	8.7371700	Brasserie Diamant				bar				
+node	2330506456	41.9170165	8.7370837	Lamparo				bar				
+node	2332139107	41.9328534	8.7576281	Courtepaille				restaurant				
+node	2427012327	41.9322676	8.7403125	À l'Heure de la Chandeleur				restaurant			Cours Napoléon	
+node	2427012336	41.9346096	8.7496452	Le Coin du Ring				restaurant				
+node	2460419881	41.9180262	8.7373431	Le 20123				restaurant	2		Rue du Roi de Rome	
+node	2529072330	41.9283000	8.7381481	Kallibouffe				restaurant				
+node	2599334763	41.9175053	8.7382658	Irish Pub				pub				
+node	2689726278	41.9253524	8.7373900	A Nepita				restaurant	4	20000	Rue San Lazaro	
+node	2899144583	41.9174880	8.7375024	Café Zézé				cafe				
+node	2899144585	41.9198188	8.7371277	Grand Café Napoléon				cafe				
+node	2899144586	41.9178815	8.7372363	L'Étoile				nightclub				
+node	2899144588	41.9192797	8.7372272	Le Grisbi				bar				
+node	2899144589	41.9200052	8.7371656	Le Royal				cafe				
+node	2899424001	41.9206127	8.7375191	Da Mama				restaurant				
+node	2901412331	41.9232327	8.7390531	Casa Corsa				restaurant				
+node	2901412332	41.9217850	8.7381793	Café de Flore				restaurant				
+node	2903077706	41.9191686	8.7384899	Paninoteca				cafe				
+node	2903775063	41.9275009	8.7388494	Buffet de la Gare				cafe				
+node	2904618043	41.9173003	8.7355109	La Rotonde				restaurant				
+node	2905253045	41.9174376	8.7348041	Pé Piace				cafe				
+node	2905253046	41.9129865	8.7269689	L'Albert 1er				restaurant				
+node	2905253047	41.9133783	8.7280031	Coté Boulevard				restaurant				
+node	2905253048	41.9174835	8.7351048	Le Galion				bar				
+node	2905253049	41.9143789	8.7292075	Le Lantivy				cafe				
+node	2905253050	41.9132858	8.7270512	Pizza Albert 1er				restaurant				
+node	2905253220	41.9133512	8.7278581	u Caffe				cafe				
+node	2905301548	41.9333226	8.7428801	Le Calao				cafe				
+node	2905301549	41.9334145	8.7431177	Le Skipper				cafe				
+node	3560509348	41.9203052	8.7374039	Bistrot d'Emile				restaurant	1		Rue de l'Assomption	
+node	3638580212	41.9197052	8.7371118	Le Bistrot du Cours				restaurant				
+node	3687715311	41.9079000	8.6796068	La cantina				restaurant				
+node	3687715320	41.9063655	8.6767709	Marinella				restaurant				
+node	3687715322	41.9080665	8.6798244	L'instant sushi				restaurant	14	20000	Boulevard Tino Rossi	
+node	3687715333	41.9074822	8.6789666	Palm Beach				restaurant				
+node	3687715340	41.9079666	8.6805138	Texas Café				restaurant				
+node	3687715344	41.9076195	8.6805586	Neptune Plage				restaurant				
+node	3687715355	41.9079197	8.6797536	Le Piment Rouge				restaurant				
+node	3687715364	41.9071945	8.6780925	Kos				restaurant				
+node	3687715366	41.9077531	8.6828463	L'Ariadne				restaurant				
+node	3687715367	41.9081674	8.6802784	China Blue				restaurant				
+node	3688915223	41.9093127	8.6903006	Barbicaggia				restaurant				
+node	3688928730	41.9093095	8.6888345	Côté Plage				restaurant				
+node	3920393542	41.9202593	8.7375407	L'arbre				restaurant				
+node	4492625830	41.9453116	8.7545411	Buffalo Grill				restaurant				
+node	4542752990	41.9178593	8.7314992	La Trattoria Pizzeria				restaurant	30	20000	Cours Grandval	
+node	4542757696	41.9135897	8.7295045	place miot				cafe				
+node	4544944810	41.9169528	8.7257045	Le Petit Pavillon				restaurant	26		Cours du Général Leclerc	
+node	4905354822	41.9343449	8.7381474	Bar Le Floride				cafe				
+node	4907393021	41.9130488	8.7260295	Le Grain de Café				cafe				
+node	5043726121	41.9171474	8.7270367	L’écrin				restaurant	16	20000	Cours du Général Leclerc	
+node	5059771921	41.9301095	8.7390922	Le California				bar				
+node	5075075823	41.9176902	8.7392755	Le Cheval Blanc				restaurant				
+node	5075093922	41.9251324	8.7382751	La Balagne				bar				
+node	5075093923	41.9251169	8.7384403	Abbatucci				restaurant	66	20000	Cours Napoléon	
+node	5075093924	41.9177438	8.7394366	Bar Pierrot				bar				
+node	5075099821	41.9175750	8.7394108	Le Petit Cheval Blanc				restaurant				
+node	5354750827	41.9264756	8.7366704	La Pause				restaurant	7		Avenue Beverini Vico	
+node	5580249323	41.9209130	8.7386227	L'Avenue				cafe				
+node	5795214153	41.9196595	8.7379759	Les Temps des Oliviers				restaurant	1		Rue des Halles	
+node	5795214253	41.9289354	8.7404558	L'Amirauté				restaurant			Port Charles Omano	
+node	5795229253	41.9117593	8.7200976	Le Colony				restaurant	12		Cours Lucien Bonaparte	
+node	5802243633	41.9095824	8.6855833	Pizzeria Barbicaja				restaurant				
+node	5803974634	41.9175407	8.7367882	B612				restaurant				
+node	5804137935	41.9186262	8.7358801	Bistro Pigale				pub				
+node	5804137937	41.9186917	8.7362945	O'Kfe				cafe				
+node	5823335453	41.9241272	8.7377017	Carpe Diem Café				cafe	51		Cours Napoléon	
+node	5910068086	41.9193982	8.7385674	Le Trou dans le Mur				bar				
+node	5927164846	41.9180576	8.7365903	La Cuinguette				cafe				
+node	6318266948	41.9176875	8.7354247	Le Globo				restaurant	8		Place de gaulle	
+node	6462968388	41.9161150	8.7293885	Pizz'Alex				cafe				
+node	6465283190	41.9175828	8.7297665	Kimbo				cafe				
+node	6466891293	41.9132061	8.7251689	Gelateria di Fiora				cafe				
+node	6488880501	41.9178925	8.7381659	Lotus Bleu				restaurant				
+node	6578352887	41.9236793	8.7386037	Spaghetti 3				restaurant	76		Rue Cardinal Fesch	
+node	6578352888	41.9178358	8.7385589	Le Don Ba'				bar				
+node	6578352889	41.9292285	8.7404819	Le Paparazzi				restaurant				
+node	6578352988	41.9177490	8.7379933	mani				restaurant	6	20000	Rue du Roi de Rome	
+node	6578352989	41.9190673	8.7360173	bel meserre				restaurant				
+node	6578352991	41.9181350	8.7380715	Le Bosco				restaurant				
+node	6578352992	41.9185627	8.7388455	bilboq chez jean jean				restaurant				
+node	6578352993	41.9290529	8.7404774	côté port				restaurant				
+node	6578353097	41.9176386	8.7398569	Le Cabanon				restaurant				
+node	6578353098	41.9176582	8.7387834	micro brasserie impériale				bar				
+node	6578353585	41.9176721	8.7375467	A Cantina Di Ghjulia				restaurant				
+node	6657504885	41.9185370	8.7382154	1er Consul				bar				
+node	7097446440	41.9197442	8.7376536	Cafe Latin				restaurant				
+node	7107778105	41.9134289	8.7261053	Beau Soleil				bar				
+node	7899452285	41.9174852	8.7376764	Le Papacionu				restaurant				
+node	8242964728	41.9086352	8.7093335	Rôtisserie Alain				restaurant				
+node	9028277819	41.9176058	8.7383155	Le Roi de Rome				restaurant	12	20000	Rue du Roi de Rome	
+node	9044294013	41.9197840	8.7379638	Les halles				restaurant				
+node	9044294014	41.9200916	8.7380102	10 rue des halles				bar				
+node	9044294015	41.9202378	8.7380271	Don Quichotte				restaurant				
+node	9044294016	41.9198805	8.7379670	Quai Largo				restaurant				
+node	9044365717	41.9203577	8.7380647	Le Saint-Pierre				restaurant				
+node	9067419331	41.9105089	8.7221094	Le Cabanon Bleu				restaurant	65		Cours Lucien Bonaparte	
+node	9071249579	41.9309212	8.7580633	Spunta Di  Marre				restaurant				
+node	9071249580	41.9308314	8.7574534	L'Aiglon				restaurant				
+node	9711948217	41.9178316	8.7381171	Chez Paolo				restaurant				
+node	9846989248	41.9251483	8.7379325	A la Concorde				bar				
+node	9846989250	41.9246766	8.7381182	Ind'e ma!				cafe	64		Cours Napoléon	
+node	9846989251	41.9245640	8.7377995	Le Valinco				bar	53		Cours Napoléon	
+node	10130009325	41.9186804	8.7379514	Delissimo				cafe				
+node	10944716605	41.9173937	8.7375731	Bistro Canaille				restaurant	20	20000	Rue Saint-Charles	
+node	11003446906	41.9170776	8.7370853	No Stress Thaï				restaurant				
+node	11006063405	41.9183490	8.7394861	Emadone Café				cafe				
+node	11006092005	41.9186492	8.7395946	Le Modern'				bar				
+node	11200234828	41.9185724	8.7396076	Le Forum				bar				
+node	11351233269	41.9183616	8.7375054	Le Comptoir Italien				restaurant				
+node	11620072952	41.9162411	8.7403589	Ghinghetta				cafe				
+node	11930769369	41.9187824	8.7371293	Gusto				restaurant			Avenue du Premier Consul	
+node	12058993759	41.9186632	8.7388397	Pizzeria Astoria				restaurant	2-8	20000	Rue des Glaçis	
+node	12083834121	41.9134888	8.7261614	Le Bistrot Gourmand				restaurant	3		boulevard Pugiesi-Conti	
+node	12084650828	41.9098339	8.6477173	La Paillote du week end				restaurant			Rte des Sanguinaires, 20000 Ajaccio, France	
+node	12089528969	41.9178885	8.7376363	L'8 Dicembri				restaurant				
+node	12089528970	41.9178002	8.7378791	L'arôme				restaurant				
+node	12089529069	41.9179378	8.7378757	La Maison Bonaparte				restaurant				
+node	12089529169	41.9178395	8.7377693	Gustino				cafe				
+node	12109719279	41.9164988	8.7399658	Le Pavillon du Général				restaurant				
+node	12115017873	41.9221252	8.7382977	Le Passe Temps				bar				
+node	12115096066	41.9231360	8.7386464	Le Mimo				restaurant				
+node	12115112611	41.9207692	8.7380015	La Table d'Antoine				restaurant				
+node	12115120946	41.9181536	8.7387362	Chez Joséphine				restaurant				
+node	12115122824	41.9228693	8.7386291	OTea				cafe				
+node	12115146468	41.9258899	8.7380157	Green Bagel Café				cafe				
+node	12246198643	41.9102259	8.6451446	Macumba				restaurant				
+node	12246921225	41.9192816	8.7385967	Café Gilda				cafe	1	20000	Boulevard du Roi Jérôme	
+node	12246921226	41.9191207	8.7383121	Solferino				cafe				
+node	12402097185	41.9496040	8.7761953	Segafredo				cafe				
+node	12656989804	41.9056483	8.6704406	Paillote Cala di Sole				restaurant				
+node	12848447267	41.9208377	8.7385583	Prova				restaurant				
+node	12848459004	41.9207750	8.7385159	L'Ardoise				restaurant				
+node	12848463442	41.9207153	8.7384789	Maison Cameda				restaurant				
+node	12855591701	41.9182911	8.7385380	Le Bosco				restaurant	10		Rue du Conventionnel Chiappe	
+node	12963856001	41.9085937	8.7110151	Le Beau Rivage				restaurant				
+node	12983305003	41.9183636	8.7346421	Violetta				restaurant				
+node	12983305101	41.9184922	8.7352994	Mino				bar				
+node	12983305202	41.9182799	8.7340792	By Gusto				restaurant				
+node	12983305303	41.9182852	8.7341236	Mile End Café				cafe				
+node	12983335603	41.9188323	8.7352087	L'Ailleurs Cafe				restaurant				
+node	12983336401	41.9189212	8.7349563	Ovent d'Ange				restaurant				
+node	12983336501	41.9188862	8.7347733	U Cinnaronu				restaurant				
+node	12983338501	41.9225219	8.7376521	Piuma Artisan Rotisseur				restaurant				
+node	12983421540	41.9184600	8.7350925	Au Grandval				pub				
+node	13034065153	41.9188526	8.7376622	Algnory				restaurant				
+node	13040713993	41.9200353	8.7383474	Bar du Marché				bar				
+node	13113102310	41.9181758	8.7389608	A Casa Leca				restaurant				
+node	13113102311	41.9180760	8.7388093	a casa de leca				restaurant				
+node	13113102335	41.9181035	8.7400793	L'Annexe				restaurant				
+node	13113102351	41.9186917	8.7390225	La Gioia				restaurant				
+node	13113102353	41.9187706	8.7395529	La Rade				restaurant				
+node	13113102374	41.9195340	8.7384962	L'Idéal Bar				bar				
+node	13113102376	41.9199341	8.7380348	Le Bistro du Quai				bar				
+node	13125528117	41.9174387	8.7390385	Marinette				restaurant	19		Rue du Roi de Rome	
+node	13125529723	41.9241524	8.7382717	Rosette et Charlot				restaurant	87		Rue Cardinal Fesch	
+node	13820588633	41.9136432	8.7287233	Pizza chez Sté				restaurant			Boulevard Albert 1er	
+node	13883068169	41.9237590	8.7385627	Bartlebty's				cafe				
+node	13887051701	41.9244291	8.7381214	A Piazetta				restaurant				
+node	13887403401	41.9203559	8.7382971	Le Tout va Bien				restaurant				
+node	13908063902	41.9176361	8.7378707	U Campanile				restaurant	12	20000	Rue Saint-Charles	
+node	13957750258	41.9179423	8.7390176	Malïlona Cantina				restaurant				
+node	14054187701	41.9091122	8.7090047	L'Arbre à Pain Sanguinaires				restaurant				
+node	14056192202	41.9521274	8.7831746	La Pizzeria				restaurant				
+node	14056201401	41.9393323	8.7561803	Le Gourmand				restaurant				
+node	14056471501	41.9124264	8.7236522	Paillotte Trottel Beach				restaurant				
+node	14056490901	41.9107798	8.7213634	Golden Falafel - Corsicasher				restaurant				
+node	14058130603	41.9171528	8.7364849	La Felicità				restaurant				
+node	14058306901	41.9236092	8.7386629	La p'tite brasserie				cafe				
+node	14058312502	41.9235412	8.7386725	Kantina				restaurant				
+node	14058329001	41.9238050	8.7379048	Arsula				bar				
+node	14059751402	41.9086287	8.7128415	La Table d'Émeraude				restaurant				
+node	14059769401	41.9131570	8.7257271	U Petti Rossu				restaurant				
+node	14060148201	41.9132154	8.7274229	Sushi'n Wok				restaurant				
+node	14060152002	41.9127216	8.7253653	Sur le toit				restaurant				
+node	14060877101	41.9182071	8.7372533	ana				bar				
+node	14060892602	41.9284421	8.7407482	Le Koya				nightclub				
+node	14091656834	41.9074987	8.6325659	Paillote Mooréa plage				restaurant				
+node	14098986801	41.9074873	8.6325943	Paillote Moorea				restaurant				
+node	14098986802	41.9390558	8.6222288	Paillote A Maredda Capo di feno				restaurant				
+node	14098990301	41.9385718	8.6224054	Casa Nostra				restaurant				
+node	14112226703	41.9102888	8.6429531	Le Goéland				restaurant				
+node	14112676201	41.9342723	8.7399634	La Romana Pinseria				restaurant	15	20090	Rue Paul Colonna d'Istria	
+node	14118693096	41.9378861	8.6225127	Le Pirate				restaurant				
+way	66274920	41.9169584	8.7258464	U Casone				restaurant				
+way	66275897	41.9224145	8.7924367	L'aero-club				restaurant				
+way	66279877	41.9367243	8.7574971	Bar des Lacs				bar				
+way	66281696	41.9086799	8.7132254	L'Altru Versu				restaurant			Rue des Septs Chapelles	
+way	66285134	41.9343596	8.7463691	Columbus Café & Co				cafe			Cours Prince Impérial	
+way	200444699	41.9500932	8.7754367	U Caffè				cafe				
+way	200444720	41.9495081	8.7765085	Segafredo				cafe				
+way	200444729	41.9497235	8.7764928	Segafredo				cafe				
+way	698765695	41.9451899	8.7571305	Brasserie B'8				restaurant			Boulevard Louis Campi	
+way	1116879746	41.9360510	8.6237919	Paillote Capo Di Feno				restaurant				
+way	1546502875	41.9109421	8.7195826	Sole Mio				restaurant				
+relation	73280			Albitreccia	8	20128;20166	2A008					
+node	2427019039	41.8660542	8.7917065	Chez Alain				restaurant		20128	Résidence Harmonie	
+node	3612718790	41.8393935	8.8694190	A riserva di Bisina				restaurant				
+node	6832073087	41.8667124	8.7913268	Le Rialto				restaurant				
+node	14136525382	41.8542831	8.7904719	Paillotte Des Tamaris				restaurant				
+way	66479976	41.8644840	8.7932403	Auberge La Ferme				restaurant				
+relation	134092			Appietto	8	20167	2A017					
+node	5138522121	41.9923860	8.6719323	Créperie de Lava				cafe				
+node	6574769024	42.0012627	8.7567881	U Listincu				restaurant	1		Col du Linstincone	
+node	6854588485	42.0222442	8.7341239	U San Bastianu				restaurant				
+way	66493788	41.9919804	8.6696671	Marina di Lava				restaurant				
+relation	2815053			Argiusta-Moriccio	8	20140	2A021					
+node	1674820953	41.8149051	9.0224244	Le Cyrnos				bar				
+relation	2016490			Aullène	8	20116	2A024					
+way	576833910	41.7714603	9.0804570	Hôtel de la Poste				restaurant				
+way	576834084	41.7703085	9.0800958	U San Larenzu				restaurant		20116	Strada di Casciaco	
+relation	2162106			Bastelica	8	20119	2A031					
+node	11215431508	42.0005547	9.0530190	Auberge Scaldasole				restaurant				
+node	13018763712	42.0003108	9.0463208	Artemisia, Table d'hôtes				restaurant		20119	Strada di Boccialacce	
+way	203322083	41.9994315	9.1229242	Le Chalet				restaurant				
+relation	73267			Bastelicaccia	8	20129	2A032					
+node	1910175223	41.9127234	8.8361585	Auberge du Prunelli				restaurant		20123	T40	
+node	1910175238	41.9133021	8.8355451	Restaurant Le Bon Coin				restaurant				
+relation	2566743			Belvédère-Campomoro	8	20110	2A035					
+node	2352641112	41.6292865	8.8161384	Chez Pierre-Paul				bar				
+node	3834569570	41.6315239	8.8111252	Hôtel Restaurant des Amis				restaurant				
+node	3834569585	41.6291923	8.8162561	Cala Gusta				restaurant				
+node	7960083886	41.6292888	8.8145646	U Spuntinu				restaurant		20119		
+node	9945577894	41.6293090	8.8171550	La Mouette				restaurant				
+node	9945593799	41.6292044	8.8164985	Café du Golfe				pub				
+way	218026539	41.6459915	8.8689765	U Livanti				restaurant				
+relation	2566747			Bilia	8	20100	2A038					
+node	14140638909	41.6111905	8.8976566	Alò Bisujè				restaurant				
+relation	143267			Bocognano	8	20136	2A040					
+node	7948795099	42.0810698	9.0581648	Auberge A Tanedda				restaurant				
+node	10020421364	42.0816875	9.0531640	Hôtel Beau Séjour				restaurant				
+node	10068419352	42.0821106	9.0515745	Copacabana				restaurant				
+node	11215177803	42.0807695	9.0592377	A Funtanella				restaurant				
+way	66563533	42.0806338	9.0582661	Bar des Amis				bar				
+relation	122377			Bonifacio / Bunifaziu	8	20169	2A041					
+node	767837938	41.3767182	9.2214003	Le Ponton				bar				
+node	835973072	41.3870723	9.1578197	U Fragnu				restaurant				
+node	835973074	41.3864684	9.1509753	Le P'ticafè				restaurant				
+node	835973078	41.3867989	9.1584619	Stella d'Oro				restaurant				
+node	835973081	41.3888327	9.1672278	Francis				restaurant				
+node	835973082	41.3875569	9.1580364	Aria Nova				restaurant				
+node	835973084	41.3868787	9.1592985	Cantina Doria				restaurant				
+node	835973085	41.3866047	9.1576761	U Castillé				restaurant				
+node	835973086	41.3868734	9.1580260	Le Fondago				restaurant				
+node	835973087	41.3870092	9.1579478	Le Royal				restaurant				
+node	835973095	41.3869279	9.1594189	La Scala				restaurant				
+node	835973096	41.3874973	9.1556841	La minute moule				restaurant	face mairie		Rue du Moulin	
+node	836711612	41.4836592	9.2518774	Chez Lili				restaurant				
+node	1434018538	41.3870961	9.1589836	Hola Bippa				restaurant				
+node	1434018542	41.3871041	9.1588374	Lank				restaurant				
+node	1438677695	41.3880612	9.1634154	Côté Fruits				bar				
+node	2311278845	41.3871851	9.1568041	Le St DO				bar				
+node	2311279277	41.3880383	9.1628981	Le Marina				bar				
+node	2342365381	41.3867404	9.1595551	La Manichella				restaurant		20169		
+node	3037017773	41.3864236	9.1571374	Les Terrasses d'Aragon				restaurant	21		Rue Simon Varsi	
+node	3037019645	41.3874842	9.1586399	La Petite Culotte				bar	9		Rue Longue	
+node	3106954329	41.3879991	9.1644678	Le Bonifacio				restaurant				
+node	3106956229	41.3879094	9.1642048	La Caravelle				restaurant				
+node	3720682331	41.3873257	9.1598130	L'Auberge Corse				restaurant				
+node	3720682332	41.3870157	9.1591179	La Loggia				restaurant				
+node	3721141525	41.3866947	9.1580992	Snack				cafe				
+node	3721142025	41.3872996	9.1583122	Le Rustic				restaurant				
+node	4142416489	41.3879479	9.1639018	B52				cafe				
+node	4304896945	41.3874255	9.1580862	Café de la Poste				restaurant				
+node	4304896946	41.3872324	9.1583575	L'Enoteca				restaurant				
+node	4304898296	41.3872543	9.1581497	Café de la Poste				cafe				
+node	4304903620	41.3876389	9.1581972	Sushi'K Bar				restaurant				
+node	4324906892	41.4271418	9.1054278	Beach bar				cafe				
+node	4977087623	41.3885249	9.1610598	Adel Ferro				restaurant	3			
+node	4977087639	41.3886460	9.1605210	Kissing Pigs				restaurant				
+node	5643664427	41.3879713	9.1635777	Da Passano				restaurant				
+node	5643664428	41.3879580	9.1636390	L'Albatros				restaurant				
+node	6145514717	41.4763134	9.2674209	Terrasse Bar				bar				
+node	6616596185	41.3868949	9.1598045	Le Time				cafe				
+node	6783113085	41.3871116	9.1586976	Street Danse				bar				
+node	6783113086	41.3870149	9.1587905	Archivolto				restaurant				
+node	6928578652	41.4089007	9.2161295	Maora Beach				restaurant				
+node	7705289587	41.3871844	9.1596084	Soboco				bar				
+node	7915871685	41.4281444	9.1062999	Chez marco				restaurant			Plage la tonnara	
+node	7961055685	41.4030569	9.2039469	A Suliata				restaurant				
+node	7982270586	41.3870703	9.1585014	L'Archivolto				restaurant	2		Rue Archivolto	
+node	7984424585	41.3872788	9.1608596	L'En Faim				restaurant			Montée Rastello	
+node	8013269628	41.3874944	9.1598585	Le Bastion				restaurant				
+node	8490508328	41.3700573	9.2595149	La Ferme				restaurant				
+node	8975240017	41.3872838	9.1590291	Le Petit Palais				restaurant	9	20169	Place du Chanoine Maestroni	
+node	9082613810	41.3875781	9.1579485	La galerie des ducs				restaurant				
+node	9102216317	41.3872813	9.1589755	Le Petit Palais				restaurant	9		Rue du Palais	
+node	9804630117	41.3878596	9.1616164	Mama gina				restaurant				
+node	9952565574	41.3871345	9.1589661	Chez Vincent				restaurant				
+node	9952606465	41.3869841	9.1598407	Café des Vestiges				restaurant				
+node	9952607689	41.3871559	9.1589965	Chez Ange				pub				
+node	9952753317	41.3873945	9.1587838	A Strada di A Biera				pub				
+node	10797485115	41.3868601	9.1588298	Casarella				restaurant	17		rue Doria	
+node	10864478605	41.3880568	9.1620920	Sushibar				restaurant				
+node	10864478606	41.3884058	9.1612765	Bar du Quai				restaurant				
+node	10896050730	41.3880565	9.1622853	Le Voilier				restaurant				
+node	10921016777	41.4074368	9.2168100	Maora Beach Sailing Club				restaurant				
+node	10959338244	41.4066297	9.2097661	Maora Village Restaurant				restaurant				
+node	11035572348	41.3956220	9.1625954	Café di l'Orivu				cafe				
+node	11035579811	41.4030907	9.1686477	I Partigiani				restaurant				
+node	11188327262	41.3869596	9.1578315	La Bodega				restaurant				
+node	11188327263	41.3870070	9.1582919	Cafe Nicois				cafe				
+node	12089516487	41.4186532	9.1794261	U Canettu				restaurant				
+node	12095253592	41.3870281	9.1593606	Le BO Restaurant				restaurant				
+node	12095302463	41.3874751	9.1582510	La Corsica				restaurant				
+node	12095538481	41.3886715	9.1599151	Chez José				bar				
+node	12095565977	41.3886860	9.1599781	Les 4 Vents				restaurant				
+node	12159887171	41.3883874	9.1569635	La grotte				cafe				
+node	12175963055	41.3896352	9.1653052	La Grillade				restaurant				
+node	14136585476	41.4199604	9.1798770	Le Gardin				cafe				
+node	14231597601	41.3876803	9.1614802	La Voute				bar				
+node	14238316750	41.3893807	9.1863114	La Kaosa				restaurant		20169		Cartarana
+way	66658094	41.4675596	9.2664827	Restaurant de la Plage Chez Ange				restaurant				
+way	66658604	41.3772762	9.2201344	O'Coco				bar				
+way	66660300	41.3880769	9.1624332	Pizzeria Les Amis				restaurant				
+way	66660888	41.4155126	9.2381968	Le Santa Manza				restaurant				
+way	444462744	41.4383583	9.2219316	Chez Gill				restaurant			Plage Balistra	
+way	654699265	41.4727132	9.2619929	La Pizzeria				restaurant				
+way	978975652	41.3918209	9.2353572	A Cara Longu				cafe				
+relation	134207			Calcatoggio	8	20111	2A048					
+node	5037210824	42.0469177	8.7546514	La Liscia				restaurant				
+node	5037213925	42.0427883	8.7444980	Le Malibu				restaurant				
+node	5037224621	42.0509865	8.7488479	U Moro				restaurant				
+relation	2014928			Campo	8	20142	2A056					
+node	12101483405	41.8919788	9.0042293	Café de la Poste				cafe				
+node	12103164813	41.8879689	9.0019377	U Castagnu				bar				
+relation	1112166			Carbini	8	20170	2A061					
+way	666967481	41.6783813	9.1465813	Café du Centre				bar				
+relation	1110906			Cargèse	8	20130	2A065					
+node	881168048	42.1360002	8.5968360	20130				restaurant		20130		
+node	1888085654	42.1346660	8.5969164	BDA café				bar				
+node	2460367717	42.1314247	8.5960181	Côté Port				restaurant				
+node	2914271138	42.1337883	8.5992284	Bel Mare				restaurant				
+node	2916416571	42.1318868	8.5968008	L'Agula Marina				restaurant				
+node	3687468699	42.1336611	8.5971634	A Volta				restaurant				
+node	4943924020	42.1308609	8.5958893	Le Cabanon de Charlotte				restaurant				
+node	4943926821	42.1336582	8.5960037	Le Yuka				cafe				
+node	7873829250	42.1356753	8.5971816	A Cantina				restaurant				
+node	7873829251	42.1354015	8.5973016	Leca				bar				
+node	7873829275	42.1343389	8.5968570	Au bon Accueil				bar				
+node	13034250501	42.1348057	8.5970253	Le Chantilly				cafe				
+node	13764473601	42.1352648	8.5973102	Maremmiese				restaurant				
+node	13766119501	42.1454374	8.5939427	U Lustincone				restaurant				
+node	13807073640	42.1709672	8.5923234	U Tragulinu				restaurant				
+node	13913929501	42.1342060	8.5971386	Manhattan Café				restaurant				
+node	13914085504	42.1349058	8.5972350	Casa di l'Artigiani				restaurant				
+node	13914095503	42.1348958	8.5965770	Aux deux cloches				restaurant				
+way	499179313	42.1315778	8.5959299	U'Rasaghiu				restaurant			Port de Cargèse	
+way	1287208399	42.1343447	8.5960796	L'Ortu				restaurant			Route de Murgana	
+relation	135279			Casaglione	8	20111	2A070					
+node	1265784570	42.0601194	8.7439667	Les flots bleus				restaurant				
+node	1432534869	42.0636943	8.7401979	L'Igloo				restaurant				
+node	5003648526	42.0657185	8.7335550	Chez Andre				bar				
+node	5976033000	42.0767287	8.7200452	Le Liamone Beach				restaurant				
+relation	2815073			Casalabriva	8	20140	2A071					
+way	574567111	41.7724389	8.9088144	Le Frère				restaurant				
+relation	73285			Cauro	8	20117	2A085					
+node	1794460958	41.9072734	8.8234139	Magic Food				bar				
+node	12866937109	41.9178140	8.9153356	L'Auberge Napoléon				restaurant				
+way	555175001	41.9175044	8.9166145	Rustic'Art				cafe				
+way	667429983	41.9180434	8.9139117	Bar des sports				restaurant				
+relation	2566768			Coggia	8	20118;20160	2A090					
+node	1940229516	42.1117876	8.7020346	A Stonda				restaurant				
+node	3766119761	42.0999290	8.7085705	Le grand Large				restaurant				
+node	7960101985	42.1006815	8.7080370	Le Santana				restaurant		20118	Esigna	
+node	13704159927	42.0953530	8.7103846	U Castellu Sagone				restaurant				
+node	13807050071	42.1136785	8.7019221	A Sulana				restaurant				
+way	606892582	42.1151396	8.7457726	La Zucchetta				restaurant				
+relation	1541896			Conca	8	20135	2A092					
+node	1885354602	41.7504960	9.4034386	La Taverne				restaurant				
+node	1885354603	41.7730640	9.3962288	Le Favona				restaurant		20135		
+node	2339609613	41.7509145	9.4036258	A canca Marina				restaurant				
+node	2339609616	41.7480334	9.4007627	Aria Marina				restaurant				
+node	12080571369	41.7716109	9.3992294	A Pineta				restaurant				
+node	12080882672	41.7731713	9.3967294	La Siesta				restaurant				
+node	12080910869	41.7725688	9.3963614	U Veniqui				restaurant				
+way	112623615	41.7347847	9.3336906	Le Soleil Levant				bar				
+way	112624683	41.7511856	9.4043163	Le Pacha				restaurant				
+way	112624806	41.7352056	9.3348948	Restaurant U Chjiosu				restaurant				
+way	222119845	41.7332262	9.3376936	Gite d'Étape La Tonnelle				restaurant				
+relation	73218			Coti-Chiavari	8	20138	2A098					
+node	4327631990	41.8094601	8.7613830	Cala Verghia				restaurant				
+node	6987679013	41.8085294	8.7633671	Crêperie La Rustica				restaurant				
+way	66694421	41.7965820	8.7350962	Chez Mico				restaurant		20132	Lieu-dit Portigliolo	
+way	225172615	41.7381197	8.7824844	Waikiki Beach				restaurant				
+way	274101713	41.7734217	8.7725964	Chez Vero				restaurant		20138		
+way	817241098	41.7393285	8.7051615	Chez Eric				restaurant				
+relation	270816			Cuttoli-Corticchiato	8	20167	2A103					
+node	6468338997	41.9885405	8.9092957	Restaurant Sole e Monte				restaurant				
+node	6468339019	41.9872823	8.9085432	Bar des Acacias				restaurant				
+way	1159482078	41.9725160	8.8487523	A Casetta				restaurant				
+relation	2015742			Eccica-Suarella	8	20117	2A104					
+node	14135150867	41.9227903	8.9057972	U Caseddu				restaurant				
+relation	2432259			Évisa	8	20126	2A108					
+node	5047483417	42.2515832	8.8092116	L'Äitone				restaurant				
+way	580187599	42.2535449	8.8019084	Mare é Monti				restaurant				
+way	580187669	42.2536246	8.8027080	Le Moderne				bar				
+way	580187707	42.2538496	8.8038572	u Caracutu				restaurant				
+way	580187770	42.2525022	8.7952126	A Rimpianata				restaurant				
+way	580188004	42.2536153	8.8024461	A Funtanella				restaurant				
+way	580188040	42.2534634	8.8031020	A Tramula Caffé di la Posta				restaurant				
+relation	122378			Figari	8	20114	2A114					
+node	2974435625	41.4871622	9.1279511	U Puncinu				bar				
+node	3698608026	41.4882405	9.1301135	A Cetera				restaurant				
+node	3698608027	41.4882083	9.1300035	U Tivareddu				bar				
+node	3720668840	41.4989774	9.0984740	Café des Voyageurs				cafe				
+way	66827404	41.4889134	9.1314944	Auberge "U Foconu"				restaurant				
+way	278795204	41.4744736	9.0776779	Le Goéland				restaurant				
+relation	2047962			Frasseto	8	20157	2A119					
+node	7902915056	41.8958198	9.0218116	Bar a funtana				pub				
+relation	73286			Grosseto-Prugna	8	20128;20166	2A130					
+node	1904664318	41.8687942	8.7876626	Le Rivoli				restaurant	709			
+node	1904824494	41.8757248	8.7851228	Casetta Novelli				restaurant				
+node	1915760771	41.8846013	8.8084781	Le Panoramique				restaurant				
+node	9203303817	41.8936189	8.8077097	Le Bistrot Corse				restaurant		20166	Boulevard Marie Jeanne Bozzi	
+node	9660849751	41.8920778	8.8042424	A Marana				bar			Plage de Marina di, Chem. de la Viva	
+node	10065842717	41.8931249	8.8048595	A bona stella				restaurant				
+node	10583719805	41.8934778	8.8045942	Sun club				nightclub				
+node	11084061832	41.8845404	8.7916275	Chez Jean-Michel				restaurant		20128	Boulevard Marie Jeanne Bozzi	
+node	11084960100	41.8886864	8.8024944	Le vingt-six douze				restaurant				
+node	13971767301	41.8956646	8.8084187	Le bistrot lily's				restaurant				
+node	14027441028	41.9009806	8.8022418	L’Alta Rocca				restaurant				
+relation	1112953			Guagno	8	20160	2A131					
+node	4988087880	42.1685650	8.9507808	L'Affacata				restaurant				
+relation	85886			Lecci	8	20137	2A139					
+node	834242014	41.6379779	9.3464693	U Tragulinu				restaurant		20137	Boulevard Napoléon	
+node	834242022	41.6382414	9.3468792	U San Ciprianu				restaurant				
+node	834242033	41.6382797	9.3462057	Emporium				restaurant		20137		
+node	834242038	41.6385807	9.3461381	Willow				cafe				
+node	836786101	41.6378704	9.3358633	U Fucone				restaurant		20137		
+node	836786204	41.6288191	9.3348150	Le Ranch'o				nightclub				
+node	4318700730	41.6446939	9.3288165	Pizza Mora				restaurant				
+node	7677641911	41.6811917	9.3181698	Le Bistrot du boulanger				restaurant				
+node	7677642209	41.6798535	9.3178131	Belle Terre				restaurant				
+node	7823889848	41.6298145	9.3341883	L'Imprevu				bar				
+node	7917750216	41.6159787	9.3194975	La Plage Casadelmar				restaurant				
+node	7917771164	41.6201826	9.3317364	37°2				restaurant				
+node	7917771212	41.6204994	9.3322782	Ranch'O Plage				restaurant		20137		
+node	8993401825	41.6725666	9.3019131	L'Entracte				restaurant			Mulinacciu	
+node	9381999922	41.6667984	9.3073059	Ghisoni's Coffee House				cafe				
+node	12925884702	41.6311184	9.3456985	Le Spot				cafe				
+way	67299087	41.6313710	9.3458180	Le tiki				restaurant				
+way	67299488	41.6247975	9.3163017	La Pinede				restaurant				
+way	516902337	41.6301924	9.3460157	VIP beach				restaurant				
+way	1167760132	41.6330626	9.3444638	U Stagnu				cafe				
+relation	1112164			Levie	8	20170	2A142					
+node	1742839746	41.7135234	9.1209764	U Spuntinu				restaurant				
+node	5007295921	41.7019851	9.1225695	Pizzeria du Progrès				restaurant				
+node	5647539203	41.7041541	9.1222942	U Tascaronu				restaurant				
+node	14127733482	41.7013543	9.1223950	Petri Bianchi				bar				
+node	14127767082	41.7016923	9.1226397	A rinascita				restaurant				
+node	14334199401	41.7125107	9.1018969	Ferme-Auberge A Pignata				restaurant		20170	Strada di u Pianu	
+relation	2603011			Marignana	8	20141	2A154					
+node	4943975925	42.2363416	8.8061196	Usteria di a Rota				restaurant				
+node	5173369524	42.2329917	8.8005287	Café des amis				restaurant				
+relation	2815082			Moca-Croce	8	20140	2A160					
+node	13754637230	41.8085971	9.0119417	A Funtana				bar				
+relation	2577722			Monacia-d'Aullène	8	20171	2A163					
+node	4290713094	41.5125515	9.0134106	La Pergola				restaurant				
+node	12176059450	41.5120023	9.0110488	Chez Pierre-Marie				cafe				
+node	12176978781	41.5129922	9.0107136	Le Retro				bar				
+node	13929289614	41.5117148	9.0152415	A Cuncaredda				restaurant				
+relation	2162170			Murzo	8	20160	2A174					
+node	4916592167	42.1688397	8.8193967	U Ponte				restaurant				
+relation	2162147			Ocana	8	20117	2A181					
+way	376789414	41.9617838	8.9346683	Le Soccer				cafe				
+way	562457191	41.9628000	8.9385492	U castellu				restaurant				
+relation	2047668			Olivese	8	20140	2A186					
+node	12287815501	41.8334207	9.0909283	Ferme Auberge du Col de la Vaccia				restaurant		20140	Col de la Vaccia	
+relation	73339			Olmeto	8	20113	2A189					
+node	1438557517	41.6988790	8.8413436	L'Estatina				restaurant				
+node	2788777915	41.7168727	8.9185730	Chez mimi				restaurant				
+node	4352944635	41.6973820	8.8470830	La Crique d'Olmeto				restaurant				
+node	4352944636	41.6973860	8.8474532	U Farniente				restaurant				
+node	4949537510	41.6908761	8.8868187	Chez Angèle				restaurant				
+node	5133789229	41.6972310	8.8462924	Una Stonda				restaurant				
+node	5794016453	41.7155019	8.9151847	La Source				restaurant				
+node	7097446455	41.7184065	8.9189731	Chez Antoine				restaurant				
+node	9948941612	41.7006883	8.8382024	O'Non Stop				restaurant				
+node	9949113674	41.7093856	8.8294418	L'Infini				restaurant				
+way	70694289	41.7014204	8.8583352	Le 466				restaurant				
+way	239908895	41.6884104	8.9312180	i Bagni				restaurant				
+way	519321473	41.6977600	8.8430741	Copa Cobana				restaurant				
+relation	2690770			Olmiccia	8	20112	2A191					
+node	11823986906	41.6660497	9.0265952	A Machja				restaurant				
+relation	2164375			Orto	8	20125	2A196					
+node	12864157343	42.1852428	8.9317930	Versu l'Ortu				bar				
+relation	2577698			Osani	8	20147	2A197					
+node	4637973393	42.3482284	8.6129537	Le Bon Espoir				restaurant				
+node	4931184425	42.3484812	8.6125252	Le Bel Ombra				restaurant		20147		
+node	5620537421	42.3486827	8.6123199	La Terrrasse				restaurant				
+node	5695479257	42.3491168	8.6124176	Gobi Caffé				restaurant				
+node	5695479258	42.3495946	8.6130398	La Cabane du berger				restaurant				
+node	5800967140	42.3204288	8.6682737	VR46				restaurant				
+way	580540306	42.3486747	8.6125533	Gîte Le Cormoran Voyageur				restaurant				
+way	580541755	42.3065079	8.6457891	Camping Corsica Gradelle				restaurant				
+way	590079250	42.3038884	8.6482550	Le Santa Maria				restaurant				
+relation	1110926			Ota	8	20150	2A198					
+node	512710557	42.2678086	8.6929196	Le Palmier				cafe				
+node	1100748752	42.2662633	8.6944218	Le Mini Golf				restaurant				
+node	3746148860	42.2651703	8.6930775	U Pescador				restaurant		20150		
+node	3746148898	42.2685063	8.6937856	Côté Place				restaurant				
+node	3746148899	42.2650685	8.7058256	Cala di sol				restaurant				
+node	4289488521	42.2641379	8.7074691	Atelier Piuma				cafe				
+node	4289488527	42.2651778	8.7060841	Le Pub				restaurant				
+node	4289488537	42.2649107	8.7064337	Le beau séjour				restaurant				
+node	4289488538	42.2655792	8.7055053	Le Vin150				restaurant	375	20150	Rue Vaïta	
+node	4291084822	42.2677829	8.6932662	Le Monte Rosso				restaurant				
+node	4304892104	42.2669009	8.6946629	Duo Lounge				cafe				
+node	4304894050	42.2668805	8.6947605	Le Duo				restaurant				
+node	4304896942	42.2675711	8.6940677	La Marine				restaurant				
+node	4304898294	42.2670929	8.6941731	Sole e Mare				cafe				
+node	4304903619	42.2672235	8.6937618	Restaurant A GIOIA				restaurant				
+node	4304903908	42.2670840	8.6942960	Sole e Mare				restaurant				
+node	4304903909	42.2673378	8.6945322	Le Panorama				restaurant		20150	Route de la marine	
+node	5678553705	42.2572414	8.7419293	Bar des Chasseurs				bar				
+node	5868963164	42.2687859	8.6933439	Les Flots Bleus				restaurant				
+node	7804928052	42.2676591	8.6937894	Le Jacaranda				restaurant				
+node	7865663309	42.2618257	8.7092159	U Ponte				restaurant				
+node	8895185161	42.2673232	8.6934223	El Toro				restaurant				
+node	10948590905	42.2581176	8.7443689	Retaurant le Café de la Place				restaurant				
+node	13761120701	42.2663721	8.7051790	Le maquis				restaurant				
+node	13761209301	42.2635873	8.7092138	La cigale				restaurant				
+way	70220995	42.2695023	8.6927374	La Mer				restaurant				
+way	70221069	42.2685920	8.6936792	Le Cyrnée				restaurant				
+way	70221074	42.2663447	8.6936912	Le Robinson				restaurant				
+way	70221106	42.2581233	8.7434084	Café de la Place				restaurant				
+way	70221152	42.2672464	8.6967038	Le Nautilus				cafe				
+way	70221188	42.2612686	8.7098998	Le Moulin				restaurant				
+way	70221229	42.2677207	8.6934943	Office de Tourisme Intercommunal Ouest Corsica				restaurant			place de la marine	
+way	70221421	42.2672741	8.6931743	Le Sud				restaurant				
+way	70221426	42.2648299	8.7077036	Hôtel Le Porto				restaurant			Route de Calvi	
+way	70221440	42.2677453	8.6930854	Le Soleil Couchant				restaurant				
+way	70221496	42.2576493	8.7439479	Chez Felix				restaurant		20150	Capo Sottano	
+way	70221534	42.2674624	8.6934799	La Tour Génoise				restaurant				
+way	70221581	42.2572938	8.7420801	Gite d´Etape 'Chez Marie'				restaurant				
+relation	2540379			Partinello	8	20147	2A203					
+node	486703704	42.3024133	8.6614188	U Caspiu				restaurant				
+node	486705589	42.3018081	8.6615660	Punta Rossa				bar				
+node	11886685073	42.3106881	8.6829103	A Funtanella				restaurant				
+way	580947762	42.3125532	8.6817486	Aria Marina				restaurant				
+relation	150120			Peri	8	20167	2A209					
+node	13027139418	42.0066580	8.8618756	Petit Peri				restaurant				
+node	13027139424	42.0094184	8.8655030	Honolulu				bar				
+node	14060919501	41.9936582	8.8489860	La Comète				restaurant				
+way	68000092	42.0073298	8.8641178	L'Ustaria				cafe				
+way	68000464	42.0053231	8.9217227	Auberge U Sciatellu -Chez Séraphin				restaurant				
+relation	2718370			Petreto-Bicchisano	8	20140	2A211					
+node	5201683445	41.7872240	8.9780680	Chez Marie				restaurant			Quartier de l'impossible	
+node	5201688855	41.7879438	8.9761229	Le Cyrnos				restaurant		20140		
+node	5201689589	41.7883430	8.9766162	Bar de la Poste				bar				
+node	5257418719	41.7843917	8.9799329	Bar des chasseurs				cafe				
+node	13058840007	41.7871525	8.9743078	La Forge				restaurant		20140	Lieu-dit Vignarella	
+relation	1112167			Piana	8	20115	2A212					
+node	3692293259	42.2499874	8.6270049	U pescadore				bar	4174			
+node	3744633539	42.2390118	8.6367459	Le Casanova				restaurant				
+node	3744633540	42.2401567	8.6413889	Les Roches Rouges				restaurant				
+node	3766153063	42.2075958	8.5759228	Le Casabianca				bar				
+node	4304842670	42.2387307	8.6366039	Chez Jeannette				restaurant				
+node	4304903911	42.2380209	8.6368195	U Campanile				restaurant				
+node	4461396818	42.2389510	8.6364769	La Voûte				restaurant			Place de la Fontaine	
+node	4955157194	42.2088187	8.5777304	L'Onda				restaurant				
+node	4955157195	42.2076862	8.5806447	Le Café de la Plage				bar				
+node	5564632122	42.2029852	8.6418488	L’hospiton di Momouche				restaurant			Route de Piana	
+node	11869279869	42.2406356	8.6359907	Le Josephine				restaurant				
+node	12165905101	42.2391773	8.6367314	Les jardins de Piana				restaurant		20115		
+way	70222136	42.2351406	8.5837842	A Guardiola				bar				
+way	70222217	42.2386899	8.6368002	Le Casanova				cafe				
+way	70222821	42.2382184	8.6373950	Casa Corse				restaurant				
+way	70223009	42.2486566	8.6601245	Les Roches Bleues				restaurant				
+relation	1120356			Pianottoli-Caldarello	8	20131	2A215					
+node	2984735960	41.4917909	9.0563645	U 2A				bar				
+node	2984735963	41.4916269	9.0555294	Bar Matthieu				bar				
+node	2984735964	41.4916353	9.0549912	Le Florida				restaurant	2680			
+node	2984735966	41.4917898	9.0547570	Bar Mimosa				bar				
+node	6448462828	41.4913538	9.0551400	Chez Felix				restaurant	20131		Route du Port	
+node	8971699540	41.4916037	9.0548825	Pasta e Antipasti				restaurant				
+way	191064696	41.4730922	9.0622718	Pizzeria Chez Mika				restaurant				
+way	191065006	41.4917127	9.0536636	u spuntinu				restaurant				
+way	191065045	41.4839075	9.0772836	Baraka				restaurant				
+way	293877855	41.4900494	9.0643242	Black Pearl's				restaurant				
+way	294197867	41.4697530	9.0563054	23-19				restaurant				
+relation	73260			Pietrosella	8	20166	2A228					
+node	5932451935	41.8290937	8.7847307	Le Sud				restaurant				
+node	12056907037	41.8341642	8.7823212	Paillotte du Rupione				restaurant		20166		
+node	12977295601	41.8471412	8.7614520	Restaurant l'Oasis				restaurant		20166	Presqu'île de l'Isolella	
+node	13027128782	41.8434628	8.7657237	Iso				restaurant				
+way	70241238	41.8317321	8.7851621	Auberge du Ruppione				restaurant				
+way	70242278	41.8456584	8.7684482	Olmeta Beach				restaurant				
+way	226566213	41.7926016	8.8235108	A' Baracca				restaurant				
+way	614907243	41.8338682	8.7813612	La Bergerie				restaurant				
+way	628385897	41.8150960	8.7742513	Plage d'argent				restaurant		20166	San Peru	
+way	833684992	41.8151353	8.7741247	Plage d'argent				restaurant				
+way	1375865861	41.8344425	8.7829240	Pizza Raymond				restaurant				
+relation	2815242			Pila-Canale	8	20123	2A232					
+node	12201903876	41.7767322	8.9044708	Bar Anotti				bar				
+relation	2164993			Poggiolo	8	20125;20160	2A240					
+node	4927396368	42.1732889	8.8869983	Des Deux Sorru				restaurant				
+relation	89326			Porto-Vecchio	8	20137	2A247					
+node	510450100	41.5533630	9.3102096	Costa Marina				restaurant				
+node	512024387	41.5927587	9.2785075	Best Western Alcyon				bar			Avenue Maréchal Leclerc	
+node	512088000	41.5900940	9.2814392	Chez Boubou				restaurant				
+node	836786052	41.5795737	9.3394363	U Suaronu				restaurant				
+node	836786084	41.6242048	9.2973918	Le Figuer				bar				
+node	836786097	41.5877426	9.3350413	A Teghja				restaurant				
+node	836786099	41.5902319	9.2798901	A Brasgia				restaurant				
+node	836786114	41.5912733	9.2791453	Au Bon Coin				restaurant				
+node	836786119	41.6139786	9.2794362	Le Saint-Jean				restaurant				
+node	836786137	41.5902561	9.2798521	La Taverne du Roi				pub				
+node	836786138	41.5597350	9.3355797	I Pini				restaurant		20137		
+node	836786139	41.5906633	9.2790059	U Spuntinu				restaurant				
+node	836786154	41.5901069	9.2792127	Clint				nightclub				
+node	886431610	41.5900843	9.2791848	Ghjacci				cafe				
+node	886431640	41.5901927	9.2797883	Furana a Prova				restaurant				
+node	886431658	41.5907636	9.2795248	La Cantine du Parvis				restaurant		20137		
+node	886431660	41.5909803	9.2797144	New Bel Ombra				cafe				
+node	886431662	41.5910205	9.2797533	Les Beaux Arts				cafe				
+node	886431670	41.5911087	9.2798249	L'Osteria				restaurant				
+node	886431679	41.5912305	9.2800250	La Fringale				restaurant				
+node	891025581	41.5892929	9.2833850	Le Lodge				restaurant				
+node	891025592	41.5892337	9.2835449	U Molu				restaurant				
+node	2338505681	41.5461312	9.2851893	Bocca d'Oro				restaurant				
+node	2338505786	41.5596490	9.3361383	La Pailotte				bar				
+node	2338529426	41.5913828	9.2798812	A Cantina di L'Orriu				cafe				
+node	2338529726	41.5903016	9.2826366	Café La Marine				restaurant				
+node	2338530370	41.5906938	9.2801899	Le Vistaero				restaurant				
+node	2338541417	41.5894847	9.2831401	Le Bistrot Maison Guiducci				restaurant				
+node	2339550346	41.5906571	9.2803033	Merendella				restaurant				
+node	2339550412	41.5917633	9.2804627	Maxime				cafe				
+node	2339550418	41.5906054	9.2802322	U Borgu				restaurant				
+node	2339563082	41.5495963	9.2992917	A Chabraca				restaurant				
+node	2345183333	41.5906899	9.2803366	A Tanna				restaurant	31		Rue Borgo	
+node	2448258317	41.5400669	9.2666092	Ondella				restaurant				
+node	2924568133	41.6314903	9.3270477	Restaurant le K				restaurant				
+node	2951441217	41.5648227	9.3360485	Ambassador				restaurant				
+node	3091771865	41.5879000	9.2887218	La Mesa				bar				
+node	3560459491	41.6405153	9.2265236	La Petite Maison de Vardiola				restaurant			Route de L'Ospedale	
+node	3560477416	41.6086265	9.2866769	Marina Lounge				restaurant			Route de Marina di Fiori	
+node	3560495276	41.5780653	9.3007005	U Cantonu				restaurant			Route de Palmobaggia	
+node	3720682229	41.5862769	9.2759971	L'Ardoise				restaurant				
+node	3720693125	41.5332057	9.2808334	A Piazetta				restaurant				
+node	3720693237	41.5922140	9.2808496	Chez Pino				restaurant				
+node	3720693426	41.5314629	9.2806072	Santa Marina				restaurant				
+node	3720693526	41.5901156	9.2797751	La Vigie				restaurant				
+node	3720693528	41.5911204	9.2801844	Le Patio				bar				
+node	3721141825	41.5911570	9.2789513	Pizza du Bastion				restaurant				
+node	3721142625	41.5909627	9.2790999	Shirley's Bar				bar	4		Rue Joseph Pietri	
+node	4304894209	41.5913133	9.2792311	Sin Café				cafe				
+node	4304903622	41.5913763	9.2793274	Shanka				cafe				
+node	4304903623	41.5542588	9.3186869	L'Isolebella				bar				
+node	4332069735	41.5828723	9.2667607	Guest Burger				restaurant				
+node	4349790720	41.5910334	9.2791547	Le Povo				bar				
+node	4350614093	41.5967523	9.2757983	MY café				cafe				
+node	4350614100	41.5973046	9.2763000	La Cafét				cafe				
+node	4359972697	41.5542526	9.3186753	Paillotte				bar				
+node	5175331257	41.5885772	9.2840457	Tropicana				restaurant				
+node	5311133321	41.5885032	9.2845176	Casa Corsa				restaurant				
+node	6448447157	41.5746169	9.3351783	Ranch Campo Palombaggia				restaurant				
+node	6456439419	41.5910878	9.2788532	Chez Anna				restaurant	16		Rue Docteur Camille de Rocca Serra	
+node	6532275987	41.5885840	9.2845226	Le Table du Vin 137				bar				
+node	6561739661	41.6456487	9.1759068	Le Refuge				restaurant		20137		
+node	6740150289	41.5902577	9.2791054	Sushibar				restaurant				
+node	6741993285	41.5494144	9.3085306	Sea Lounge				restaurant				
+node	7616856856	41.6243100	9.2899355	L'Appétit				restaurant				
+node	7616857035	41.6125276	9.2799376	Le Roi Theodore				restaurant				
+node	7632938511	41.5900832	9.2774435	Salad'Bar				bar				
+node	7666969185	41.6114673	9.2794414	GoldLounge				cafe				
+node	7704484985	41.5900968	9.2796017	A Casetta				restaurant				
+node	7886436485	41.5901190	9.2796367	l’Antigu				restaurant				
+node	7894855587	41.5901705	9.2773226	La table de Nathalie				restaurant	4	20137	Rue Jean Jaurès	
+node	7973838117	41.5903081	9.2780396	Les Plaisirs du Vin				bar				
+node	7973862050	41.5905720	9.2786958	Sous La Tonnelle				restaurant				
+node	8768495202	41.5920888	9.2809428	Les Platanes				restaurant				
+node	8768767137	41.5960747	9.2770910	U Transmontano				restaurant				
+node	8969099417	41.5891301	9.2834987	Le Bellagio				restaurant				
+node	9056032817	41.5540022	9.3185219	Playa Baggia				restaurant				
+node	9609167450	41.5947879	9.3098819	Casadelmar				restaurant				
+node	9729969918	41.5913277	9.2803397	A Cantinetta				restaurant				
+node	9935516131	41.5994828	9.2752908	Viseo				cafe				
+node	9956788117	41.5488735	9.3080765	Le Petit Chose				restaurant				
+node	9985463756	41.5974218	9.2749502	Chez Marie				bar				
+node	9991009576	41.5804186	9.2702071	La Clairière				restaurant				
+node	9991026817	41.5486356	9.3079799	Linda Beach				restaurant				
+node	10862663007	41.5987823	9.2753333	Køstën				restaurant				
+node	10862703208	41.5904870	9.2799041	BAB				bar				
+node	10862716705	41.5906310	9.2800932	Le Vinyle				bar				
+node	10862725306	41.5912667	9.2799588	BDC				restaurant				
+node	10862725406	41.5911071	9.2791314	L'Allegria				restaurant				
+node	11033428876	41.5534519	9.3181458	Tamaricciu				restaurant				
+node	11985673369	41.5901607	9.2794877	A Pergola				restaurant				
+node	12128239903	41.5480676	9.3075172	Cala d'Asciaghju				restaurant				
+node	12134064898	41.5922398	9.2810755	U Di Vini				bar				
+node	12172994585	41.5888935	9.2851540	U Grill				restaurant				
+node	12172995263	41.5951157	9.2843320	Casa Santini				restaurant				
+node	12172995264	41.5942697	9.2838058	La Terrasse du Shegara				restaurant				
+node	12173087262	41.5886336	9.2844742	Versione Originale				restaurant				
+node	12173087263	41.5886561	9.2843915	Via Mare				restaurant				
+node	12917354202	41.5804567	9.2548437	Lˋaffameé Food Truck				restaurant				
+node	14188679184	41.5779513	9.2753861	Parita Thai Food				restaurant	43	20137	Strada di Bonifazincu	
+node	14191392307	41.5901164	9.2794073	Focacceria				restaurant				
+node	14191396084	41.5900176	9.2792393	U Caseddu				restaurant				
+node	14191396085	41.5905977	9.2788829	Sous la Tonelle				restaurant				
+node	14191399780	41.5915466	9.2811343	La Citadelle				restaurant				
+node	14191400507	41.5905742	9.2801846	Bistrocellu				restaurant				
+node	14191405472	41.5898758	9.2791433	Othello				restaurant				
+node	14191417366	41.5907332	9.2787884	La Suite				restaurant				
+node	14191476362	41.5907252	9.2799036	Alta Rocca				restaurant				
+node	14191552611	41.5906736	9.2797163	O p'tit in Solent				restaurant				
+node	14191569025	41.5908222	9.2796474	A Storia				restaurant				
+node	14270308137	41.5315476	9.2628107	Golf Club de Lezza				restaurant		20137	Route de Bonifacio	
+way	66453575	41.6238743	9.3000348	L'Alivi				restaurant				
+way	66453783	41.6508267	9.1937709	U Funtanonu				restaurant				
+way	66454760	41.6504326	9.1941042	Chez Paul Poli				restaurant				
+way	66454922	41.5311597	9.2804900	U Fiesta Marina				restaurant				
+way	66456763	41.5320627	9.2770794	Les Deux 3				restaurant				
+way	66457290	41.5914506	9.3649584	Bar de la plage				bar				
+way	66458390	41.5633080	9.2792350	Via Notte				nightclub				
+way	66458552	41.5456356	9.2683079	U Pinu				restaurant				
+way	66459823	41.5305511	9.2810714	A Fiesta				restaurant				
+way	66468109	41.5442159	9.2680840	Cook in Casa				restaurant				
+way	66468327	41.5915500	9.3613957	Le Cerbicale				restaurant				
+way	66468825	41.5461933	9.3050737	L'Acciaro Plage				restaurant		20130	Rue de Palombaggia	
+way	66469712	41.5967109	9.2747642	Le Nord Sud				cafe				
+way	66472911	41.5316287	9.2738745	Bar Plage				restaurant				
+way	295905662	41.5897284	9.3090931	Terramea				restaurant			route de Palombaggia	
+way	363819609	41.5538523	9.3183919	Palm Beach				restaurant				
+way	363819914	41.5618934	9.2738176	La Focaccia				restaurant				
+way	636631565	41.5580542	9.3252191	Cala di Lume				restaurant				
+way	638240666	41.6522966	9.2009224	A Tigliola Le Nid d'aigle				restaurant				
+way	685884213	41.5605300	9.3328955	Chez Pierre				restaurant				
+way	723897905	41.5876094	9.3348083	L'Olivier				restaurant				
+relation	73343			Propriano	8	20110	2A249					
+node	506339811	41.6754364	8.9005648	Terra Cotta				restaurant				
+node	1594835315	41.6757232	8.9029245	Le Royal				cafe				
+node	2430048271	41.6756583	8.9024384	Le Bellevue				restaurant				
+node	4307811511	41.6768311	8.9083046	Côte Plage				cafe				
+node	7097446444	41.6761104	8.8981168	Cocodile				restaurant	7		Quai l'Herminier	
+node	7732534728	41.6761203	8.9049943	Chez Jojo et Nadine				restaurant				
+node	7732534729	41.6761373	8.9052035	Red Dragon				bar				
+node	7897746186	41.6756860	8.9025937	Tempi Fà				restaurant				
+node	8238217379	41.6790995	8.9173907	A Cena				restaurant				
+node	9019488535	41.6685523	8.9188380	Café SG				bar				
+node	9035679617	41.6756435	8.9009908	L'Ambata				restaurant				
+node	9039738318	41.6755196	8.9013542	L'Incantu - L'esprit guinguette				restaurant				
+node	9947373307	41.6752700	8.9002263	L'Epica				restaurant				
+node	9970881437	41.6756897	8.9026528	Riva Bella				restaurant				
+relation	2701895			Quenza	8	20122	2A254					
+node	5675346374	41.7659645	9.1383593	Café du Centre				restaurant				
+node	5675639292	41.7664481	9.1409486	Sole e Monti				restaurant				
+node	7791802386	41.7659399	9.1382985	Alta Rock Café				restaurant				
+way	129769113	41.7960533	9.2259903	Les Aiguilles de Bavella				restaurant				
+way	354652884	41.7954208	9.2287148	Le Refuge				restaurant				
+way	354652886	41.7948972	9.2290182	Auberge du col de la Bavella				restaurant				
+relation	77318			Sari-Solenzara	8	20145	2A269					
+node	2337844685	41.8585343	9.4017904	A Marina				restaurant				
+node	2339743482	41.8590965	9.3977711	Chez Doume				restaurant				
+node	2339743490	41.8588782	9.3976394	La Calèche				restaurant				
+node	3588408864	41.8527976	9.3549259	A Pinzutella (Ferme Auberge)				restaurant			Route de Bavella	
+node	4879045872	41.8350260	9.3215225	U Ponte Grossu				restaurant				
+node	7775760594	41.8570482	9.3992295	O Resto				restaurant				
+node	8863961947	41.8574727	9.3993623	Les Muriers				restaurant				
+node	8863961960	41.8572354	9.3999670	Maison kalfleche Solenzara				cafe				
+node	8972966918	41.8664795	9.3849550	Restaurant du camping				restaurant				
+node	11203083437	41.8000609	9.3944869	Le Grand Bleu				restaurant				
+node	12081013569	41.7755170	9.3950312	Le Maradea				restaurant				
+node	12848754901	41.8580082	9.4005283	Chez Papou				restaurant				
+node	12884655653	41.8580730	9.4020968	L'Annexe				restaurant				
+node	13289860984	41.8587971	9.4004798	Petite Nems				restaurant				
+node	14191793067	41.8562896	9.4004564	U San Marcellu				restaurant				
+node	14191942764	41.8572566	9.3988971	Nokto				nightclub				
+node	14191968709	41.8573324	9.3994908	Di' Vinu				bar				
+node	14191971792	41.8567052	9.3997255	LBJ				bar				
+node	14191980341	41.8563847	9.3994623	L'Acinu				bar				
+node	14224909001	41.8565278	9.3998566	Terracotta				restaurant				
+way	353225156	41.8006339	9.3950184	La Dolce Vita				restaurant				
+way	361979039	41.8473544	9.3508524	L‘Alba				restaurant				
+way	1294695522	41.8440361	9.3426830	U Rosumarinu				restaurant				
+relation	2540348			Sari-d'Orcino	8	20151	2A270					
+node	5440214293	42.0584544	8.8233264	U Cunventu				restaurant				
+node	5440214294	42.0583688	8.8248513	Auberge Chez Lolo				restaurant				
+relation	135862			Sarrola-Carcopino	8	20167	2A271					
+node	5661603387	41.9794307	8.8335716	U Culombu				restaurant				
+node	5927164984	41.9640430	8.8130180	Brasserie A Mezzana				restaurant				
+node	5927165108	41.9643347	8.8129899	Akeru Sushi				restaurant				
+node	11572346569	41.9543747	8.8024647	Jour Ajaccio				restaurant				
+node	14055963101	41.9531017	8.7938199	La Grande Brasserie				restaurant				
+node	14056085903	41.9531421	8.7932095	illy Caffè				cafe				
+node	14056111401	41.9528609	8.7916042	Columbus Café & Co				cafe				
+node	14204001001	41.9522190	8.8025052	Le Temple du Foot				restaurant				
+node	14204609701	41.9535357	8.8029866	Au Bureau				restaurant				
+node	14204609702	41.9531387	8.8027045	Hippopotamus Steakhouse Ajaccio				restaurant				
+node	14204613702	41.9542674	8.7994154	Le Chalé				restaurant				
+relation	1112243			Sartène	8	20100	2A272					
+node	513931358	41.6199292	8.9729096	La Cave				pub				
+node	1438593844	41.6213539	8.9726707	La Terasse				restaurant				
+node	2315810408	41.5428157	8.8519362	L'Escale				restaurant				
+node	2315810409	41.5424976	8.8518168	Chez Antoine				restaurant				
+node	4142416589	41.4990264	8.9487771	L'Oasis du Lion de Roccapina				restaurant				
+node	4307779009	41.6207173	8.9721273	Bar Café au bien assis				cafe				
+node	4794752021	41.6207389	8.9722077	Café de la Victoire				cafe		20100		
+node	5620537521	41.6204681	8.9724160	Mondoloni				cafe				
+node	5801751798	41.6206533	8.9721058	Le Sartène				restaurant				
+node	5801751800	41.6218905	8.9718400	La Vieille Ville				restaurant				
+node	5801751803	41.6213556	8.9717752	Roy Théodore				restaurant				
+node	5801751807	41.6212792	8.9716961	L'Arbousier				restaurant				
+node	5801751815	41.6211360	8.9717799	A Cantina				restaurant				
+node	5906807185	41.5005623	8.9487715	Snack du Roccapina				cafe				
+node	6458005611	41.6194673	8.9728872	Restaurant du Cours				restaurant	25		Cours Soeur Amélie	
+node	6525300085	41.6206746	8.9713125	Le Jardin de l'Echauguette				restaurant				
+node	6733998672	41.6207061	8.9724477	Café des amis				cafe				
+node	7699122785	41.6205319	8.9722438	Le Bistrotek				restaurant				
+node	7772918089	41.5709873	8.9527045	Restaurant U Sirenu				restaurant				
+node	7960083885	41.6220594	8.9719938	La Storia				restaurant			Rue Jean Codaccioni	
+node	8791549039	41.6219202	8.9720372	La Storia				restaurant		20100	Rue Jean Codaccioni	
+node	9004584748	41.6211658	8.9729679	Bar Le Bonaparte				bar				
+node	9004584750	41.6219338	8.9723947	A Sirinata				restaurant				
+node	9806038017	41.4989724	8.9487912	L'oasis du lion				restaurant				
+node	11824007700	41.6448307	8.9524046	L'Asiatica				restaurant				
+node	11953865752	41.6210388	8.9716250	Le Restaurant Caramama				restaurant			Piazza Maió	
+node	12088767873	41.6200453	8.9724388	Aux Gourmets				restaurant				
+node	12088777969	41.6180816	8.9737496	Brasserie La Belle Epoque				restaurant				
+node	12088811669	41.6211359	8.9720334	Piazza Porta				restaurant				
+node	12088811869	41.6209500	8.9726816	Central Bar				pub				
+node	12088811969	41.6208190	8.9726851	L'Idéal Bar				cafe				
+node	12091580397	41.6185570	8.9734028	una voglia				restaurant				
+node	12139343758	41.6403694	8.9751351	Pizzaria Olva				restaurant				
+node	13233987001	41.5405985	8.8516829	ARIA NOVA				restaurant		20100	De Tizzano	
+way	70680342	41.5239552	8.9556938	Ferme de Minora				restaurant				
+way	558867794	41.5155247	8.9497305	Auberge Coralli				restaurant			Route de Bonifacio	
+way	1025981195	41.5362389	8.8560770	Tizza Mare				restaurant				
+relation	73196			Serra-di-Ferro	8	20140	2A276					
+node	2337832263	41.7122480	8.8031845	20140				restaurant				
+node	2337832264	41.7109334	8.7983273	Le Toucan				bar				
+node	2337832265	41.7113286	8.7988438	Le Valinco				restaurant				
+node	2337832295	41.7111690	8.7984457	Le Toucan				restaurant				
+node	3686218422	41.7380128	8.7838186	Cala di Cupabia				restaurant				
+node	4263226790	41.7286924	8.7988124	U San Matteu				restaurant				
+node	6561739677	41.7107640	8.7970582	U Batellu				restaurant				
+node	9083922548	41.7286389	8.7982293	U San Petru				restaurant				
+node	9947726822	41.7110468	8.7981296	Casa Bianca				pub				
+node	9947824132	41.7093696	8.7939533	Chez Jean				restaurant				
+node	9947847377	41.7266095	8.8278657	U Strongru				restaurant				
+node	9947862529	41.7210623	8.8171393	Casa Cosi				restaurant				
+node	9947867969	41.7083804	8.7938086	La Paillote				restaurant				
+way	1160000642	41.7091207	8.7937859	Bar Les Oliviers				bar		20140		
+relation	2741595			Serra-di-Scopamène	8	20127	2A278					
+node	3666127494	41.7540669	9.1008329	A Scopa				cafe				
+relation	2540343			Serriera	8	20147	2A279					
+node	4873869297	42.2847984	8.6928999	Stella Marina				restaurant			Plage de Bussaglia	
+node	5173367881	42.3011442	8.7094409	Snack-bar le Pinito				restaurant				
+node	6437082018	42.2995329	8.7076360	L'Alivi				restaurant				
+node	12175713412	42.2996739	8.7075089	L'Usteria				restaurant		20147		
+node	12954873501	42.2815141	8.6882998	Mare Chiare				restaurant			Strada di Calvi	
+relation	2166026			Soccia	8	20125	2A282					
+node	2370256820	42.1892205	8.9083191	A Merendella				restaurant				
+node	4927376021	42.1896484	8.9088818	Bar chez Louis				bar				
+node	4955211539	42.1906859	8.9134847	Pane e Vinu				restaurant				
+way	176339094	42.1899785	8.9112600	U Paese				restaurant				
+relation	2741603			Sollacaro	8	20140	2A284					
+node	6702701288	41.7449860	8.9117753	U Spuntinu				restaurant				
+node	6702711386	41.7449768	8.9118304	Café Moderne				cafe				
+node	12025476069	41.7448451	8.9120101	Chez Tina				bar			Ave. Caitucoli	
+way	239805747	41.7450528	8.8702512	La préhistoire				restaurant				
+relation	1120354			Sotta	8	20146	2A288					
+node	14295910870	41.5448157	9.1959605	Le Relais				restaurant				
+way	513457068	41.5452566	9.1953421	Le 20146				restaurant	43	20146	Rue Principale	
+relation	85719			San-Gavino-di-Carbini	8	20170;20137	2A300					
+node	835976034	41.6874770	9.2005075	La Cascade				bar				
+node	3753306731	41.7197752	9.1462821	Un' antru versu				restaurant		20170		
+node	4548017336	41.7205588	9.1468213	A Piazzetta				restaurant				
+node	14087472401	41.6444897	9.2660896	A Furtezza				restaurant				
+way	70666682	41.6436507	9.2656573	U Casteddu				restaurant		20137		
+way	70666760	41.6451280	9.2663806	La Casette d'Araggio				restaurant				
+way	70667181	41.6638434	9.3049892	Pizzeria A Chjusella				restaurant			Pont de l'Oso	
+way	300695094	41.6873296	9.2001875	U Diamante				bar				
+relation	2690777			Sainte-Lucie-de-Tallano	8	20112	2A308					
+node	4838862322	41.6644112	9.0515166	Bains de Caldane				restaurant				
+node	5661791388	41.6976671	9.0644945	Le Sporting				bar				
+node	5661791408	41.6977923	9.0640131	Le Santa Lucia				restaurant				
+node	5661791420	41.6976431	9.0634753	Ortoli				bar				
+node	7861872939	41.6979438	9.0641540	Chez Dume				restaurant				
+relation	2078224			Santa-Maria-Siché	8	20190	2A312					
+node	7106761294	41.8841355	8.9653071	U Fiumicellu				restaurant				
+node	7682859629	41.8777659	8.9810766	Le Santa Maria				pub				
+relation	140865			Tavera	8	20163	2A324					
+node	9951335037	42.0676801	9.0175371	Le Vieux Chêne				restaurant				
+relation	2162149			Tolla	8	20117	2A326					
+way	515182552	41.9731414	8.9692361	Tolla Plage				restaurant				
+way	515182553	41.9733675	8.9693937	A Fiuminala				restaurant				
+relation	135740			Valle-di-Mezzana	8	20167	2A336					
+way	66222134	42.0236731	8.8234960	A Funtanella				restaurant				
+relation	137640			Vero	8	20172	2A345					
+node	2311278577	42.0455640	8.9247179	U Porcu Neru				restaurant	2720	20172	Strada di Bastia	
+node	12610277117	42.0495665	8.9354987	Restaurant Merendella				restaurant			T20	
+relation	1110949			Vico	8	20118;20160	2A348					
+node	882361613	42.1147293	8.6978279	Le California				restaurant				
+node	1940229523	42.1162402	8.6932814	Café Tabac				cafe				
+node	4274551489	42.1668855	8.7984921	Café National				restaurant				
+node	5007363924	42.1122951	8.6877229	Petra Marina				restaurant				
+node	5007391721	42.1130471	8.6879344	L'Ancura				restaurant		20118		
+node	5131651482	42.1667940	8.7994882	A Piazza				restaurant				
+node	5239772921	42.1666943	8.7998712	Café Paoli				restaurant				
+node	5239773221	42.1666551	8.7986711	Café de la Paix				bar				
+node	5663723421	42.1652033	8.7947899	Le Saint Pierre				restaurant				
+node	6593133276	42.1144802	8.6968394	Restaurant Le "20118"				restaurant				
+node	7877861913	42.1155022	8.6941208	Cyrnos				restaurant				
+node	13250153201	42.1149664	8.6952121	U Mare				restaurant				
+node	13805573188	42.1150482	8.6950304	Aspusata				restaurant				
+node	13805573196	42.1151761	8.6947949	Le Grain de Sable				restaurant				
+node	13806293886	42.1145947	8.6965165	La petite voile rouge sagone				restaurant				
+node	14135850101	42.1311065	8.7044071	La Palmeraie				restaurant		20118		
+way	74700403	42.1147610	8.6959072	A Torraccia				restaurant				
+relation	1110952			Viggianello	8	20110	2A349					
+node	8879708017	41.6897347	8.9367601	Auberge San Ghjuvani				restaurant				
+node	9556312135	41.6819895	8.9514783	Chez Charlot				cafe				
+relation	2079910			Zévaco	8	20173	2A358					
+node	7682835242	41.8941882	9.0488978	U Taravu				restaurant				
+relation	85496			Zonza	8	20124;20144	2A362					
+node	945398529	41.7506287	9.1714576	L'auberge du Sanglier				restaurant			D368	
+node	1353579773	41.6827124	9.3755857	La csa				restaurant				
+node	1353579788	41.6825967	9.3757823	La fleur de sel				restaurant				
+node	1353579790	41.6829447	9.3761115	Stella Diana				restaurant				
+node	2339706652	41.6828583	9.3759365	Le Vig Vog				cafe				
+node	2959664388	41.6412470	9.3566289	Le Cabanon Bleu				restaurant				
+node	4276692897	41.6997542	9.3473311	Le Safari				bar				
+node	4304903492	41.7514826	9.1720739	l'Eternisula				restaurant		20124	Route de Quenza	
+node	4794751921	41.7510775	9.1720855	Café Le Maquis				cafe				
+node	5003817523	41.6861861	9.3788742	La Source				restaurant			Sainte-Lucie de Porto Vecchio, caramontino, 20144 Zonza, Frankreich	
+node	5027679106	41.6825177	9.3756306	Pizzeria du Rouf				restaurant				
+node	5027679109	41.6827448	9.3760772	Le Vig Vog (additional seats)				cafe				
+node	6462405698	41.7506949	9.1717135	Le Zampo				pub				
+node	7208672693	41.7440138	9.1673248	La ferme "A Stadda"				restaurant				
+node	7284298725	41.6921377	9.3602355	A Strada				restaurant				
+node	7688734037	41.6860811	9.3676569	La Baie de Pinarello				restaurant				
+node	9129795630	41.7502763	9.1715510	Le Randonneur				restaurant		20124	Strada d'Iddarata	
+node	11226888938	41.6825456	9.3756918	Chez Fred				restaurant				
+node	12116445832	41.6863924	9.3691873	Le Patio				restaurant				
+node	12210723928	41.6974319	9.3424049	A Catina di u Palazzu				pub				
+node	14239342701	41.6743626	9.3729752	L'Idéal				restaurant				
+node	14239342801	41.6764400	9.3723781	Playarellu				restaurant				
+way	445173301	41.7004781	9.3486523	Bar u Culombu				bar				
+way	445173347	41.6989262	9.3512660	La Pescheria				restaurant				
+way	445218157	41.6981110	9.3550368	A BELLA CASA				restaurant				
+way	598800826	41.7167877	9.4009858	Le Fautea				restaurant				
+way	718076879	41.7324955	9.2924374	Les 3 Piscines				restaurant				

@@ -1,0 +1,1711 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	104729			Ablon-sur-Seine	8	94480	94001					
+node	6095800839	48.7243641	2.4184620	Café de la Gare				cafe				
+node	10126144129	48.7239328	2.4184191	L'Arverne				bar				
+relation	104271			Alfortville	8	94140	94002					
+node	775732044	48.8052780	2.4190239	Chez JAIB				restaurant				
+node	775732056	48.8049122	2.4201481	Café l'Addict				bar				
+node	775732058	48.8055803	2.4196971	Brasserie de l'Hôtel de Ville				bar				
+node	775732072	48.8046707	2.4196419	Tabac de la Mairie				cafe				
+node	1575484111	48.8080740	2.4190380	Le Vaillant				bar				
+node	1600125158	48.8062040	2.4192390	L'Eden				restaurant				
+node	1674486376	48.8146701	2.4140452	Sushi d'Alfortville				restaurant	19	94140	Rue Véron	
+node	2099729883	48.8016663	2.4216722	House Pizza				restaurant				
+node	2307732755	48.8036984	2.4203235	Palmier des îles				restaurant				
+node	2307732756	48.8041390	2.4200015	La Rogina				restaurant				
+node	2408077401	48.8011519	2.4218020	Pizza Hut				restaurant				
+node	2468498153	48.7963469	2.4247306	Carnot				restaurant				
+node	2560639173	48.8025623	2.4210762	Son des marmites prestige				restaurant				
+node	2881872700	48.7987466	2.4235490	À l'Arrêt de Bus				cafe				
+node	2881875101	48.7988899	2.4234508	Aux Quatre Points Cardinaux				cafe				
+node	3214097979	48.8089715	2.4144968	Le Petit Paradis				restaurant	119	94140	Rue Véron	
+node	3473156857	48.7958294	2.4250334	Le Tom Tip				cafe				
+node	3473156860	48.7984976	2.4233927	Shiv Sankar				restaurant				
+node	3473168506	48.7991935	2.4232558	Reina				bar				
+node	3671662129	48.8041077	2.4228382	Le Concorde				cafe				
+node	3674915127	48.7950962	2.4251341	Le Printemps				cafe				
+node	3674960584	48.7952102	2.4238928	Diyar				cafe				
+node	3678002171	48.7960065	2.4259841	Paddock 29				cafe				
+node	4485299325	48.8160428	2.4108916	Huatian Restaurant				restaurant				
+node	5772931572	48.7901282	2.4257208	Tabacos				bar		94140	Place Petit Pont	
+node	5772943113	48.7881550	2.4255641	Au bar bu				bar		94140	Rue Étienne Dolet	
+node	6344705311	48.8099774	2.4149915	La Rôtisserie				restaurant	12	94140	Rue de Seine	
+node	6445571528	48.8101124	2.4142363	Le Fortville				bar	106	94140	Rue Véron	
+node	6445606749	48.8102235	2.4168983	Chicken Corner				restaurant	92	94140	Rue Paul Vaillant Couturier	
+node	6445610392	48.8103462	2.4170207	Restaurant Cappadoce				restaurant	89	94140	Rue Paul Vaillant Couturier	
+node	6451555769	48.8136524	2.4139108	Kyotorama				restaurant	34	94140	Rue Véron	
+node	6451555770	48.8132126	2.4138961	Oriental Darkoum				restaurant	40	94140	Rue Véron	
+node	6451555771	48.8136850	2.4155805	Sarah Lima Traiteur Brésilien				restaurant	30	94140	Rue Paul Vaillant Couturier	
+node	6451587729	48.8144606	2.4138288	Le Diplomate				bar	16	94140	Rue Charles de Gaulle	
+node	6451603889	48.8146309	2.4149154	Grill Istanbul				restaurant	21	94140	Rue Charles de Gaulle	
+node	6454246784	48.8116107	2.4140566	Pastel De Feira				restaurant	74	94140	Rue Véron	
+node	7471617496	48.8004396	2.4179915	Pizza Blanqui				restaurant	71	94140	Quai Blanqui	
+node	10691430185	48.7997766	2.4259025	Le Camélia				restaurant				
+node	10705631132	48.8139557	2.4119472	Edera				restaurant	3	94140	Rue de Charenton	
+node	11407434126	48.7880648	2.4258334	Pizzeria Fratelli				restaurant				
+node	11465918474	48.8054579	2.4227730	La Terrasse				restaurant				
+node	11981412476	48.8147473	2.4158632	Rajpoot Restaurant indien et pakistanais				restaurant				
+node	12531807801	48.8021118	2.4258448	Tabac de la Gare				bar				
+node	13457018661	48.8157460	2.4143946	Les dunes				restaurant				
+way	62556852	48.8036179	2.4200826	Papaye				restaurant				
+way	62558314	48.8013302	2.4215985	Belle Citronnelle				restaurant				
+way	62564787	48.8003549	2.4226135	La Mamma				restaurant				
+relation	103967			Arcueil	8	94110	94003					
+node	772405622	48.8068613	2.3360693	La Royale				bar	122			
+node	772600427	48.8033503	2.3319077	L'Océan Bleu				pub				
+node	778117629	48.8056072	2.3258097	La Croix d'Arcueil				pub		94110		
+node	778117631	48.8034727	2.3250125	Chez Papa				restaurant	99	94110	Avenue Aristide Briand	
+node	778117633	48.8019601	2.3244166	Le Brazza				cafe	49	94110	Rue Victor Carmignac	
+node	2563169617	48.8080925	2.3331394	Le Métro				cafe				
+node	2603323040	48.8106904	2.3271644	Hippopotamus				restaurant		94110		
+node	2603323041	48.8106076	2.3274158	Au Bureau				restaurant	3	94110	Place de la Vache Noire	
+node	3656454103	48.8107038	2.3284038	Asia Room				restaurant				
+node	3867491140	48.8117467	2.3308938	Dream Sushi				restaurant				
+node	3867553104	48.8096782	2.3276896	Le Monti				restaurant				
+node	3936173264	48.8018410	2.3438443	Le Plateau				cafe	27	94110	Avenue Gabriel Péri	
+node	5152499446	48.8079640	2.3320279	Alessia				restaurant	31	94110	Avenue Laplace	
+node	5152503549	48.8080240	2.3319823	Saigon Bistro				restaurant				
+node	5152506053	48.8081638	2.3320245	L'Arc				restaurant		94110	Avenue Laplace	
+node	5723816446	48.8105839	2.3303758	Le Milton				cafe				
+node	6064970710	48.8072330	2.3355965	Pronto Pizza				restaurant	4			
+node	6064970715	48.8073011	2.3345758	Resto Pizza				restaurant	15			
+node	6064970716	48.8066276	2.3357960	Le P'tit Bistrot				restaurant	129	94110	Rue Marius Sidobre	
+node	7703242304	48.8075171	2.3316953	Tambour d'Afrique				restaurant	31	94110	Avenue Laplace	
+node	7794190686	48.8107451	2.3284471	Waffle Factory				restaurant		94110		
+node	7855054314	48.8094108	2.3285086	Boui-Boui				restaurant				
+node	8483907404	48.7998880	2.3314371	Instant-Lunch				restaurant	1	94110	Rue Émile Raspail	
+node	8492074362	48.8037358	2.3355442	Crêperie				restaurant				
+node	9196654101	48.8037551	2.3304478	Café Restaurant du Parc				restaurant	2	94110	Rue du 8 Mai 1945	
+node	9325552318	48.8015262	2.3242412	Restaurant Aux Pyrénées				restaurant	131	94110	Avenue Aristide Briand	
+node	9559021954	48.8105261	2.3292530	IT Trattoria				restaurant		94110	Place de la Vache Noire	
+node	10161573877	48.8105517	2.3290781	Quick Sushi				restaurant				
+node	10652400485	48.8036370	2.3357213	Baràmine				bar				
+node	11152566741	48.7991631	2.3449893	L'Archer's				cafe	65	94110	Avenue Paul Vaillant-Couturier	
+node	11592836750	48.8105114	2.3290076	Nabab				restaurant				
+node	11592860303	48.8109996	2.3294185	CompoZeat				restaurant				
+node	12002739126	48.8071229	2.3359302	Istanbul Grill				restaurant	2	94110	Avenue Laplace	
+node	13950276446	48.8016393	2.3314078	Anh & Em				restaurant				
+way	61519021	48.8016129	2.3321840	Le Passiflore				restaurant				
+way	607098148	48.8092177	2.3289111	Baan Nat				restaurant				
+way	1548126179	48.8053599	2.3257569	Restaurant Campanile				restaurant				
+way	1548126183	48.8047978	2.3260397	Elwadi				restaurant				
+way	1548126208	48.8051641	2.3268739	Délices d'Arcueil				restaurant				
+relation	107966			Boissy-Saint-Léger	8	94470	94004					
+node	1863066187	48.7519147	2.5192381	Au P'tit Vendéen				cafe				
+node	1871175925	48.7469701	2.5099217	Le Couscous				cafe				
+node	1871175936	48.7531508	2.5061337	Au Bar à Bières				cafe				
+node	2661742424	48.7492199	2.5124840	L'Olivier				cafe				
+node	2725762075	48.7525039	2.5057401	Warner's				cafe				
+node	5533340164	48.7527329	2.5069351	Tabac de la Gare				cafe				
+node	7260834485	48.7482831	2.5129703	Le Palais d'Agadir				restaurant				
+node	7576460213	48.7532107	2.5232077	Bar Brasserie Le Clary Hotel				cafe				
+way	103515369	48.7517830	2.5190060	Best Thai Kitchen				restaurant	28	94470	Rue de Sucy	
+way	103516678	48.7605990	2.4991095	Royal de Boissy				restaurant				
+way	103518614	48.7587060	2.5032610	Courtepaille				restaurant				
+way	103518823	48.7598170	2.5007810	La Villa du Prince				restaurant				
+relation	105794			Bonneuil-sur-Marne	8	94380	94011					
+node	6677928687	48.7749786	2.4812646	La Crêpe sur Mesure				restaurant				
+node	12994727927	48.7837135	2.5045308	La Caravelle				restaurant	1		rue de Brétigny	
+way	106883671	48.7676020	2.4870185	Côté Wok				restaurant				
+way	106884440	48.7696910	2.4905240	Hippopotamus				restaurant	10	94380	Avenue des Bleuets	
+way	106884860	48.7630175	2.4781445	La Criée				restaurant				
+way	461404679	48.7651185	2.4752635	Palais de Bonneuil				restaurant				
+way	513128084	48.7648111	2.4766879	Au Bureau				restaurant				
+relation	108310			Bry-sur-Marne	8	94360	94015					
+node	271418763	48.8435290	2.5234775	Le Score				restaurant				
+node	4872554697	48.8343974	2.5195393	La Navette de Bry				bar				
+node	5469008231	48.8372870	2.5190987	Chez Franck et Paulo				bar	10	94360	Rue de la République	
+node	5745155604	48.8337292	2.5194497	La Grappille - Auberge du pont de bry				restaurant	3	94360	Avenue du Général Leclerc	
+node	7035366657	48.8402280	2.5271660	Replay Billard				bar	9			
+node	7178272583	48.8361716	2.5203552	Au Bon Accueil				restaurant				
+node	7178295436	48.8375266	2.5207272	L'Alexandrin				cafe				
+node	7178341093	48.8373526	2.5208904	Pizzeria 44				restaurant				
+node	8188016659	48.8362194	2.5205597	Restaurant Sympathique				restaurant				
+node	8213811244	48.8393261	2.5227222	Royal de Bry				restaurant				
+node	11756444299	48.8296025	2.5301435	Sucré Salé				restaurant				
+node	12243611001	48.8400607	2.5273015	Chez Toine				bar				
+node	13763542001	48.8425484	2.5128911	Amore Mio				restaurant	98	94360	Quai Victor Berrière	
+way	120349670	48.8326369	2.5291764	Brazilian Steakhouse				restaurant				
+way	120351023	48.8365205	2.5299655	Restaurant d'entreprise INA - Bry 5				restaurant				
+way	120400611	48.8346000	2.5186400	Le Joyau de la Marne				restaurant				
+way	120403780	48.8464830	2.5228250	Chez Claire				restaurant				
+way	120403879	48.8436795	2.5156875	Tabac du Parc				cafe				
+relation	48862			Cachan	8	94230	94016					
+node	276079530	48.7929341	2.3211364	La Résidence				cafe				
+node	470988485	48.7943931	2.3360287	Saveur d'Asie				restaurant	14	94230	Rue Guichard	
+node	1635124546	48.7975675	2.3296067	O'Kashmir				restaurant				
+node	1635124553	48.7970075	2.3310374	Le Carnot				bar		94230		
+node	1635851254	48.7946860	2.3357077	Miyako				restaurant				
+node	1685218992	48.7937306	2.3361368	L'alfresca				restaurant				
+node	1685222526	48.7949206	2.3351136	Café Tabac de la Mairie				bar	11	94230	Place Gambetta	
+node	1685661417	48.7930127	2.3361700	Toyama				restaurant	8	94230	Place Jacques Carat	
+node	2431510909	48.7904129	2.3216775	Grazie Mille				restaurant	59			
+node	4420916695	48.7934732	2.3363889	La Réserve de Fred				bar	24			
+node	4455803672	48.7936079	2.3363503	Gwenn Ha Du				restaurant	30	94230	Place Jacques Carat	
+node	4533853303	48.7948386	2.3215793	Tandoori Kitchen 786				restaurant				
+node	4693480258	48.7937083	2.3358485	Vittorino				restaurant				
+node	5066370415	48.7822959	2.3274608	Sergio				restaurant	53			
+node	5153802738	48.7957203	2.3356042	Restaurant La Pléiade				restaurant				
+node	5291652853	48.7992197	2.3232959	Le Tassili				bar				
+node	5481458693	48.7926565	2.3332735	Rives de Bièvre				restaurant		94230	Rue Camille Desmoulins	
+node	5571662682	48.7933612	2.3354026	Chez Aris				restaurant				
+node	5571662683	48.7934803	2.3356036	Villa Carthage				restaurant	7			
+node	5981745089	48.7856640	2.3313757	Restaurant Chez Djonga				restaurant				
+node	6264813228	48.7852982	2.3281140	Chez Yang 878				restaurant				
+node	6511845299	48.7957960	2.3250858	Le Lorada				restaurant				
+node	6735984271	48.8004885	2.3238062	Régal Thaï				restaurant	15	94230	Avenue Aristide Briand	
+node	6736006116	48.7979062	2.3227803	Le Bellevue				restaurant				
+node	8041219575	48.7929695	2.3209937	Butcher Square				restaurant	31	94230	Avenue du Pont Royal	
+node	8156603134	48.7999675	2.3236258	Palais de Cachan				restaurant				
+node	8175279055	48.7994671	2.3286036	Café de l'Arrivée				bar	16	94230	Rue du Docteur Gosselin	
+node	8464890569	48.7919778	2.3204874	Beyti				restaurant				
+node	9738325719	48.7994936	2.3233900	Hoki Yaki				restaurant	33		Avenue Aristide Briand	
+node	10587851641	48.7970628	2.3224702	Com Pho Mi				restaurant	73	94230	Avenue Aristide Briand	
+node	10587851647	48.7911577	2.3341371	Restaurant du Parc				restaurant	43	94230	Avenue Dumotel	
+node	11197715736	48.8007174	2.3240932	Pepe Tacos				restaurant	4	94230	Rue de la Grange Ory	
+node	11372425042	48.7935668	2.3347886	Wok Eatime				restaurant	22	94230	Avenue Louis Georgeon	
+node	11372425044	48.7904764	2.3198909	Minato 8				restaurant	175	94230	Avenue Aristide Briand	
+node	11372425045	48.7949429	2.3216215	Al Doken				restaurant	107	94230	Avenue Aristide Briand	
+node	12063892323	48.8011816	2.3241280	Kotlet				restaurant				
+node	12063892324	48.8011602	2.3241187	Five Pizza				restaurant				
+node	12710199122	48.7911276	2.3291336	Resto U L'Arlequin - Grilladerie				restaurant	60	94230	Rue Camille Desmoulins	
+node	12710199123	48.7911741	2.3292143	Resto U Le Traditionnel				restaurant	60	94230	Rue Camille Desmoulins	
+node	12710199124	48.7911699	2.3291243	Resto U Jardin du CROUS				restaurant	60	94230	Rue Camille Desmoulins	
+node	12815631143	48.7911198	2.3297577	L'Atelier				restaurant	60	94230	Rue Camille Desmoulins	
+node	12815631145	48.7911203	2.3293119	Resto U L'Arlequin - Pizzeria				restaurant	60	94230	Rue Camille Desmoulins	
+node	12815631146	48.7911348	2.3292231	Resto U L'Arlequin - Région du Monde				restaurant	60	94230	Rue Camille Desmoulins	
+way	63652654	48.7839377	2.3387738	Val di Comino				restaurant				
+way	63656168	48.7923277	2.3371365	Mehman				restaurant	3	94230	Avenue Louis Georgeon	
+relation	106735			Champigny-sur-Marne	8	94500	94017					
+node	1106057834	48.8122276	2.5111621	California Sushi				restaurant				
+node	1106057865	48.8136207	2.5114523	La Chope				cafe				
+node	1129466106	48.8107917	2.5050334	Guinguette de l'île du Martin Pêcheur				restaurant	41	94500	Quai Victor Hugo	
+node	1646776899	48.8238147	2.4965025	Le Balto				bar				
+node	2422095195	48.8163526	2.5385040	Le Prestige				cafe				
+node	2502894691	48.8120495	2.5096738	Restaurant de l'Euro				restaurant				
+node	2781613988	48.8232528	2.4956133	À la Maison				restaurant	128	94500	Avenue du Général de Gaulle	
+node	2781614000	48.8197205	2.4860994	La taverna d'Umberto				restaurant				
+node	3176466097	48.8234330	2.4962850	Restaurant Istanbul				restaurant				
+node	5228235854	48.8191239	2.5316489	Aux gourmands d'Asie				restaurant				
+node	5467960841	48.8121795	2.5114427	L'Auberge du Marché				restaurant				
+node	6491627301	48.8248370	2.5152992	Cuisine Mode d’emploi(s)				restaurant				
+node	7592953733	48.8145558	2.5076587	Five Pizza				restaurant	62	94500	Rue Jean Jaurès	
+node	7592964372	48.8135785	2.5102754	Brasserie de la Mairie				restaurant				
+node	7592987140	48.8158188	2.5042220	Mood Grill				restaurant	17	94500	Rue Jean Jaurès	
+node	7969275615	48.8205200	2.4852987	A Mesa Marie				restaurant	11	94500		
+node	8215065806	48.8202597	2.4842191	La Fourchette				restaurant				
+node	8215065807	48.8198032	2.4841788	Zen				bar				
+node	8215065808	48.8197792	2.4842918	Sushi Wasabi IV				restaurant				
+node	8215065811	48.8196389	2.4849466	Soleil Levant				restaurant				
+node	8215065813	48.8195281	2.4854743	De la Braise à la Fourchette				restaurant				
+node	8215065819	48.8179261	2.4945899	Tokyo Sushi				restaurant	111	94500	Avenue Roger Salengro	
+node	8215065824	48.8192177	2.5021624	O Oceano				restaurant	73-77	94500	Boulevard Gabriel Péri	
+node	8215065826	48.8207144	2.5067034	Le Ninas				cafe				
+node	8215065832	48.8187387	2.5200390	Le Marigny				restaurant				
+node	8215065836	48.8081742	2.5553251	Le Sofia Linda				restaurant				
+node	8215065840	48.8089843	2.5479413	La Famille				bar	44	94500	Avenue Salvador Allende	
+node	8215065841	48.8092822	2.5478055	Les Dunes by Paris				restaurant	31	94500	avenue Salavador Allende	
+node	8217843677	48.8194416	2.4902487	Restaurant New Achiana				restaurant				
+node	8217843679	48.8064881	2.5324894	Tabac du Fort				cafe				
+node	8217843692	48.8232049	2.5102747	Asian Garden				restaurant				
+node	8217843693	48.8232817	2.5102513	OK Bar				restaurant				
+node	8217843696	48.8198022	2.4839866	Poulet Braisé				restaurant				
+node	8217843697	48.8198111	2.4838605	Sashimi-Ya				restaurant				
+node	8217843701	48.8128710	2.5014824	Bord de Marne				cafe				
+node	8217843703	48.8131618	2.5118689	Café Zana				restaurant				
+node	8217843708	48.8131036	2.5134037	Pizza Hut				restaurant	69	94500	Rue Louis Talamoni	
+node	8217872201	48.8179581	2.5310816	Panda				restaurant				
+node	8217872202	48.8113987	2.5531934	Champy Bar				bar				
+node	8217872203	48.8112051	2.5571071	Savana				restaurant				
+node	8217872204	48.8136390	2.5519581	55 Parc Chez David				restaurant	55	94500	Avenue du Parc	
+node	8217872207	48.8182504	2.5529027	Le Belvédère				restaurant				
+node	8217872211	48.8151459	2.5065675	Bol'ly				restaurant	41	94500	Rue Jean Jaurès	
+node	8217876221	48.8152514	2.5061733	La Bonne Braise				restaurant	35	94500	Rue Jean Jaurès	
+node	8217876223	48.8152982	2.5060050	BCBG Lounge				bar	31	94500	Rue Jean Jaurès	
+node	8217876237	48.8201540	2.4818473	Le Trotteur				restaurant	9	94340	Avenue Roger Salengro	
+node	8217911017	48.8136168	2.5582138	Aveirense				restaurant	9	94500	Place de la Résistance	
+node	8217911020	48.8207398	2.4860504	Mood Food				restaurant				
+node	8217911021	48.8207900	2.4862594	Le Punjab				restaurant				
+node	8217911023	48.8233056	2.4948527	SushiThaï's				restaurant				
+node	8217911030	48.8182605	2.4913666	Café Salengro Chez Mina				restaurant				
+node	9537720526	48.8227101	2.5103796	Cookys Thai				restaurant				
+node	9537720534	48.8239665	2.5099120	Sushi Chez Li				restaurant	95	94500	Avenue de la République	
+node	10223092016	48.8205973	2.5265026	Mar Azul				restaurant	34	94500	Rue Benoît Frachon	
+node	11002383743	48.8284401	2.4852501	Bodega Feria				restaurant				
+node	11358387670	48.8108202	2.5105309	Guinguette Fmr				bar				
+node	13038982519	48.8164989	2.5319641	Rôtisserie Antonio				restaurant	2	94500	Rue du Professeur Paul Milliez	
+node	13039343031	48.8209200	2.5110707	Barrio Mio				restaurant	68bis	94500	Avenue de la République	
+node	13046082476	48.8219331	2.4981258	Mag Pizza				restaurant				
+node	13046082485	48.8234501	2.4968098	Burger Parisien				cafe	186	94500	Boulevard de Stalingrad	
+node	13048961464	48.8124748	2.5109661	Le Steak du Baron				restaurant	22	94500	Rue Albert Thomas	
+node	13049038485	48.8131742	2.5130918	Bager Grill House				restaurant	55	94500	Rue Louis Talamoni	
+node	13052136988	48.8153140	2.5059481	Bangkok Factory				restaurant	31	94500	Rue Jean Jaurès	
+node	13059504153	48.8204744	2.4862005	Le Maroc				restaurant				
+node	13061865151	48.8274437	2.5200917	Ô Bouillon				restaurant	309	94500	Avenue du Général de Gaulle	
+node	13084836472	48.8232325	2.4945657	Le Griffé				restaurant				
+node	14056100338	48.8139458	2.5099063	Hoishi				restaurant				
+node	14067085212	48.8180820	2.5461891	Le Zephir				cafe				
+node	14081806499	48.8214094	2.4883677	Haru Coffee				cafe	37	94500	Avenue du Général de Gaulle	
+node	14143183060	48.8119828	2.5093082	VietTerroir Gourmet				restaurant	11	94500	Rue du Marché	
+way	109510202	48.8124680	2.5362720	Canto de Saudades				restaurant				
+way	109530537	48.8121565	2.5370990	Le Roi du Poulet				restaurant	93	94500		
+way	109538613	48.8050850	2.5230480	Le Moulin Vert				restaurant				
+way	688018354	48.8048050	2.5523125	Bar du Centre				bar				
+way	1392733060	48.8108384	2.5053437	Guinguette de l'île du Martin Pêcheur				biergarten				
+relation	104868			Charenton-le-Pont	8	94220	94018					
+node	451012480	48.8215566	2.4133556	Tabac des Écoles				cafe				
+node	1450939214	48.8278377	2.4034794	Allenby				restaurant		94220		
+node	1450939216	48.8277778	2.4042796	Milano				restaurant				
+node	1450939226	48.8277070	2.4036725	Chez Tota				bar				
+node	1541468836	48.8246134	2.4085703	Bistrot de Charenton				restaurant	123	94220	Rue de Paris	
+node	1541468839	48.8245079	2.4087393	Tante Eugénie				restaurant	121	94220	Rue de Paris	
+node	1544890363	48.8258219	2.4066625	Folie Liberté				restaurant	137	94220	Rue de Paris	
+node	1544890365	48.8258786	2.4044670	L'Esplanade 141				restaurant		94220		
+node	1544890380	48.8259571	2.4071178	Le Paris-Sports				restaurant				
+node	1544890386	48.8257808	2.4073707	Le Pavillon Céleste				restaurant				
+node	1544919390	48.8251812	2.4076886	Boaz				restaurant				
+node	1544948497	48.8261537	2.4058090	Sōdai				restaurant	3	94220	Place des Marseillais	
+node	1544961967	48.8275552	2.4046186	Léa				restaurant				
+node	1638358642	48.8187038	2.4181662	Crousty San				restaurant	24	94220	Rue de Paris	
+node	1638358872	48.8190770	2.4169280	La Bolée d'Arvor				restaurant				
+node	1638359331	48.8184513	2.4190191	L'atelier Chik'				restaurant		94220		
+node	2117640475	48.8208255	2.4020831	Le Mak Boucané				restaurant				
+node	2117641103	48.8207628	2.4022990	L'Étoile de Charenton				cafe				
+node	2725582569	48.8285566	2.4030554	Le Kanoun				restaurant				
+node	3042311478	48.8229562	2.4137600	Alfred Burger				restaurant	18	94220	Avenue Jean Jaurès	
+node	3042311479	48.8231652	2.4161555	Le Saint-Guerlet				bar				
+node	3374115765	48.8210759	2.4149145	Wang Jiao				restaurant				
+node	3842244797	48.8196644	2.4062701	Royal Wok				restaurant	56	94220	Quai des Carrières	
+node	3870688332	48.8227730	2.4114364	En Lai				restaurant				
+node	3870693485	48.8221641	2.4123857	Chouette				restaurant	89	94220	Rue de Paris	
+node	5426854403	48.8179629	2.4181402	Zensushi				restaurant	9	94220	Quai des Carrières	
+node	5600262333	48.8210770	2.4151129	Café du Centre				cafe	3	94220	Rue Gabrielle	
+node	5628915183	48.8243416	2.4129447	Le Grazie				restaurant	32		Avenue Jean Jaurès	
+node	5629043291	48.8233497	2.4135649	Le Refuge				bar		94220		
+node	5799419057	48.8204227	2.4149062	La Pagnotta				restaurant				
+node	5799419058	48.8207268	2.4146034	Yumis				restaurant				
+node	6201961586	48.8179756	2.4193994	Pizza Hut				restaurant				
+node	7272366364	48.8226993	2.4197018	Les Bons Copins				restaurant	35			
+node	7523438791	48.8201074	2.4155673	Tabac de la Mairie				bar	52	94220	Rue de Paris	
+node	7560509154	48.8185089	2.4194835	L'Aubrac				bar				
+node	7560509158	48.8185182	2.4193221	Cirillo				restaurant				
+node	7612960279	48.8191993	2.4167965	Meat & Wine				restaurant				
+node	7612960280	48.8187923	2.4177828	Aux Délices de Charentong				restaurant				
+node	7612960281	48.8192497	2.4167004	Kriish				restaurant				
+node	7612960282	48.8192306	2.4167418	Bubble'z and Tea				restaurant				
+node	7612960283	48.8189024	2.4173805	Sushi Kami				restaurant				
+node	7612977588	48.8186074	2.4181248	L'Abreuvoir				bar				
+node	8285008047	48.8207105	2.4137284	Bella Vita				restaurant	71	94220	Rue de Paris	Galerie commerciale les Terrasses
+node	8929127804	48.8251834	2.4063491	Le Beaujolais				restaurant	28	94220	Rue de Verdun	
+node	9505915433	48.8207622	2.4195838	Tupinambá				restaurant	37	94220	Rue Gabriel Péri	
+node	9815388811	48.8288822	2.4019196	Le Mogador				bar				
+node	9943268973	48.8262444	2.4066753	Grenade				restaurant				
+node	10781539861	48.8288092	2.4020539	Bozen				restaurant				
+node	10931290753	48.8198323	2.4154628	Thé mon Biscuit				cafe				
+node	11166834579	48.8287041	2.4021929	Les délices				restaurant				
+node	13104099683	48.8184237	2.4191316	Marceau Café				cafe				
+node	14097725329	48.8253864	2.3948233	Le Charentonnais				restaurant				
+relation	108279			Chennevières-sur-Marne	8	94430	94019					
+node	2758210217	48.7873582	2.5305978	Le Bonheur de Chine				restaurant				
+node	5823278720	48.7961823	2.5301361	Au Repos de la Côte				cafe				
+node	8224173951	48.8018636	2.5403993	Le Pavillon Bleu				bar				
+node	8224174000	48.8032000	2.5381194	L'Itlalien				restaurant				
+node	8224174002	48.8028692	2.5423151	Le Cis Bar				cafe				
+node	8224174004	48.7960411	2.5337722	Le Rialto				restaurant				
+node	8224179173	48.8003731	2.5245860	La Veranda				restaurant				
+way	109251276	48.7962870	2.5244320	L'Ecu de France				restaurant				
+way	109254571	48.7991485	2.5336620	Bairrada				restaurant				
+way	109255302	48.7995355	2.5416570	Le Dua				restaurant				
+relation	34679			Chevilly-Larue	8	94550	94021					
+node	1690602238	48.7715043	2.3555757	Le Marigny				bar	4		Rue Henry Cretté	
+node	1706658134	48.7717642	2.3605543	Café Nelson				restaurant	35		Avenue Franklin Roosevelt	
+node	1804377815	48.7715486	2.3383858	Marou				restaurant				
+node	3057394507	48.7738044	2.3398851	Ayuko				restaurant				
+node	4284034994	48.7630963	2.3560336	Les Vendanges				restaurant	1			
+node	4323316489	48.7696422	2.3651512	Modern Bar				restaurant	134	94550	Avenue Franklin Roosevelt	
+node	4330751990	48.7645495	2.3514433	L'Arrosoir				restaurant				
+node	5316286564	48.7718190	2.3667620	Brasa Rio				restaurant				
+node	5316304885	48.7706408	2.3675452	Barbecue Shu				restaurant	194			
+node	5316304886	48.7683603	2.3676122	O'Terminal 240				restaurant	240	94550	Avenue de Stalingrad	
+node	5316304887	48.7675418	2.3674808	Le Mékong				restaurant	248			
+node	7260172769	48.7669289	2.3632120	Bangkok				restaurant				
+node	8764304854	48.7650869	2.3345076	Woodiz				restaurant	182	94550	Boulevard Jean Mermoz	
+node	8764304856	48.7661494	2.3352076	Minato				restaurant				
+node	8887101091	48.7695464	2.3654415	Pizza Casa Presto				restaurant	138	94550	Avenue Franklin Roosevelt	
+node	9654739817	48.7704171	2.3640717	La Felicita				restaurant	67	94550	Avenue Franklin Roosevelt	
+node	11384595928	48.7665988	2.3481667	Edo Asian Bar				restaurant				
+node	12731797490	48.7719608	2.3605956	Le jardin des CorbeiLLes				restaurant				
+node	13208537000	48.7669330	2.3626571	La Victoria Mammamia				restaurant	1		Rue Paul Langevin	
+way	155544796	48.7694635	2.3674760	Tablapizza				restaurant	220			
+way	155544922	48.7649920	2.3542159	L'Étoile				restaurant				
+way	155545065	48.7640335	2.3550908	Le Rond Point				restaurant				
+way	155545142	48.7623440	2.3568495	Le Mercato				restaurant				
+way	155545171	48.7609569	2.3485848	Le Quercy				restaurant				
+way	155547547	48.7602036	2.3492988	L'Europe				restaurant				
+way	155548421	48.7725790	2.3398625	Restaurant Chinois				restaurant				
+way	155549612	48.7698425	2.3674740	La Criée				restaurant	218	94550	Avenue de Stalingrad	
+way	1226999322	48.7641385	2.3562901	Les Maraichers				restaurant				
+relation	104268			Choisy-le-Roi	8	94600	94022					
+node	271956220	48.7680927	2.4060327	Café des Écoles				pub				
+node	292086283	48.7685894	2.4193859	Bangkok Factory				restaurant				
+node	292257303	48.7676466	2.4161697	Le Pompadour				pub				
+node	303084307	48.7741666	2.4151995	Le Jardin aux mille Roses				restaurant				
+node	303084440	48.7744836	2.4154152	Aux Boules d'Or				restaurant				
+node	304778298	48.7709438	2.4037498	Ben & Fils				pub				
+node	304778983	48.7671358	2.4064521	Le Zola				pub				
+node	315255167	48.7661296	2.4103070	Le Départ				cafe				
+node	315741031	48.7583968	2.4131539	Hôtel moderne				restaurant				
+node	335877239	48.7715987	2.4139836	Le clair de Lune				pub				
+node	1621357915	48.7616816	2.4140581	Restaurant Japonais Zaki				restaurant				
+node	1827903166	48.7646938	2.4081324	L'Esplanade				cafe				
+node	2363380993	48.7616932	2.4076648	Le Soleil				restaurant	1	94600	Avenue de la République	
+node	2363380995	48.7643132	2.4064105	Le Rouget de Lisle				bar				
+node	2388300418	48.7637343	2.4106162	Asie Royale				restaurant				
+node	2813958201	48.7666828	2.4113268	La Walde				restaurant	36	94600	Quai Voltaire	
+node	3433933717	48.7637484	2.4042416	Pizza del Piano				restaurant				
+node	3433933722	48.7633244	2.4028969	Cafeteria				cafe				
+node	3433933723	48.7633027	2.4027950	Pizza Express				restaurant				
+node	3433933737	48.7648336	2.4085898	Tagawa				restaurant				
+node	4876842122	48.7706708	2.4017403	Café Flora				cafe	42	94600	Boulevard de Stalingrad	
+node	9264795604	48.7670867	2.4047685	Le Blanqui				restaurant	31	94600	Rue Auguste Blanqui	
+node	9651871100	48.7637015	2.4040915	La Déesse				cafe				
+node	10980424140	48.7613451	2.4111623	ô point final				restaurant				
+node	10980424142	48.7613111	2.4109841	sushi choisy				restaurant				
+node	10980424146	48.7612010	2.4105520	poptey				cafe				
+node	10980424147	48.7615169	2.4110605	gong fu				restaurant				
+node	10980424148	48.7605704	2.4083506	coco thai				restaurant				
+node	10980425211	48.7588517	2.4094618	PizzaExpress				restaurant				
+node	10980880940	48.7606261	2.4124635	l'ariel				bar				
+node	11602274873	48.7628590	2.4138139	Le Lieu				bar				
+node	12099007601	48.7655850	2.4102993	Le Départ				bar				
+node	12750003201	48.7643540	2.4077658	La Sénégalaise				restaurant		94600	Galerie Rouget de Lisle	
+node	12752548301	48.7675291	2.4158503	Atelier du Liban				restaurant	29	94600	Avenue Victor Hugo	
+node	12757210273	48.7610508	2.4112612	Le Contrepoids				restaurant	32		Avenue Anatole France	
+node	12796323577	48.7663365	2.4070243	Calice Alto				restaurant	2	94600	Rue Louise Michel	
+node	12801138698	48.7662123	2.4065920	Dragon de l'Est				restaurant	4	94600	Rue Louise Michel	
+node	12801199820	48.7657434	2.4055058	Le Royal				restaurant	32	94600	Rue Auguste Blanqui	
+node	12801199826	48.7655179	2.4050988	Le Saint-Louis				restaurant	18	94600	Boulevard des Alliés	
+node	12801199830	48.7658265	2.4052569	Le Roi Indien				restaurant	14	94600	Rue Louise Michel	
+node	12875252541	48.7673758	2.4143855	Pizzeria Da Riccardo				restaurant	4	94600	Avenue d'Alfortville	
+node	12875281729	48.7677274	2.4177240	Raja Chola				restaurant	30 bis	94600	Avenue Victor Hugo	
+node	12954613054	48.7709305	2.4073090	Ducky's				restaurant				
+way	66125762	48.7676433	2.4176391	Le Perroquet Sauvage				cafe				
+way	66126945	48.7687361	2.4195085	Le Bouquet				pub				
+way	66135259	48.7671028	2.4159283	Chicken & Grill				restaurant				
+way	66136591	48.7691325	2.4225958	La Pompadour				restaurant				
+way	66147500	48.7695662	2.4224293	Le Palace de Chine				restaurant				
+way	66149906	48.7690281	2.4207785	Eusebio Café				pub	69		Rue Lucie	
+way	66150325	48.7672520	2.4164737	Ritmo & Sabor				restaurant	18		Avenue Victor Hugo	
+way	66151947	48.7680514	2.4188341	Le Victor Hugo				cafe				
+way	217555557	48.7643158	2.4124541	La Marine				restaurant				
+relation	105389			Créteil	8	94000	94028					
+node	319554974	48.7906864	2.4533094	L'Interlude				pub				
+node	936133709	48.7923837	2.4634513	Le Village				cafe				
+node	942419220	48.7951463	2.4589172	Le Commerce				cafe				
+node	1224811488	48.7975593	2.4559189	Bonheur Thaï				restaurant				
+node	1224811500	48.7962797	2.4632667	L'imtemporel				restaurant	39			
+node	1224811516	48.7971426	2.4571196	Le Margy's				restaurant	30			
+node	1454697248	48.7923304	2.4626917	C La Que C Bon				restaurant				
+node	1454697253	48.7930991	2.4624987	Traiteur Paulina				restaurant				
+node	1454697269	48.7931537	2.4621540	Poke king				cafe				
+node	1454697271	48.7932783	2.4619963	Traiteur Papan 巴攀美店食				restaurant				
+node	1474441896	48.7751260	2.4569085	Dewran				restaurant				
+node	1474441897	48.7884203	2.4618696	Délices du Vietnam				restaurant				
+node	1474596112	48.7936172	2.4563386	Tabac du Château				restaurant				
+node	1725742337	48.7944482	2.4639268	Jardin du prince				restaurant				
+node	1870084537	48.8059131	2.4650023	Yoshinoya				restaurant				
+node	2229067202	48.7750776	2.4566465	L'impérial				restaurant				
+node	2261897115	48.7954542	2.4478001	Café L’Échat				restaurant			Avenue du Général de Gaulle	
+node	2618381464	48.7907716	2.4651293	Hokkaido				restaurant	73			
+node	2618928627	48.7889483	2.4669855	Pizza Hut				restaurant	119			
+node	2691511330	48.7952514	2.4706115	Domaine Saint-Catherine				restaurant	22-24		allée centrale, île Brise-Pain	
+node	3172254964	48.7800726	2.4559989	Ristorante Del Arte				restaurant				
+node	4031244395	48.7746288	2.4429555	Maison de Jasmin				restaurant				
+node	4416933582	48.7884160	2.4618680	Loulou Pizza				restaurant	75	94000	Rue de Mesly	
+node	4416938831	48.7908661	2.4649358	Le Maloney (Café le Baron)				restaurant				
+node	5825742092	48.7733270	2.4569847	Le Lac de l'Himalaya				restaurant	18bis	94000	Esplanade des Abymes	
+node	6942734801	48.7795197	2.4562338	Sola Ramen				restaurant				
+node	7022096733	48.7798899	2.4574300	Indiana Café				restaurant				
+node	7412070002	48.7796250	2.4581366	Starbucks				cafe				
+node	9691909679	48.7670335	2.4672245	Osaka				restaurant				
+node	10199499220	48.7932519	2.4446540	Restaurant universitaire L’Agora				restaurant				
+node	10732971297	48.7939037	2.4603335	Brasserie Le Paris				restaurant	7	94000	Rue de Paris	
+node	10917766618	48.7933698	2.4618782	Orien'table				restaurant				
+node	11107508315	48.7894377	2.4664890	Bistrot 2M				bar				
+node	11107508321	48.7896249	2.4662851	Le diplomate				restaurant				
+node	11107508322	48.7897886	2.4661008	Hong Foc				restaurant				
+node	11162837805	48.7853400	2.4368786	Coz Eat				restaurant				
+node	11253704852	48.7738380	2.4564233	Le Bendo				restaurant				
+node	11358406469	48.7865674	2.4694227	Patrick's Bar				bar				
+node	12273318121	48.7905974	2.4653496	Mak-Andal BBQ				restaurant				
+node	12743346404	48.7695303	2.4707144	El kawa des seigneurs				cafe	13	94000	Rue de Cotonou	
+node	12974068998	48.7897645	2.4498163	Allo Pizza 94				restaurant				
+node	12974075819	48.7895279	2.4496053	Ring				restaurant				
+node	13092831340	48.7806316	2.4644073	Pizza Sushi				restaurant				
+node	13198281460	48.7867429	2.4459905	Gourmet du Palais				restaurant				
+node	13207581419	48.7960602	2.4531363	Restaurant universitaire Le Mondor				restaurant				
+node	13228494696	48.7949705	2.4597463	El Machmoum				restaurant				
+node	13387556856	48.7798470	2.4565723	Babeco				restaurant				
+node	13387556860	48.7796869	2.4562955	McCafé				cafe				
+node	13387556861	48.7799278	2.4561934	Bollywood				restaurant				
+node	13387556862	48.7798428	2.4563805	Vapiano				restaurant				
+node	13387556863	48.7798999	2.4555666	Hippopotamus				restaurant				
+node	13387556867	48.7796222	2.4555822	Le Paradis du Fruit				restaurant				
+node	13387556868	48.7798528	2.4566843	Crêpe Touch				restaurant				
+node	13446923818	48.7966417	2.4486209	African Fruity				restaurant	92		Avenue du Général de Gaulle	
+node	13458443380	48.7969266	2.4490043	Jal				restaurant				
+node	13695458810	48.7883853	2.4391680	La Résidence Créteil				restaurant				
+node	13894181325	48.7798608	2.4583639	Momen'Tea				cafe				
+node	13931060894	48.7746027	2.4404990	Péra Créteil				restaurant				
+node	13979064530	48.7882150	2.4504041	Brasserie du Mail des Mèches				restaurant				
+node	14011479683	48.7802084	2.4552636	CRETEIL				restaurant		94000	Centre commercial Créteil Soleil, Avenue de la France libre	
+node	14170083927	48.7756838	2.4558649	Les Goélands				bar				
+node	14170132739	48.7751678	2.4565523	Restaurant japonais				restaurant				
+node	14300187418	48.7881587	2.4453482	Restaurant universitaire La Pointe Jaune				restaurant				
+way	62388759	48.7673175	2.4728226	Cezam				restaurant				
+way	78528579	48.7748438	2.4409320	Buffalo Grill				restaurant				
+way	80254755	48.7918119	2.4629490	Le Village du bonheur				restaurant	7		Rue d'Estienne d'Orves	
+way	80254840	48.7909593	2.4630703	Fou-Lo				restaurant	16	94000	Rue de Joly	
+way	80820591	48.7993217	2.4680813	Plaisir du Portugal				restaurant				
+way	127059143	48.7740590	2.4421029	L'Océan				restaurant				
+way	976879018	48.7741111	2.4426720	Factory's				restaurant				
+way	1060102567	48.7784231	2.4545245	Le Salvador				restaurant	5	94000	Place Salvador Allendé	
+relation	109366			Fontenay-sous-Bois	8	94120	94033					
+node	471575730	48.8471938	2.4713196	Le Village				pub				
+node	471575734	48.8468130	2.4715302	Himalaya				restaurant				
+node	598521475	48.8536210	2.4875522	Au Petit Duc				cafe	9		Avenue du Val de Fontenay	
+node	1108061470	48.8515719	2.4879767	Le Joffre				cafe				
+node	1108061478	48.8519186	2.4886146	Thaï' Ming				restaurant				
+node	1109240937	48.8534857	2.4883060	Le Val				cafe	10	94120	Avenue du Val de Fontenay	
+node	1217095049	48.8499992	2.4564616	Monte Cristo				restaurant	5	94120	Avenue de la République	
+node	1788371222	48.8538287	2.4697120	Pizza Hut				restaurant				
+node	1788397850	48.8535620	2.4697010	Le Progrès				cafe				
+node	2298283303	48.8526747	2.4487663	Sack's				cafe				
+node	2298283305	48.8526583	2.4495538	Galaxia 2				restaurant				
+node	2298283306	48.8526137	2.4491723	Point B@r				cafe				
+node	2347860956	48.8556375	2.4780520	Pizza Larris				restaurant				
+node	3657993852	48.8584113	2.4761327	La Fontaine du Village				cafe				
+node	4750883021	48.8582022	2.4915442	L'Orchidée				restaurant				
+node	4842320629	48.8536115	2.4692805	Kash Croute				restaurant				
+node	4842547805	48.8532775	2.4705385	Au Pays des Enfants				cafe				
+node	4853637321	48.8489765	2.4598116	Les Clanchistes				restaurant	99	94120	Rue Dalayrac	
+node	4853637323	48.8509910	2.4591515	K Bar Pizzeria				restaurant	57	94120	Rue Eugène Martin	
+node	4853647224	48.8465085	2.4709685	Le Venise				restaurant				
+node	4854023249	48.8529382	2.4578489	Le Narval				bar				
+node	4854082126	48.8519975	2.4563053	La Bocca Delle Delizie				restaurant	53	94120	Avenue de la République	
+node	4856534471	48.8526832	2.4678536	Les Terrasses				bar				
+node	4864901990	48.8499237	2.4559057	Street Wok				restaurant				
+node	4970429544	48.8479028	2.4783088	La Nouvelle Étoile				bar				
+node	4970700338	48.8466904	2.4708536	Pamukkale				restaurant				
+node	4975224324	48.8550874	2.4944654	Amir l'Oriental				restaurant				
+node	4975224521	48.8551494	2.4946472	Al Amir				restaurant				
+node	5001149221	48.8535138	2.4938459	La Villa				restaurant				
+node	5212673221	48.8517123	2.4573712	Chez Poule				bar				
+node	6046174189	48.8471680	2.4715644	Tokyo Sushi				restaurant				
+node	6046179486	48.8472681	2.4714358	Al Amir				restaurant				
+node	6046203686	48.8472236	2.4716066	For Tai				restaurant				
+node	6813646188	48.8497424	2.4566130	Donyoku				restaurant	116	94120	Rue Dalayrac	
+node	6827307329	48.8499360	2.4566953	Zen Sushi				restaurant				
+node	6951015808	48.8574060	2.4710696	Le Roi du Poulet				restaurant				
+node	7072427203	48.8582189	2.4817888	Cours de Fontenay				restaurant				
+node	7439786480	48.8494439	2.4567434	Le New Berbère				restaurant	143	94120	Rue Dalayrac	
+node	7449164660	48.8444439	2.4670060	Bar-tabac du Parc				bar				
+node	7449164663	48.8459777	2.4685538	Restaurant Kohistan				restaurant				
+node	7449205503	48.8467483	2.4711262	La crêperie du village				restaurant				
+node	7449205505	48.8468348	2.4722946	La Couscoussière de Fontenay				restaurant				
+node	7465504564	48.8469991	2.4709276	Le Mauconseil				bar				
+node	7465504565	48.8470085	2.4708472	Les Saveurs du Penjab				restaurant				
+node	7467948488	48.8506924	2.4565910	MEILLEUR COCO THAI				restaurant	19		Avenue de la République	
+node	7995259516	48.8449623	2.4629572	Song Hoa				restaurant				
+node	7995285634	48.8477055	2.4606679	Timgad				pub	69		Rue Pasteur	
+node	8002540679	48.8469751	2.4703474	Cappadoce				restaurant				
+node	8002603802	48.8458789	2.4705969	Fuwasaki				restaurant				
+node	8002603805	48.8515965	2.4732889	O Transmontano				restaurant				
+node	8002603816	48.8509422	2.4749973	Jian Hao				restaurant				
+node	8050626771	48.8532497	2.4670808	Le Patio				restaurant				
+node	8405649596	48.8489469	2.4600050	O P'tit Marché de Maëva				restaurant	97	94120	Rue Dalayrac	
+node	9711715717	48.8523178	2.4693321	Outland La Buvette				bar			Rue André Tessier	
+node	10266937109	48.8541720	2.4691314	O'80				restaurant	80	94120	Boulevard de Verdun	
+node	10841494005	48.8531232	2.4579747	Jōzu Sushi				restaurant				
+node	10881192755	48.8470834	2.4702541	Horiatiki				restaurant	14	94120	Rue Mauconseil	
+node	11301998361	48.8500471	2.4555930	Pasta Presto				restaurant				
+node	12993005992	48.8538698	2.4701758	Roda				restaurant				
+node	13922242929	48.8470135	2.4701016	Fontenay aux Arts				cafe				
+way	691724243	48.8533574	2.4838077	Garam Masala				restaurant				
+way	691724259	48.8544881	2.4857986	Jour Val De Fontenay				restaurant				
+way	691724267	48.8532630	2.4840072	Globe Trotter				restaurant				
+way	691724270	48.8542948	2.4854032	Shangaï Express				restaurant				
+way	751038836	48.8544797	2.4869126	Bohēbon				restaurant				
+way	751038839	48.8544927	2.4872471	Sushi Kyo				restaurant				
+way	751038848	48.8540364	2.4865561	Dragon d'Orient				restaurant				
+way	751038852	48.8542917	2.4865693	Segafredo				cafe				
+way	751842650	48.8527411	2.4845933	Royal Café				restaurant				
+way	751842652	48.8526306	2.4846680	Istanbul				restaurant				
+relation	103395			Fresnes	8	94260	94034					
+node	1973678177	48.7600890	2.3189435	Le Diplomate				restaurant				
+node	2456781179	48.7567803	2.3149685	Traiteur Asiatique				restaurant				
+node	3781203395	48.7499259	2.3236296	Café Tabac				cafe				
+node	4911426877	48.7580746	2.3229829	Constantibople				restaurant	33	94260	Rue Henri Barbusse	
+node	5062367512	48.7642334	2.3178548	Pizza Uno				restaurant				
+node	5310357447	48.7539731	2.3368585	L'Hexagone				restaurant				
+node	6214121039	48.7525031	2.3185292	Brasserie Sanaga				restaurant				
+node	6475679792	48.7549171	2.3184930	Milane				restaurant				
+node	6485950684	48.7619408	2.3268949	Mama's Secret				restaurant				
+node	8075241839	48.7644428	2.3179477	Crep'Way				restaurant				
+node	8883392939	48.7546627	2.3218328	Royal d'Asie				restaurant				
+node	8883392941	48.7543603	2.3221976	Fujiyama				restaurant				
+node	9840878342	48.7543034	2.3205210	Bella Maria				restaurant	3		Rue Auguste Daix	
+node	11374571837	48.7665103	2.3235963	Tacos Numéro 1				restaurant	1A	94260	Rue Jean Moulin	
+node	11374571838	48.7548510	2.3228948	Brasserie de l'Hôtel de Ville				cafe	1	94260	Place de l'Église	
+node	11795143285	48.7544569	2.3147571	Red Frog				restaurant	48	94260	Boulevard Jean Jaurès	
+way	161297827	48.7605600	2.3329107	Lumières d'Asie				restaurant				
+way	374126595	48.7553102	2.3314676	Atlantic				restaurant				
+way	374126600	48.7551751	2.3297209	Brasserie l'Amarelle				restaurant				
+way	374126633	48.7543410	2.3290844	Au Bureau				restaurant	12-14		Rue de la Loge	
+relation	104479			Gentilly	8	94250	94037					
+node	1003217472	48.8090701	2.3422012	Au Vrai Coq du Village				bar	3	94250	Rue Boulineau	
+node	2206035007	48.8149595	2.3483612	Prego				restaurant				
+node	2206035008	48.8155682	2.3446923	Okinawa				restaurant	30	94250	Av. Paul Vaillant Couturier	
+node	2295269635	48.8145973	2.3447291	Sherazade				restaurant	16	94250	Rue Raymond Lefèbvre	
+node	2295269644	48.8148358	2.3455753	La Brique				restaurant	1	94250	Rue Raymond Lefèbvre	
+node	2365811674	48.8137588	2.3477625	Le Gallia				bar				
+node	2365815507	48.8157820	2.3492752	Roberto				restaurant	8	94250	Rue Robert Marchand	
+node	2365866050	48.8159443	2.3501106	La Terrasse du Marché				restaurant	8	94250	Place de la Victoire du 8 Mai 1945	
+node	2365870598	48.8150594	2.3494393	Brasserie de la Mairie				bar	57-59	94250	Rue Charles Frérot	
+node	2365871080	48.8150052	2.3493190	Le Petit Vouvray				restaurant	59	94250	Rue Charles Frérot	
+node	2365884488	48.8165940	2.3511525	Avec 2 Elles				restaurant	5	94250	Place de la Victoire du 8 Mai 1945	
+node	3282899979	48.8166645	2.3335359	Au Duc d'Orléans				restaurant				
+node	3294854202	48.8166077	2.3340055	Select				bar				
+node	3294863901	48.8166374	2.3338042	Le Retro				bar				
+node	3665986635	48.8153783	2.3446967	Le Vaillant Café				restaurant				
+node	4371939179	48.8153750	2.3440726	Chez Louise				restaurant	2	94250	Rue Lecocq	
+node	4840451740	48.8168355	2.3323541	Mi Casa				restaurant	157	94250	Avenue Paul Vaillant-Couturier	
+node	5086328594	48.8150399	2.3456153	Café Crème				cafe				
+node	5145312066	48.8163608	2.3391716	Le Lieutades				restaurant				
+node	5326025812	48.8162166	2.3417407	Le Monaco				bar				
+node	5326047017	48.8158679	2.3433478	Chez Martinho				restaurant				
+node	6587107252	48.8134513	2.3320306	L'Auberge de Gentilly				restaurant	94	94250	Avenue Lénine	
+node	6742260227	48.8141064	2.3497813	Fiorelli				restaurant				
+node	6742286973	48.8150894	2.3495013	Sushi Rolls				restaurant	57			
+node	7400105642	48.8149415	2.3459014	Graceland				restaurant	28	94250	Rue du Président Wilson	
+node	7402885871	48.8112442	2.3394737	Le Fontenoy				cafe	98	94250	Rue Raymond Lefèbvre	
+node	7403013315	48.8159257	2.3416717	15 Baht				restaurant	43	94250	Rue Benoît Malon	
+node	7403097558	48.8140517	2.3376645	Fonté Nova				cafe	37	94250	Rue Louis Gaillet	
+node	7411858795	48.8153159	2.3448408	Le petit Saïgon				restaurant	29			
+node	7417459544	48.8110371	2.3394576	Costa Brava				restaurant	109	94250	Rue Raymond Lefèbvre	
+node	8051203896	48.8151255	2.3458468	My House				restaurant	22 bis	94250	Avenue Paul Vaillant-Couturier	
+node	10587851630	48.8139137	2.3504140	Le Sympathique				restaurant	21	94250	Avenue Jean Jaurès	
+node	10587851633	48.8127980	2.3514743	Boubou				restaurant	30		Avenue Jean Jaurès	
+node	10587851634	48.8140560	2.3498622	Kenko Poke				restaurant	16	94250	Avenue Jean Jaurès	
+node	10587851636	48.8072770	2.3464233	Asian Street Food				restaurant	160		Rue Gabriel Péri	
+node	10587851637	48.8057170	2.3449525	Chiche ou Pois Chiche				restaurant	162	94250	Rue Gabriel Péri	
+node	10587851638	48.8146293	2.3471883	La Sauge				restaurant	7	94250	Rue du Président Wilson	
+node	11372425048	48.8144687	2.3502411	Pho Bonjour de Gentilly				restaurant	32	94250	Avenue Raspail	
+node	11372425049	48.8144272	2.3500440	Japjap Sushi				restaurant	34	94250	Avenue Raspail	
+node	12054065694	48.8168273	2.3324589	Chez Ellie				restaurant	155	94250	Avenue Paul Vaillant-Couturier	
+node	12054065695	48.8128236	2.3440727	Marinha Bar				restaurant	38	94250	Rue d'Arcueil	
+node	14132590615	48.8163591	2.3382984	Jo & Joe				bar				
+relation	79593			L'Haÿ-les-Roses	8	94240	94038					
+node	619656910	48.7797685	2.3278209	Le Petit Robinson				cafe				
+node	619697719	48.7789709	2.3385906	Le Dispan				cafe				
+node	619697720	48.7788876	2.3389091	Brasserie de la Roseraie				cafe	2	94240	Rue Dispan	
+node	1804401808	48.7787976	2.3355642	Wang Du				restaurant				
+node	1812412992	48.7800031	2.3249716	Pizza Il Pescatore				restaurant				
+node	1813523251	48.7780439	2.3342609	Graffiti				restaurant				
+node	1921935641	48.7808400	2.3414358	Le Vaillant				bar				
+node	1921935648	48.7809360	2.3416560	Tokyo				restaurant				
+node	4193345820	48.7767556	2.3404013	Chez Léon				restaurant	125	94240	Boulevard Paul Vaillant-Couturier	
+node	4323272190	48.7784589	2.3546675	Le Rustic				restaurant	151	94240	Rue de Bicêtre	
+node	4525438172	48.7752505	2.3281535	Luis I				restaurant	59	94240	Avenue Larroumès	
+node	4783276195	48.7763359	2.3345752	Pavillon Normand				restaurant				
+node	5221614669	48.7800058	2.3281090	L'île de Mandarin				restaurant				
+node	5960047869	48.7841094	2.3449248	Jasmin				restaurant				
+node	5981615158	48.7791237	2.3386247	Restaurant Istanbul				restaurant				
+node	5981615816	48.7790672	2.3386090	Duo Cai Xi Gu				restaurant				
+node	6264813295	48.7798855	2.3278467	Churrasqueira Serra d'Opa				restaurant				
+node	6715740970	48.7787927	2.3360761	Bo Bun Bar				restaurant	9	94240	Rue Bourgeot	
+node	7619195205	48.7764002	2.3409123	Le Royal				pub				
+node	8886990836	48.7714273	2.3492745	For Life 94				restaurant	1		Rue de Bicêtre	
+node	11409858655	48.7733877	2.3531650	Chez Antoine				restaurant	137	94240	Rue de Chevilly	
+way	124243642	48.7816268	2.3416432	San Severo				restaurant				
+relation	105748			Ivry-sur-Seine	8	94200	94041					
+node	418085799	48.8177134	2.3731023	Matisse Food Ivry				restaurant				
+node	475710753	48.8192778	2.3740096	Le Blood				restaurant	37		Avenue Maurice Thorez	
+node	475710755	48.8158069	2.3678400	Lj Café				restaurant				
+node	608636520	48.8072563	2.3920226	La-bas				restaurant				
+node	608636603	48.8074227	2.3913872	Le Pretext				restaurant				
+node	612135369	48.8142465	2.3904242	Café de la Gare				cafe	2	94200	Place Marcel Cachin	
+node	687218426	48.8115398	2.3841166	Le Metropolitain				bar				
+node	687218454	48.8121283	2.3863423	Café de la Mairie				cafe				
+node	687218521	48.8105676	2.3884401	Ivry Bar				restaurant		94200		
+node	687218546	48.8108414	2.3911974	Sabay Oi				restaurant	9	94200	Rue Truillot	
+node	687218572	48.8106768	2.3913963	Le Capitole				restaurant				
+node	854917265	48.8108413	2.3796908	Pizzeria Pasqualina				restaurant	84		Rue Jean Le Galleu	
+node	925707356	48.8143555	2.3787773	Ayothaya				restaurant	76		Avenue Maurice Thorez	
+node	1001281802	48.8173865	2.3727529	Gohan Food fusion				restaurant				
+node	1095016025	48.8169487	2.3795873	Chez Sam				cafe	96 bis	94200	Rue Gabriel Péri	
+node	1096663299	48.8184928	2.3783255	L'Étoile d'or				bar				
+node	1206744538	48.8159724	2.3677265	L'Escale				pub				
+node	1678243041	48.8110754	2.3780355	Au Petit Bonheur				bar				
+node	1678955961	48.8135916	2.3885631	Ciné Phil Café				cafe	68	94200	Avenue Georges Gosnat	
+node	2202938765	48.8115778	2.3903715	Le Saint-Just				bar		94200	Rue Saint-Just	
+node	2203217278	48.8080775	2.3911502	Junmai Sushi				restaurant				
+node	2370870290	48.8108907	2.3840310	Brasserie Le Marat				restaurant	1	94200	Promenée Marat	
+node	2381527246	48.8128885	2.3701266	Le Longchamps				pub				
+node	2386245761	48.8081642	2.3738269	Chanthala				cafe				
+node	2435592283	48.8156383	2.3936345	Bar de l'Amitié				cafe		94200	Rue Lénine	
+node	2435592292	48.8156011	2.3935649	Mama Maru's				cafe		94200	Rue Lénine	
+node	2435687387	48.8177359	2.3975007	Le Roi du Coucous				restaurant		94200	Rue Lénine	
+node	2435687388	48.8173492	2.3986584	Sile				restaurant				
+node	2435687389	48.8182506	2.3980068	Café de Paris				cafe				
+node	2435687391	48.8176337	2.3987282	Magnifiko				restaurant				
+node	2435687394	48.8179037	2.3978145	Manao				restaurant	5	94200	Rue Lénine	
+node	2435687395	48.8179883	2.3982972	L'Adresse				restaurant				
+node	2435687396	48.8174526	2.3985388	La Cantina				cafe	68		Boulevard Paul Vaillant-Couturier	
+node	2435687398	48.8174776	2.3970294	Le Penalty				cafe		94200	Rue Lénine	
+node	2435687400	48.8180959	2.3981767	Afrik'n'fusion				restaurant				
+node	2435687404	48.8178585	2.3980529	Yo'k Sushi				restaurant				
+node	2435687422	48.8169814	2.3956959	La Petite Étoile				cafe				
+node	2435687437	48.8175514	2.3988215	Dar Zamen				restaurant				
+node	2435687439	48.8175533	2.3971624	Brika				restaurant		94200	Rue Lénine	
+node	2435687461	48.8183348	2.3978986	Sushi Edokko				restaurant				
+node	2513729326	48.8242585	2.3889696	Okinawa				restaurant				
+node	2639424047	48.8060089	2.4046615	Carioca's				restaurant				
+node	2639429965	48.8191510	2.3743890	Yam				restaurant	43	94200	Avenue Maurice Thorez	
+node	2639430053	48.8191013	2.3744322	Asian Food by Baze				restaurant	45	94200	Avenue Maurice Thorez	
+node	2639430161	48.8189992	2.3745260	Little Kitchen				restaurant	49			
+node	2639430430	48.8188790	2.3746749	Massala Café				restaurant	53			
+node	2639430464	48.8188114	2.3747392	L'Aventura				restaurant	55			
+node	2692580363	48.8160406	2.3835571	Markov Konak "La ferme" (serbe)				restaurant	25	94200	Rue Ledru-Rollin	
+node	2811105174	48.8107821	2.3842000	Al Dabké				restaurant	1	94200	Rue Robespierre	
+node	2811493878	48.8160826	2.3772932	Pierre et Marie Curie				bar				
+node	2818001920	48.8112060	2.3844119	Pasta Pazza				restaurant				
+node	2818042213	48.8106832	2.3843958	Chez Alain				restaurant	3		Rue Robespierre	
+node	2818572754	48.8110948	2.3844749	Karibu				restaurant				
+node	2818572757	48.8106223	2.3844709	Planète Terroir				restaurant				
+node	2818682749	48.8114348	2.3872609	Brasserie des Sports				cafe				
+node	2895396562	48.8135907	2.3828193	Bar Nouveau Brooklyn (BNB)				bar				
+node	3048863897	48.8172982	2.3990942	Khao Prat				restaurant				
+node	3172253565	48.8241982	2.3888614	Del Arte				restaurant	8,11	94200	Quai Marcel Boyer	
+node	3505695888	48.8113607	2.3833291	Le Terminus				bar	11		Place de la République	
+node	3505721392	48.8119395	2.3838734	Chez Pat				bar				
+node	3561233036	48.8092143	2.3867319	Tokyo Sushi				restaurant	41	94200	Rue Marat	
+node	3599735434	48.8144474	2.3969105	Bear Café				bar				
+node	3665505649	48.8167151	2.3671375	Viet Gourmet				restaurant				
+node	3665505652	48.8161649	2.3675490	Sumaya				restaurant				
+node	3830223631	48.8183873	2.3906477	Village Delice				pub				
+node	4061656614	48.8129731	2.3708022	Pizza Hut				restaurant				
+node	4074022128	48.8168999	2.3669840	Bangkok				restaurant	4	94200	Avenue de Verdun	
+node	4133448304	48.8055024	2.3887764	Bar - Brasserie Le Bellevue				restaurant	201		Rue Marcel Hartmann	
+node	4828916268	48.8130543	2.3938341	Rossico				restaurant				
+node	4959142261	48.8024664	2.3971733	Le 42				restaurant				
+node	5341552421	48.8172259	2.3762735	La Maison PB				restaurant	89	94200	Avenue Maurice Thorez	
+node	5550107978	48.8148208	2.4025126	L'atelier du burger				restaurant				
+node	5550107981	48.8146777	2.4016360	Cumbia café				cafe				
+node	5550110629	48.8146810	2.4026758	Sushi d'Ivry				restaurant				
+node	5550110631	48.8148956	2.4022796	Lokma				restaurant				
+node	5550110632	48.8149012	2.4020194	Café Gambetta				cafe				
+node	6066478961	48.8144500	2.3920895	Tabac de la Gare				bar				
+node	6466364043	48.8178431	2.3756670	Tabac du Vieux Moulin				cafe				
+node	6665340287	48.8144485	2.3924346	Le Vaillant				bar				
+node	6753723131	48.8238448	2.3880310	Le Camion qui Fume				restaurant				
+node	6967224369	48.8062721	2.3690741	Pizzeria Libanais				restaurant				
+node	7923626489	48.8173024	2.3720451	Sushi Yu				restaurant				
+node	7948782829	48.8110291	2.3874359	JH & co				cafe				
+node	7997759944	48.8086122	2.3741841	El Marsa				restaurant	141		Avenue de Verdun	
+node	8068618990	48.8188403	2.3805441	Good Thai				restaurant	50	94200	Avenue Pierre Semard	
+node	8068619001	48.8198348	2.3798497	Kaona				restaurant	30	94200	Avenue Pierre Semard	
+node	8068619019	48.8195681	2.3800307	Les 3 frères				restaurant	36	94200	Avenue Pierre Semard	
+node	8409164804	48.8150729	2.4024271	Rana				restaurant	8	94200	Rue Galilée	
+node	8409875013	48.8175670	2.3817484	Le Bouquet				restaurant	39	94200	Avenue Danielle Casanova	
+node	8589332358	48.8130032	2.3709060	Ici c'est fait maison				restaurant	33	94200	Rue Pierre et Marie Curie	
+node	8860878648	48.8053001	2.3767483	Shinjuku				restaurant				
+node	8860878650	48.8055050	2.3766035	Starbox Café				cafe				
+node	8860878660	48.8068802	2.3748171	Les Sports				bar				
+node	8860878665	48.8074791	2.3743612	Chez Dalhia				bar				
+node	9247842727	48.8138309	2.3851343	Pak Kashmir				restaurant	79		Avenue Danielle Casanova	
+node	9247842741	48.8125256	2.3839569	Cardamone				restaurant				
+node	9466386005	48.8141786	2.4020994	Woodiz				restaurant	8		Place Léon Gambetta	
+node	9466514663	48.8119773	2.4028350	Daiya				restaurant	36		Avenue Jean Jaurès	
+node	9751549803	48.8170771	2.3759710	O'Qik's				restaurant	58		Avenue Maurice Thorez	
+node	9751549804	48.8171108	2.3759342	Chope d'Ivry				bar				
+node	9787603867	48.8169940	2.3764442	Bien Nang				restaurant	97		Avenue Maurice Thorez	
+node	9787603868	48.8168196	2.3766281	Joya				restaurant	101	94200	Avenue Maurice Thorez	
+node	9787603872	48.8162142	2.3772076	Copacabana				bar	111		Avenue Maurice Thorez	
+node	9787603874	48.8156979	2.3767049	Lucky Box				restaurant	1 ter		Rue Pierre et Marie Curie	
+node	9903094151	48.8094248	2.4078056	La Guinguette du Port				bar				
+node	10147472322	48.8156859	2.3690698	restaurant d'entreprise				restaurant				
+node	10147476419	48.8151640	2.3650908	restaurant fixme				restaurant				
+node	10221843212	48.8146615	2.3983378	Le Carré				bar				
+node	10221843213	48.8147452	2.3982590	Trattoria L'Annexe				restaurant				
+node	10221843214	48.8142747	2.3981886	Le Village				bar				
+node	10649530305	48.8144360	2.4017044	Les 3 frangins				pub				
+node	11017994854	48.8191961	2.3893850	O'Papillon				restaurant				
+node	11017994864	48.8123542	2.3851529	Le Plaza				cafe				
+node	11330615181	48.8142806	2.4022390	Blanc sur rouge				restaurant				
+node	11602300069	48.8210605	2.3909085	Bay Side				restaurant	1-5	94200	Rue Jean-Jacques Rousseau	
+node	11656022837	48.8170803	2.3794406	Baan Thais				restaurant	2	94200	Rue Mirabeau	
+node	11681029969	48.8166140	2.4041085	Ivry Sauvage				bar				
+node	11918470022	48.8168926	2.3761116	Bolkiri				restaurant	58T	94200	Avenue Maurice Thorez	
+node	12092085131	48.8163802	2.3992412	Chick'n Tikka				restaurant				
+node	12118765596	48.8132432	2.3938530	LV				restaurant				
+node	12218856730	48.8153535	2.3934125	Founerou Gourmand				restaurant				
+node	12400013001	48.8162914	2.3991104	Black sesame 94				restaurant				
+node	12741223522	48.8205352	2.3946092	l’Atelier Quai de Seine				restaurant	2		Rue Jules Vanzuppe	
+node	12762981042	48.8132156	2.3714510	Arawukas				restaurant	1	94200	Place du Général de Gaulle	
+node	13093189902	48.8204074	2.3883607	Si t'as soif				cafe	113		Rue Molière	
+node	13167956302	48.8172131	2.3917771	San Miguel				restaurant	84		Rue Molière	
+node	13666661119	48.8090389	2.3738810	Bonus lounge				restaurant	133	94200	Avenue de Verdun	
+node	13705385503	48.8099870	2.3804630	Dar Jdoud				restaurant	89	94200	Rue Jean Le Galleu	
+node	13725800777	48.8123719	2.4026866	African Evasion				restaurant	32		Avenue Jean Jaurès	
+node	13725806479	48.8140731	2.4021681	4 ème Avenue				restaurant				
+node	13725808881	48.8128822	2.4025386	Chez Elias et Manu				bar				
+node	13725808882	48.8123327	2.4027060	La brochette dorée				restaurant				
+node	13725828647	48.8129926	2.4024970	Sushi Yumito				restaurant				
+node	13726808263	48.8085171	2.4038924	Febica				bar				
+node	13736812148	48.8146750	2.3934974	Le Jasmin				restaurant				
+node	14024205202	48.8144457	2.4008697	Sushiyaki				restaurant				
+node	14024239833	48.8127584	2.3964010	Lilia's Coffee				cafe				
+relation	109400			Joinville-le-Pont	8	94340	94042					
+node	986907600	48.8198436	2.4823548	Chez Papa				restaurant	86	94340	Avenue du Général Gallieni	
+node	1552648428	48.8176299	2.4671110	Le Palais d'Or de Joinville				restaurant	33	94340	Rue de Paris	
+node	1589659194	48.8203080	2.4643270	Le Joinville				bar				
+node	1749482065	48.8199136	2.4752354	Soul Cat				pub		94340		
+node	1749482068	48.8198139	2.4754959	Bella Vista				restaurant				
+node	1791332016	48.8171355	2.4674995	Le Cheval Blanc				cafe				
+node	3056146233	48.8168121	2.4680540	La Bolée				restaurant				
+node	3986610440	48.8185052	2.4656662	Chouette				restaurant	20	94340	Rue de Paris	
+node	4193568471	48.8180079	2.4662481	Shun Feng				restaurant	28	94340	Rue de Paris	
+node	4525438173	48.8299997	2.4751243	Chez Gégène				restaurant				
+node	4984606622	48.8198819	2.4756475	Eat'sushi				restaurant				
+node	6078572493	48.8169264	2.4675313	Barolo				restaurant		94340		
+node	6452412132	48.8201599	2.4786830	Le Casino				restaurant	35		Avenue du Général Gallieni	
+node	6580453798	48.8184197	2.4662187	Graziella				restaurant	17	94340	Rue de Paris	
+node	9886528250	48.8229734	2.4706398	Le Petit Pont				restaurant	40		Avenue Jean d'Estienne d'Orves	
+way	85049100	48.8261114	2.4676029	La Tajine d'Or				restaurant				
+way	985456463	48.8260488	2.4677161	Péniche Lapin Vert				bar				
+relation	105122			Le Kremlin-Bicêtre	8	94270	94043					
+node	1672752431	48.8145900	2.3605822	Village du Pacha				restaurant				
+node	1822876541	48.8092979	2.3621764	La Comète				cafe		94270		
+node	2084076530	48.8142954	2.3612592	New Billard				pub				
+node	2084076547	48.8134482	2.3615227	Le Why Not				bar	39	94270	Avenue de Fontainebleau	
+node	2084076548	48.8135895	2.3614833	Fratello's Ristorante Italiano				restaurant	37	94270	Avenue de Fontainebleau	
+node	2084076553	48.8149985	2.3610400	L'Etalon noir				cafe				
+node	2137614174	48.8103859	2.3634255	L'Ardoise				restaurant	2	94270	Rue Edmond Michelet	
+node	2191591232	48.8122311	2.3613054	Chez Pierre				cafe				
+node	2191607488	48.8129614	2.3610733	O'Grill				restaurant				
+node	2191682045	48.8145519	2.3616085	A folé				restaurant	6	94270	Rue Roger Salengro	
+node	2191682047	48.8144556	2.3606173	Le Royal Marigny				cafe				
+node	2191724549	48.8145343	2.3614206	La Goulette Zmen				restaurant	4	94270	Rue Roger Salengro	
+node	2202788547	48.8148743	2.3639179	Le Lynas				cafe				
+node	2202806097	48.8098430	2.3618112	L'Aero				cafe		94270	Avenue Eugène Thomas	
+node	2202821627	48.8099103	2.3607553	L'Amandine				cafe		94270		
+node	2379040874	48.8104087	2.3618647	Bar du PMU				bar				
+node	2489701905	48.8087038	2.3623689	Le KB				restaurant				
+node	2490786853	48.8153650	2.3609320	La Toscane				restaurant				
+node	2529758976	48.8099728	2.3598708	Asie B7				restaurant	16	94270	Avenue Eugène Thomas	
+node	2529758981	48.8099321	2.3602091	Le Chalet Parisien				restaurant	12	94270	Avenue Eugène Thomas	
+node	2532558782	48.8108859	2.3580359	Le Petit Relais				restaurant				
+node	2569062657	48.8101618	2.3619370	Le Constantinople				restaurant				
+node	2597209721	48.8155824	2.3602430	La porte de Carthage				restaurant				
+node	2597209722	48.8155033	2.3602627	Le Plaza				restaurant				
+node	2612452021	48.8155795	2.3589085	Campanile				restaurant				
+node	2986616045	48.8149201	2.3600274	Red Room				bar				
+node	2986674699	48.8132689	2.3587579	O Pombalense				restaurant				
+node	6147316158	48.8099994	2.3591720	Coq and Co				restaurant				
+node	6147316162	48.8148081	2.3620218	Sésame et Sel				restaurant	13	94270	Rue Roger Salengro	
+node	8829704148	48.8104365	2.3624518	Le Jean Bart				cafe				
+node	8857000434	48.8151327	2.3643699	Rajapreuk				restaurant	37	94270	Rue Roger Salengro	
+node	10033128776	48.8100137	2.3587637	Le Brazza				cafe				
+node	10079759018	48.8119294	2.3620679	O'caffe				cafe				
+node	10086972417	48.8145250	2.3597535	Sidi Bou				restaurant	16	94270	Rue du Général Leclerc	
+node	10147501220	48.8078112	2.3643458	cave				bar				
+node	10147501319	48.8077970	2.3652061	restaurant fixme				restaurant				
+node	11197524952	48.8118832	2.3613932	Chicken's King				restaurant				
+node	11373294060	48.8149548	2.3604535	Seoul Gang				restaurant	18	94270	Avenue de Fontainebleau	
+node	11669747690	48.8145177	2.3613442	Le Cèdre				restaurant	2	94270	Rue Roger Salengro	
+node	12111034901	48.8142984	2.3598331	Anar				restaurant	7	94270	Rue du 14 Juillet	
+node	13595746393	48.8100685	2.3619706	Tasty Crousty				restaurant	98	94270	Avenue de Fontainebleau	
+way	67283415	48.8148747	2.3622300	Wilaya				restaurant	13	94270	Rue Roger Salengro	
+way	67284050	48.8100632	2.3609788	La Verrière Danton				restaurant	47	94270	Rue Danton	
+relation	108124			Limeil-Brévannes	8	94450	94044					
+node	748713179	48.7444252	2.5116501	La Montagne				restaurant				
+node	2496675605	48.7503908	2.4827285	L'époque				cafe				
+node	3920086357	48.7523864	2.4730871	Brasserie Des Temps Durables				restaurant		94450	Place ARTHUR RIMBAUD	
+node	4130478897	48.7523659	2.4735825	La Bonne Pizza				restaurant	13	94450	Place Arthur Rimbaud	
+node	5556542907	48.7413894	2.4782591	Adith				restaurant	10 bis	94450	Avenue Descartes	
+node	8193893618	48.7515045	2.4907521	Le Président				restaurant	1	94450	Avenue du Président Wilson	
+node	10982736419	48.7528190	2.4866404	Il Giardino Del Gusto				restaurant	12	94450	Rue Henri Barbusse	
+relation	105404			Maisons-Alfort	8	94700	94046					
+node	300454011	48.8085097	2.4361637	Le Charentonneau				restaurant	159		Avenue du Général Leclerc	
+node	774899522	48.8024499	2.4331456	Le Debussy				cafe				
+node	774899540	48.8024236	2.4279661	Les Maisonnaises				restaurant		94700		
+node	794460559	48.8036471	2.4277662	Le Vaisseau				bar	92			
+node	1237100378	48.8146713	2.4518677	Les Salons de la Tourelle				restaurant				
+node	1678472772	48.8153748	2.4436623	Mansio				restaurant				
+node	1765475937	48.8135548	2.4211724	Moshiko				restaurant	46			
+node	1870084531	48.8059371	2.4496710	L'Ambiance				cafe				
+node	2078918263	48.8153178	2.4296789	Bar des 2 Moulins				bar	2			
+node	2380615207	48.7911034	2.4351958	Le Mondial				cafe				
+node	2625053580	48.7937359	2.4345435	Kariya Sushi				restaurant				
+node	2625053627	48.7938348	2.4339900	Umut				restaurant				
+node	3243946424	48.8033661	2.4444768	Dragon D'Or				restaurant				
+node	3377057468	48.8004863	2.4319364	Parma				restaurant				
+node	4512240892	48.8153257	2.4287654	Jasuko				restaurant				
+node	4512246391	48.8154900	2.4292166	Le Celtic				bar				
+node	4547831478	48.8098609	2.4444097	La Rôtisserie				restaurant				
+node	4547831479	48.8098986	2.4423658	Le 58				restaurant				
+node	4548037094	48.8093488	2.4349807	Le Chevreul				cafe				
+node	4858146527	48.8141385	2.4203380	Restaurant Giuseppe				restaurant	6	94700	Allée des Cavaliers	
+node	5005226997	48.8033986	2.4438221	Kinaza				restaurant	34			
+node	5317433144	48.8105559	2.4563205	Perle du Maroc				restaurant	261			
+node	5656867588	48.8026602	2.4285680	Le Tiercé				bar				
+node	5656867590	48.8020856	2.4275140	Café de la Gare				bar				
+node	5657161557	48.8044716	2.4273544	Le Lotus Bleu				restaurant	33	94700	Avenue du Général de Gaulle	
+node	5657161558	48.8046189	2.4272864	Le Méditerranéen				restaurant	29			
+node	5657161559	48.8021552	2.4297948	Campuchea				restaurant				
+node	5657161561	48.8020855	2.4299370	Le Chiquito				bar				
+node	5657161573	48.8013490	2.4314049	Grand Café de la Mairie				bar				
+node	5713765328	48.8028864	2.4468074	Au Buisson Joyeux				cafe				
+node	5713808123	48.8082198	2.4499688	O Chaves				cafe				
+node	6306926445	48.8000439	2.4292908	Pizza de Venise				restaurant				
+node	7044846419	48.8053660	2.4434036	QG Maisonnais				restaurant				
+node	7283503102	48.8023825	2.4326000	Bharati				restaurant				
+node	7448508455	48.8095024	2.4433682	Crêperie Sucrée Salée				restaurant				
+node	7449378864	48.8072237	2.4434874	Le Nid				cafe				
+node	7500647038	48.8080316	2.4398750	O'Caveau - tables d'hôtes				restaurant				
+node	7500647039	48.8073741	2.4467517	Republica				bar				
+node	7500647041	48.8080914	2.4435513	L'Horizon				restaurant				
+node	7500647051	48.8098965	2.4437193	Le Diplomate				restaurant				
+node	7501613124	48.8098364	2.4454767	Le Gambetta				bar				
+node	7503310228	48.8107475	2.4434224	Casa Bella				restaurant				
+node	7503310231	48.8109875	2.4434471	Sushi Clémenceau				restaurant				
+node	7503310232	48.8071507	2.4459970	Les Frères Da Cruz				restaurant				
+node	7504573738	48.8061871	2.4526240	The Korner				restaurant				
+node	7504573740	48.8056144	2.4408276	Chez Michel				restaurant				
+node	7504573744	48.8062057	2.4396634	Le Relais				restaurant				
+node	7638370247	48.8096736	2.4436221	Le Bosphore				restaurant				
+node	8634681226	48.8134770	2.4212252	Wawa Smash Burger				restaurant	46 bis	94700	Avenue du Général de Gaulle	
+node	9010857020	48.8117547	2.4299717	Le Bar Belge				restaurant				
+node	9010857021	48.8119666	2.4296596	Le Longchamp				bar				
+node	9566681137	48.7972060	2.4331284	L'Olympique				restaurant				
+node	9566681138	48.7977484	2.4329902	Le Bourgogne				restaurant				
+node	9666506288	48.8035202	2.4441945	Le Métro				restaurant				
+node	9868799827	48.8032274	2.4434280	Veni Vidi Vici				restaurant				
+node	9951445309	48.8035467	2.4443454	New Wako				restaurant				
+node	10274783712	48.8071824	2.4378606	Le Balto				cafe				
+node	10274798162	48.8073382	2.4383723	Sumaya				restaurant	175	94700	Avenue du Général Leclerc	
+node	10285465095	48.8068441	2.4393360	Le Loup Bleu Coffee				cafe				
+node	10694877482	48.8154385	2.4441738	La Petite Table de Saigon				restaurant				
+node	10879431583	48.8153252	2.4213575	Le Métro				bar				
+node	10984718256	48.8149410	2.4225377	La Nonna				restaurant				
+node	10984718258	48.8151971	2.4218108	Gentiane				restaurant				
+node	10984718266	48.8147154	2.4201760	Sushi Kyo				restaurant				
+node	11039976571	48.8134280	2.4260406	La Fabrique				restaurant	4	94700	Avenue du Général Leclerc	
+node	11039976574	48.8079032	2.4365024	Pizzeria Jazz				restaurant				
+node	11174555684	48.8150969	2.4202372	Au Petit Caporal				restaurant	18			
+node	11465911147	48.7979192	2.4329602	Le Coq d'Or				restaurant				
+node	11862290480	48.8159754	2.4203240	Chez Beberthe				restaurant				
+node	11889332213	48.7904379	2.4356372	No time's				restaurant				
+node	11889332246	48.7959241	2.4339759	Jungle Thai				restaurant				
+node	13266952836	48.8152218	2.4189326	L’Entrepôtes				bar				
+node	13924332419	48.8103187	2.4427519	Le Miel				restaurant				
+node	13924332426	48.8155923	2.4318588	L’Échappée belle				restaurant				
+node	13924332427	48.8129135	2.4349745	Le Reinitas				bar				
+way	120953746	48.8154847	2.4446652	Sushi de Marne				restaurant				
+way	120953774	48.8153759	2.4440302	Le Pavillon Bleu				restaurant				
+relation	109361			Nogent-sur-Marne	8	94130	94052					
+node	471551076	48.8359975	2.4745344	Le Watteau				cafe				
+node	471551077	48.8358508	2.4726131	Le Relais				restaurant				
+node	553539696	48.8399557	2.4810450	Le Paul Bert				bar				
+node	553539863	48.8384839	2.4931695	175 Churrasqueira Marisqueira				restaurant				
+node	1489806727	48.8343118	2.4729859	Palais Royal de Nogent				restaurant	5	94130	Avenue de Joinville	
+node	1552648412	48.8374517	2.4773243	Le Marrakech				restaurant				
+node	1552648434	48.8394211	2.4798371	Nagoya				restaurant	57	94130	Boulevard de Strasbourg	
+node	1693313773	48.8378403	2.4873059	McCafé				cafe				
+node	1744841761	48.8381732	2.4930407	Le Brazza				bar				
+node	1744841764	48.8380262	2.4889355	Du côté de chez Fred				restaurant				
+node	1744841766	48.8381784	2.4870084	Fujiyama				restaurant				
+node	1744841773	48.8382950	2.4876496	Planet Sushi				restaurant				
+node	2177176392	48.8369407	2.4836316	Chez David				bar	90	94130	Grande Rue Charles de Gaulle	
+node	2177177648	48.8371568	2.4844600	Le 97				restaurant				
+node	2177177803	48.8370096	2.4848090	Nogent Exotique				restaurant				
+node	2508259791	48.8379231	2.4875614	Bharati				restaurant	2	94130	Boulevard Gallieni	
+node	2508259828	48.8377810	2.4871435	Printemps				restaurant	2	94130	Place de l'Ancien Marché	
+node	4150559289	48.8353384	2.4942036	Hippopotamus				restaurant				
+node	5554563473	48.8364939	2.4817622	Sweet Time				restaurant				
+node	5554563475	48.8364392	2.4813920	Au Petit Vin Blanc				cafe				
+node	6116621689	48.8357430	2.4750994	Bella Rosa				restaurant				
+node	6116649685	48.8357461	2.4734532	Crêperie Le Menec				restaurant	1	94130	Boulevard de Strasbourg	
+node	7551519204	48.8373576	2.4852806	Le Nogentais				restaurant	7	94130	Rue Saint-Sébastien	
+node	7551519205	48.8370132	2.4839495	Signori e Figli				restaurant				
+node	8634439404	48.8380335	2.4885219	Bagelstein				restaurant				
+node	9510442043	48.8435737	2.4859464	Super Sushi				restaurant				
+node	9534732483	48.8368290	2.4853978	Caffe Italia				restaurant	108	94130	Grande Rue Charles de Gaulle	
+node	10589717989	48.8382301	2.4897505	Le Couloir				bar				
+node	10589717991	48.8381512	2.4893651	Le Chablis				restaurant				
+node	10589717992	48.8383441	2.4892631	L'Osteria				restaurant				
+node	10589717995	48.8382994	2.4891076	Zen				restaurant				
+node	10589773745	48.8373104	2.4863633	Le Chamboule Tout				restaurant				
+node	10589773761	48.8368197	2.4856501	Sushi Charles VII				restaurant				
+node	10589832541	48.8367158	2.4825709	Royal Volonté				restaurant				
+node	10589832544	48.8366182	2.4823151	L'Atelier du Brunch				restaurant				
+node	10589832545	48.8365969	2.4822419	Le Noëlie				restaurant				
+node	12786235337	48.8378524	2.4935692	Pizza Hut				restaurant	2			
+node	13043268949	48.8381813	2.4844853	Tata Denise				restaurant				
+node	13711597456	48.8313589	2.4755545	La Salamandre				restaurant				
+node	13954679701	48.8382261	2.4896117	Thé Perlé				cafe	158	94130	Grande Rue Charles de Gaulle	
+node	14245107101	48.8381315	2.4911967	Giorgina				restaurant	168	94130	Grande Rue Charles de Gaulle	
+relation	108138			Noiseau	8	94880	94053					
+node	3657165692	48.7765985	2.5504439	La Latina				restaurant	3	94880	Route de la Queue en Brie	
+relation	55582			Orly	8	94310	94054					
+node	1882370346	48.7446845	2.4083239	La brochette dorée				restaurant				
+node	1882409425	48.7468352	2.4152976	Le St-Exupéry				bar				
+node	4308734189	48.7431659	2.3884590	Restaurant Pompéi				restaurant	40 bis	94310	Rue des Aubépines	
+node	4640685822	48.7463438	2.3777726	Le Mirage				cafe				
+node	6055457506	48.7418599	2.4020553	Tabac de la Gare				bar				
+node	13271879588	48.7428920	2.4008023	Mamma Gusto				restaurant				
+relation	108147			Ormesson-sur-Marne	8	94490	94055					
+node	2293735172	48.7819990	2.5310994	Le Chemin du Bonheur				restaurant				
+node	2756680416	48.7814928	2.5218636	Le Week End				cafe				
+node	5462121322	48.7957214	2.5498269	Poulets Pedra				restaurant	16	94490	Route de Provins	
+node	5696754132	48.7925166	2.5540163	Matsuko				restaurant	76	94490	Route de Provins	
+node	5823278739	48.7953746	2.5508096	Continental				restaurant				
+node	8224488344	48.7971035	2.5483192	Free Pizza				restaurant				
+node	8224488347	48.7915599	2.5328965	Maison du Soleil				restaurant				
+node	8228559973	48.7819421	2.5316580	Les Jardins de Majorelle				restaurant				
+node	8228559974	48.7895892	2.5383591	Passion Latina				restaurant				
+node	8228559975	48.7872422	2.5394290	Muguet Bar				bar				
+node	8228559977	48.7899265	2.5351569	Yanova Sushi - Les Trois E				restaurant				
+node	8228559980	48.7855412	2.5401190	Tabac de la Mairie				cafe				
+way	63342799	48.7958428	2.5503375	Le Cley				restaurant				
+way	63342802	48.7942927	2.5531981	W&G Saveurs Gourmandes				restaurant	61	94490	Route de Provins	
+way	63345486	48.7966144	2.5491053	Le Rouergue				restaurant				
+way	63348037	48.7968371	2.5487928	Le Celeste				restaurant				
+way	63349028	48.7934873	2.5529059	Roosters				restaurant				
+way	63353215	48.7846371	2.5374484	L'Escapade				restaurant				
+way	63353655	48.7959320	2.5502920	Le Chyll				restaurant				
+way	63354619	48.7941359	2.5516155	Courtepaille				restaurant				
+way	63355491	48.7878544	2.5344615	Café Das Rodas				cafe				
+way	63357001	48.7903293	2.5347656	Shuriken Sushi				restaurant	96	94490	Avenue du Général de Gaulle	
+relation	108312			Le Perreux-sur-Marne	8	94170	94058					
+node	638741445	48.8495117	2.4959596	Le Rond Point				cafe				
+node	661085724	48.8434402	2.5034472	Vivaldi				restaurant	79	94170	Avenue Ledru Rollin	
+node	661733089	48.8461674	2.4995826	Magestic Bar				cafe	195	94170	Avenue du Général de Gaulle	
+node	661733150	48.8443518	2.4974890	L'ABC				restaurant	51	94170	Avenue du 11 Novembre	
+node	1459465788	48.8383355	2.4952066	Jeanne et Jacques				bar	12	94170	Place Robert Belvaux	
+node	1459465797	48.8372187	2.4957722	Au Comptoir De Jean				restaurant	11		Boulevard de la Liberté	
+node	1870150357	48.8491946	2.4965714	Brasserie des Sports				pub				
+node	1870150371	48.8520727	2.5090119	Le grillardin				cafe	175	94170	Boulevard d'Alsace-Lorraine	
+node	1870150393	48.8519350	2.5082822	La Val 94				cafe	165	94170	Boulevard d'Alsace-Lorraine	
+node	1870150396	48.8489611	2.4958828	Le Maryland				cafe				
+node	1870150503	48.8511411	2.5045056	L'auberge de Shangaï				restaurant	121	94170	Boulevard d'Alsace-Lorraine	
+node	2128894612	48.8492468	2.5086678	Le Mélina				bar	161	94170	Avenue du 8 Mai 1945	
+node	2128894617	48.8521911	2.5111038	La Table Marocaine				restaurant	170	94170	Boulevard Alsace Lorraine	
+node	2128894618	48.8509306	2.5102288	La Côte de Bœuf				restaurant	181	94170	Avenue du 8 Mai 1945	
+node	3741516937	48.8425517	2.5022582	Les délices de Gigi				restaurant	67	94170	Avenue Ledru Rollin	
+node	3771869602	48.8350206	2.5040126	Bar Tabac de l'Alma				bar				
+node	3771869786	48.8350286	2.5038992	Le Monde de la Pizza				restaurant	103	94170	Avenue Pierre Brossolette	
+node	4271092408	48.8405176	2.5060711	Pur Sang				restaurant	6	94170	Rue Denfert-Rochereau	
+node	5177217567	48.8342933	2.5167864	Quai Est				restaurant				
+node	5177217568	48.8338261	2.5167596	Le Bel Air				restaurant	127		Quai de l'Artois	
+node	7299186962	48.8407310	2.5063152	Bro's and Co				restaurant	105	94170	Avenue du Général de Gaulle	
+node	7810841880	48.8417999	2.5053873	Les Saveurs d'Asie				restaurant	106	94170	Avenue du Général de Gaulle	
+node	7875125683	48.8428420	2.5037222	Le Jean Bart				cafe	137	94170	Avenue du Général de Gaulle	
+node	8996825078	48.8344135	2.5146801	Burger parisien				restaurant	199	94170	Avenue Pierre Brossolette	
+node	9129509933	48.8390847	2.4959451	Radha				restaurant	18bis	94170	Avenue Ledru-Rollin	
+node	9182817338	48.8369430	2.5110415	Crêperie Malo				restaurant	41	94170	Avenue du Général de Gaulle	
+node	9214454853	48.8420584	2.5039551	Pacifico Cevicheria				restaurant	93	94170	Avenue Georges Clemenceau	
+node	9225296698	48.8342976	2.5162115	Le Start				restaurant	219	94170	Avenue Pierre Brossolette	
+node	9274523055	48.8517607	2.5074684	Le Cerf-Volant				restaurant	159	94170	Boulevard d'Alsace-Lorraine	
+node	9300235364	48.8380105	2.4951454	Pauly				cafe	8	94170	Place Robert Belvaux	
+node	9308347125	48.8313574	2.5034587	Le Blue-Marning				restaurant	44	94170	Quai de l'Artois	
+node	9311030909	48.8496917	2.4989486	Pourquoi pas ?				restaurant	52	94170	Boulevard d'Alsace-Lorraine	
+node	9368043195	48.8524476	2.5108707	Sushi 8				restaurant	195	94170	Boulevard d'Alsace-Lorraine	
+node	9402670270	48.8492200	2.4967020	Tokyo Sushi				restaurant	26	94170	Boulevard d'Alsace-Lorraine	
+node	9428312784	48.8427193	2.5025415	La Ferme				restaurant				
+node	9487516041	48.8410378	2.4982392	Sushi Wasabi				restaurant	48	94170	Avenue Ledru-Rollin	
+node	9547244927	48.8429109	2.5027717	BO Sushi				restaurant	171	94170	Avenue Ledru-Rollin	
+node	9575038167	48.8416760	2.5045097	Le Kfé du marché				cafe	66	94170	Avenue Georges Clemenceau	
+node	9608333559	48.8428409	2.5033233	Christie's Corner				cafe	1ter	94170	Rue de la Station	
+relation	108284			Le Plessis-Trévise	8	94420	94059					
+node	2901066894	48.8107357	2.5720397	Le Trévise				restaurant	20	94420	Avenue Ardouin	
+node	5264665196	48.8056784	2.5845779	Tokyo Sushi				restaurant	3	94420	Place de Verdun	
+node	5273882048	48.8092690	2.5752348	Sunset Pizza				restaurant				
+node	5301332490	48.8092944	2.5751792	Koyama Sushi				restaurant	14	94420	Avenue du Général de Gaulle	
+node	5301332493	48.8092811	2.5743526	Plessis Sushi				restaurant	3	94420	Avenue Thérèse	
+node	5874076135	48.8043129	2.5727090	Ye Suizhuang				restaurant	2	94420	Avenue Clément Ader	
+node	7986210078	48.8096109	2.5734435	Jade d'Asie				restaurant				
+node	7988825157	48.8060327	2.5718228	Les oliviers				restaurant				
+node	8036305338	48.8092023	2.5758605	Marco Polo				restaurant	29	94420	Avenue du Général de Gaulle	
+node	9599899525	48.8104351	2.5730370	Hotimes				restaurant	11	94420	Avenue du Général de Gaulle	
+node	10121933002	48.8103590	2.5732300	Restaurant Rajasthan				restaurant	11	94420	Avenue du Général de Gaulle	
+node	10121933003	48.8104774	2.5729264	Delice De Plessis				restaurant	9	94420	Avenue du Général de Gaulle	
+node	11406311504	48.8093844	2.5736810	Le Petit Paris				restaurant				
+way	101684674	48.8123445	2.5673445	L'Osteria du Plessis				restaurant				
+relation	108146			La Queue-en-Brie	8	94510	94060					
+node	725068925	48.7850985	2.5785237	Le Tabac des Sports				bar				
+node	1151975442	48.7803537	2.5730325	Côté Zen				restaurant				
+node	1152763819	48.7804427	2.5719005	Lua Vista				nightclub				
+node	1154378840	48.7903005	2.5755363	Le Café de la Mairie				bar				
+node	1632680283	48.7811416	2.5718255	Bella Italia				restaurant				
+node	3140020089	48.7801399	2.5784356	L'Espérancia				bar				
+node	14088788945	48.7799162	2.5778992	L'Auberge du Petit Caporal				restaurant				
+way	99582060	48.7822655	2.5688445	Buffalo Grill				restaurant				
+way	99594592	48.7801065	2.5762505	Pedro Poulet				restaurant				
+way	99602119	48.7826645	2.5695230	La Criée				restaurant				
+relation	34684			Rungis	8	94150	94065					
+node	748958597	48.7448565	2.3571961	Frichti				restaurant				
+node	1399212326	48.7490194	2.3513878	La Bigouden				restaurant				
+node	1399217310	48.7511569	2.3460462	La Villa d'Este				restaurant				
+node	1786762159	48.7511567	2.3451624	La Ripaille				restaurant	22	94150	Place Louis XIII	
+node	1786762160	48.7510242	2.3455873	Le Louis XIII				restaurant	2	94150	Place Louis XIII	
+node	1800079545	48.7508246	2.3457503	Blanche & Colette				restaurant	27	94150	Place Louis XIII	
+node	1824978325	48.7460303	2.3478865	Chez Bibi				restaurant		94150	Rue de l'Abreuvoir	
+node	1886980396	48.7508803	2.3456258	Dream Sushi				restaurant	31-33		Place Louis XIII	
+node	2225061579	48.7462518	2.3690499	Le Cockpit				restaurant				
+node	2286237654	48.7500240	2.3482788	Pho'66				restaurant	66	94150	Avenue Lucien Grelinger	
+node	2352882643	48.7489349	2.3513455	Le Nôtre Dame				pub				
+node	2352882644	48.7479917	2.3506843	La Grange des Halles				restaurant				
+node	4111351892	48.7432088	2.3522724	Bistrot des Chefs				restaurant	21 bis	94150	Rue de Villeneuve	
+node	4128279489	48.7429629	2.3527885	Créole Avenue				restaurant	17	94150	Rue de Villeneuve	
+node	5263685545	48.7487942	2.3554549	L'Addict				restaurant				
+node	5263807693	48.7487773	2.3555014	Columbus Café & Co				cafe				
+node	5317154517	48.7434946	2.3514380	La Maison Blanche				restaurant				
+node	5527877856	48.7417418	2.3501200	Vertical'Art				restaurant	113	94150	Rue des Solets	
+node	5527924107	48.7461943	2.3537206	Le Café				cafe	4		Place du Village	
+node	5873155505	48.7460803	2.3478933	Break N Coffee				restaurant			Rue de l'abreuvoir	
+node	7449948137	48.7432179	2.3562791	L'auberge du jour				restaurant				
+node	8449271609	48.7491337	2.3510997	L'escalet				restaurant	14	94150	Rue Notre-Dame	
+node	11379754395	48.7582514	2.3574109	La Cantine du Troquet				restaurant				
+node	11379754396	48.7581666	2.3574927	Dai Cugini				restaurant				
+node	11381413503	48.7570278	2.3646408	Le Saint-Hubert				bar				
+node	11950652569	48.7580628	2.3468428	Capitole				restaurant				
+way	126099745	48.7514180	2.3685230	L'Atlas				restaurant				
+way	126103285	48.7580696	2.3468437	Le Capitole				restaurant				
+way	126103290	48.7570971	2.3508984	St-Maurice				bar				
+way	126103303	48.7563759	2.3515662	Les Embruns				restaurant	6		Quai de Lorient	
+way	126103322	48.7580526	2.3499906	À la Marée				restaurant	2	94150	Place des Pêcheurs	
+way	126103331	48.7579625	2.3484384	Loft Métropolis				nightclub		94150	Rue du Pont des Halles	
+way	911332057	48.7465953	2.3531652	Brasa Rio				restaurant	6	94150	Rue Oscar Niemeyer	
+way	911332065	48.7463836	2.3533853	Rustik				restaurant	4	94150	Rue de Traversière	
+relation	108318			Saint-Mandé	8	94160	94067					
+node	248494308	48.8491606	2.4165683	Le Mumtaz				restaurant				
+node	1585168700	48.8458375	2.4227748	Au Bol de Riz				restaurant	87	94160	Avenue de Paris	
+node	1676570193	48.8465656	2.4185668	Le Paris Café				cafe	174	94160	Avenue de Paris	
+node	2011451022	48.8412533	2.4177480	Café du Lac				pub				
+node	2149919147	48.8461616	2.4192892	Sushi 123				restaurant				
+node	2211157037	48.8454025	2.4277040	Caffé Shop				restaurant				
+node	2417853124	48.8438510	2.4177648	Le Trouville				restaurant	1	94160	Place Charles Digeon	
+node	2978102522	48.8471786	2.4177925	L'Ambassade de Pékin				restaurant	6	94160	Avenue Joffre	
+node	2978102527	48.8462070	2.4159910	Le Bougnat Bar				restaurant	141	94160	Avenue Gallieni	
+node	2978102528	48.8439008	2.4174199	La Fraternité				restaurant	2	94160	Avenue Victor Hugo	
+node	2978102529	48.8461848	2.4163060	Le Ruisseau				restaurant	137	94160	Avenue Gallieni	
+node	3140383567	48.8461214	2.4169933	Jian Hong				restaurant	129	94160	Avenue Gallieni	
+node	3141296196	48.8462055	2.4185077	La Tourelle				restaurant				
+node	3141296200	48.8460256	2.4181028	La bottega del pozzo				restaurant				
+node	3461467593	48.8454167	2.4275751	Ichikawa				restaurant				
+node	4380507991	48.8459683	2.4182943	En faim !				restaurant				
+node	5273180623	48.8411076	2.4174956	Tomo				restaurant	70	94160	Avenue du Général de Gaulle	
+node	5335837352	48.8476720	2.4178081	Le Brazza				cafe				
+node	6414810204	48.8453853	2.4278566	Arni's				restaurant				
+node	7164965598	48.8416956	2.4174871	Nina Sushi				restaurant				
+node	8325640143	48.8456214	2.4174187	Gourmet d'Asie				restaurant				
+node	9573004630	48.8455744	2.4174160	Planet Sushi				restaurant	8	94160	Avenue du Général de Gaulle	
+node	9573004631	48.8481176	2.4175014	Kyoto Sushi				restaurant	23	94160	Avenue Joffre	
+node	9573004632	48.8426931	2.4175500	CEPRANO • Saint-Mandé				restaurant	44	94160	Avenue du Général de Gaulle	
+node	9573932342	48.8361252	2.4208855	Betheavone				restaurant	71	94160	Rue Jeanne d'Arc	
+node	9589380440	48.8388579	2.4192746	Le Narval				cafe				
+node	9589380441	48.8391114	2.4192029	Cuisine de Perle				restaurant				
+node	9592017128	48.8423699	2.4175380	Traiteur Lin's				restaurant				
+node	11427455693	48.8404299	2.4184634	Chez Marcel				restaurant				
+node	11427455710	48.8381543	2.4160963	O P'tit Marché				restaurant				
+node	11573678723	48.8447430	2.4174076	Le Cyrano				bar				
+node	12842103257	48.8491279	2.4175358	Caracal				restaurant	41		Avenue Joffre	
+node	12877641362	48.8434079	2.4175273	Dolce Vita				restaurant				
+way	144307808	48.8439127	2.4185944	Brasserie 1901				restaurant				
+way	205013566	48.8460592	2.4202732	Le Métron'Home				cafe	113	94160	Avenue de Paris	
+way	1126480433	48.8398291	2.4173970	La Canopée				cafe	82	94160	Avenue du Général de Gaulle	
+relation	50964			Saint-Maur-des-Fossés	8	94100;94210	94068					
+node	297701601	48.7989586	2.4903191	Le Pub				pub				
+node	305775057	48.7980158	2.4859589	Bistro du Théâtre				cafe				
+node	307609669	48.7982418	2.4856019	Le Diplomate				restaurant	2	94100	Place Jacques Tati	
+node	314940248	48.8062572	2.4715779	Le Terminus				restaurant				
+node	466373805	48.8076069	2.4713884	Le Riaume				pub				
+node	466373808	48.8081200	2.4713538	Suzette & Sarrasin				restaurant	19	94100	Rue du Pont de Créteil	
+node	469084517	48.8095250	2.4712970	S'pring				restaurant				
+node	470820637	48.8098618	2.4714120	Shushi Yaki				restaurant				
+node	473423765	48.8051926	2.4866775	Venice				restaurant				
+node	694089988	48.7918217	2.5134634	Onda Azur				restaurant				
+node	694089991	48.7929402	2.5139670	Paris-Breizh				restaurant				
+node	694089993	48.7922571	2.5137237	L'Auberge Auvergnate				restaurant	15		rue Saint-Hilaire	
+node	694089998	48.7934439	2.5142817	L'Étincelle				bar				
+node	694089999	48.7936453	2.5142451	Café de Paris				bar				
+node	696003564	48.8048005	2.4847534	MOA Restaurant				restaurant	2	94100	Avenue Foch	
+node	696003602	48.8051454	2.4863036	La Louvière				cafe				
+node	738812918	48.7964127	2.4859609	La Tarentella				restaurant				
+node	738812922	48.8066959	2.4785743	La Rose de l'Inde				restaurant				
+node	738812923	48.8073909	2.4738032	La Bonne Heure				restaurant				
+node	738812927	48.8005639	2.4777258	Le Narval				cafe	2	94100	Avenue Diderot	
+node	738812931	48.7980067	2.4864203	La Table du Marché				restaurant				
+node	738812935	48.7959649	2.4837722	L'Artusi				restaurant				
+node	738812943	48.8000842	2.4774444	L'Homme Tranquille				restaurant				
+node	738812952	48.8052886	2.4875062	Tokioyo				restaurant				
+node	738812960	48.7968892	2.4859237	The Bush				cafe				
+node	738812967	48.7946362	2.4855894	Le Titanic				restaurant				
+node	739079399	48.8033529	2.4847841	Royal Rajpoot				restaurant				
+node	739084462	48.8022972	2.4861482	Les Petits Plats				restaurant				
+node	741557360	48.8026153	2.4861610	Saveur d'Asie				restaurant				
+node	770357327	48.8048585	2.4865135	1001 Cafe Hors Du Temps				cafe				
+node	1118832604	48.8049337	2.4980405	La Table des Marronniers				restaurant				
+node	1118832618	48.8031822	2.4975866	Soleil de Marrakech				restaurant				
+node	1120167409	48.7938241	2.4963881	Le Gambetta				restaurant	1	94100	Place de Rimini	
+node	1120431543	48.7964330	2.4758425	Leonardo				restaurant				
+node	1123183352	48.7988857	2.4741236	Insieme Pizzeria Ristorante				restaurant	11bis	94100	Boulevard de Créteil	
+node	1129466142	48.7848413	2.5066506	Le Zanzibar				restaurant	171		quai de Bonneuil	
+node	1129466189	48.7894732	2.4742275	Sabai Sabai				restaurant	39	94100	Quai de la Pie	
+node	1129466275	48.7904420	2.4765991	la Tajine d'Or				restaurant	28	94100	Avenue d'Arromanches	
+node	1130849864	48.7979500	2.4900030	Castello				restaurant				
+node	1130849882	48.7868388	2.4782267	L'Antrechoc				bar				
+node	1130849897	48.7997118	2.5218967	Riad Salam				restaurant				
+node	1168040387	48.7935242	2.4862507	Ganesh				restaurant	20		Place d'Adamville - Kennedy	
+node	1194021406	48.7967488	2.4871241	Carnot Thaï				restaurant	83	94100	Avenue Carnot	
+node	1199075474	48.7980046	2.4865256	Pizzeria				restaurant				
+node	1224811479	48.7980633	2.4837998	Saveur du Liban				restaurant				
+node	1224811499	48.7981334	2.4797986	Yoshiya Sushi				restaurant				
+node	1237202689	48.8050734	2.4692777	Sushi Yatomi				restaurant				
+node	1239624266	48.7980817	2.5026070	Tabac Les 4 Chemins				cafe	123	94100		
+node	1239624273	48.7996464	2.4981764	La Cucina di Gina				restaurant				
+node	1239624283	48.8069513	2.5092631	Le Jubilé				cafe				
+node	1239624314	48.8000876	2.4970194	Chez Rosa				restaurant				
+node	1239624317	48.7982219	2.5029748	Churrasqueira des 4 Chemins				restaurant	45	94100	Avenue du Midi	
+node	1247302784	48.7978957	2.4926619	Pizza Hut				restaurant				
+node	1247302799	48.7980177	2.4952150	Sushi Samouraï				restaurant				
+node	1258430130	48.8063108	2.4733252	Rayane Orientale				restaurant	17	94100	Rue des Remises	
+node	1283656474	48.8037150	2.4780374	Le One				restaurant				
+node	1438162452	48.8122460	2.4724594	Frèse Sœur				restaurant	34bis			
+node	1438162453	48.8122875	2.4728144	La Fabrique				restaurant	40			
+node	1438162455	48.8123535	2.4729252	Central Parc				restaurant	42			
+node	1480105929	48.8119902	2.4754673	Le Relais de Condé				restaurant				
+node	1481491196	48.8064759	2.5107105	La Bonne Ambiance				cafe				
+node	1481491204	48.8073565	2.5077067	Le Saint-Augustin				restaurant				
+node	1481491205	48.8072257	2.5083250	La Villa Céleste				restaurant				
+node	1481491207	48.8059316	2.5108073	Le Dynastie				restaurant				
+node	1481491209	48.8068704	2.5095345	Le Rapide				cafe				
+node	1481532207	48.7941200	2.4868221	Marguerite				restaurant	136	94100	Avenue Carnot	
+node	1481532222	48.7876804	2.4954029	La Gargotte				cafe				
+node	1481532223	48.7896810	2.4865221	Le Gourmet				restaurant				
+node	1481532225	48.7939085	2.4863436	Le Kennedy				cafe	90			
+node	1481532227	48.7958714	2.4856601	Le Saint-Maurien				cafe				
+node	1481532232	48.7858206	2.4951208	Tomokazu				restaurant				
+node	1481532305	48.7886275	2.4894207	O Pata Negra				cafe				
+node	1481532319	48.7893678	2.5019695	Les Mûriers				cafe	82			
+node	1549965822	48.8064087	2.4962745	Café du Pont de Pierre				cafe				
+node	1549965832	48.8059042	2.4975440	L'Embuscade				cafe				
+node	1642006611	48.7886881	2.4813684	Café de la Pie				bar	76	94100	Avenue Jean Jaurès	
+node	1642006635	48.7876083	2.4823421	Boum Boum Pizza				restaurant				
+node	1642006637	48.7870631	2.4951150	Tabac de l'Alma				cafe				
+node	1642962880	48.7952746	2.5097549	Le Petit Gourmet				restaurant	59bis		avenue du Bac	
+node	1642962890	48.7976095	2.5032944	La Petite Auberge				restaurant				
+node	1642962906	48.7968111	2.5058514	Les Bons Vivants				restaurant	23	94210	Avenue du Bac	
+node	1642962937	48.7952039	2.5099618	Evviva!				restaurant	61		avenue du Bac	
+node	1642962971	48.7890174	2.4821051	Tabac de la Poste				cafe				
+node	1642963105	48.7945229	2.5135049	LV Factory				restaurant				
+node	1643357877	48.7906007	2.5079353	Au rendez-vous des Amis				restaurant				
+node	1643357881	48.7923475	2.5165131	Bistro du Marché				restaurant				
+node	1643357897	48.7914964	2.5129435	Atelier 28				restaurant	28	94210	Rue de Saint-Hilaire	
+node	1643357900	48.7916328	2.5133038	Fuji				restaurant	23	94100	Rue Saint-Hilaire	
+node	1643357921	48.7939907	2.5146229	Chang				restaurant				
+node	1643358155	48.7931425	2.5158467	La Perla				restaurant				
+node	1805535847	48.8065145	2.4734479	Traiteur Zhu				restaurant				
+node	1805535862	48.8061762	2.4732414	Le Place 21				cafe				
+node	1805557597	48.8072874	2.4739420	Sushi Paradise				restaurant	1 bis	94100	Rue des Remises	
+node	1805589825	48.8020185	2.4718034	Bar-Tabac de la Marne				cafe	72	94100	Rue du Pont de Créteil	
+node	1808589755	48.8052804	2.4716466	Churrasqueira Janela				restaurant	51B	94100	Rue du Pont de Créteil	
+node	1824215360	48.8068966	2.4732112	Tabac du Marché				cafe	9	94100	Rue Bobillot	
+node	1824358398	48.8088817	2.4712998	Bangkok Factory				restaurant	11	94100	Rue du Pont de Créteil	
+node	1834302935	48.8047406	2.4721130	Darkoom Lounge				cafe				
+node	1860357034	48.8034363	2.4851419	O P'tit Bougnat				cafe				
+node	2023475906	48.7976695	2.5026954	Cocotte et Vins				restaurant	1		Rue Fulton	
+node	2023475927	48.7980117	2.4956173	O Bella Ciao				restaurant				
+node	2239024426	48.8045952	2.4853907	Le Foch				cafe				
+node	2503026463	48.8092948	2.4845558	Crèpes et Délices				restaurant				
+node	2559835571	48.7967617	2.4869012	L'Atelier du Boucher				restaurant				
+node	2559835580	48.7964954	2.4859603	Au Régal Breton				restaurant				
+node	3258425315	48.8066297	2.4915542	Les 4 Chemins				restaurant				
+node	3552410640	48.8066762	2.4787344	African Evasion				restaurant	37		Boulevard Rabelais	
+node	4427969782	48.8080473	2.4713539	O Bistrot				restaurant				
+node	4524787139	48.7942504	2.4963038	Le Café Gourmand				restaurant				
+node	5823801545	48.7936315	2.4901897	Mama Clélia				restaurant				
+node	5823801548	48.7937004	2.4921691	Bellechasse Café				restaurant				
+node	6578751504	48.8036092	2.4874374	Bagatelle				restaurant	1			
+node	7487075297	48.7941180	2.4774806	Portugalia				restaurant	60	94100		
+node	7538506607	48.8120956	2.4720848	O Libanais				restaurant				
+node	7538506610	48.8039690	2.5049418	Le Prince				restaurant				
+node	7969339845	48.7977183	2.5023964	Le Bo'vin				restaurant				
+node	8085076960	48.7924969	2.5166691	Yumi Sushi				restaurant				
+node	8085076961	48.7875026	2.5091635	Le Palais du Prince				restaurant				
+node	8889704817	48.8035481	2.4855709	Le Festival				restaurant				
+node	8889914937	48.7852475	2.4990363	Au Bord'Eau				restaurant				
+node	9540423553	48.7850482	2.5030381	Le Moulin de la Varenne				restaurant				
+node	9869129212	48.7905763	2.4764590	Savanne et Mousson				restaurant	23bis		avenue du Port-au-Fouarre	
+node	10655234106	48.7945462	2.5138159	Maison Nouilles				restaurant	7		avenue du Mesnil	
+node	10700712769	48.7925665	2.5167450	Le Varenne Café				restaurant	96		avenue du Bac	
+node	10741314993	48.7972602	2.5162485	La Cassolette				restaurant	44		avenue du Mesnil	
+node	11238359179	48.7928181	2.4725939	L'Uto'Pie				restaurant	4-16	94100	Quai de la Pie	
+node	11471302769	48.7894980	2.4810444	Restaurant Valpaços				restaurant	57	94100	Avenue Jean Jaurès	
+node	11876749834	48.8077914	2.4734521	The Crazy Naan				restaurant	18	94100	Rue de la Varenne	
+node	11876749835	48.8078326	2.4734136	Saigon 2 K				restaurant	18	94100	Rue de la Varenne	
+node	11876817027	48.8073214	2.4723121	YUKI SUSHI				restaurant	7	94100	Avenue Desgenettes	
+node	12076112762	48.8074768	2.4746411	Crousty Game				restaurant	35 bis	94100	Rue de la Varenne	
+node	12121161449	48.7932701	2.4780012	3ienchs				bar	2bis	94100	Rue Vassal	
+node	12344553242	48.7927884	2.5168753	Thaï La Varenne				restaurant	2	94210	Rue Georges Clemenceau	
+node	12919086962	48.7932300	2.5141692	Hong Fu				restaurant				
+node	12926006364	48.8071786	2.5192781	Beach Bar				cafe				
+node	12945344295	48.7933058	2.5142177	Place 2 Be				cafe	2	94210	Rue Saint-Hilaire	
+node	12945344298	48.7925274	2.5152631	Le Médicis				restaurant				
+node	12950527624	48.7919691	2.5135283	Rose Latte				cafe				
+node	12954173145	48.7924781	2.5169434	Sikena				restaurant				
+node	13625620517	48.7932290	2.5143571	Gyoza Go				cafe				
+node	14349745163	48.7937246	2.4959025	Mare e monti				restaurant				
+way	175117008	48.7903436	2.4962589	Chez Gigi				restaurant				
+way	175560384	48.8003074	2.4766486	Cyrille Billot Restaurant				restaurant				
+way	436671661	48.8042174	2.5081944	Del Piano				restaurant				
+way	717025601	48.7917660	2.5213472	La Gelataria				cafe				
+relation	109407			Saint-Maurice	8	94410	94069					
+node	1174439241	48.8145970	2.4594112	Croq'o'pain				restaurant				
+node	1174439791	48.8150905	2.4611370	Le Dit Vin				restaurant		94410		
+node	2013424503	48.8222169	2.4200264	Le Chalet				cafe				
+node	2725582658	48.8213959	2.4199708	Café du Marché				cafe				
+node	2725582678	48.8219379	2.4200083	La Saporita				restaurant	50			
+node	2824441705	48.8155460	2.4604340	Café du Centre				cafe	264			
+node	3995793900	48.8215199	2.4199901	Chez Guillaume				restaurant	42			
+node	8743453241	48.8165156	2.4635969	Sushi Seva				restaurant				
+node	9449499664	48.8234722	2.4201096	Aux Deux Ânes				restaurant	66	94410	Avenue du Maréchal de Lattre de Tassigny	
+node	13282883295	48.8213429	2.4220829	Le Village				bar				
+node	14239134717	48.8159286	2.4599957	Les Loustics				restaurant	135	94410	Rue du Maréchal Leclerc	
+node	14239776978	48.8155938	2.4603119	Myoko				restaurant	262	94410	Rue du Maréchal Leclerc	
+node	14239776979	48.8154886	2.4605733	Mezo Grill				restaurant	266	94410	Rue du Maréchal Leclerc	
+node	14239776980	48.8155918	2.4608213	Sakura Sushi				restaurant	145	94410	Rue du Maréchal Leclerc	
+relation	108144			Santeny	8	94440	94070					
+way	111262228	48.7197765	2.5655335	Ristorante Del Arte				restaurant		94440	Rue du Noyer Saint-Germain	
+way	111262400	48.7187605	2.5672285	L'Usine Santeny				restaurant	9	94440	Avenue des Érables	
+way	111263900	48.7193610	2.5658981	Le Classic				restaurant				
+relation	108129			Sucy-en-Brie	8	94370	94071					
+node	1509993140	48.7706090	2.5213262	Le Quercy				bar	8		Rue du Temple	
+node	1863066263	48.7627819	2.5266360	O Castelo				restaurant				
+node	2860759940	48.7702284	2.5223246	Eden Crepe				restaurant				
+node	2860759941	48.7701089	2.5215710	Yama Yen				restaurant				
+node	4714674402	48.7669100	2.5324568	Le Bistrot du Fort				restaurant				
+node	7369053597	48.7704869	2.5221019	Osaka				restaurant				
+node	7369061613	48.7697444	2.5214790	Sohana				restaurant				
+node	7373426110	48.7702416	2.5215427	Churrasqueira Marito's				restaurant				
+node	7397443667	48.7696531	2.5204068	Le Week-End				bar				
+node	7397443672	48.7699499	2.5202737	Gourmet Royal				restaurant				
+node	7397443674	48.7700471	2.5199741	Café des Sports				cafe				
+node	7470631006	48.7595729	2.5530063	L'Entre-Deux				bar				
+node	8237043764	48.7738826	2.5050411	L'Open				restaurant				
+node	8237172430	48.7698681	2.5080243	La Station				restaurant				
+node	8237172434	48.7719514	2.5095955	La Téranga				restaurant				
+node	8237172440	48.7699901	2.5086527	Le Petit Val				restaurant				
+node	8237172442	48.7694704	2.5150222	Le Sixième Sens				restaurant				
+node	8237172447	48.7754664	2.5153930	Le Manito				cafe				
+node	8237172450	48.7747762	2.5114126	Le Pavillon				cafe				
+node	8237172451	48.7746365	2.5105020	Le Coq Portugais				restaurant				
+node	8237172452	48.7760064	2.5110036	Casa dos Leitoes				bar				
+node	8237172454	48.7775221	2.5117171	Sen Sushi				restaurant				
+node	8237172455	48.7617329	2.5316097	Tabac du Plateau				cafe				
+node	8237172463	48.7698721	2.5203719	On Mange Où				restaurant				
+node	12922094101	48.7695512	2.5211393	Les petits plats de Chloé				restaurant	4		rue de la Porte	
+node	14100872001	48.7710509	2.5080775	Délices de trajets				cafe				
+way	63500887	48.7717794	2.5080516	Bolkiri				restaurant				
+way	63505784	48.7733624	2.4978010	Ristorante Del Arte				restaurant		94370	Zac Le Petit Marais	
+way	799054823	48.7602441	2.5528424	La Terrasse Fleurie				restaurant				
+way	799054824	48.7594207	2.5579685	Le Tartarin				restaurant				
+relation	104767			Thiais	8	94320	94073					
+node	316504189	48.7595709	2.3964550	Le Stop Bar				pub				
+node	3144183329	48.7740575	2.3989351	Burn in Box				restaurant				
+node	4621500931	48.7648787	2.3909523	Bar du Marché				bar	9	94320	Place du Marché	
+node	8887341342	48.7665799	2.3932573	Café du Théatre				bar				
+node	8887341344	48.7664022	2.3890771	L'Espérance				bar				
+node	8887341348	48.7682072	2.3707496	Pizza Time				restaurant				
+node	9724115817	48.7684594	2.3719052	La Pratola				restaurant				
+node	11079262576	48.7698282	2.3923971	Le Sultan				restaurant				
+node	11386508221	48.7625590	2.3692898	Cave & Bar				bar				
+node	12031550167	48.7499815	2.3855754	Maison d'aki				restaurant	12	94320	Rue des Oliviers	
+node	12290590528	48.7715953	2.4005568	Planète Pizza				restaurant				
+node	13965683520	48.7558010	2.3718722	Jasmine Délices				cafe				
+node	14011479678	48.7566506	2.3718687	BELLE EPINE				restaurant		94320	740 Contour Cial Régional Belle Epine - 740 Rue du Luxembourg Centre commercial Belle Epine - Accès Quai de livraison côté Seine (avec monte-charge direct au kiosque)	
+node	14073522104	48.7564695	2.3737423	TWilsons				restaurant				
+way	143500226	48.7510277	2.3696127	Pedra Alta				restaurant	8	94320	Rue des Alouettes	
+way	143501120	48.7521955	2.3747495	Buffalo Grill				restaurant	5	94320	Rue des Alouettes	
+way	143506853	48.7602260	2.3983655	Chez Raphaël				restaurant	82	94320	Avenue de Versailles	
+way	143508216	48.7647544	2.3902564	L'Osteria				restaurant	4	94320	Rue du Perreux	
+way	200140768	48.7577843	2.3860338	Le Mezzé du Village				restaurant				
+way	200140769	48.7572707	2.3864637	Crêperie Le Trisk'l				restaurant				
+way	200140778	48.7572687	2.3866844	Sushi Kyo				restaurant				
+way	263891549	48.7557559	2.3720780	Mokka				cafe				
+way	263891570	48.7567738	2.3723422	Crêpe by Crêpe				restaurant				
+way	263891574	48.7563315	2.3723506	Old Wild West				restaurant				
+way	263891577	48.7566006	2.3728951	Flunch				restaurant				
+way	263891611	48.7561776	2.3725941	McCafé				cafe				
+way	263891612	48.7564272	2.3722548	Pizza Hut				restaurant				
+way	263891613	48.7561008	2.3710651	Miala				cafe				
+way	263891626	48.7565963	2.3726395	Paradis du Fruit				restaurant				
+way	263891632	48.7567429	2.3725325	Fratellini Café				restaurant				
+way	263891646	48.7566697	2.3719675	Starbucks				cafe				
+way	263891647	48.7566738	2.3725973	Tamaya				restaurant				
+way	263891718	48.7568368	2.3719854	Mangue Thai				restaurant				
+way	272478173	48.7566827	2.3727243	Belle-Asie				restaurant				
+way	272478441	48.7563364	2.3723514	Hippopotamus				restaurant				
+way	272478501	48.7566666	2.3728076	Le Fifties				restaurant				
+way	272478533	48.7567043	2.3726237	Le Bistrot de Rungis				restaurant				
+way	272478585	48.7566153	2.3729404	Léon de Bruxelles				restaurant				
+way	549736040	48.7578001	2.3871360	Pum Thaï				restaurant				
+way	549736041	48.7578654	2.3870784	Starbucks				cafe				
+way	746684197	48.7531992	2.3989016	Buvette				biergarten				
+relation	105824			Valenton	8	94460	94074					
+node	4380689143	48.7516769	2.4540028	Pedra Alta Valenton				restaurant	4	94460	Rue de la Sablonnière	
+relation	106764			Villecresnes	8	94440	94075					
+node	1793146858	48.7278865	2.5365392	Les Merveilles de Chine				restaurant				
+node	5530521558	48.7199992	2.5325287	Restaurant Ban Buriram				restaurant	3	94440	Rue de Cerçay	
+node	5943271472	48.7261445	2.5353399	Salon de Thé				cafe				
+node	13876444101	48.7168726	2.5421518	La nuvette				bar				
+node	14148273456	48.7206743	2.5338056	Juste - La Brasserie				restaurant	73	94440	Rue du Lieutenant Dagorno	
+relation	105146			Villejuif	8	94800	94076					
+node	1428139974	48.7844015	2.3711366	Sushi Soleil				restaurant	58	94800	Rue Jean Lurçat	
+node	1863553873	48.8049942	2.3641711	El Malouf				restaurant	49	94800	Avenue de Paris	
+node	1921935638	48.7883807	2.3591171	Le Médaillon				restaurant				
+node	2024049554	48.8061468	2.3653673	L'Embuscade				cafe	33		Rue Pasteur	
+node	2024049555	48.8058399	2.3638790	L'Escale				cafe				
+node	2525150401	48.7928630	2.3654607	Le Pacha				restaurant				
+node	2525327880	48.7952136	2.3672053	Indian Man Mahal				restaurant				
+node	2546512683	48.8025442	2.3642780	Tabac 7e Avenue				cafe				
+node	2546517444	48.7992100	2.3654656	Voccia				restaurant				
+node	2546641041	48.7927575	2.3685754	O Viana				bar				
+node	2552451762	48.8043561	2.3665025	Auberge des Idées				cafe				
+node	2568436389	48.8036946	2.3645560	Le 81				restaurant				
+node	2585779722	48.7925919	2.3632525	Show Devant				restaurant	38	94800	Rue Georges Lebigot	
+node	2587317291	48.8014031	2.3554441	Brasserie des Esselières				restaurant	3	94800	Boulevard Chastenet de Géry	
+node	2605260649	48.7952587	2.3668084	Pizza Hut				restaurant				
+node	2612718478	48.7846773	2.3626922	Cafés Surgelés				cafe				
+node	2613267450	48.7885774	2.3618998	Jardin d'Italie				restaurant	50 bis	94800	Avenue de la République	
+node	3454192286	48.7925540	2.3651098	Restaurant Normandie 1944				restaurant				
+node	3684102017	48.7908696	2.3665581	Chez Lu Cheng				restaurant		94800	Rue Jean Jaurès	
+node	3699703507	48.7874256	2.3671260	Bread&Co				cafe				
+node	3936199654	48.8016135	2.3628264	Le Rebel				cafe	14 ter	94800	Rue Reulos	
+node	4574869387	48.7923129	2.3666879	Temps des Délices				restaurant	85	94800	Rue Jean Jaurès	
+node	6439658448	48.8047628	2.3694834	Pizza le Tanos				restaurant				
+node	8856923070	48.8069191	2.3628893	Lydoko				restaurant				
+node	8856923072	48.8064218	2.3637208	Sushi Kyoto				restaurant				
+node	8856923076	48.8056556	2.3639555	L'Île de France				bar				
+node	8856923077	48.8049061	2.3642009	Le Majestic				restaurant				
+node	8928103917	48.7999426	2.3551601	La Rotonde				bar				
+node	9397095904	48.8043836	2.3634419	Barbaresco				restaurant				
+node	9409990199	48.8024159	2.3546737	La Musardière				restaurant				
+node	9465810484	48.7925534	2.3653121	Pastavino				restaurant				
+node	9611525268	48.7926239	2.3660952	Taj Mahal				restaurant				
+node	9611525269	48.7926765	2.3642237	Café du Théâtre				bar				
+node	9721408317	48.7994760	2.3653215	Chez Lili				restaurant				
+node	9721409117	48.7990031	2.3654291	Gli Angeli				restaurant				
+node	9721417417	48.7951434	2.3664908	Chez Nana				bar				
+node	9721422817	48.7960942	2.3680744	Au Bureau				restaurant				
+node	9724109917	48.7881760	2.3670754	Le Kuzu				restaurant				
+node	10015234417	48.8065618	2.3630325	Dolania				restaurant				
+node	10146953117	48.7945973	2.3607336	Sushi Kyo				restaurant				
+node	10147501222	48.8041889	2.3637772	bar				bar				
+node	10286870127	48.7947045	2.3600361	Obrigado Rodizio				restaurant	6	94800	Rue Jean Moulin	
+node	12096792247	48.7946957	2.3634367	La Perle du Bosphore				restaurant				
+node	13141252571	48.7870449	2.3531128	La Chope				cafe	133 bis	94800	Avenue de la République	
+node	14045245220	48.7946269	2.3628162	Le Disque Bleu				restaurant				
+way	64402185	48.7886167	2.3645892	Casa Corner				restaurant	24	94800	Avenue de la République	
+way	64405772	48.7909678	2.3667904	Restaurant thaïlandais Khankluay				restaurant	125	94800	Rue Jean Jaurès	
+way	64406824	48.7888005	2.3671314	7 Art Cafe				restaurant	159B	94800	Rue Jean Jaurès	
+way	64411860	48.7901578	2.3665293	Délice Pizza				restaurant	104	94800	Rue Jean Jaurès	
+way	64420265	48.7902008	2.3665380	Restaurant indien Maihak				restaurant	102	94800	Rue Jean Jaurès	
+way	1374841513	48.7927330	2.3643754	Ambiance Asie				restaurant				
+way	1374841515	48.7926924	2.3640902	Le Pot Commun - Café Coopératif				cafe				
+way	1374841516	48.7926737	2.3639604	Crêperie l'Hirondelle				restaurant				
+way	1374841518	48.7926490	2.3637884	Georgette Café Boutique				restaurant				
+relation	102242			Villeneuve-le-Roi	8	94290	94077					
+node	601708343	48.7350921	2.4217463	Le Commerce				cafe	53	94290	Rue du Général de Gaulle	
+node	601708357	48.7352703	2.4227499	Zen				restaurant	40		Rue du Général de Gaulle	
+node	601708359	48.7352839	2.4229449	Oh Kiosque des Saveurs				restaurant	38	94290	Rue du Général de Gaulle	
+node	2370821210	48.7396374	2.4259579	La Terrasse				cafe				
+node	2509550720	48.7396175	2.4252014	A Povoa				restaurant				
+node	2509550721	48.7396992	2.4244440	Royal de Chine				restaurant				
+node	2509550722	48.7397828	2.4251612	Tabac de la Gare				cafe				
+node	2509550726	48.7395539	2.4254217	L'Excalibur				cafe				
+node	3461342393	48.7353970	2.4195503	Espace Pizza Service				restaurant	6	94290	Rue Marcel Risser	
+node	3461358999	48.7307727	2.4185722	Geppetto				restaurant	50	94290	Rue du Maréchal Lyautey	
+node	3461359000	48.7306175	2.4185939	Au Palmier d'Agadir				restaurant	46	94290	Rue du Maréchal Lyautey	
+node	3461359001	48.7305093	2.4186098	Shiva				restaurant		94290	Rue du Maréchal Lyautey	
+node	4621525872	48.7351917	2.4213032	Café du Marché				cafe	56	94290	Rue du Général de Gaulle	
+node	4623226412	48.7350106	2.4208439	Taste of India				restaurant	63	94290	Rue du Général de Gaulle	
+node	4986303309	48.7308782	2.4262673	La Rizière				restaurant				
+node	6517763370	48.7414563	2.4276391	Bar-Restaurant O Aveiro				bar				
+node	6517763371	48.7414174	2.4276365	Bar-Restaurant O Aveiro				restaurant				
+node	6655233398	48.7272163	2.4382306	La Belle Cycliste				cafe				
+node	8892962489	48.7344990	2.4079709	Le Flash				pub				
+node	8945520928	48.7353262	2.4234645	Crêperie Le Roi				cafe				
+node	11049062337	48.7310065	2.4191406	Auberge d'Asie				restaurant				
+way	70858949	48.7354372	2.4240801	Le Stop				bar				
+way	70860226	48.7356620	2.4197873	O’Repaire				restaurant	31		Avenue Paul Vaillant-Couturier	
+relation	105014			Villeneuve-Saint-Georges	8	94190	94078					
+node	2235647953	48.7328797	2.4469907	Le Stop				cafe	2		Avenue Carnot	
+node	5760555894	48.7258557	2.4450445	Créole Avenue				restaurant	4	94190	Avenue Pierre Mendès-France	
+node	6423892430	48.7352557	2.4518464	A Taverna				cafe	45	94190	Rue Émile Zola	
+node	6423901285	48.7348056	2.4531629	Le Nemrod				cafe				
+node	7343441885	48.7453119	2.4468007	La Passerelle				bar				
+node	7572079985	48.7288914	2.4477830	Izmir Café				cafe				
+node	8946233176	48.7311013	2.4492358	Restaurant du marché				restaurant				
+node	8946233187	48.7329765	2.4505728	Restaurant du Théâtre				restaurant	57		Rue Henri Janin	
+node	9320870449	48.7218162	2.4521681	relais H café				cafe				
+node	9721402817	48.7500703	2.4338457	Casanostra				restaurant		94190		
+node	10711185952	48.7332194	2.4512189	Codru Moldova				restaurant	1	94190	Avenue de Valenton	
+node	12879481349	48.7401008	2.4569209	Bar Restaurant Aux Trois Couleurs				restaurant				
+node	13386429768	48.7331277	2.4488462	Deux amis				restaurant	17		Avenue Carnot	
+node	13386439568	48.7331250	2.4487725	Le barbeuk				restaurant	17		Avenue Carnot	
+node	13386459453	48.7329168	2.4480135	Café Saint Georges				cafe	10		Avenue Carnot	
+node	13386466813	48.7331197	2.4472654	Royal Chili				restaurant	3		Avenue Carnot	
+node	13386495466	48.7300334	2.4470937	Le baromètre				cafe	20		Place Pierre Semard	
+way	137174679	48.7541542	2.4316486	Le chalet des Flandres				restaurant				
+way	137180242	48.7382510	2.4471555	Costa Do Sol				nightclub				
+way	137181331	48.7458390	2.4374320	La Guinguette Auvergnate				restaurant	19	94190	Avenue de Choisy	
+relation	108300			Villiers-sur-Marne	8	94350	94079					
+node	996567273	48.8236075	2.5422351	Le Bistro de la Gare				cafe				
+node	996781024	48.8272026	2.5350955	Mona Lisa				restaurant				
+node	996781036	48.8231764	2.5405726	Nepali Saranji				restaurant				
+node	996781042	48.8234023	2.5413855	Le Saïgonnais				restaurant				
+node	998015392	48.8240756	2.5448569	Op Ti Bar				cafe	1			
+node	998015450	48.8250519	2.5428502	Café de la Paix				cafe				
+node	998412652	48.8233045	2.5407249	Sushi Wasabi 9				restaurant				
+node	1007448344	48.8272079	2.5429609	Saveurs d'Asie				restaurant				
+node	1007448442	48.8272292	2.5424868	Le Centre				cafe				
+node	1012595843	48.8264100	2.5425372	La Note Bleue				restaurant				
+node	1015988331	48.8272526	2.5457944	Pizza La Scala				restaurant				
+node	1366234884	48.8269849	2.5283041	Didi Saigon				restaurant				
+node	7101768691	48.8270395	2.5431115	Bar de la Chope				cafe				
+node	7102202226	48.8275475	2.5410515	Le Code Bar				bar				
+node	7160736182	48.8271627	2.5433133	La Santa Cruz				restaurant				
+node	8227577140	48.8266682	2.5611703	Châtaigniers				bar				
+node	8227577169	48.8239346	2.5432244	Fivepizza				restaurant				
+node	8227577170	48.8245130	2.5441480	Les Jardins de Capucine				restaurant				
+node	8251800917	48.8268178	2.5279241	Ristorante Del Arte				restaurant				
+node	12997745701	48.8273731	2.5408397	Cooking Nana				cafe				
+node	12997745702	48.8273769	2.5409844	Aïko				restaurant				
+node	14132269780	48.8265300	2.5401505	Le petit Bistro				restaurant	47	94350	Rue du Général Gallieni	
+way	86929043	48.8346018	2.5465023	Léon de Bruxelles				restaurant				
+relation	1295436	48.8271366	2.5406822	Le Val de Marne				bar	43			
+way	89410753	48.8315026	2.5336333	Taj Mahal				restaurant	41			
+way	89838040	48.8212041	2.5363178	Les Mignardises				restaurant				
+relation	108346			Vincennes	8	94300	94080					
+node	445648014	48.8451288	2.4341858	El Gringo				restaurant				
+node	452420245	48.8446160	2.4403061	La Tête à l'Envers				pub				
+node	452420246	48.8446352	2.4400598	Les Officiers				cafe	3		Avenue de Nogent	
+node	455553132	48.8477867	2.4406732	Specho				restaurant				
+node	1233032860	48.8508393	2.4402249	Matuya				restaurant	41		Rue Diderot	
+node	1703126078	48.8507180	2.4380396	Renine				restaurant	20			
+node	1879230440	48.8464712	2.4288957	Pho Vincennes				restaurant	3	94300	Avenue de la République	
+node	1879638998	48.8465966	2.4291161	Sucré Salé				restaurant	9	94300	Avenue de la République	
+node	1881131630	48.8461814	2.4288952	Le Berlioz				bar				
+node	2043835929	48.8439584	2.4314083	Le Château des Vignerons				restaurant				
+node	2068538357	48.8476173	2.4377446	Nido				restaurant	2	94300	Rue de l'Église	
+node	2090756579	48.8497953	2.4508176	Le Royal				bar				
+node	2139005674	48.8470220	2.4389555	Café de la Mairie				cafe				
+node	2149919122	48.8465012	2.4195559	Danieli Caffè				cafe				
+node	2149919149	48.8463722	2.4206930	Le Petit Gourmet				restaurant				
+node	2211156872	48.8456693	2.4284217	Le Bérault				cafe				
+node	2211157045	48.8456998	2.4282037	Le Cerf				restaurant	96	94300	Avenue de Paris	
+node	2296559649	48.8448561	2.4374702	Sushi Sei				restaurant				
+node	2298657606	48.8478098	2.4348432	Paola				restaurant				
+node	2298657607	48.8473408	2.4348372	La Place				cafe	52	94300	Rue de Montreuil	
+node	2309842026	48.8460825	2.4383458	Paulette				restaurant				
+node	2329514003	48.8461248	2.4233803	Kintaro				restaurant				
+node	2338056767	48.8515840	2.4384328	Le Caribéen				restaurant	52		Rue de Strasbourg	
+node	2342410363	48.8467277	2.4353516	Mokarosa				cafe				
+node	2342410372	48.8468311	2.4353577	Aphrodite				restaurant				
+node	2359419001	48.8481687	2.4345506	Chez Kim				restaurant				
+node	2365654400	48.8482479	2.4359399	Café Faience				cafe				
+node	2365654407	48.8482693	2.4357193	Mon P'tit Bistrot				bar				
+node	2395933611	48.8417447	2.4330345	Olympe Sports Café				restaurant	46		Avenue du Général de Gaulle	
+node	2405943796	48.8472474	2.4372174	Demain Peut-être				restaurant				
+node	2405943830	48.8470885	2.4371308	Homer Lobster				restaurant				
+node	2414859297	48.8454007	2.4352808	Cheng thai				restaurant				
+node	2414859299	48.8459620	2.4353156	Les Saveurs de Djerba				restaurant				
+node	2414859320	48.8450748	2.4349945	Aarush				restaurant				
+node	2428529815	48.8462894	2.4365111	Château d'Or				restaurant				
+node	2428529855	48.8450252	2.4362761	Le Drapeau				bar				
+node	2428529858	48.8465650	2.4366292	Le Fontenoy				bar				
+node	2428529861	48.8450042	2.4366367	Panozzi				restaurant	2	94300	Avenue du Château	
+node	2438004596	48.8528075	2.4386173	L'Olivier du Kef				bar	73	94300	Rue de Strasbourg	
+node	2448452678	48.8484639	2.4321756	Le Brazza				bar				
+node	2449522682	48.8463904	2.4291208	Chez Antoine				restaurant	2	94300	Avenue de la République	
+node	2449522689	48.8458973	2.4282742	Hayaci Sushi				restaurant				
+node	2449522692	48.8465218	2.4293180	Dürüm & Brunch				restaurant				
+node	2527834786	48.8493257	2.4344654	L'Archipel				restaurant				
+node	2527834787	48.8486398	2.4347259	Mi				restaurant				
+node	2591578152	48.8480006	2.4345439	La Planch'A Pizza				restaurant	23	94300	Rue de Montreuil	
+node	2591578155	48.8472248	2.4378943	Breizh Cafe				restaurant	4	94300	Rue du Midi	
+node	2625311121	48.8457537	2.4348051	Maison Victoria				cafe				
+node	2625311124	48.8453454	2.4347410	La Petite Cantine				restaurant				
+node	2625311134	48.8462119	2.4348196	Maezaly				restaurant				
+node	2625311142	48.8462654	2.4348179	Les Monts d'Arrée				restaurant				
+node	2692988730	48.8460079	2.4246510	Le Balto				cafe	128	94160	Avenue de Paris	
+node	2724261537	48.8454678	2.4345170	Amo				cafe				
+node	2790474955	48.8468435	2.4281068	La canTine				restaurant		94300		
+node	2824174661	48.8446056	2.4404633	Terminus Château				cafe	9		Avenue de Nogent	
+node	2843829813	48.8485543	2.4344492	SushiFun				restaurant	172	94300	Rue de Fontenay	
+node	2843829816	48.8485865	2.4337899	Lagoulette				cafe				
+node	2843829820	48.8485781	2.4339011	Titan				restaurant				
+node	2889725651	48.8479601	2.4381597	Le Marigny				cafe				
+node	3140291129	48.8495094	2.4344651	Le cocon				restaurant				
+node	3141296198	48.8465106	2.4191624	Shinkyo				restaurant	170bis	94300	Avenue de Paris	
+node	3142574317	48.8463130	2.4213215	Le Premier				cafe	160		Avenue de Paris	
+node	3149325724	48.8462886	2.4215805	La maison indienne				restaurant	156	94300	avenue de paris	
+node	3442779133	48.8448903	2.4340636	Ubud				restaurant	1 bis		Avenue de Paris	
+node	3442784808	48.8445313	2.4343059	Le Bo'Vincennes				restaurant				
+node	3444747714	48.8450520	2.4352487	Matsuri				restaurant				
+node	3461245709	48.8460379	2.4308243	Maison Lynel				restaurant		94300		
+node	3797802957	48.8495440	2.4559834	Tabac des Rigollots				bar		94120	Carrefour des Rigollots	
+node	3878812649	48.8447832	2.4381732	La Table des Troys				restaurant	2 bis	94300	Avenue de Paris	
+node	4310433191	48.8462120	2.4370347	Amazig				cafe				
+node	4346781193	48.8450138	2.4356466	Barto				restaurant				
+node	4346788491	48.8450019	2.4357860	Absolu				restaurant				
+node	4346794789	48.8449942	2.4358813	Vincennes Food				restaurant				
+node	4382114994	48.8413156	2.4327998	Brasserie de l'Esplanade				restaurant				
+node	4392086592	48.8463797	2.4383441	Maison Margaux				restaurant				
+node	4392129489	48.8462492	2.4383526	Sakura				restaurant				
+node	4427453535	48.8486632	2.4264021	Fafa				restaurant				
+node	4669259734	48.8499993	2.4503614	Cosy Sun				restaurant	2		Place Diderot	
+node	4774206310	48.8479918	2.4463121	Asie Douceur				restaurant				
+node	4851139759	48.8496034	2.4556710	Nikayo				restaurant	224	94120	Rue Diderot	
+node	4855085155	48.8477939	2.4405314	Les Petits Vignerons				restaurant				
+node	4864958487	48.8504779	2.4461404	La Conca d'Oro				restaurant				
+node	4864958496	48.8501135	2.4510401	Sushi & Thaï				restaurant				
+node	4866863765	48.8478190	2.4464241	Le Berry				bar				
+node	4867754529	48.8470114	2.4515913	Le Bois				bar				
+node	4867899146	48.8447472	2.4385981	Chez Comus				restaurant				
+node	5038895092	48.8482518	2.4383875	Café Blanc Cœur				cafe				
+node	5067045639	48.8448526	2.4375613	Gangnam Grill				restaurant	10	94300	Avenue de Paris	
+node	5067045640	48.8449211	2.4368432	Chez Mimi				restaurant				
+node	5067045641	48.8448823	2.4372248	L'Escale du Château				restaurant				
+node	5196445686	48.8492491	2.4198253	Chez mon Ex				bar				
+node	5196445695	48.8486851	2.4323224	Vinzen				restaurant				
+node	5216092077	48.8479127	2.4237590	Genesis				restaurant	20	94300	Rue des Laitières	
+node	5216092078	48.8481762	2.4227821	Pad Thaï				restaurant				
+node	5216092838	48.8488712	2.4229676	Bistrot Mademoiselle				restaurant				
+node	5216092839	48.8488378	2.4232232	Authentic Bento				restaurant				
+node	5324319621	48.8476485	2.4230146	Yun Sushi				restaurant	26	94300	Rue des Laitières	
+node	5325132664	48.8465414	2.4204290	Camille				cafe				
+node	5359372454	48.8451681	2.4308016	Bozen				restaurant				
+node	5359372459	48.8451770	2.4306969	Le Pacha				restaurant				
+node	5654058578	48.8450456	2.4322394	Le Virginie				pub				
+node	5658451821	48.8466149	2.4348048	Mademoiselle Amande				restaurant				
+node	5759167771	48.8465981	2.4513263	Villa de Capri				restaurant				
+node	5780945041	48.8467574	2.4204523	La Banquette				restaurant				
+node	6331274454	48.8476364	2.4366153	L'ours				restaurant	10	94300	Rue de l'Église	
+node	6378238546	48.8485127	2.4231844	La Brocantine				restaurant				
+node	6436904442	48.8466210	2.4353675	Churrasqueiria				restaurant				
+node	6473015925	48.8488701	2.4220441	Le Bouche à Oreille				restaurant				
+node	6589431192	48.8463926	2.4381051	Ri Xin				restaurant				
+node	6589431193	48.8462896	2.4381022	L'Armorique				restaurant	19		Rue Raymond du Temple	
+node	6695547518	48.8434045	2.4312892	Les Artistes				restaurant				
+node	7250117762	48.8486300	2.4295716	Chez les sœurs				restaurant	175	94300	Rue de Fontenay	
+node	7260483474	48.8486417	2.4286304	L'égalité				bar				
+node	7419791073	48.8490745	2.4223214	On dîne à la Cheminée				restaurant				
+node	7464437526	48.8489843	2.4241370	Aloy Thaï				restaurant	21	94300	Rue de Lagny	
+node	7544465986	48.8447538	2.4383779	Del Pozzo				restaurant				
+node	7853491220	48.8474184	2.4228611	Mây Bay				restaurant	33	94300	Rue des Laitières	
+node	8663920341	48.8479604	2.4455325	Bistrot Gueule A Vins				restaurant				
+node	8736174087	48.8467126	2.4513774	Saga Sushi				restaurant				
+node	8789882764	48.8479265	2.4419753	Bistrot le 58				cafe				
+node	8825593639	48.8478716	2.4469580	Playa				restaurant				
+node	8895482326	48.8448959	2.4369824	Pokawa				restaurant				
+node	9373197136	48.8482628	2.4510522	La route des Indes				restaurant				
+node	9848156971	48.8498417	2.4544519	Le bistrot du coin				restaurant				
+node	11062935129	48.8487188	2.4328142	Station Krishna Vincennes				restaurant				
+node	11350910275	48.8470754	2.4515233	Beitna				restaurant				
+node	11559669311	48.8496247	2.4490078	Le Saumur				bar				
+node	11563512853	48.8494499	2.4344800	Alma Café				cafe				
+node	11672988599	48.8452928	2.4324602	Chingu				restaurant				
+node	11673043974	48.8453237	2.4322759	Gruppomimo				restaurant				
+node	11673071382	48.8448683	2.4338050	Pizza Hut				restaurant				
+node	11809701128	48.8466493	2.4347992	Chez Yang				restaurant				
+node	12344720159	48.8501593	2.4309347	Jaffna				restaurant				
+node	12344803245	48.8504971	2.4346770	O Ptit Bouillon				restaurant				
+node	12607659279	48.8516892	2.4384865	Sushi Château				restaurant				
+node	13573901701	48.8473766	2.4339779	Starbucks				cafe				
+node	13589490202	48.8488283	2.4325727	Le Banh Mi				restaurant	1	94300	Rue de la Fraternité	
+node	14112253201	48.8475742	2.4361032	Fei Fei				restaurant	17	94300	Rue de l'Église	
+node	14238549670	48.8483967	2.4256125	Jolis Mômes | Café familial				cafe	9	94300	Rue des Laitières	
+way	83817684	48.8451527	2.4384096	Tamarin				restaurant				
+way	494986675	48.8451759	2.4344620	Le sauvage				pub	30		Avenue de Paris	
+relation	104768			Vitry-sur-Seine	8	94400	94081					
+node	550510323	48.7817072	2.3724575	Le palace d'Asie				restaurant				
+node	2043910318	48.7955627	2.3914788	Pacific				restaurant				
+node	2046139098	48.7909818	2.3883434	Le Triomphe				bar				
+node	2046165012	48.7932062	2.3866310	À la Folie				restaurant	18			
+node	2054723949	48.7897097	2.4028614	Le Fontenoy				cafe				
+node	2054762618	48.7815641	2.3944511	Pizza Trio				restaurant				
+node	2137619602	48.7907548	2.3934159	Le St Germain				pub				
+node	2137619609	48.7909182	2.3923754	Kinzan				restaurant				
+node	2137628237	48.7930889	2.3960672	Au Bon Vivant				pub				
+node	2137647275	48.7932263	2.3955589	Le Centre				pub				
+node	2137720933	48.7893771	2.3894693	Le Théatre Bar				bar				
+node	2142850966	48.7897424	2.3896716	Speed Rabbit Pizza				restaurant				
+node	2142858241	48.7907606	2.3984402	Rajpoot				restaurant				
+node	2142858243	48.7910606	2.3966379	Le Casanova				restaurant				
+node	2146765184	48.7991323	2.3809665	Amarante				restaurant				
+node	2146816176	48.7972167	2.3824688	Red 305				bar				
+node	2146816184	48.7974934	2.3822428	La Rose des Sables				bar				
+node	2146816186	48.7975919	2.3821779	Tabac de l'Empire				bar				
+node	2235218009	48.7836784	2.3794775	Allo Pizza 94				restaurant				
+node	2250988412	48.8038819	2.4046973	Pizza service				restaurant				
+node	2250992671	48.7998658	2.4011194	Casa Presto				restaurant	14			
+node	2317288201	48.7775115	2.4054456	Le Progrès				restaurant				
+node	2317333548	48.7780185	2.3964115	Le Milan				restaurant				
+node	2329102910	48.7940249	2.4169141	Wok Grill				restaurant		94400	Rue Eugène Hénaff	
+node	2361508018	48.7845530	2.4056048	Chez Fanfan				restaurant	20			
+node	2374863847	48.7865129	2.4020699	Le Reinitas				cafe				
+node	2381099454	48.7928265	2.3890080	Le T9				restaurant		94400	Henri Barbusse	
+node	2386245724	48.8012177	2.3798231	Casa Tino				restaurant				
+node	2423030369	48.7980188	2.3995756	Les Cigognes				pub				
+node	2423030372	48.8004967	2.4019749	Au Départ				pub				
+node	2529306689	48.7797087	2.3961730	Santa Maria				restaurant				
+node	3204327177	48.7973678	2.3993818	Pizza Hut				restaurant				
+node	3635876095	48.8011826	2.4025888	Hôtel de la Gare				restaurant				
+node	3635876096	48.8012492	2.4025744	Chicken Time				restaurant				
+node	3635877448	48.8014710	2.4027604	Maxi délice				restaurant	6			
+node	3711422273	48.7949773	2.4154462	A-K Art-Kfé				cafe				
+node	3802468421	48.8025748	2.4069776	La Pétanque				bar	43			
+node	3802471678	48.8025059	2.4057357	Bistrot À l'Angle				bar		94400		
+node	4756309376	48.8042966	2.4051219	Chez Ely				restaurant		94400	Avenue Anatole France	
+node	4792099978	48.7933912	2.3957565	Boraq				restaurant	118	94400	Avenue Paul Vaillant-Couturier	
+node	5316262588	48.7727559	2.3727567	Chez Robert				pub				
+node	5903554585	48.8034659	2.4041577	Fuji				restaurant	35			
+node	6665271387	48.8004513	2.4016263	Le Tic-Tac				bar				
+node	7603858654	48.7841486	2.4039244	Le Kouilou				restaurant	9			
+node	8724240408	48.8011526	2.3991330	Bento Sushi Bar				restaurant	44	94400	Avenue de la République	
+node	8860878644	48.8018781	2.3785722	Misk Elil				restaurant	139	94400	Boulevard de Stalingrad	
+node	8860878649	48.8053319	2.3758900	Garba Chaud				restaurant				
+node	8887429943	48.7833467	2.3941143	Le Matin				bar				
+node	9921117087	48.8008555	2.4102823	Duguesclin				pub				
+node	9921118309	48.7915414	2.3938466	Grill Garden				restaurant				
+node	11222349438	48.7908820	2.3921894	Le Palace				cafe				
+node	11222917803	48.7996807	2.4009577	Le Cyrano				cafe				
+node	11659447427	48.8044361	2.4076752	La Sienna				restaurant				
+node	12629057267	48.7995327	2.4007624	Mhajjbi				restaurant				
+node	13184317823	48.7935647	2.3958949	Traiteur Cuisine Asia Mixte				restaurant				
+node	13184339737	48.7959595	2.3978686	Au petit café				cafe				
+node	13184345565	48.7944147	2.3966008	L'Alligator				bar				
+node	13184348037	48.7945519	2.3966747	La case d'Aliêfê				restaurant				
+node	13889884658	48.8065998	2.4047687	Bubble Dee				cafe				
+node	13889884659	48.8069052	2.4047040	Au bon coin				cafe				
+node	13897093385	48.8055708	2.4050900	O’bol d’or				restaurant				
+node	13935052694	48.7973963	2.3990757	Famillie Heureuse				restaurant				
+node	14178185074	48.8066825	2.4047508	L'Imprévu				restaurant				
+node	14179756805	48.7857635	2.4009262	Bar des amis				bar				
+way	1350357247	48.7853818	2.3918630	La Planète				cafe				
+way	1350357251	48.7853708	2.3915675	Bistro-Alain				bar				
+way	1352382745	48.7857752	2.3915998	Délice Chine Thai				restaurant				

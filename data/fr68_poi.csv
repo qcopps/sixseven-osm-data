@@ -1,0 +1,1561 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	69277			Algolsheim	8	68600	68001					
+node	12075233681	48.0108261	7.5555081	Turkuaz				restaurant				
+way	112015871	48.0107843	7.5555533	Restaurant Turkuaz				restaurant	11	68600	Route de Volgelsheim	
+relation	387661			Altenach	8	68210	68002					
+node	9010398914	47.6046130	7.1079323	Les 2 continents				restaurant				
+relation	85458			Altkirch	8	68130	68004					
+node	3695870555	47.6215180	7.2361666	La Taverne Alsacienne				restaurant				
+node	3695871342	47.6214385	7.2355926	Café Brasserie L'Espérance				cafe	8	68130	Place Xavier Jourdain	
+node	5144715513	47.6228875	7.2368204	Picchio Pizzeria				restaurant				
+node	5144725988	47.6234188	7.2372065	Le 130				cafe	36	68130	Rue Charles de Gaulle	
+node	5144733527	47.6229447	7.2362582	La Griotte				cafe				
+node	6584700285	47.6131765	7.2334247	Les Acacias				restaurant				
+node	8145455671	47.6248281	7.2340758	Crêperie des Hussards				restaurant	6		Avenue du 8ème Régiment de Hussards	
+node	10766348704	47.6283725	7.2587560	Le comptoir				cafe				
+node	10766394718	47.6283729	7.2402219	Bacio				restaurant				
+node	13147711601	47.6259929	7.2397712	Tamil Food				restaurant	6	68130	Rue de la Gare	
+node	13437220400	47.6250199	7.2399491	Yim				restaurant	33		Rue Gilardoni	
+way	173123838	47.6240540	7.2349060	Chez Brunisso				restaurant	35	68130	Rue de France	
+way	173124630	47.6229170	7.2366500	Hell Bar Altkirch 68				bar	2	68130	Rue Hommaire de Hell	
+way	173126843	47.6247860	7.2364415	Suki Yaki				restaurant	18	68130	Rue de France	
+way	1192059038	47.6280975	7.2280525	Joya Club				nightclub				
+relation	83344			Ammerschwihr	8	68410;68770	68005					
+node	690325418	48.1274056	7.2824248	Le Valtrivin				restaurant				
+node	4074893401	48.1235388	7.2566870	Restaurant du Golf				restaurant		68770	Allée du Golf	
+way	72342501	48.1256264	7.2830673	Restaurant Julien Binz				restaurant	7	68770	Rue des Cigognes	
+way	72343933	48.1257040	7.2828994	Julien Binz				restaurant				
+way	72344026	48.1241953	7.2844802	3 Amsel				restaurant				
+way	72344118	48.1003970	7.2307567	Boulangerie Lorang				cafe				
+relation	5815701			Bernwiller	8	68210	68006					
+way	215702317	47.6882482	7.1688254	Café Restaurant du Soleil				restaurant				
+relation	915398			Andolsheim	8	68280	68007					
+node	4568791890	48.0647478	7.4159000	La Strada				restaurant				
+relation	84034			Artzenheim	8	68320	68009					
+node	1738545520	48.1161758	7.5327851	Café la Coccinelle				restaurant				
+relation	80187			Aspach-le-Bas	8	68700	68011					
+way	182155163	47.7610250	7.1534015	La Crêperie by Loïc				restaurant				
+relation	5815700			Aspach-Michelbach	8	68700	68012					
+node	12357463511	47.7906074	7.1323673	Le 240				restaurant	240			
+way	182159282	47.7745560	7.1290600	Chez Brigitte				bar	36		Grand Rue	
+relation	85392			Attenschwiller	8	68220	68013					
+way	171147949	47.5673180	7.4638250	Le Cosy				restaurant	13	68220	Rue Wilson	
+relation	38263			Baldersheim	8	68390	68015					
+node	12823814750	47.8021975	7.3857224	Pid'n Piz				restaurant				
+relation	386587			Balschwiller	8	68210	68018					
+node	5745663842	47.6750654	7.1864788	Friterie "Zum Glockabrunna"				restaurant		68210	rue de Mulhouse	
+relation	88576			Bantzenheim	8	68490	68020					
+node	1654398627	47.8242345	7.5135272	Hôtel Restaurant de la Poste				restaurant				
+node	8909273017	47.8271333	7.5152914	Restaurant Pizzeria Unicato				restaurant	26	68490	Rue de l'Église	
+relation	85411			Bartenheim	8	68870	68021					
+node	1980784635	47.6347363	7.4869417	L'Auberge Italienne				restaurant	49	68870	Rue de la Gare	
+node	4058228558	47.6357495	7.4758428	Le Gaulois				restaurant	8	68870	Rue du Général de Gaulle	
+node	7373593153	47.6386218	7.5127049	Le Colombier				restaurant				
+node	8862015893	47.6346772	7.4865896	Dolce Vita - Pizzeria				restaurant	49	68870	Rue de la Gare	
+relation	69623			Beblenheim	8	68980	68023					
+way	73988065	48.1584014	7.3259139	A l'Agneau Blanc				restaurant				
+way	73988685	48.1578959	7.3265273	Le Clos des Raisins				restaurant				
+way	73988707	48.1577574	7.3267031	Le Gambrinus				restaurant				
+way	74018005	48.1579632	7.3244621	Le Bouc Bleu				restaurant				
+relation	83765			Bennwihr	8	68126;68630	68026					
+node	8721701510	48.1450930	7.3238187	Au Cerf				restaurant				
+relation	69406			Bergheim	8	68750	68028					
+node	3045853333	48.2057090	7.3601410	Wistub du Somelier				restaurant	51	68750	Grand'Rue	
+node	4430517155	48.2067624	7.3588411	Bariga, Pizzeria				restaurant				
+node	4430517167	48.2074063	7.3597019	Vitis Bar				restaurant				
+node	4430995763	48.2050849	7.3633694	Le Dom' Ange				restaurant				
+node	4431041416	48.2058501	7.3598672	Auberge des Lavandières				restaurant	48		Grand'Rue	
+node	4431041417	48.2055001	7.3630018	Banette				cafe				
+node	4431041422	48.2060429	7.3611268	Animus				restaurant				
+node	4431041426	48.2056378	7.3616957	La Mosaique				restaurant				
+node	5060725301	48.2057047	7.3594696	La cour du Bailly				restaurant	57		Grand'Rue	
+relation	78647			Berrwiller	8	68500	68032					
+way	175768794	47.8466455	7.2058447	Auberge de la Ferme des Dahlias				restaurant		68500	Rue Linngasse	
+relation	85383			Bettlach	8	68480	68034					
+node	7473077094	47.5083176	7.4127574	Aux deux clefs				restaurant	77	68480	Rue de Bâle	
+relation	392326			Biederthal	8	68480	68035					
+node	6918613386	47.4707638	7.4484713	Bistrot Chez Mamie Flo				cafe	17	68480	Rue Principale	
+relation	69291			Biesheim	8	68600	68036					
+node	685084711	48.0413152	7.5394405	Hostellerie Groff - Aux deux clefs				restaurant				
+node	1256679777	48.0404330	7.5443586	l'Arlequin				restaurant				
+way	109867538	48.0414342	7.5395125	Hostellerie Groff - Aux Deux Clefs				restaurant	50	68600	Grand'Rue	
+relation	69059			Biltzheim	8	68127	68037					
+node	496266586	47.9456354	7.4290366	Terrasse du Circuit de l'Anneau du Rhin				pub				
+node	496266588	47.9454657	7.4290008	Salle de Restauration - A réserver - Pas de cuisinier				restaurant				
+relation	389840			Bisel	8	68580	68039					
+node	11239667076	47.5358301	7.2171745	Au Lion de Belfort				restaurant	1	68580	Rue Principale	
+relation	80360			Bitschwiller-lès-Thann	8	68620	68040					
+node	12656284457	47.8284176	7.0800850	La Primavera				restaurant				
+way	180745252	47.8289065	7.0789815	Aux saveurs du Thurtàl				restaurant	1	68620	Rue Joffre	
+relation	84450			Blodelsheim	8	68740	68041					
+node	1785595307	47.8853171	7.5401864	Chez Pierre				restaurant	28	68740	Rue du Canal d'Alsace	
+way	135799027	47.8738125	7.4918630	Auberge du Poney Parc				restaurant				
+relation	85288			Blotzheim	8	68730	68042					
+node	5785048562	47.6079919	7.5022622	L'Envol (Airport Club Hôtel)				restaurant	3	68730	Rue de l'Industrie	
+node	5785068073	47.5899181	7.4953256	Restaurant les «Terrasses Barrière»				restaurant	777	68730	Allée du Casino	
+way	146561377	47.5997793	7.4914971	La Crémaillère				restaurant				
+way	370703298	47.6086441	7.5071783	Saveurs du Monde				restaurant	36	68730	Rue du 19 November	
+way	722413555	47.6083031	7.5074343	Grill Show				restaurant	3	68730	Rue Pierre Clostermann	
+relation	78643			Bollwiller	8	68540	68043					
+node	5722474633	47.8603904	7.2609134	Brasserie du Parc				restaurant	12	68540	Rue de Soultz	
+relation	85662			Le Bonhomme	8	68650	68044					
+node	4074893402	48.1720649	7.1167732	Restaurant la Béhine				restaurant		68650	Rue du 3ème Spahis Algérien	
+node	4074893403	48.1720594	7.1181217	Restaurant la Schlitte				restaurant	68	68650	Rue du 3ème Saphis Algériens	
+node	10772635895	48.1722789	7.1128044	Vecchia Roma				restaurant	102	68650	Rue du 3e Spahis Algériens	
+way	115103369	48.1463918	7.0772162	Auberge du Vallon				restaurant				
+way	218343415	48.1362234	7.0879126	Auberge des Crêtes				restaurant				
+relation	80387			Bourbach-le-Haut	8	68290	68046					
+node	1803939062	47.8077878	7.0275681	Ferme Auberge Les Buissonets				restaurant	24	68290	Rue des Buissonnets	
+node	6967057730	47.7954039	7.0301797	La Framboiseraie				restaurant				
+relation	905902			Breitenbach-Haut-Rhin	8	68380	68051					
+node	928060353	48.0026031	7.1105792	Ferme-Auberge du Lameysberg				restaurant				
+way	66592809	48.0044305	7.1222186	Ferme Auberge Christlesgut				restaurant				
+relation	47919			Bruebach	8	68440	68055					
+way	171198940	47.7022810	7.3602509	A La Bonne Table				restaurant				
+relation	5815702			Brunstatt-Didenheim	8	68350	68056					
+node	1872862820	47.7290259	7.3230614	Pinochetto				restaurant	258	68350	Avenue d'Altkirch	
+node	1880387831	47.7217871	7.3183533	Le Relais de Brunstatt				restaurant				
+node	1933340442	47.7252351	7.3202346	Le Marigny				bar				
+node	1933340460	47.7265615	7.3213786	Pizza Hut				restaurant				
+node	3714112067	47.7215613	7.3178009	Au Cheval Blanc				restaurant	380		Avenue d'Altkirch	
+node	5609851755	47.7240317	7.3391258	Relais H Café				cafe				
+node	9738975461	47.7310009	7.3200991	Le Secret				restaurant				
+relation	78944			Buhl	8	68530	68058					
+node	8543278146	47.9208018	7.1703011	Le Jardin des Saveurs				restaurant	53	68530	Rue de Murbach	
+way	70798033	47.9346774	7.1819474	L'Anémone du Florival				restaurant	23	68530	Rue du Colonel Bouvet	
+way	70798197	47.9312915	7.1831515	Restaurant Caveau au Soleil d'Or				restaurant	6	68530	Rue du Colonel Bouvet	
+way	70799129	47.9245296	7.1931087	Pizzeria Il Piccantino				restaurant	40	68530	Rue de la Fabrique	
+relation	387674			Burnhaupt-le-Bas	8	68520	68059					
+way	181769423	47.7127145	7.1658930	Le Cabanon				restaurant				
+relation	80195			Burnhaupt-le-Haut	8	68520	68060					
+node	12666356568	47.7420886	7.1346767	La table de Cathy				restaurant	17		Route de Guewenheim	
+way	181740697	47.7394625	7.1468660	Restaurant Au Pont d'Aspach				restaurant				
+way	181740796	47.7402290	7.1442710	Au lion d'or				restaurant	1	68520	Pont d'Aspach	
+way	181740928	47.7413600	7.1489335	Hôtel Restaurant Le Coquelicot				restaurant				
+relation	111628			Carspach	8	68130	68062					
+node	4560946912	47.6164158	7.2128037	Restaurant à la Couronne				restaurant	9	68130	Rue de Steinsoultz	
+node	12593029802	47.6241367	7.2253441	Restaurant self service Marie Pire				restaurant				
+relation	48090			Cernay	8	68700	68063					
+node	1930560392	47.8094632	7.1757051	Bar chez Marie				bar				
+node	1930948915	47.8089785	7.1776003	La Baie d'Halong				restaurant	17 a	68700	Rue Clemenceau	
+node	2921982901	47.7939366	7.1659562	Crescendo				restaurant				
+node	4133488473	47.8042207	7.1761320	Chez Aldo				restaurant	45		Rue Poincaré	
+node	4133501172	47.8067191	7.1756181	Spiga d'Oro				restaurant	31		Rue Poincaré	
+node	4811243131	47.7919168	7.2010996	La Palombière				restaurant				
+node	9295814189	47.7957219	7.1716968	Le Palais de Cernay				restaurant	1	68700	Rue de la Charité	
+node	9889912917	47.8092550	7.1797825	La suite				restaurant				
+way	81035296	47.8103386	7.1711351	Restaurant Papa Joe				restaurant	14	68700	Faubourg des Vosges	
+way	81035324	47.8094286	7.1748556	Ben's Pizza				restaurant				
+way	81624274	47.8045283	7.1703300	Pizza Marina's				restaurant				
+way	684817732	47.7931842	7.1729049	Buffalo Grill				restaurant	2		Rue de Normandie	
+way	1071515625	47.7953160	7.1608030	Au Bureau				restaurant	5	68700	Place des Étoiles	
+way	1071515626	47.7959029	7.1610857	Volfoni				restaurant	3	68700	Place des Étoiles	
+relation	387394			Chavannes-sur-l'Étang	8	68210	68065					
+way	165480700	47.6312698	7.0238354	La Pizzathèque				restaurant				
+way	165635254	47.6333135	7.0127515	Ancienne frontière				bar				
+relation	61423			Colmar	8	68000	68066					
+node	247105450	48.0559665	7.3514552	Aux Amis de la Lauch				restaurant				
+node	260422019	48.0770025	7.3601363	Brasserie des Arcades				restaurant		68000	Grand'Rue	
+node	266643987	48.0781074	7.3581941	Le Flamm's				restaurant				
+node	609628471	48.0748936	7.3574410	Restaurant le Zinc				restaurant	45	68000	Grand'Rue	
+node	614311651	48.0753613	7.3592922	Crêperie CrêP'Stub				restaurant				
+node	614702057	48.0767432	7.3580154	Le café des marchands				bar				
+node	614720266	48.0775069	7.3615240	La cochonaille				restaurant	1	68000	Rue de la Grenouillère	
+node	616254494	48.0791035	7.3573242	O'Rabbit's				pub	47			
+node	658603930	48.0747300	7.3439514	Via Roma				restaurant				
+node	658611176	48.0726774	7.3477154	L'Auberge				restaurant				
+node	895655251	48.0729377	7.3571515	Caveau Saint-Pierre				restaurant				
+node	1265168883	48.0737254	7.3567506	A l'Echevin				restaurant				
+node	1268459891	48.1124723	7.3650885	La Boucherie				restaurant				
+node	1767711098	48.0979668	7.3364878	Restaurant de la Hardt				restaurant				
+node	1865773754	48.0799834	7.3562339	Restaurant Pfeffel				restaurant				
+node	2001013191	48.0769048	7.3587952	Le 3				restaurant				
+node	2274264116	48.0742152	7.3569345	Bistrot des Lavandières				restaurant				
+node	2274264141	48.0765091	7.3581147	Le Schongauer				restaurant				
+node	2395447588	48.0772137	7.3377028	Le Petit Caprice				cafe				
+node	2427277687	48.0725917	7.3324125	Salon de thé Eda				cafe				
+node	2630574193	48.0773957	7.3598910	Le Flory				restaurant	5	68000	Rue Mangold	
+node	2659210568	48.0759532	7.3598563	Chez moi				bar				
+node	2665181247	48.0848992	7.3569206	L'île au saveur gastronomique				restaurant				
+node	2665184003	48.0805870	7.3636122	Tinto Café				cafe	5		Route de Sélestat	
+node	2665263752	48.0819681	7.3524568	O Pizza				restaurant				
+node	2668192558	48.0780072	7.3625633	L'Incontournable				restaurant				
+node	2726836496	48.0964687	7.3697950	La Pataterie				restaurant				
+node	2741685396	48.0962073	7.3692559	Milligusto				restaurant				
+node	2935854850	48.0782956	7.3611256	Le Petit Schlossberg				restaurant	2	68000	Rue de l'Ange	
+node	3172252962	48.0816667	7.3557820	Ristorante Del Arte				restaurant		68000	Cinéma CGR	
+node	3523582093	48.0778070	7.3577280	Jupiler Café				cafe				
+node	3618136262	48.0747180	7.3453184	Restaurant vingt-sept				restaurant				
+node	3618136287	48.0721031	7.3383466	Le Hagueneck				bar				
+node	3618136607	48.0782174	7.3307250	Brasserie Colmar II				bar				
+node	3618164931	48.0809040	7.3465912	Le Grain				restaurant				
+node	3618284506	48.0810836	7.3494432	Café Bellevue				cafe				
+node	3618284518	48.0846397	7.3428272	Taxim				cafe				
+node	3618284522	48.0834278	7.3402202	Pizzeria le Sorrento				restaurant				
+node	3618284528	48.0850378	7.3389729	Pizza aux 4 saisons				restaurant				
+node	3618284534	48.0875440	7.3278285	Le Bosphore				cafe				
+node	3619696130	48.0680109	7.3443769	La Storia				restaurant				
+node	3642211580	48.0761767	7.3590368	Murphy's				bar				
+node	3914081864	48.0792696	7.3519880	Le 20ème				restaurant				
+node	3914107878	48.0792033	7.3599949	Matoine Bistrot vivant				restaurant				
+node	3914128984	48.0760280	7.3560442	L'Un des Sens				restaurant				
+node	3914128985	48.0778421	7.3627860	Les Racines				restaurant				
+node	3914163789	48.0775528	7.3561914	La Cocotte de Grand-Mère				restaurant				
+node	4213390142	48.0762968	7.3595789	Schwendi Bier- un Wistub				restaurant				
+node	4213398075	48.0791979	7.3617367	Pause café				cafe	37	68000	Rue Vauban	
+node	4213748511	48.0767664	7.3576921	Au Croissant Doré				cafe				
+node	4242832839	48.0779278	7.3302841	Europe				restaurant				
+node	4339551806	48.0772963	7.3591627	L'atelier de Yann				cafe				
+node	4369701591	48.0773548	7.3563297	Glacier Gelatissimo				cafe				
+node	4370709413	48.0774990	7.3575444	Pâtisserie J. C. Clergue				cafe				
+node	4505716689	48.0793861	7.3622475	Le Mamie Mosa				restaurant	44	68000	Rue Vauban	
+node	4509121289	48.0773035	7.3616775	Quill & Cup				cafe	4	68000	Rue de la Grenouillère	
+node	4541087789	48.0779054	7.3581038	L'Amandine				restaurant				
+node	4594398132	48.0778965	7.3304259	l'Etoile				restaurant				
+node	4837535621	48.0768318	7.3524096	Le Treize				bar				
+node	4887434444	48.0761670	7.3553680	Ô cordon bleu				restaurant				
+node	4922189609	48.0751297	7.3582201	Les Incorruptibles				bar				
+node	4922191481	48.0739955	7.3570053	Le Comptoir de Georges				restaurant				
+node	4922191482	48.0752767	7.3584323	James’on Pub				pub				
+node	4922192007	48.0755745	7.3589461	Café a l'ancienne douane				cafe				
+node	4972590921	48.0812676	7.3577158	La baie de Tien Sa				restaurant				
+node	4973369323	48.0754232	7.3587012	coulmoer				restaurant				
+node	5037097934	48.0731397	7.3576268	Lüser Stub				restaurant				
+node	5054370134	48.0755070	7.3588233	Restaurant au Chaudron				restaurant				
+node	5528490095	48.0765453	7.3561838	Au Soleil Levant				restaurant				
+node	5627958047	48.0774774	7.3603318	Djerba La Douce				restaurant	1A	68000	Rue Mangold	
+node	5807929496	48.0800573	7.3506904	Winstub Le Cygne				restaurant				
+node	5826327245	48.0759830	7.3586503	Le Fer Rouge				restaurant				
+node	5992726285	48.0849978	7.3570524	L'île aux tacos				restaurant				
+node	5992901385	48.0782473	7.3573186	Le Stam				restaurant	1	68000	Place des Dominicains	
+node	6150834813	48.0791580	7.3589066	L'Orange Mécanique				bar				
+node	6328529504	48.0979057	7.3554406	Collis Martis				restaurant				
+node	6414636897	48.0745275	7.3605482	Version Originale 68				restaurant				
+node	6416145186	48.0789272	7.3562553	1924 les Cafés				cafe				
+node	6422009733	48.0770276	7.3577290	Le Bistrot des Copains				restaurant				
+node	6425536890	48.0753418	7.3585320	Sport’s Cafe				pub				
+node	6641100779	48.0732356	7.3482451	Le Grillon				pub				
+node	6641119694	48.0733090	7.3475593	Starsmash by Amixem/Pepe chicken				restaurant	10	68000	Place de la Gare	
+node	6660605002	48.0730884	7.3480954	Nova Club				nightclub				
+node	6694248645	48.0772121	7.3566733	Mamma Giovanna				restaurant				
+node	6832823289	48.0768890	7.3600084	Le Boudoir				cafe				
+node	6852401764	48.0749397	7.3571920	La Stub				restaurant				
+node	7006667297	48.0755046	7.3590974	Le Petit Tanneur				restaurant				
+node	7090811085	48.0796652	7.3575863	Les délices du Maroc				restaurant	5		Place de la Mairie	
+node	7168267788	48.0758516	7.3585275	Jadis et Gourmande				restaurant				
+node	7209049771	48.0803650	7.3556834	Café Restaurant Schongauer				restaurant			Place d'Unterlinden	
+node	7209087359	48.0740898	7.3599995	L’Artémise				cafe				
+node	7230513485	48.0744937	7.3604712	Flamm'Anna				restaurant				
+node	7410881985	48.0790184	7.3578032	Starbucks				cafe				
+node	7410883786	48.0761226	7.3587833	Le Bistrot				cafe				
+node	7448621513	48.0768413	7.3615983	Le Ramloc				restaurant				
+node	7448729484	48.0746423	7.3572515	L'atelier des Saveurs				restaurant				
+node	7993096321	48.0745552	7.3595661	Cuit Lu Cru				restaurant				
+node	7993096322	48.0770580	7.3526322	Tabula Rasa				restaurant	22	68000	Avenue de la République	
+node	8034183672	48.0763265	7.3584560	La Soï				restaurant				
+node	8034224075	48.0761507	7.3586143	Chez Hansi				restaurant				
+node	8112240148	48.0763713	7.3592736	La Romantica				restaurant				
+node	9089424840	48.0797932	7.3628955	Adriatico				restaurant				
+node	9089424842	48.0797810	7.3619204	Pizzeria Da Maurizio				restaurant				
+node	9089424843	48.0785239	7.3612880	Au Petit Vauban				restaurant	15	68000	Rue Vauban	
+node	9124207739	48.0790221	7.3598616	Lucca e dintorni				restaurant				
+node	9162203359	48.0772653	7.3617891	Le Bar et Vous				cafe	6	68000	Rue de la Grenouillère	
+node	9162300821	48.0772592	7.3613712	L’ardoise				cafe	1	68000	Rue du Chasseur	
+node	9162302020	48.0771043	7.3613266	Au Chasseur				restaurant	4	68000	Rue du Chasseur	
+node	9165752878	48.0784829	7.3606828	La Baie d'Halong				restaurant				
+node	9275198698	48.0753484	7.3706524	Brasserie du Grillen				pub	31	68000	Rue des Jardins	
+node	9311721432	48.0804877	7.3564924	El Barrio				bar		68000	Rue du Rempart	
+node	9311762630	48.0802735	7.3563895	Crêp’ôz				restaurant				
+node	9311767317	48.0802271	7.3563698	La Petite Alsace				restaurant				
+node	9891724329	48.0790333	7.3618171	Au Temps d’un Verre				bar	36	68000	Rue Vauban	
+node	10073340959	48.1062822	7.3722046	JAF				bar	16	68000	Rue André Kiener	
+node	10286404309	48.0772285	7.3602170	Le palais gourmand				restaurant	14	68000	Grand'Rue	
+node	10554658485	48.1071667	7.3715108	Ô Tour du Grill				restaurant	8		Rue Curie	
+node	11074915105	48.0776986	7.3596679	Sushia				restaurant	3	68000	Rue du Mouton	
+node	11112555926	48.0753307	7.3579927	Mokka				cafe	35		Grand'Rue	
+node	11150962770	48.0779657	7.3568655	Dussourd				restaurant				
+node	11196155652	48.0777231	7.3576783	La Place 23				restaurant				
+node	11285642813	48.0806070	7.3638949	Bö & Zine				restaurant	2		Route de Sélestat	
+node	11311230207	48.0795197	7.3620868	La Taverne de Schongauer				restaurant				
+node	11311290981	48.0789276	7.3617247	Savannah Café Restaurant				restaurant	30	68000	Rue Vauban	
+node	11311294801	48.0791949	7.3623681	Checkpoint				bar	1	68000	Rue des Tilleuls	
+node	11311294802	48.0782115	7.3612501	Suki				restaurant	6	68000	Rue Vauban	
+node	11463459869	48.0744386	7.3567768	Le Palmyre				restaurant	1		Rue du Canard	
+node	11472948572	48.0789786	7.3564917	Brasserie du Musée				restaurant				
+node	11901220286	48.0740580	7.3581879	Café de la Lauch				cafe	7	68000	Rue de la Poissonnerie	
+node	11901220290	48.0748545	7.3588336	Maison Rouge				restaurant				
+node	11901220291	48.0739316	7.3562895	Les Six Montagnes				cafe				
+node	11901220294	48.0751825	7.3582993	La Taverne				restaurant				
+node	11901871858	48.0821031	7.3556885	Au Bureau				restaurant				
+node	11958852969	48.0825579	7.3553614	Muang Thai				restaurant	21	68000	Rue de la 5e Division Blindée	
+node	11960840865	48.0764671	7.3583358	Ma.Dam Coffee				cafe				
+node	12078050431	48.0795296	7.3542577	Le théâtre				restaurant				
+node	12144197050	48.0752913	7.3593562	Brasserie des Tanneurs				restaurant	12	68000	Rue des Tanneurs	
+node	12381004180	48.0742073	7.3561655	La Cabane Locale (The Local Shack)				cafe	4	68000	Rue des Blés	
+node	12492863811	48.1019544	7.3672490	Airlunch				restaurant	10		Rue Émile Schwoerer	
+node	12610472757	48.0806695	7.3574116	Sushi Chez Na ＆ Hana Kiri				restaurant	39		Cours Sainte-Anne	
+node	12625800585	48.0775991	7.3602335	Pizza Dos				restaurant	8	68000	Rue du Mouton	
+node	12625800587	48.0772195	7.3597396	Petit à petit - Omnino				cafe	8	68000	Rue Morel	
+node	12643693536	48.0812763	7.3584870	Brasserie du Nord				pub				
+node	12855645501	48.0655369	7.3617174	Marché Frais				restaurant	106		Route de Bâle	
+node	12921650498	48.0763126	7.3573314	Mannala Pils				bar				
+node	12961098517	48.0751831	7.3574280	L'entre-pot				cafe				
+node	13015780602	48.0763150	7.3592194	Winstub Factory				restaurant	42		Grand'Rue	
+node	13016852927	48.0738057	7.3572289	Les Bateliers				restaurant				
+node	13019156802	48.0791656	7.3558189	Nagoya				restaurant				
+node	13019168801	48.0760808	7.3600763	AMETY Café / Coffee, Breakfast & Brunch				cafe	6	68000	Rue des Tripiers	
+node	13088868896	48.0781239	7.3589676	Little Italy				restaurant	12	68000	Rue des Prêtres	
+node	13096945111	48.0762806	7.3577962	L'Augustin				bar	3	68000	Rue Schongauer	
+node	13108858336	48.0767796	7.3523559	L'Art d'Orient				cafe				
+node	13135174201	48.0809961	7.3541459	Kitsuné & Tanuki				cafe	28	68000	Rue Golbéry	
+node	13265557585	48.0776456	7.3614036	Le cercle des arômes				bar				
+node	13267263890	48.0768380	7.3574838	La Pergola				restaurant				
+node	13268374049	48.0801036	7.3658172	La Kilbe				restaurant	37	68000	Route de Neuf-Brisach	
+node	13338680001	48.0761138	7.3595700	Deer & beer				bar				
+node	13338862301	48.0749816	7.3572389	Les 3 Singes				bar				
+node	13367927002	48.0823037	7.3520323	Le Silex				restaurant				
+node	13367943874	48.0799772	7.3561341	Winstub Unterlinden				restaurant				
+node	13378644599	48.0762404	7.3553404	Raphy's bar				bar				
+node	13390644187	48.0744978	7.3568245	Le Maharaja				restaurant	82	68000	Grand'Rue	
+node	13444736335	48.0841743	7.3505608	Lyd'île				restaurant	1		rue des papeteries	
+node	13730436501	48.0734171	7.3592448	Bar M				cafe				
+node	13825102502	48.0792369	7.3590872	Aux Armes de Colmar				restaurant	2b	68000	Rue Rapp	
+node	13891474421	48.0759841	7.3596705	Au Koifhus				restaurant				
+node	13894162534	48.0788472	7.3614873	La petite colmarienne				restaurant	25	68000	Rue Vauban	
+node	13912215007	48.0759147	7.3604470	Mokxa				cafe				
+node	14017789464	48.0731271	7.3481355	Le Cerf Noir				restaurant				
+node	14060121703	48.0742542	7.3601000	Le Quai 21				restaurant				
+node	14075259578	48.0768217	7.3599204	La Galeria				restaurant				
+node	14087393402	48.0758648	7.3603971	Mokxa Colmar				cafe	7	68000	Rue de la Montagne Verte	
+node	14221234734	48.0812585	7.3576193	Restaurant Sahmeran				restaurant	4A		Rue Golbéry	
+node	14239889916	48.0746805	7.3599889	Restaurant & Salon de Thé Cuit le Cru				restaurant	13		Rue des Écoles	
+node	14240155391	48.0739863	7.3585470	La Bonneterie				bar	10	68000	Rue de la Poissonnerie	
+node	14274324673	48.0755275	7.3534339	JY'S				restaurant				
+node	14274326609	48.0769150	7.3573210	L'entre Coeur				restaurant				
+relation	377117	48.0784639	7.3556143	La Maison des têtes				restaurant				
+way	47909272	48.0772597	7.3717504	Restaurant Universitaire				restaurant				
+way	48359437	48.0790686	7.3615379	Anadolu				restaurant	31	68000	Rue Vauban	
+way	48392542	48.0759457	7.3601502	La Cour des Anges				restaurant				
+way	48400146	48.0763227	7.3580011	L'Atelier du Peintre				restaurant				
+way	48438550	48.0813540	7.3537610	Chez Kuna - Au Canon d'Or				restaurant				
+way	48502995	48.0786839	7.3572698	Les Dominicains				restaurant	1	68000	Rue de Reiset	
+way	48507898	48.0774877	7.3570860	Restaurant du Marché				restaurant	20	68000	Place de la Cathédrale	
+way	48509843	48.0781214	7.3559846	Le Bartholdi				restaurant				
+way	48535329	48.0767830	7.3595729	Sézanne				restaurant				
+way	48546430	48.0785631	7.3544183	La Loge				restaurant				
+way	48549563	48.0779734	7.3534667	Le Meistermann				restaurant				
+way	48755436	48.0739730	7.3580397	Wistub de la Petite Venise				restaurant				
+way	48755440	48.0740876	7.3577972	Winstub La Krutenau				restaurant				
+way	48755443	48.0739188	7.3577846	Wistub Brenner				restaurant				
+way	48755450	48.0741039	7.3587076	Bord'eau				restaurant				
+way	48755456	48.0739939	7.3593988	La Fleur de Sel				restaurant				
+way	48755466	48.0741381	7.3603355	L'Epicurien				restaurant				
+way	50999895	48.0597784	7.3804273	Auberge du Dachsbuhl				restaurant				
+way	50999897	48.0590550	7.3809028	Auberge du Neuland				restaurant	2		Chemin du Neuland	
+way	51097929	48.1129993	7.3371560	Restaurant, Salon de thé, Glaces "Waldeslust"				restaurant	79		Chemin de la Fecht	
+way	51256062	48.1069717	7.3860063	Restaurant du Ladhof				restaurant				
+way	51256991	48.1014770	7.3615255	Wok 168				restaurant				
+way	53157683	48.1021771	7.3617476	Léon de Bruxelles				restaurant				
+way	388095685	48.0772622	7.3534756	Café Rapp				restaurant				
+way	395119726	48.0540303	7.3629307	Auberge du Lac				restaurant				
+relation	85434			Courtavon	8	68480	68067					
+node	9919072927	47.4694517	7.2068450	Les 2 Barges				restaurant			Route de Liebsdorf	
+relation	392317			Dannemarie	8	68210	68068					
+node	5591014376	47.6314206	7.1200810	La Meunière				cafe	13	68210	Place de l'Hôtel de Ville	
+node	7656726882	47.6355188	7.1156933	Aux 100 pâtes				restaurant	7	68210	Rue du Canal	
+node	10873239472	47.6283792	7.1251058	Au bonheur des ogres				restaurant	15		Rue de la Gare	
+node	13003865745	47.6302554	7.1197214	Le Cap Vers...				restaurant				
+relation	386307			Diefmatten	8	68780	68071					
+node	6511995746	47.7070597	7.1167368	Au Cheval Blanc				restaurant				
+relation	80453			Dolleren	8	68290	68073					
+node	9074920923	47.7937119	6.9224408	Auberge du Schlumpf				restaurant	22	68290	Route du Schlumpf	
+relation	391224			Durmenach	8	68480	68075					
+node	5878510820	47.5288885	7.3418291	La Cave au G'Rhin				cafe	46	68480	Rue du Chemin de Fer	
+relation	386534			Eglingen	8	68720	68077					
+node	1812135451	47.6656527	7.1832172	Restaurant À l'Arbre Vert				restaurant	18	68720	Rue Principale	
+relation	79442			Eguisheim	8	68420	68078					
+node	2835118553	48.0418791	7.3045626	La Grangelière				restaurant				
+node	2835118554	48.0431801	7.3044998	Le Pavillon Gourmand				restaurant	101		Rue du Rempart Sud	
+node	4195684046	48.0428615	7.3057280	Salon de Thé de la Boulangerie Marx				restaurant				
+node	5027986621	48.0423858	7.3038218	Restaurant Au Vieux Porche				restaurant	16	68420	Rue des Trois-Châteaux	
+node	5079043209	48.0436264	7.3050338	Le Café				bar		68420	Rue de l'Allmend Nord	
+node	5079043210	48.0428149	7.3052242	Caveau Heuhaus - Bar Restaurant Winstub				restaurant				
+node	5079043211	48.0430651	7.3058103	Hôtel Auberge des Trois Châteaux				restaurant	26		Grand'Rue	
+node	5079043212	48.0424590	7.3059243	Le Caveau des Douceurs				restaurant	6		Rue du Château	
+node	5079043214	48.0428096	7.3066767	La Taverne du Chateau				restaurant				
+node	5079043216	48.0427988	7.3062193	A. Edel				restaurant				
+node	7005859285	48.0417716	7.3065589	L’atelier De Bene				restaurant				
+node	10746251963	48.0436286	7.3066226	Dagsbourg				restaurant				
+node	11051096104	48.0422257	7.3045565	Timothy's Le Brasseur du Pape				bar				
+node	11051119361	48.0426805	7.3055366	La trot à fromage				restaurant				
+node	12415277528	48.0442063	7.3128283	The Little Roof				bar	3	68420	Rue du Malsbach	
+node	13074873850	48.0423675	7.3063401	kas'fratz				restaurant	7	68420	Rue du Château	
+node	13282846214	48.0422276	7.3095426	Hostellerie du Pape				restaurant				
+way	54842918	48.0434913	7.3044202	A la Ville de Nancy				restaurant	2	68420	Place Charles de Gaulle	
+way	81928459	48.0429284	7.3064885	Caveau d'Éguisheim				restaurant				
+way	82215719	48.0400760	7.3213609	Belle-Vue				restaurant				
+relation	68743			Ensisheim	8	68190	68082					
+node	3013053168	47.8651607	7.3541251	Pizzeria Juve				restaurant				
+node	4970278025	47.8661207	7.3520529	Au bœuf rouge				restaurant				
+node	7787149485	47.8662821	7.3560373	Le Kellian				restaurant				
+node	9294356641	47.8738796	7.3517558	Restaurant La Flamme				restaurant				
+node	10927964607	47.8652644	7.3512754	La diligence				restaurant				
+node	11145688136	47.8656209	7.3557004	La Boule d'Or				cafe				
+node	11148617413	47.8655326	7.3520005	Le Yacht				restaurant				
+node	12749347432	47.8651116	7.3526597	L'Orchidée				restaurant	47		Rue de la 1re Armée Française	
+way	365090217	47.8723407	7.3523828	Planet Pizza				restaurant				
+relation	913749			Eschbach-au-Val	8	68140	68083					
+way	97624622	48.0221500	7.1356115	Auberge Obersolberg				restaurant	117	68140	Ober Solberg	
+relation	389860			Feldbach	8	68640	68087					
+way	179395559	47.5356415	7.2649145	Restaurant Au Cheval Blanc				restaurant	1	68640	Rue de Bisel	
+relation	78638			Feldkirch	8	68540	68088					
+node	1787110579	47.8538472	7.2704591	Auberge chez Anselme				restaurant				
+relation	948948			Fellering	8	68470	68089					
+node	3096869943	47.9239726	7.0301064	Le Tremplin				restaurant		68610		
+node	7709857761	47.8864370	6.9961492	Crêpeline				cafe	5	68470	Rue des Fabriques	
+way	181710223	47.9233282	7.0088774	Ferme-Auberge du Treh				restaurant				
+way	218472404	47.9236327	7.0294932	Bar Bichettes				restaurant				
+way	218476549	47.9275643	6.9260800	Ferme Auberge du Felsach				restaurant		68470	Lieu dit le Felsach	
+way	218477300	47.8950860	6.9869790	Le Saisonnier				restaurant	45	68470	Grand'Rue	
+relation	393223			Ferrette	8	68480	68090					
+node	3694004173	47.4941655	7.3149477	Caveau Saint-Bernard				restaurant	10	68480	Rue du Château	
+node	3694007534	47.4942154	7.3142259	Hôtel Restaurant Collin				restaurant	4	68480	Rue du Château	
+node	3695730678	47.4945307	7.3130291	Aux 5 Etoiles Chinoises				restaurant				
+node	6449228958	47.4941874	7.3135549	La Palette des Pains Boulangerie Fritschy				cafe				
+node	8037723089	47.4943272	7.3132823	Au Cheval Blanc				restaurant				
+relation	84449			Fessenheim	8	68740	68091					
+node	301464112	47.9147862	7.5376764	Le Bistrot de la Diligence				restaurant				
+node	301465098	47.9151651	7.5369923	Pizzeria Al Pescator				restaurant				
+node	9781596502	47.9151933	7.5373916	Tacos d'Orient				restaurant				
+relation	85389			Folgensbourg	8	68220	68094					
+node	11837628401	47.5499679	7.4406576	A l'Aigle				restaurant	55		Rue de Delle	
+relation	83751			Fréland	8	68240	68097					
+node	1313861452	48.1814678	7.1844436	Restaurant "Les Verts Bois"				restaurant	3	68240	Rue de la Fonderie	
+node	4074893406	48.1703346	7.1936441	Restaurant le Kalblin				restaurant	48	68240	Grand Rue	
+node	7188839319	48.1697337	7.1936169	Le restaurant du musée				restaurant				
+relation	388460			Friesen	8	68580	68098					
+way	168532348	47.5658509	7.1495727	Restaurant de la Carpe				restaurant	60	68580	Rue Principale	
+relation	915853			Geishouse	8	68690	68102					
+way	218783681	47.9049014	7.0894821	Ferme Auberge du Haag				restaurant		68690	Grand Ballon	
+way	218795701	47.8831600	7.0598940	L'Auberge des Vosges				restaurant				
+way	218795763	47.8805130	7.0586230	Restaurant au Relais du Grand Ballon				restaurant				
+relation	84340			Geiswasser	8	68600	68104					
+node	9033418650	47.9792649	7.5974549	Cafe Du Cerf Mutzig				cafe				
+relation	912406			Gommersdorf	8	68210	68107					
+node	8222009155	47.6406759	7.1303254	L'auberge du Tisserand				restaurant				
+relation	79424			Gueberschwihr	8	68420	68111					
+node	2810536247	48.0038731	7.2750923	Le Goldert				restaurant				
+node	2810536254	48.0044441	7.2805662	Restaurant Belle-Vue				restaurant	29		Rue des Forgerons	
+node	2810540782	48.0030941	7.2752333	Taverne Mediévale				restaurant				
+node	2810541269	48.0027973	7.2761820	L'Auberge				restaurant				
+node	12425958341	48.0036844	7.2750283	Utopie				restaurant	10		Rue Haute	
+way	67253776	48.0035348	7.2601863	Auberge Saint-Marc				restaurant				
+relation	78931			Guebwiller	8	68500	68112					
+node	1762639734	47.9096184	7.2111511	Pâtisserie Helfter				cafe				
+node	1964881677	47.9065776	7.2126452	wah wah				bar				
+node	2467568376	47.9105375	7.2048082	cercle St Léger				restaurant				
+node	2467568377	47.9109695	7.2061990	Au Petit Gourmet				restaurant				
+node	4366255768	47.9074290	7.2101916	Pizza Idea				restaurant				
+node	5009133193	47.9133962	7.2061587	Le California Café				bar				
+node	5363175999	47.9119647	7.2093918	La Taverne du Vigneron				restaurant				
+node	5830634686	47.9197848	7.1955277	Pizzeria du Lac				restaurant	244	68500	Rue de la République	
+node	7501770066	47.9201574	7.1963373	Les Terrasses				restaurant	244	68500	Rue de la République	
+node	8691593982	47.9079906	7.2127932	La Louve				restaurant				
+node	8709343296	47.9121042	7.2083268	Le Meridien				restaurant				
+node	8709416573	47.9077800	7.2128638	Chez Raphy - La Coupole				restaurant				
+node	10278215790	47.9067403	7.2177070	L'Antica Stazionne				restaurant				
+node	12851634401	47.9034852	7.2253130	Crêperie Chez Pascaline				restaurant	2		Rue du Saering	
+node	14196566881	47.9072581	7.2138530	chez nonno et robert				restaurant				
+node	14196631032	47.9074545	7.2136214	le liberios				bar				
+way	70322961	47.9039811	7.1968256	Auberge du Vallon				restaurant				
+way	70322984	47.9112915	7.2100268	Winstub Le Bratzala Chez Paulette				restaurant	32	68500	Rue de l'Église	
+way	70327248	47.9070464	7.2164013	Hôtel-Restaurant de l'Ange				restaurant	4	68500	Rue de la Gare	
+relation	66768			Guémar	8	68970	68113					
+node	4430484927	48.1877229	7.4026530	Kaysers + Nicola				cafe				
+relation	392512			Guevenatten	8	68210	68114					
+node	9168176507	47.6789523	7.0820471	Storkahus				restaurant	3	68210	Rue Principale	
+relation	80340			Guewenheim	8	68116	68115					
+node	7069190321	47.7529312	7.0918353	Aux 2 Clefs				restaurant				
+node	9181008912	47.7492295	7.0923063	Restaurant de la Gare				restaurant				
+relation	913747			Gunsbach	8	68140	68117					
+way	97758036	48.0454427	7.1671250	Le Restaurant de la Maison du Fromage				restaurant	23		Rue de Munster	
+relation	47924			Habsheim	8	68440	68118					
+node	12804343351	47.7300391	7.4163918	La Belle Époque				restaurant				
+relation	85322			Hagenthal-le-Bas	8	68220	68120					
+way	178159848	47.5229010	7.4787540	Pizzeria Puglia				restaurant				
+relation	85378			Hagenthal-le-Haut	8	68220	68121					
+node	9521091977	47.5198279	7.4692601	Relais des bains				restaurant				
+relation	78652			Hartmannswiller	8	68500	68122					
+node	14306684749	47.8600347	7.2087532	Amitié - La Cuisine du Château				restaurant	49	68500	Route de Cernay	
+way	159086759	47.8580139	7.1762875	Cantine Zeller				restaurant				
+relation	79414			Hattstatt	8	68420	68123					
+way	242110816	48.0072063	7.2972087	L'Altévic				restaurant				
+relation	85272			Hégenheim	8	68220	68126					
+node	1940908847	47.5703341	7.5429287	La Buffala				restaurant	110	68220	Rue de Bourgfelden	
+node	4410009632	47.5614290	7.5272363	China Town				restaurant	8	68220	Rue de Bourgfelden	
+node	4418106096	47.5619623	7.5264928	Boeuf Rouge				restaurant				
+node	5025053326	47.5613224	7.5256284	La Roma Ristorante				restaurant	6		Rue de Hagenthal	
+node	5599303477	47.5616208	7.5285372	Colazzione da Tiffany				cafe	28	68220	Rue de Bourgfelden	
+node	5644503010	47.5607014	7.5309895	Aux armes de Bâle (chez Lucie)				restaurant	15	68220	Rue d'Allschwil	
+relation	386127			Heimsbrunn	8	68990	68129					
+node	631468786	47.7276803	7.2270242	Café au Soleil d'Or				cafe				
+way	182378401	47.7265218	7.2187656	Restaurant Strauss				restaurant			Rue de la forêt	
+relation	84376			Heiteren	8	68600	68130					
+way	148190634	47.9473695	7.5481490	La Table du Pélerin				restaurant				
+relation	79438			Herrlisheim-près-Colmar	8	68420	68134					
+node	13444694083	48.0193914	7.3284543	Le coin du meunier				restaurant	1		place de l'école	
+relation	85277			Hésingue	8	68220	68135					
+node	12967108737	47.5941250	7.5368420	Chez Élie				restaurant				
+way	173901277	47.5753244	7.5223585	Le Salerno				restaurant	36	68220	Rue du Général de Gaulle	
+way	173910504	47.5790815	7.5353805	Grand Fusion				restaurant	75		Rue de Saint-Louis	
+way	450189504	47.5757160	7.5197475	Auberge Au Cheval Blanc				restaurant				
+relation	389390			Hirsingue	8	68560	68138					
+node	1830173359	47.5901861	7.2548610	Auberge des Trois Vallées				restaurant				
+node	1843661471	47.5877576	7.2540601	Salon de thé				cafe				
+node	9633343616	47.5837050	7.2487741	Le petit grain de sel				restaurant	40	68560	Rue du Général de Gaulle	
+relation	111637			Hirtzbach	8	68118	68139					
+node	1827315376	47.6000432	7.2238734	Restaurant de la Gare Munzenberger				restaurant				
+node	1828346248	47.5938265	7.2198767	À la Couronne				cafe				
+relation	69055			Hirtzfelden	8	68740	68140					
+way	452540976	47.9119639	7.4461753	Côté Cuisine				restaurant	1		Rue du Schmollgasse	
+relation	5815707			Porte-du-Ried	8	68320	68143					
+node	6665003486	48.1128881	7.4218219	Au tonneau d'or				restaurant				
+relation	83847			Horbourg-Wihr	8	68180	68145					
+node	3201790665	48.0730827	7.4068286	New Wok Tao				restaurant				
+node	10124204441	48.0810866	7.3940546	L'Esprit Libre				restaurant				
+node	10798809670	48.0779270	7.4029130	Brasserie Winstub				restaurant				
+node	10994967387	48.0766606	7.4043403	Lounge Beers				bar	2	68180	Rue de Strasbourg	
+node	12901734533	48.0816443	7.3911478	Restaurant Aras				restaurant				
+way	108563054	48.0806689	7.3948521	Baran Kebap				restaurant				
+way	687543195	48.0769521	7.4025806	Kinii				restaurant				
+relation	83768			Houssen	8	68125	68146					
+node	5000716321	48.1252991	7.3660843	Taverne Médiévale				restaurant	5	68125	Rue de Ribeaupierre	
+node	11795253844	48.1271797	7.3694589	A la Schtouwa				restaurant				
+relation	83756			Hunawihr	8	68150	68147					
+node	1725093859	48.1793316	7.3091151	Restaurant Suzel				restaurant	2	68150	Rue de l'Église	
+node	4430472381	48.1799992	7.3115654	Caveau du Vigneron				restaurant	5	68150	Grand'Rue	
+node	7688261085	48.1820708	7.3224033	O Berge du Parc				restaurant				
+relation	85247			Huningue	8	68330	68149					
+node	3075830203	47.5927826	7.5839493	Restaurant Le Vauban				restaurant	2	68330	Rue Abbatucci	
+node	3075837239	47.5926155	7.5773654	Café Central				cafe	5	68330	Rue de Saint-Louis	
+node	4195040208	47.5916637	7.5875787	La Huninguoise				bar				
+node	4195078681	47.5926015	7.5844756	La Piazzetta				restaurant	16	68330	Rue du Maréchal Foch	
+node	4195078685	47.5928058	7.5835450	As Kebap Alaturka				restaurant				
+node	4266722250	47.5934510	7.5822714	Creperie O'Regal				cafe				
+node	5771664603	47.5916681	7.5840984	The Red Fox Pub				bar	1	68330	Place Abbatucci	
+node	5784920521	47.5917048	7.5846184	Bacio Italian City Food				restaurant	7	68330	Place Abbatucci	
+node	7856415975	47.5923124	7.5838763	Orient Express				restaurant		68330	Rue Barbanègre	
+node	10832213558	47.5916047	7.5836727	SenSushi				restaurant	15	68330	Rue Barbanègre	
+node	11780996328	47.5914011	7.5836222	S'Wistéblé				restaurant				
+node	12557443255	47.5924636	7.5878260	Liloucieux				cafe	9		Allée des Marronniers	
+node	14336334501	47.5939684	7.5801664	Triangolo				bar				
+node	14342399401	47.5893536	7.5869229	Quai 10				cafe				
+way	146256093	47.5938105	7.5879905	Three Born Bar - La Brasserie du Rhin Hotel				bar	13	68330	Allée des Marronniers	
+relation	948949			Husseren-Wesserling	8	68470	68151					
+node	4866917239	47.8915903	6.9814197	Le Pont Rouge				restaurant				
+node	9034809916	47.8849716	6.9978558	À la manufacture royale				restaurant	24	68470	Rue du Parc	
+node	13825699882	47.8875476	6.9999894	Caveau à l'Orée du Parc				restaurant				
+node	13917077201	47.8843932	6.9980560	Le Resto du Potager				restaurant				
+way	218473054	47.8835505	6.9974710	La Fabrique				restaurant	18	68470	Route de Ranspach	
+relation	85584			Illfurth	8	68720	68152					
+node	1419496162	47.6799474	7.2696296	Sun Pub				pub				
+node	1423355651	47.6708047	7.2651026	Au Coq				restaurant				
+node	1429263575	47.6781131	7.2561645	Olympia				restaurant				
+node	1864140529	47.6763326	7.2641027	Guinguette				restaurant				
+relation	63864			Illhaeusern	8	68970	68153					
+node	1277060951	48.1846409	7.4321236	A la Truite				restaurant	17	68970	Rue du 25 Janvier	
+node	1278026653	48.1843125	7.4350903	Restaurant M				restaurant				
+way	119764381	48.1842959	7.4329012	L'Auberge de l'Ill				restaurant				
+relation	38261			Illzach	8	68110	68154					
+node	3317376116	47.7724740	7.3894217	Campanile				restaurant				
+node	4560953849	47.7672675	7.3829068	Le Palais d'Illzach				restaurant				
+node	6447812079	47.7707552	7.3889468	Planet Wok				restaurant				
+way	84759626	47.7682329	7.3899659	Le Poisson Rouge				restaurant	2	68110	Rue de la Gare	
+way	84788839	47.7715182	7.3579773	Restaurant Le Parc				restaurant				
+way	84789963	47.7720166	7.3892641	Au Bureau				restaurant				
+way	84790042	47.7732100	7.3905082	Piatto				restaurant				
+way	263123337	47.7716542	7.3896425	La Closerie				restaurant				
+relation	83285			Ingersheim	8	68040	68155					
+node	806585285	48.0942537	7.3064571	Le Sot L'y Laisse				restaurant	1b	68040	Route de Colmar	
+way	66489533	48.0955956	7.3051787	La Taverne Alsacienne				restaurant				
+way	265193238	48.0993732	7.3109412	Aux Berges de la Fecht				restaurant				
+relation	69048			Issenheim	8	68500	68156					
+node	5878551051	47.9022890	7.2524950	La Récidive				restaurant	11	68500	Rue de Guebwiller	
+node	5878551422	47.9014708	7.2559686	La Pizzeria du Château				restaurant	9	68500	Rue de Cernay	
+node	5878551483	47.9022560	7.2538150	FURIO'ZZA				restaurant	12	68500	Rue de Cernay	
+node	11363816115	47.9019486	7.2558893	La Table de Fred				restaurant	9	68500	Rue de Cernay	
+relation	84049			Jebsheim	8	68320	68157					
+node	1658059316	48.1246432	7.4781346	d'Melichkann				restaurant				
+relation	78875			Jungholtz	8	68500	68159					
+way	74230377	47.8821528	7.1883393	Restaurant La Ferme des Moines				restaurant				
+relation	83293			Katzenthal	8	68230	68161					
+node	4074893391	48.1078737	7.2847972	Caveau chez Bacchus				restaurant	2	68230	Grand'Rue	
+way	79199498	48.1079757	7.2827508	A L'Agneau Hotel Restaurant				restaurant	16	68230	Grand'Rue	
+relation	5815704			Kaysersberg-Vignoble	8	68240	68162					
+node	921140478	48.1387689	7.2647087	L'Enfariné				cafe	29	68240	Rue du Général de Gaulle	
+node	921158929	48.1387970	7.2655354	Le Chambard				restaurant	13	68240	Rue du Général de Gaulle	
+node	921160338	48.1384801	7.2656758	Flamme & Co				restaurant	4	68240	Rue du Général de Gaulle	
+node	921197414	48.1389638	7.2626317	Au bon Stück				restaurant	61	68240	Rue du Général de Gaulle	
+node	921455397	48.1387683	7.2628649	Restaurant Winstub du Château				restaurant	38	68240	Rue du Général de Gaulle	
+node	921517940	48.1390044	7.2615206	Restaurant Le Capucin				restaurant	60	68240	Rue du Général de Gaulle	
+node	922418151	48.1391925	7.2613498	Restaurant Au Lion d'Or				restaurant	66	68240	Rue du Général de Gaulle	
+node	922440664	48.1399806	7.2599897	La Palme d'Or				restaurant		68240		
+node	922539959	48.1400524	7.2598220	Bratschall Manala				restaurant	104	68240	Rue du Général de Gaulle	
+node	922540844	48.1403403	7.2597428	Restaurant Au 119				restaurant	119	68240	Rue du Général de Gaulle	
+node	922541162	48.1405149	7.2593142	Restaurant À La Porte Haute				restaurant	118	68240	Rue du Général de Gaulle	
+node	924003952	48.1385673	7.2656277	Winstub du Chambard				restaurant	9	68240	Rue du Général de Gaulle	
+node	1885369426	48.1409457	7.2593352	L'Arbre Vert				restaurant	1	68240	Rue Haute du Rempart	
+node	2428484518	48.1481684	7.2511891	Piccola Italia				restaurant	49	68240	Route de Lapoutroie	
+node	4074893392	48.1386028	7.2624640	Caveau du Pressoir				bar	8	68240	Rue du Père Kohlmann	
+node	4074893393	48.1365017	7.2875181	Restaurant Côté Vigne				restaurant	30	68240	Grand'Rue	
+node	4074893394	48.1487680	7.2500958	Restaurant L'Alchémille				restaurant	53	68240	Route de Lapoutroie	
+node	4074893404	48.1386974	7.2623672	Restaurant la Vieille Forge				restaurant	1	68240	Rue des Écoles	
+node	4074893407	48.1364390	7.2658946	Restaurant le petit gourmand				restaurant	9	68240	Rue de l'Ancienne Gare	
+node	4074893408	48.1385900	7.2656013	64° Le restaurant				restaurant	9	68240	Rue du Général de Gaulle	
+node	4195684044	48.1396616	7.2603537	Le Kaysersberg				restaurant	2	68240	Rue des Potiers	
+node	4195684045	48.1379400	7.2642040	Le Moreote				restaurant				
+node	4195684047	48.1386019	7.2645795	caveau du schlossberg				restaurant				
+node	4195684048	48.1386386	7.2643985	Kaysers bier brasserie				cafe	2	68240	Rue du Général Rieder	
+node	4548148364	48.1335827	7.2987834	Les 3 alsaciennes				restaurant	30	68240	Route des Vins	
+node	4972418668	48.1406045	7.2594427	Chez Roger Hasseforder				restaurant				
+node	5942170175	48.1388585	7.2620845	La Table du Patissier				restaurant				
+node	7688260985	48.1389331	7.2622764	La Pâtisserie				cafe	67		Rue du Général de Gaulle	
+node	10968749361	48.1394863	7.2603544	La Parenthèse Gourmande				restaurant	8	68240	Rue des Potiers	
+node	14095561263	48.1376851	7.2638864	Cidade				bar				
+node	14095561294	48.1402127	7.2594198	Le Bruit qui Court				restaurant				
+node	14095561296	48.1386765	7.2620746	Sophie l'Authentique				restaurant				
+node	14214181688	48.1359918	7.2845080	Maison AKG - Pâtisserie - Salon de Thé				cafe				
+way	50751336	48.1208656	7.3356182	Au Pont de la Fecht				restaurant		68240	Chemin de la Fecht	
+way	71520275	48.1347850	7.3002037	Au bon coin				restaurant	6	68240	Place de l'Église	
+way	79095392	48.1480206	7.2512913	Aphrodite's restaurant grec				restaurant	47		Route de Lapoutroie	
+way	162107459	48.1784221	7.2547091	Auberge Saint-Alexis				restaurant		68240		
+way	366217362	48.1783033	7.2548025	Auberge Sant-Alexis				biergarten				
+relation	85428			Kembs	8	68680	68163					
+node	3643033418	47.6867181	7.5038044	Le petit Kembs				restaurant				
+node	3742737800	47.6599524	7.5042890	Schaeferhof				restaurant	129		Rue du Rhin	
+way	186291647	47.6447175	7.5098275	Chez Ninna				restaurant				
+way	1090407883	47.6869593	7.5084029	Snack Camping du Canal				restaurant				
+relation	391044			Kiffis	8	68480	68165					
+node	12497006719	47.4405669	7.3586527	Le Cheval Blanc				restaurant				
+relation	38247			Kingersheim	8	68260	68166					
+node	7366574935	47.7969236	7.3370006	Sushi Lauv				restaurant				
+node	7743175685	47.7967064	7.3375973	SPRESSO				cafe	120	68260	Faubourg de Mulhouse	
+node	11074785305	47.7886441	7.3073136	Il Quadro				restaurant	2	68260	Rue Bigarreau	
+node	12470582347	47.7894742	7.3137868	My Beers				bar				
+node	12470582349	47.7893846	7.3133111	Merlin Crêperie				restaurant				
+node	12995671690	47.7900057	7.3164018	Jôyô				restaurant				
+node	12995759350	47.7900147	7.3161849	Au Bureau				pub				
+node	14247491301	47.7932779	7.3149272	Étoile Céleste				restaurant	97	68260	Rue de Guebwiller	
+way	41397384	47.7889024	7.3170365	Buffalo Grill				restaurant				
+way	148590375	47.7914060	7.3393320	L'arbre Vert				restaurant				
+way	148826072	47.7940499	7.3340307	Sapori Siciliani				restaurant				
+way	150551579	47.7940202	7.3141058	Restaurant Étoile Céleste				restaurant	2	68260	Rue du Commerce	
+way	156661916	47.7913862	7.3088091	La Risoterria				restaurant				
+way	775182765	47.7938998	7.3150553	Erhard				restaurant				
+way	1385755783	47.7921236	7.3158198	Starbucks				cafe				
+way	1385755787	47.7898653	7.3178893	Leon				restaurant				
+relation	80527			Kirchberg	8	68290	68167					
+node	1762485728	47.7797401	6.9140425	Ferme Auberge du Lochberg				restaurant				
+relation	113229			Knœringue	8	68220	68168					
+node	639261834	47.5633264	7.4037559	Au Chasseur Scholler				restaurant				
+relation	952288			Kruth	8	68820	68171					
+node	2537583483	47.9257921	6.9685162	Auberge de France				restaurant				
+way	176430779	47.9612176	6.9807523	Ferme Auberge Schafert				restaurant				
+way	218650979	47.9792887	6.9820738	Ferme Auberge Huss				restaurant				
+way	218655230	47.9461415	6.9797425	Auberge du Grieb				restaurant				
+relation	85666			Labaroche	8	68910	68173					
+node	749625541	48.1046211	7.1923055	Auberge du Honack				restaurant				
+way	60120683	48.0978212	7.2173165	Au Relais des Trois-Epis				restaurant				
+way	60131526	48.1049143	7.2104840	Auberge Blanche-Neige				restaurant				
+way	60271968	48.1004308	7.1942076	La Rochette				restaurant	500	68910	La Rochette	
+way	60272004	48.0980549	7.1968849	Auberge Les Bolles				restaurant				
+way	60277897	48.1048871	7.1928744	Hôtel Au Tilleul				restaurant				
+way	60375312	48.1117041	7.1926451	Auberge Vieille France				restaurant				
+relation	382459			Landser	8	68440	68174					
+node	1771445667	47.6860238	7.3950889	La Palma				restaurant	33	68440	Rue Acklin	
+node	1771445690	47.6831673	7.3874620	L'Ambroisie				restaurant				
+relation	85670			Lapoutroie	8	68650	68175					
+node	276842020	48.1523403	7.1693198	Le Faudé				restaurant				
+node	1307502014	48.1464204	7.1872276	Auberge De L'ancienne Gare				restaurant	4	68650	Rue de l'Europe	
+node	1307511063	48.1468615	7.1876649	La bonne Truite				restaurant	5	68650	Rue de l'Europe	
+node	3095526423	48.1617218	7.1272591	Étang du Devin				restaurant				
+node	3143428534	48.1819977	7.1381412	Ferme Auberge Brézouard				restaurant				
+node	3143473686	48.1681808	7.1666821	Ferme Auberge Chemin des Romains				restaurant				
+node	3893175291	48.1443734	7.1672805	Hôtel Restaurant Les Alisiers				restaurant	5	68650	Faudé	
+node	4074893400	48.1521761	7.1693029	Restaurant du Faudé				restaurant	28	68650	Rue du Général Dufieux	
+way	115123621	48.1458324	7.1444168	Hôtel-Restaurant le Bouton d'Or				restaurant	31	68650	Bermont	
+way	115710132	48.1538862	7.1675921	Le Dilem’				bar	55	68650	Rue du Général Dufieux	
+way	115748778	48.1606510	7.1509886	Ferme Auberge Kebespre				restaurant				
+relation	78947			Lautenbach	8	68610	68177					
+node	9155793773	47.9416654	7.1565521	Il San Remo				restaurant	68	68610	Rue Principale	
+relation	82734			Lautenbachzell	8	68610	68178					
+node	12992443221	47.9252013	7.1019298	Gustiberg				restaurant				
+way	63396008	47.9408150	7.1482947	Restaurant A la Truite				restaurant	47	68610	Grand Rue	
+relation	80531			Lauw	8	68290	68179					
+node	10764311803	47.7570868	7.0184425	Pinocchio				restaurant				
+relation	85359			Leymen	8	68220	68182					
+node	9115246600	47.4960624	7.4851510	Le Landskron				restaurant				
+node	9704938962	47.4956775	7.4838121	La couronne d'or				restaurant				
+node	11812128787	47.4953634	7.4835919	L'Echelle				restaurant				
+relation	391832			Liebsdorf	8	68480	68184					
+node	10766361462	47.4792182	7.2301678	Au Soleil				restaurant				
+relation	60631			Lièpvre	8	68660	68185					
+node	3037768995	48.2719651	7.2810849	Les deux clefs				restaurant				
+relation	85384			Linsdorf	8	68480	68187					
+way	178429253	47.5270585	7.4181961	Restaurant Cesarhof				restaurant				
+relation	82744			Linthal	8	68610	68188					
+node	13261394259	47.9513904	7.1062188	Au Feu De Camp				restaurant				
+way	62945015	47.9450023	7.1330748	Auberge la Vallée des Tilleuls				restaurant	3	68610	Rue du Markstein	
+way	62946680	47.9642725	7.1096682	Ferme Auberge du Hilsen				restaurant	181	68610	Hilsen	
+relation	69083			Logelheim	8	68280	68189					
+node	2744278966	48.0229421	7.4104657	Le soleil d'or				bar				
+way	122369027	48.0209300	7.4080755	Le rendez-vous Des Copains				restaurant	5		Grand Rue	
+relation	390557			Lucelle	8	68480	68190					
+node	5538549224	47.4372957	7.2702674	Le Petit Kohlberg				restaurant		68480		
+way	80876660	47.4211994	7.2460996	Le Relais de L'Abbaye				restaurant		68480	Route Internationale	
+relation	905904			Luttenbach-près-Munster	8	68140	68193					
+node	300141209	48.0204604	7.1187932	Auberge du Geisbach				restaurant				
+node	302362367	47.9889696	7.1240780	Ferme Auberge Kahlenwasen				restaurant				
+node	906764500	48.0039078	7.1339600	Ferme Auberge du Ried				restaurant				
+node	4958020815	48.0297074	7.1129943	Restaurant des Amis de la Nature				restaurant				
+node	5858707802	48.0316054	7.1189663	Pension Le Châlet				restaurant	1	68380	Route du Ried	
+relation	38292			Lutterbach	8	68460	68195					
+node	1676551059	47.7603169	7.2789614	Brasserie de Lutterbach				restaurant				
+node	12243842957	47.7616813	7.2656622	La Bruschetta				restaurant				
+node	13017217293	47.7587337	7.2851232	Sing				restaurant				
+node	13017217299	47.7606159	7.2815961	Kim Lien				restaurant				
+node	13017217323	47.7586243	7.2865697	L'Auberge du Soleil				restaurant				
+relation	5815706			Masevaux-Niederbruck	8	68290	68201					
+node	1936756165	47.7734893	6.9969181	Petit Bangkok				restaurant				
+node	1936758283	47.7743160	6.9951483	Fancello				restaurant				
+node	3144099646	47.7715330	6.9497409	Ferme Auberge du Bruckenwald				restaurant		68290		
+node	4393391027	47.7754574	6.9987792	Relais de la Poste				restaurant				
+node	4393690407	47.7727397	6.9939974	L'Invitation				restaurant				
+node	4393707150	47.7758907	6.9957512	Cafe de la Couronne				cafe				
+node	4393720303	47.7747844	6.9962069	Au Petit Charbon				restaurant	2	68290	Rue de la Halle aux Blés	
+node	4393737043	47.7749723	6.9966718	Christian Blind, Patisserie, Salon de The				cafe				
+node	4498258603	47.7800822	6.9481843	Ferme Auberge de l'Entzenbach				restaurant	2	68290	Rue de l’Entzenbach	
+node	5747094121	47.7790777	7.0092256	Auberge Sonnematt				restaurant				
+node	5878555898	47.7747522	6.9976195	Le Phoenix				bar	7	68290	Place Clemenceau	
+node	11143137998	47.7751848	6.9965166	Hostellerie Alsacienne				restaurant				
+node	12917668434	47.7743948	6.9976410	Chez Mémé et Pépé				restaurant	32	68290	Rue du Général de Gaulle	
+relation	905905			Metzeral	8	68380	68204					
+node	411065335	48.0294309	7.0325765	Ferme Auberge du Schiessroth				restaurant				
+node	411065418	48.0182590	7.0508952	Ferme Auberge Hinterberg				restaurant				
+node	469373086	48.0229098	7.0644044	Ferme Auberge du Braunkopf				restaurant				
+node	1270253832	48.0108864	7.0532324	Auberge et Chalets de la Wormsa				restaurant	72	68380	Rue de l'Altenhof	
+node	1731396571	47.9940505	6.9857868	Auberge du Steinwasen				restaurant		68380	Route des Crêtes	
+node	2660977749	48.0130233	7.0716522	Le Soleil d'Or				restaurant				
+way	66969233	47.9684558	7.0317952	Ferme-Auberge Uff Rain				restaurant			Route du Schnepfenried	
+way	240528752	47.9579851	7.0295067	Ferme-Auberge du Salzbach				restaurant		68380		
+relation	86211			Mittelwihr	8	68630	68209					
+node	13369811301	48.1527173	7.3215614	La Salle des Fêtes				restaurant	1	68630	Place des Fêtes	
+way	72518799	48.1524302	7.3219186	Le Mandelberg				restaurant				
+way	72519544	48.1505995	7.3203280	Le Mittelwihr				restaurant				
+relation	88575			Mittlach	8	68380	68210					
+node	325004638	47.9908022	7.0405139	Ferme Auberge Deybach (Schnepfenried)				restaurant		68380	Le Schnepfenried	
+node	899484970	48.0148286	7.0116296	Ferme Auberge du Kastelberg				restaurant				
+node	2377063499	48.0037942	7.0335870	Hôtel Restaurant Bar Valneige				restaurant	21	68380	Rue Principale	
+node	3143730030	47.9900422	7.0479438	Ferme Auberge au Grand Hêtre				restaurant				
+way	66187354	48.0148442	7.0117027	Ferme Auberge Kastelberg				restaurant				
+relation	391833			Mœrnach	8	68480	68212					
+way	179291934	47.5024800	7.2577870	Aux deux clefs				restaurant	218	68480	Rue Hennin Blenner	
+relation	945207			Mollau	8	68470	68213					
+node	8558096340	47.8704731	6.9730787	Le Belacker - Bistrot Associatif				cafe				
+node	8558096341	47.8682345	6.9729701	Le Moulin Alsacien				cafe				
+relation	913367			Montreux-Vieux	8	68210	68215					
+node	4685107170	47.6178865	7.0254363	Buffet de la Gare				restaurant				
+relation	943895			Moosch	8	68690	68217					
+node	1540470377	47.8596182	7.0496515	Restaurant "Aux Trois Rois"				restaurant				
+node	1540492648	47.8603515	7.0490306	O'Malo				restaurant	46	68690	Rue du Général de Gaulle	
+node	2197523845	47.8305709	7.0108768	Ferme-auberge du Gsang				restaurant		68690	Lieu-dit Gesang	
+node	9060950045	47.8557421	7.0538045	La Baraka				restaurant				
+node	11827271819	47.8531195	7.0581537	L'Art de Vivre				restaurant				
+node	12766136240	47.8586861	7.0489408	S'Lottie Stüwa				bar				
+way	209550085	47.8380252	6.9907701	Ferme Auberge du Belacker				restaurant				
+way	218365824	47.8604090	7.0494450	Le Coin des Délices				restaurant				
+relation	47922			Morschwiller-le-Bas	8	68790	68218					
+node	8255926546	47.7400605	7.2847444	O' Grill				restaurant				
+node	8273701200	47.7382330	7.2849467	Le Royaume du Bonheur				restaurant				
+node	8273784905	47.7372204	7.2797212	Banana Café				bar				
+node	11045803503	47.7366004	7.2830177	Bello by Bacio				restaurant				
+relation	905908			Muhlbach-sur-Munster	8	68380	68223					
+node	2295909198	48.0337497	7.0449014	Ferme Auberge du Gaschney				restaurant		68380	Le Gaschney	
+node	6582196960	48.0277686	7.0800430	La Perle des Vosges				restaurant	22	68380	Route du Gaschney	
+relation	38246			Mulhouse	8	68100;68200	68224					
+node	843853856	47.7549885	7.3422806	Vesuvio				restaurant				
+node	1584308409	47.7593006	7.3241392	Zum Schweissdissi				restaurant				
+node	1598504185	47.7671952	7.3218710	House Grill				restaurant				
+node	1600784897	47.7658932	7.3185094	Au Triangle				bar				
+node	1601986654	47.7766520	7.3195918	A Tire Larigot				restaurant				
+node	1609036239	47.7662182	7.3228871	Pizza Italia				restaurant				
+node	1838783349	47.7424106	7.3141372	Than Long				restaurant				
+node	1879815077	47.7529258	7.3441210	L'Entrecote de Mulhouse				restaurant				
+node	1888058458	47.7444410	7.3100808	Canon d'or				restaurant				
+node	2031339093	47.7442404	7.3351295	Un petit truc en plus				restaurant				
+node	2031339095	47.7441163	7.3338731	Le Cellier				restaurant				
+node	2031339096	47.7449450	7.3347067	Les Saveurs du Liban				restaurant	26	68100	Rue des Trois-Rois	
+node	2031339099	47.7441837	7.3339602	Vestiges de Baalbek				restaurant				
+node	2031469240	47.7480014	7.3402902	Steppe Sushi				restaurant				
+node	2031469247	47.7485611	7.3385416	Poulaillon				cafe				
+node	2031469251	47.7479646	7.3402275	Aux saveurs du Kashmir				restaurant	7	68100	Rue de la Justice	
+node	2031533164	47.7471038	7.3381721	Harmonie des Saveurs				cafe				
+node	2031533166	47.7489542	7.3380273	Crêperie bretonne Crampous Mad				restaurant				
+node	2043314402	47.7463846	7.3392126	Guillaume Tell				cafe				
+node	2043328253	47.7469219	7.3356035	Chili Thaï				restaurant				
+node	2043328266	47.7468934	7.3348388	Mayflower				restaurant				
+node	2043519478	47.7391955	7.3327046	Le Resto Wittmann-Brand				restaurant				
+node	2292061991	47.7468275	7.3395476	Auberge du Vieux Mulhouse				restaurant				
+node	2305685290	47.7476264	7.3373022	Winstub Pic-Vit				restaurant				
+node	2558298479	47.7493363	7.3405061	Brasserie Le Bollwerk				restaurant				
+node	2558302905	47.7487592	7.3404699	Andreucci				restaurant				
+node	2759069891	47.7480602	7.3412146	La Terre est Plate				restaurant				
+node	2759069895	47.7481141	7.3412746	Pub Fiction				pub				
+node	2798366025	47.7435884	7.3343574	Aux Jardins des Plaisirs				restaurant	1B			
+node	2798936551	47.7472942	7.3348975	Le 4				restaurant				
+node	3125503758	47.7462054	7.3399818	Le Théâtr'Al				restaurant				
+node	3213839292	47.7485638	7.3495135	Le Royal				restaurant				
+node	3542623692	47.7487515	7.3375843	Maison Mondrian				cafe				
+node	3804168680	47.7486424	7.3375383	L'Opéra				cafe				
+node	4031869751	47.7483884	7.3417677	Murphy's				pub				
+node	4031909607	47.7466994	7.3405674	Restaurant Hug				restaurant				
+node	4031913471	47.7467601	7.3395270	Auberge des Chevaliers				restaurant				
+node	4031926905	47.7458230	7.3419212	Au Bureau				restaurant				
+node	4031936699	47.7444812	7.3415457	Manka				restaurant	8	68100	rue Wilson	
+node	4171989115	47.7466746	7.3349617	Ô 2 Barriques				bar				
+node	4201553743	47.7478477	7.3397204	Starbucks				cafe				
+node	4209067959	47.7420475	7.3072877	Squash 3000				restaurant		68200	Avenue François Mitterrand	
+node	4324789361	47.7491779	7.3418629	La Tour de Jade				restaurant				
+node	4366228577	47.7422641	7.3457745	La maison des délices				restaurant				
+node	4404543841	47.7357753	7.2911307	Kayo sushi bar				restaurant				
+node	4530481985	47.7416386	7.3118067	Le Buibui				restaurant				
+node	4551159533	47.7501018	7.2933957	Le Mistral				restaurant		68200		
+node	4594259122	47.7438702	7.3455692	Le Parvis Brasserie				restaurant				
+node	4811824721	47.7457003	7.3426110	L'Oxalis				restaurant				
+node	4811824821	47.7447972	7.3361090	Mealtin'Potes				restaurant				
+node	4811831524	47.7480649	7.3429479	La Table de Michèle				restaurant				
+node	4838599281	47.7466318	7.3382701	Café Mozart				cafe	25	68100	Place de la Réunion	
+node	4879779621	47.7523969	7.3498051	Le Cheval de Troie				restaurant				
+node	4918548821	47.7529583	7.3286416	Au Pot au Feu				restaurant				
+node	5037126888	47.7469361	7.3328977	L'impro				restaurant				
+node	5037126889	47.7454996	7.3358561	Pum				restaurant				
+node	5083875759	47.7445384	7.3351896	Vanilla Café				restaurant	5	68100	Place de la Paix	
+node	5856366875	47.7476979	7.3402663	Délices de l'Inde				restaurant				
+node	5856385225	47.7481707	7.3405003	La Boca				restaurant				
+node	5969510386	47.7447899	7.2975884	Self les castors				restaurant				
+node	6001077239	47.7480691	7.3398390	Le temps d'une pause				cafe				
+node	6001077401	47.7490277	7.3408251	Tílvíst				cafe				
+node	6001077601	47.7469128	7.3336312	Kohi coffee shop				cafe				
+node	6100805686	47.7470792	7.3362280	Le BouDoir de Léa				cafe				
+node	6221251186	47.7384238	7.3288558	NoMad				restaurant				
+node	6224798485	47.7477144	7.3381636	La tambouille de Nainbus				restaurant				
+node	6299758690	47.7450775	7.3413036	L'alchimiste				restaurant				
+node	6371785485	47.7449272	7.3362439	Vietnam Cooking				restaurant				
+node	6417307504	47.7482489	7.3408905	Japonais				restaurant				
+node	6417307505	47.7462703	7.3367637	Leo d‘Or Sushi				restaurant				
+node	6417661185	47.7486706	7.3401595	Engel’s Coffee				cafe				
+node	6417661385	47.7482247	7.3400188	Le Petit Paris				restaurant				
+node	6417661398	47.7475183	7.3338510	Il Cortile				restaurant				
+node	6425535986	47.7475405	7.3398542	Winstub Factory				restaurant				
+node	6425536985	47.7466351	7.3337597	La Friterie				restaurant				
+node	6442756760	47.7441542	7.3411150	La Marmite				restaurant				
+node	6573985514	47.7463745	7.3336351	Les 3 Singes				pub				
+node	6582292800	47.7444028	7.3350879	French Poke				restaurant				
+node	6773264704	47.7691897	7.3215985	La table de la Fonderie				restaurant				
+node	6833339013	47.7444629	7.3422479	Los Buenos Dias				restaurant				
+node	6886481846	47.7449381	7.3359493	Diamonds				bar				
+node	6907889586	47.7464775	7.3431331	Restaurant Salvator				restaurant				
+node	6960407081	47.7459110	7.3423209	Mon Univers				cafe				
+node	7124791586	47.7466762	7.3432566	Restaurant Mantra				restaurant				
+node	7230608545	47.7389107	7.3281456	Le Pantographe				restaurant	30	68100	Rue François Spoerry	
+node	7230806532	47.7447233	7.3349469	La Brochetterie				restaurant				
+node	7230806533	47.7447978	7.3365426	Au Fil des Saisons				restaurant				
+node	7231126458	47.7454202	7.3351675	Au coin de la rue				restaurant				
+node	7231126463	47.7458198	7.3352593	Rôtisserie Petit Marcel				restaurant				
+node	7231126464	47.7460125	7.3354029	Kô Sye restaurant lounge				restaurant				
+node	7231164138	47.7468558	7.3358783	Sushi Bar				restaurant				
+node	7231164140	47.7469090	7.3360352	Le Maharaja				restaurant				
+node	7232933055	47.7466695	7.3342865	Stroganoff				restaurant				
+node	7232933056	47.7467721	7.3335713	K Bar				cafe				
+node	7232933059	47.7463111	7.3336272	Le Greffier				pub				
+node	7232933081	47.7471881	7.3366496	L'Hardivin				bar				
+node	7251166225	47.7496561	7.3274048	Ali Baba				restaurant				
+node	7251209999	47.7505486	7.3300534	O'new kebab				restaurant	76	68200	Rue Franklin	
+node	7258251974	47.7481629	7.3399400	La Quille				bar				
+node	7425528599	47.7466592	7.3341020	Zum Saüwadala				restaurant				
+node	7550777885	47.7433088	7.3155719	Le Valentino				nightclub				
+node	7638916490	47.7444596	7.3405783	Le Zazen				bar				
+node	7705384986	47.7504764	7.3536185	Le Rustique				restaurant				
+node	7743219085	47.7475248	7.3340195	Le Nid				cafe				
+node	7774112376	47.7462041	7.3335939	Le Touareg				restaurant				
+node	7774154087	47.7471245	7.3329755	Le Spart				bar				
+node	7774179117	47.7463528	7.3374679	Winstub Henriette				restaurant				
+node	7774179119	47.7462409	7.3371278	LC2 café				restaurant				
+node	7774179125	47.7463630	7.3376438	Taverne des Chevaliers Teutoniques				bar				
+node	7945021271	47.7510613	7.3326641	Restaurant Döner Nurhak				restaurant				
+node	7945028683	47.7488032	7.3371157	L'Hirondelle				restaurant				
+node	7945312130	47.7463845	7.3374281	Winstub Henriette				restaurant				
+node	7945315106	47.7474482	7.3381922	Babylone Beer Bar				bar				
+node	7945317608	47.7509709	7.3327452	Le Pacha				pub				
+node	7945319906	47.7489712	7.3356852	L'Escalope				restaurant				
+node	8128888913	47.7461961	7.3416236	Jungle Café				cafe				
+node	8643280025	47.7490559	7.3373468	Le Cercle				restaurant				
+node	8643568964	47.7487749	7.3382003	Le 17				restaurant				
+node	9034449894	47.7453760	7.3357196	La Vida				bar				
+node	9385434772	47.7483230	7.3385004	Astronome				restaurant				
+node	9385718810	47.7464798	7.3388773	Columbus Café & Co				cafe				
+node	9440610080	47.7483996	7.3399795	Volfoni				restaurant				
+node	9524304987	47.7475245	7.3399061	Velicious Burger				restaurant				
+node	9683364729	47.7359363	7.2899862	Hippopotamus				restaurant				
+node	9764599115	47.7439205	7.3387661	Japanhao				restaurant	17	68100	Avenue Clemenceau	
+node	9847639708	47.7481676	7.3227810	Khrua Thaï				restaurant	90	68100	Avenue Aristide Briand	
+node	9902175259	47.7443141	7.2939487	Petit Resto de la Mer Rouge				restaurant				
+node	9902271497	47.7506571	7.3197576	l’Aubergine				restaurant	108		Rue de la Comète	
+node	9913349523	47.7286264	7.2882158	Amici & Co				restaurant				
+node	10284838369	47.7467739	7.3401093	Le Zinc				cafe				
+node	10284882313	47.7465454	7.3400034	L'entre deux				cafe				
+node	10555127354	47.7375919	7.3118929	Pho Halong				restaurant	19		Rue de Hochstatt	
+node	10746463110	47.7355372	7.2997187	Restaurant associatif La table de l'AFSCO				restaurant	10	68200	Rue Pierre Loti	
+node	10982266497	47.7348921	7.3218941	Café le Coin				cafe				
+node	11013548006	47.7484031	7.3398460	Volfoni				restaurant	11		Rue de la Moselle	
+node	11013688505	47.7522433	7.3286125	Aux Halles du Marché				restaurant	26	68100	Quai de la Cloche	
+node	11077248805	47.7471446	7.3329884	Spart Bar				bar	5ü		Rue de l'Arsenal	
+node	11135717217	47.7500409	7.3390053	Royal Sushi				restaurant				
+node	11591568689	47.7489867	7.3375829	Le Ché				bar				
+node	11901415834	47.7467754	7.3336676	Sabor Argentina				restaurant				
+node	12082975233	47.7495455	7.3518131	Brut de Fût				restaurant				
+node	12082975234	47.7497088	7.3516033	BIM.BAM.BAO				restaurant				
+node	12222011301	47.7518894	7.3305739	Bistrot de l'Arc				restaurant				
+node	12292053173	47.7332135	7.3438065	L’Estérel				restaurant				
+node	12311589601	47.7455474	7.3416231	Omnino café-troquet				cafe	17		Avenue du Maréchal Foch	
+node	12328746798	47.7472408	7.3404558	Sushi's				restaurant				
+node	12364750601	47.7472292	7.3349405	Petit Marcel La Casse-croûterie				restaurant	3	68100	Rue Bonbonnière	
+node	12847269196	47.7392599	7.3291015	Olivia's Garden				pub	24	68100	Rue François Spoerry	
+node	12851630001	47.7554033	7.3273833	La Toscana				restaurant	2		Rue Anna Schoen	
+node	13033294956	47.7453070	7.3397917	Jalmogoyo				restaurant	41	68100	Rue de la Sinne	
+node	13061611401	47.7467944	7.3333677	Vivienne				cafe				
+node	13116821362	47.7532846	7.3605721	French Touch				restaurant				
+node	13124875475	47.7456533	7.3415099	Kraft Point				bar				
+node	13283582405	47.7468886	7.3334375	Mon Burger - Bar à jeux				cafe				
+node	13309445442	47.7579090	7.3406146	Chez Eniste				restaurant	51	68100	Rue Vauban	
+node	13318936281	47.7517205	7.3331813	Le Baoly Mulhouse				restaurant	2	68200	Rue du Fer	
+node	13328267001	47.7451035	7.3432822	Surnaturel				bar	6	68100	Rue Poincaré	
+node	13367872562	47.7535493	7.3370300	Kervan Saray				restaurant	53		Avenue de Colmar, Mulhouse	
+node	13437172648	47.7538861	7.3493057	Audace				restaurant	20		Allée Nathan Katz	
+node	13450451097	47.7465367	7.3363372	La Gourmandise				cafe				
+node	13584604832	47.7473769	7.3203139	Deniz Kebap 2				restaurant	126	68200	Avenue Aristide Briand	
+node	13655015501	47.7506975	7.3382441	Chicken Street				restaurant				
+node	13764162076	47.7472316	7.3352104	Lyddy				cafe	2	68100	Rue Bonbonnière	
+node	13769710001	47.7457763	7.3352422	Tiret du 6				bar	35	68100	Rue des Trois-Rois	
+node	14004176394	47.7445720	7.3429490	Les Compotes Mulhouse				cafe	10	68100	Rue de la Bourse	
+node	14023005091	47.7462620	7.3396356	Le O2				restaurant				
+node	14065981448	47.7461056	7.3402688	La Piadina				restaurant	10	68100	Passage de l'Hôtel de Ville	
+node	14125265101	47.7444793	7.3415547	Manka				restaurant	8	68100	Rue Wilson	
+node	14210983418	47.7609428	7.3516998	LED bar				bar				
+node	14211740454	47.7502258	7.3384194	Bistrot Viet				bar				
+node	14211767619	47.7507926	7.3382101	Le Bosphore				restaurant				
+node	14215047044	47.7492538	7.3417831	Le Faubourg				restaurant				
+node	14215288701	47.7458367	7.3352674	Pupazzo Pizzeria				restaurant	35	68100	Rue des Trois-Rois	
+node	14215373706	47.7328840	7.3472481	Les Coursives				bar				
+node	14215373707	47.7329219	7.3471558	Auberge du Zoo				restaurant				
+node	14220619201	47.7480571	7.3415225	El Peru				restaurant	7B	68100	Rue Louis Pasteur	
+node	14308911816	47.7465693	7.3438805	Milano				cafe				
+way	46141085	47.7480050	7.3358767	Auberge des Franciscains				restaurant				
+way	48078889	47.7436399	7.3342469	Aux Jardins des Plaisirs				restaurant				
+way	109521534	47.7469917	7.3334868	Gambrinus				pub				
+way	174293436	47.7384036	7.3164717	Shamrock				bar				
+way	174872673	47.7389674	7.3171740	Restaurant Olympia				restaurant				
+way	174872674	47.7387086	7.3167974	Café de la promenade				cafe				
+way	175135772	47.7317587	7.3468224	La Villa				restaurant				
+way	175308924	47.7443850	7.3106129	Oasis				restaurant				
+way	245864573	47.7387292	7.3168860	Café de la promenade				cafe				
+way	1165663365	47.7424506	7.3428581	Le Grand Comptoir				cafe				
+relation	905906			Munster	8	68140	68226					
+node	1451092801	48.0407623	7.1361050	L'olivier				restaurant	2		Rue Saint-Grégoire	
+node	1671207816	48.0409506	7.1381317	Au P'tit Munster				restaurant				
+node	1671207962	48.0409415	7.1374795	Meyer				cafe	5			
+node	3456334462	48.0439482	7.1524995	Restaurant Aux Abeilles				restaurant	25	68140	Route de Gunsbach	
+node	6262658284	48.0418329	7.1340581	Bar aux trésors				bar				
+node	6263144602	48.0418061	7.1328259	Bar des Vosges				bar				
+node	6935569593	48.0394743	7.1398871	Restaurant Winstub la Schlitte				restaurant	7			
+node	6935967550	48.0410923	7.1390501	Winstub S’Stewla				restaurant	3	68140	Rue Alfred Hartmann	
+node	6942417786	48.0411947	7.1358731	Salon de The Gilg				cafe	11		Grand'Rue	
+node	7448377350	48.0416270	7.1339406	Auberge aux quatre saisons				restaurant	40			
+node	7448377352	48.0414058	7.1343445	Chez Vincent				cafe	31	68140	Grand'Rue	
+node	7448377366	48.0411077	7.1360766	La Dolce Vita				restaurant				
+node	7448377371	48.0412377	7.1367264	La table des Malker				restaurant	4		Grand'Rue	
+node	9905770039	48.0406816	7.1323148	La Planque				restaurant	6	68140	Rue Rapp	
+node	11475903379	48.0400624	7.1382220	L'Abbaye d'Anny				bar				
+node	12899644142	48.0398019	7.1294354	Pizza Malice				restaurant				
+node	13738167201	48.0408201	7.1382118	Bistrot La Place				bar				
+way	68147419	48.0410605	7.1374550	Hôtel-Restaurant de la Cigogne				restaurant				
+way	68148393	48.0413767	7.1322695	L'Imprévu				restaurant	1	68140	Rue de Luttenbach	
+relation	915399			Muntzenheim	8	68320	68227					
+way	1423058150	48.1030372	7.4649225	Au p'tit Muntz				restaurant	16	68320	Rue Joseph de Pauw	
+relation	78916			Murbach	8	68530	68229					
+node	415746681	47.9044635	7.1021748	Chalet Hôtel Du Grand Ballon				restaurant		68760	Route des Crêtes	
+way	63006686	47.9233338	7.1603006	Auberge de l'Abbaye				restaurant				
+way	63007779	47.9125669	7.1376345	Domaine Langmatt				restaurant		68530	Chemin de la Langmatt	
+relation	69279			Neuf-Brisach	8	68600	68231					
+node	882489098	48.0168643	7.5284261	Canelle				cafe				
+node	882489102	48.0180438	7.5292723	Salon de thé Birké				cafe				
+node	1255529808	48.0171778	7.5294974	La Bonne Tourte				restaurant				
+node	1255531813	48.0171866	7.5291696	Bar l'Embuscade				bar				
+node	2827567502	48.0180160	7.5307018	Les Remparts				restaurant				
+node	8718721286	48.0183623	7.5277826	La Casa Pizza				restaurant				
+node	10072740222	48.0167514	7.5286305	Hani				restaurant	2		Rue Saint-Louis	
+node	11020587111	48.0180353	7.5295602	Kanpai Sushi				restaurant				
+node	11020741250	48.0167827	7.5272054	Le Vauban				bar				
+node	11865702163	48.0171254	7.5287820	La Fusion				restaurant	14	68600	Place d'Armes Général de Gaulle	
+node	13247458862	48.0169147	7.5293821	La P'tite Etoile				restaurant				
+relation	85323			Neuwiller	8	68220	68232					
+node	12734264371	47.5245176	7.5156525	Starck				restaurant				
+way	179266457	47.5276495	7.5183140	Auberge de Neuwiller				restaurant				
+relation	86216			Niedermorschwihr	8	68230	68237					
+node	827464197	48.0998204	7.2740859	Hôtel-Restaurant à l'Ange				restaurant				
+node	8640019491	48.0999660	7.2317848	Canyon Café				pub				
+way	98181407	48.0995645	7.2757980	Caveau Morakopf				restaurant	7		Rue des Trois-Épis	
+relation	69271			Niffer	8	68680	68238					
+node	2703739433	47.7121739	7.5086232	La Pause				cafe				
+relation	80446			Oberbruck	8	68290	68239					
+node	966232720	47.8247101	6.9008914	Ferme Auberge du Gresson				restaurant				
+node	10311364401	47.8082788	6.9437822	Brasserie Dioller				pub			19 rue du Moulin	
+way	182740091	47.8324698	6.9063143	Auberge du refuge du Neuweiher				restaurant				
+relation	5815703			Illtal	8	68960	68240					
+node	5342663933	47.5677945	7.2958923	Café "Chez Christiane"				cafe				
+way	174417934	47.5614010	7.3038930	Café-bar Sundgau-Fête				cafe				
+relation	391677			Oberlarg	8	68480	68243					
+node	8047129974	47.4574101	7.2342720	A la couronne				restaurant				
+relation	952287			Oderen	8	68830	68247					
+node	746264686	47.9007388	6.9823040	Wagga				restaurant				
+node	1637003847	47.9271260	7.0288425	Hôtel Wolf				restaurant		68610		
+node	1789555504	47.9096179	6.9752901	Café Presse Les Cascades				cafe				
+node	9529545369	47.9087703	6.9736904	Au Vieux moulin				restaurant	11	68830	Rue Gorth	
+node	10964559201	47.9248043	7.0297302	1183 table de caractère				restaurant				
+way	219277562	47.9492791	7.0193613	Ferme Auberge du Hahnenbrunnen				restaurant		68610	Route des Crêtes	
+way	219281288	47.9276089	7.0282385	La Bulle				cafe				
+way	219292713	47.9115475	6.9549710	Ferme du Bergenbach				restaurant				
+relation	390609			Oltingue	8	68480	68248					
+node	2820734745	47.4927968	7.3912322	Caveau du Musée Paysan				restaurant				
+node	2820780900	47.4883873	7.3942149	Fritschy Morand				cafe				
+way	819549946	47.4996293	7.4282715	Auberge Saint-Brice				restaurant				
+relation	85665			Orbey	8	68370	68249					
+node	276841525	48.1267037	7.1653717	Au Bois Le Sire				restaurant				
+node	276841526	48.1264621	7.1650438	La Chaumière				restaurant	24	68370	Rue Charles de Gaulle	
+node	415790743	48.1028318	7.1318651	Ferme-Auberge du Rain des Chênes				restaurant	215		Le Coin	
+node	496239970	48.1129974	7.0997558	Auberge du Lac Noir				restaurant		68370		
+node	1293368448	48.1201564	7.1313398	Ferme Auberge du Chèvremont				restaurant				
+node	1297028516	48.1217734	7.1499030	Le Black Night				bar				
+node	2049364889	48.1262404	7.1607147	Au Petit Gourmet				restaurant				
+node	2049364890	48.1262093	7.1596225	Hôtel restaurant Les Bruyères				restaurant	35	68370	Rue Charles de Gaulle	
+node	2052426536	48.1016837	7.1596975	La Cocotte Rouge				restaurant	72	68370	Chemin de la Housserouse	
+node	2052477924	48.1255314	7.1545261	Au Chasseur Alpin				restaurant				
+node	2052477927	48.1253196	7.1540897	Au Chasseur Alpin				restaurant				
+node	3145755623	48.1132377	7.1183428	Ferme Auberge des Deux Lacs				restaurant				
+node	4074893395	48.1355406	7.0907950	Restaurant Les terrasses du Lac Blanc				restaurant	348	68370	Lac Blanc	
+node	4074893398	48.1267346	7.1654034	Restaurant au Bois le sire				restaurant	20	68370	Rue Charles de Gaulle	
+node	12391117008	48.1253188	7.1541174	Evergreen Tomatos				restaurant				
+node	14075281881	48.1259986	7.1541066	Le Chocola'thé				cafe				
+way	62093589	48.1252279	7.0968851	Le Mille Mètres				restaurant				
+way	114139053	48.1160826	7.1262663	Le Domaine de Pairis				restaurant				
+way	114956766	48.1336596	7.0946604	Auberge et Gîtes Le Blancrupt				restaurant				
+way	114967907	48.1350136	7.1143888	Auberge Les ô welches côté Lac				restaurant	336	68370	Chemin du Blancrupt	
+way	206676565	48.1277353	7.1171061	Ferme Auberge du Pré Bracot				restaurant	331	68370	Le Pré Bracot	
+relation	79393			Orschwihr	8	68500	68250					
+node	785465357	47.9328797	7.2322758	Café au Soleil "Chez Laffie"				cafe				
+node	785470708	47.9345059	7.2322864	Caveau d'Orscwhihr				restaurant				
+relation	911064			Osenbach	8	68570	68251					
+node	9831359333	47.9866965	7.2198850	Bar Gwinner				bar				
+relation	69645			Ostheim	8	68150	68252					
+node	8721701503	48.1598299	7.3712951	Chez Félix				restaurant				
+node	9623176221	48.1592031	7.3711823	Au nid de Cigogne				restaurant	2	68150	Route de Colmar	
+relation	69274			Ottmarsheim	8	68490	68253					
+node	2743194315	47.7885076	7.5061471	Au Bon Accueil				restaurant	47	68490	Rue du Général de Gaulle	
+node	2743194318	47.7871851	7.5094634	EDJ				restaurant	17		Rue des Vergers	
+node	3742737809	47.7870242	7.5074155	L'Étape Romane				restaurant	3		Rue De L'Église	
+node	9689531763	47.7866117	7.5088254	Le Sorrento				restaurant	9	68490	Rue des Vergers	
+node	12879133774	47.7838045	7.5022300	Chez Kelly				restaurant	2		Rue du Renard	
+relation	79420			Pfaffenheim	8	68250	68255					
+way	57942726	48.0109763	7.2332202	Auberge Au bon Chasseur				restaurant				
+relation	38291			Pfastatt	8	68120	68256					
+node	1648583361	47.7692491	7.3013516	Terrasses d'Asie				restaurant	11		Rue Henri Haeffely	
+node	4371005143	47.7709404	7.3040451	Pizzeria Lou Pitchoun				restaurant	37	68120	Rue de Richwiller	
+node	13061301246	47.7696513	7.3045560	La Table Pfastattoise				restaurant	18		Rue de Richwiller	
+node	14129439557	47.7589572	7.2940280	l'Univers				restaurant	20	68120	Rue de Thann	
+way	151565952	47.7719047	7.3015421	Bel'Italia				restaurant	67		Rue de Richwiller	
+relation	78620			Pulversheim	8	68840	68258					
+node	7579941934	47.8365248	7.3052290	L'Envie				restaurant				
+relation	69047			Raedersheim	8	68190	68260					
+node	1643520874	47.8864164	7.2843201	Aux Deux Clefs				restaurant				
+relation	947009			Ranspach	8	68470	68262					
+node	4364890984	47.8799391	7.0102032	Flamma Eck				restaurant				
+node	13396210111	47.8793177	7.0140719	Chez Philippe				restaurant				
+way	219271052	47.9223500	7.0342540	Ferme Auberge du Markstein				restaurant			Le Markstein	
+relation	69618			Ribeauvillé	8	68150	68269					
+node	826204662	48.1956102	7.3181141	Bar aux Trois Rois				bar				
+node	845336713	48.1969253	7.3126671	Aux Trois Châteaux				restaurant				
+node	845340161	48.1965189	7.3129726	Bar Saint-Ulrich				pub				
+node	849810825	48.1874640	7.3488994	Restaurant du Casino				restaurant				
+node	2996855673	48.1907335	7.3249807	Au Relais des Ménétriers				restaurant	10	68150	Avenue du Général de Gaulle	
+node	2996855674	48.1933341	7.3231933	Bierstub Ville de Nancy				restaurant				
+node	2996855676	48.1934387	7.3231122	La Flammerie				restaurant	9	68150	Grand'Rue	
+node	2996855677	48.1936582	7.3229651	Winstub Zum Pfifferhus				restaurant				
+node	4212108796	48.1946693	7.3203071	Le Giersberg				restaurant	46	68150	Grand'Rue	
+node	5471253126	48.1943868	7.3204629	L'ENTREPOTes				restaurant	6	68150	Petite Rue de l'Hôpital	
+node	5471253130	48.1949042	7.3196532	Vilmain				cafe				
+node	5471253132	48.1947770	7.3200250	L'Arbalete				restaurant				
+node	5471253137	48.1942512	7.3216917	Schaal & Co				cafe	28	68150	Grand'Rue	
+node	5471261635	48.1943432	7.3208877	D'Baecka Ofa Stub				restaurant				
+node	6239371411	48.1952707	7.3186300	Au Passage de la Tour				restaurant	70	68150	Grand'Rue	
+node	6680404086	48.1943986	7.3202874	Le Goupil				bar				
+node	10115898533	48.1951625	7.3188229	Salon de Thé				cafe	66	68150	Grand'Rue	
+node	11170294774	48.1891702	7.3388381	La Bra'V				pub				
+node	12117653313	48.1962445	7.3135675	Bistro by Foreign Local				restaurant	135	68150	Grand'Rue	
+node	12291938901	48.1960447	7.3150912	Café Paula				cafe				
+node	14069036223	48.1931732	7.3231896	O'Grincheux				restaurant				
+way	67660032	48.1967182	7.3134810	Au Cheval Blanc				restaurant	122	68150	Grand'Rue	
+way	67660036	48.1959889	7.3167947	Hôtel au Lion				restaurant				
+way	67660044	48.1961450	7.3166234	Hôtel du Mouton				restaurant				
+way	67660046	48.1927489	7.3244247	Au Cheval Noir				restaurant	2	68150	Avenue du Général de Gaulle	
+way	68030155	48.1942367	7.3220275	La Rouget				restaurant	2	68150	Place de la 1re Armée	
+way	68030160	48.1942558	7.3221233	Brasserie de la Poste				restaurant	1		Place de la 1re Armée	
+way	68031355	48.1931376	7.3244041	Le Ribeaupierre				restaurant				
+way	68080766	48.1957689	7.3175004	Restaurant "Au Cerf"				restaurant				
+way	71089658	48.1922378	7.3243382	Au Zahnacker				restaurant	8	68150	Avenue du Général de Gaulle	
+way	71094352	48.1943326	7.3199968	Caveau de l'Ami Fritz				restaurant				
+way	71099417	48.1940905	7.3224882	S'Garwer Stub				restaurant				
+way	71208899	48.1916745	7.3266050	La Renommée				restaurant				
+way	71380357	48.1969658	7.3338962	Auberge du Parc Carola				restaurant				
+way	162107469	48.2034231	7.2755699	Hôtel de la Pépinière - Restaurant le Valet de Coeur				restaurant				
+relation	48081			Richwiller	8	68120	68270					
+node	6850837421	47.7791858	7.2836499	Zio Pizza				restaurant	45	68120	Rue Principale	
+relation	38315			Riedisheim	8	68400	68271					
+node	4461547449	47.7493310	7.3680819	Maison Kieny				restaurant	7	68400	Rue du Général de Gaulle	
+node	4838865023	47.7462316	7.3578306	Le Cadre Noir				bar				
+node	4921268564	47.7471642	7.3670290	Auberge de l'Étoile				restaurant				
+node	6173808707	47.7449667	7.3659654	Asi'an				restaurant				
+node	6720541362	47.7496341	7.3607984	Le Reyna				restaurant				
+node	7616794861	47.7346017	7.3586580	société hippique de mulhouse				restaurant				
+node	8263806576	47.7557683	7.3766656	Chez Yaki				restaurant		68400		
+node	11101277677	47.7490016	7.3687580	Sous un Ciel d'Italie				restaurant				
+node	12114732123	47.7554583	7.3700163	Café Bar La Taverne				bar				
+node	12645024457	47.7505080	7.3683425	Pizzeria Napoli				restaurant				
+node	13243704448	47.7465473	7.3597577	Bistrot Cézar				restaurant	22	68400	Rue de Mulhouse	
+node	13442959653	47.7465826	7.3599339	Bistrot Cézar				restaurant	26	68400	Rue de Mulhouse	
+relation	78893			Rimbach-près-Guebwiller	8	68500	68274					
+node	1735544507	47.9036918	7.1551392	PizzAmore				restaurant				
+relation	918478			Rimbach-près-Masevaux	8	68290	68275					
+node	4485648541	47.8277588	6.9513701	Auberge du Touriste				restaurant				
+way	182767516	47.8413859	6.9401381	Ferme Auberge Riesenwald				restaurant				
+relation	83754			Riquewihr	8	68340	68277					
+node	747291747	48.1661386	7.2986512	Le Caveau des Rois				restaurant	1	68340	Rue Héderich	
+node	871926846	48.1669107	7.2957753	Le Sarment d'Or				restaurant	4	68340	Rue du Cerf	
+node	872162940	48.1664492	7.2987791	Au Cerf				restaurant				
+node	1672746326	48.1666226	7.2980794	Au Vieux Pressoir				restaurant				
+node	1672746359	48.1666109	7.2981444	La Taverne Alsacienne				restaurant				
+node	3758505867	48.1662967	7.2972220	La Table du Gourmet				restaurant	5	68340	Rue de la 1ère Armée	
+node	4883014800	48.1666244	7.2989263	L'Arbalétrier				restaurant	12	68340	Rue du Général de Gaulle	
+node	4946826008	48.1663922	7.2978428	Bar de la Couronne				bar				
+node	4946826009	48.1663421	7.2976383	La Terasse Côté Salé				restaurant				
+node	5825830102	48.1674164	7.2977114	Restaurant La Fringale				restaurant				
+node	5830302255	48.1668397	7.2978956	Sasu Patisserie Chez Chloe				cafe				
+node	6155551607	48.1668252	7.2958191	Restaurant le Manala				restaurant	5		Rue du Cerf	
+node	6155557151	48.1670318	7.3004204	AOR La Table Le Goût et Nous				restaurant	2		Rue de la Piscine	
+node	6155617403	48.1661364	7.3023650	Brasserie du Vignoble				bar	8		Avenue Jacques Preiss	
+node	9543777773	48.1663990	7.2971231	Restaurant Pizzeria du Vignoble				restaurant	3		Rue Latérale	
+node	9546101879	48.1671190	7.2958519	Le Médiéval				restaurant				
+node	9546177829	48.1666755	7.2984195	L’Écurie				restaurant				
+node	11417263134	48.1666116	7.2991657	Au Relais de Riquewihr				restaurant				
+node	11417699815	48.1669004	7.2984003	Le Comptoir des Authentics				bar				
+node	11559801945	48.1670631	7.2991945	Le Grognard				restaurant				
+node	11559806196	48.1667079	7.2988425	A la Grappe d'Or				restaurant				
+node	13190617364	48.1665189	7.2977400	Le Caveau des Vignerons				restaurant				
+node	13192241970	48.1677007	7.2957866	Au Trotthus				restaurant				
+node	14008252577	48.1665945	7.2982206	Bretzel Food				restaurant				
+node	14075646362	48.1665682	7.2983276	Au Cep de Vigne				restaurant				
+node	14075646364	48.1665127	7.2985186	La Diligence				restaurant				
+node	14075646365	48.1664883	7.2986321	Winstub				restaurant				
+node	14084542225	48.1665255	7.2979064	La Réserve				cafe				
+way	73045349	48.1666072	7.2996616	Au Vieux Bouc				bar	2	68340	Place Voltaire	
+way	73048823	48.1662989	7.2988627	Hostellerie Au Moulin				restaurant				
+way	73053070	48.1662175	7.2978089	La Grenouille				restaurant	7	68340	Rue de la Couronne	
+way	73053085	48.1666637	7.2977043	Relais des Moines				restaurant	21	68340	Rue du Général de Gaulle	
+way	73054792	48.1669172	7.2970775	Au Tire-Bouchon				restaurant				
+way	73054806	48.1670303	7.2961754	La Dime				restaurant				
+way	73057963	48.1663282	7.2971077	La Table du Gourmet				restaurant				
+way	73466504	48.1672861	7.2961253	Au Vieux Riquewihr				restaurant				
+way	73466548	48.1660098	7.2974727	A la Couronne				restaurant				
+way	73559872	48.1672974	7.2962773	Au Dolder				restaurant				
+way	649193165	48.1662549	7.3022798	Le Biergarten				biergarten				
+relation	38316			Rixheim	8	68170	68278					
+node	1936860146	47.7443699	7.3994150	Il Pastaio				restaurant	15	68170	Grand'Rue Pierre Braun	
+node	2452299400	47.7497946	7.4081486	Modena restaurant pizzeria				restaurant	1	68170	Rue de Habsheim	
+node	3533970177	47.7480341	7.4030500	Le 7ème Continent				restaurant				
+node	11107336798	47.7447547	7.4014994	Bacio 𝗜𝗹 𝗚𝘂𝘀𝘁𝗼				restaurant	56	68170	Grand'Rue Pierre Braun	
+node	11107426505	47.7439525	7.4065952	Cocooning Pizza				restaurant				
+node	11108384105	47.7537978	7.3920760	Aux Delices du Fournil				restaurant	57	68170	Rue de Mulhouse	
+node	11108391506	47.7501797	7.4072485	Le Coq Rouge				restaurant	1	68170	Rue de Mulhouse	
+node	11381747330	47.7639710	7.3951889	Les Pizzas des Frangins				restaurant	165		Rue de l'Île Napoléon	
+node	12529269044	47.7465807	7.3998595	La Licorne				bar				
+way	186454531	47.7585215	7.4009926	Chez Steph et Marie				restaurant	54	68170	Rue de l'Île Napoléon	
+way	186481812	47.7299149	7.3775604	Le Buchwald				restaurant				
+way	237300004	47.7436653	7.4154758	Taverne le 9				restaurant				
+relation	80346			Roderen	8	68800	68279					
+node	5998671988	47.7810660	7.0897844	Epicerie - Salon de Thé - Dépot de pain 'Au Bonheur de Val'				cafe	8	68800	Grand' Rue	
+relation	69056			Roggenhouse	8	68740	68281					
+node	4344631804	47.8889889	7.4671808	Restaubar				bar				
+relation	60632			Rombach-le-Franc	8	68660	68283					
+node	3143583105	48.2902275	7.2538364	Ferme Auberge Pierreusegoutte				restaurant				
+way	150222294	48.2921298	7.2236255	Ferme Auberge du Creux Chêne				restaurant				
+relation	69399			Rorschwihr	8	68590	68285					
+node	4430508754	48.2173621	7.3621152	Winstub de Rorschwihr				pub				
+relation	85424			Rosenau	8		68286					
+node	2313530856	47.6526325	7.5242661	Rhin & Découverte				restaurant		68680	Site de la centrale hydraulique de Kembs	
+node	4210314404	47.6364801	7.5355564	Au Lion d'Or				restaurant				
+node	10720690035	47.6407060	7.5346548	Restaurant Pizzeria Le Moulin				restaurant				
+relation	79410			Rouffach	8	68250	68287					
+node	700324054	47.9615112	7.2976687	Chez Julien				restaurant				
+node	700324141	47.9614217	7.2978037	Philippe Bohrer				restaurant				
+node	769414890	47.9571002	7.2998105	A l'ours noir				bar				
+node	799269909	47.9575374	7.2975357	Salon de Thé Clémentine				cafe				
+node	1468236513	47.9571529	7.2984525	Aux Trois Colonnes				restaurant				
+node	3546584017	47.9565058	7.2990307	La table saisonière				restaurant				
+node	3756989307	47.9572940	7.2953971	La Toscana				restaurant				
+node	4757985479	47.9563771	7.2990016	J Club				pub				
+node	7481929465	47.9574836	7.2996195	Zen Sushi				restaurant	1		rue des prêtres	
+node	9955362007	47.9605006	7.3124125	Fisherman's Pub				bar	1		Avenue De La Gare	
+node	11145676937	47.9570669	7.3008301	Le kolibri				restaurant				
+node	13953725211	47.9580715	7.2956855	Sicilia Bedda				restaurant	1		Rue Claude Ignace Callinet	
+way	48615292	47.9628451	7.2963113	Château d'Isenbourg				restaurant				
+way	56223116	47.9436247	7.2871047	Relais d'Alsace				restaurant				
+way	62196684	47.9571601	7.3012293	Caveau à la Grappe				restaurant				
+relation	945108			Saint-Amarin	8	68550	68292					
+node	1952984049	47.8741326	7.0302172	Mega Doner Kebab				restaurant				
+node	1952984052	47.8736149	7.0322011	Presto Pizza				restaurant	42		Rue Charles de Gaulle	
+node	1952984053	47.8744933	7.0291913	Diligence Pizz'				restaurant				
+node	9831301309	47.8742440	7.0306676	Bar du Coq				bar				
+node	10856311905	47.8741580	7.0300299	Marinella				restaurant	75	68550	Rue Charles de Gaulle	
+way	219458630	47.8747130	7.0287365	Au Cheval-Blanc				restaurant	88		Rue Charles de Gaulle	
+relation	85611			Sainte-Croix-aux-Mines	8	68160	68294					
+node	4421934947	48.2538071	7.2326526	Auberge Sobach				restaurant				
+node	6976892639	48.2626531	7.2252338	Le Colibri				bar				
+relation	69062			Sainte-Croix-en-Plaine	8	68127	68295					
+node	2820233895	48.0069562	7.3831361	La Rose Rouge				restaurant				
+node	11405775292	48.0084523	7.3842093	Le Florentin				restaurant				
+node	12002732644	48.0183326	7.3750038	Le Saint Cru				restaurant				
+relation	68426			Saint-Hippolyte	8	68590	68296					
+node	6228512639	48.2331595	7.3684577	Restaurant Hupsa Pfannala				restaurant	59	68590	Route du Vin	
+node	6236314786	48.2323156	7.3698826	Restaurant Au Rouge de Saint-Hippolyte				restaurant	36		Route du Vin	
+node	6871536449	48.2331482	7.3677228	Hôtel A La Vignette Restaurant				restaurant	66	68590	Route du Vin	
+relation	85276			Saint-Louis	8	68300	68297					
+node	1281984278	47.6116722	7.5340595	Aux Délices				cafe				
+node	1282025034	47.6152790	7.5344257	Restaurant "À la Couronne"				restaurant		68300	Rue de Strasbourg	
+node	1282041260	47.6104228	7.5394572	Restaurant "O Sole Mio"				restaurant				
+node	1282084713	47.5947440	7.5548417	Restaurant "Le Stelle"				restaurant				
+node	1911033751	47.5870513	7.5658621	Restaurant de la Poste				restaurant				
+node	1921611012	47.5852386	7.5618909	Entrepotes				restaurant				
+node	1921710443	47.5847107	7.5684293	Chez Moi				restaurant	5	68300	Rue des Jardins	
+node	1990345115	47.5979127	7.5535516	Palais de Saint-Louis				restaurant				
+node	2031643848	47.6102460	7.5395898	Retro Club				nightclub				
+node	3392497141	47.5862108	7.5632452	La Diligence				restaurant				
+node	3392511790	47.5863044	7.5628290	Le Tyl				bar				
+node	3693895796	47.6051534	7.5419349	Au bouillon d'Édouard				restaurant				
+node	4217375052	47.5774775	7.5718990	Porte de France				restaurant	94	68300	Avenue de Bâle	
+node	5796737532	47.5861088	7.5644620	RESTAURANT ASIATIQUE WOK 68				restaurant	1	68300	Rue de Huningue	
+node	6606299320	47.5842027	7.5651926	Pâtisserie Jacques				cafe	21	68300	Avenue de Bâle	
+node	7212143982	47.6030866	7.5451724	Au Bureau				restaurant				
+node	9121667808	47.5786871	7.5463088	Yam				restaurant				
+node	9125603018	47.5983314	7.5493960	A l'Essentiel				restaurant	14	68300	Rue François Antoine Xavier Wittersbach	
+node	9158426715	47.5863404	7.5623088	Le Grand Bleu				bar	3	68300	Croisée des Lys	
+node	9160432617	47.6058023	7.5440318	Volfoni				restaurant				
+node	9311034173	47.5849359	7.5648490	La Cave				restaurant				
+node	10010718493	47.5847309	7.5628668	Chabroc Café				bar				
+node	10242430806	47.5806081	7.5690189	Uskana				restaurant				
+node	10242599337	47.5885725	7.5610141	Le Trianon				restaurant	46	68300	Rue de Mulhouse	
+node	11268809869	47.5993249	7.5319441	weckmann				cafe				
+node	11596112739	47.5993155	7.5322642	Starbucks				cafe		68304		
+node	11603526565	47.5999899	7.5310907	La Brasserie Du 5e				restaurant				
+node	11603526566	47.5989476	7.5317693	La Fourchette Suisse				bar				
+node	11603526567	47.5991416	7.5316316	Le Coin Bistrot				restaurant				
+node	12077153681	47.5776450	7.5712084	Nagoya Sushi				restaurant	89	68300	Avenue de Bâle	
+node	12201054446	47.5838936	7.5654789	Sushi's				restaurant	25	68300	Avenue de Bâle	
+node	12218280471	47.5880453	7.5686531	Kawa				cafe				
+node	13340841801	47.5847413	7.5683803	Chez Madar Joon				restaurant	5	68300	Rue des Jardins	
+node	14116238928	47.5861295	7.5627879	Ganesha				restaurant	12	68300	Croisée des Lys	
+node	14297241012	47.5981394	7.5290100	Bottega Prosecco Bar				bar				
+way	142500524	47.5772595	7.5720900	PMU - A la douane				bar				
+way	142544863	47.5814867	7.5546266	Maison de l'Inde				restaurant	60		Avenue du Général de Gaulle	
+way	142652652	47.5819187	7.5546532	Simitçi				restaurant	57	68300	Avenue du Général de Gaulle	
+relation	85635			Sainte-Marie-aux-Mines	8	68160	68298					
+node	1323439983	48.2469360	7.1855702	Salon de Thé - Iffrig				cafe				
+node	1991473868	48.2316322	7.1619520	La Cabane d'Échery				bar				
+node	3143534942	48.2216166	7.1466478	Ferme Auberge de la Liepvrette				restaurant				
+node	3143557496	48.2406138	7.2175644	Auberge du Petit-Haut				restaurant				
+node	3700356156	48.2136632	7.1373119	Bar le tellure				cafe				
+node	4421940933	48.2279216	7.1459717	Ferme Auberge Chalet Pierre				restaurant	10	68160	La Côte d'Echery	
+node	11090379519	48.2491992	7.1887791	La bonne table				restaurant	41		Rue Wilson	
+node	11090379520	48.2491271	7.1889473	Brasserie des Sports				restaurant				
+node	11090379535	48.2453439	7.1814641	Brasserie Le Central				restaurant				
+node	11090379537	48.2450037	7.1796686	Le Foch				pub				
+node	11090379538	48.2450528	7.1797404	Taverne du Vif d'Argent				restaurant				
+node	12946997942	48.2386483	7.2001849	La Calèche				restaurant				
+way	117101135	48.2455600	7.1832230	Hôtel-Restaurant Wistub aux Mines d'Argents				restaurant	8	68160	Rue du Docteur Weisgerber	
+way	117103391	48.1968208	7.1126712	Ferme Auberge La Graine Johé				restaurant		68650	Col des Bagenelles	
+relation	38262			Sausheim	8	68390	68300					
+node	3316656300	47.7792502	7.3888119	Gengis Khan Grill				restaurant				
+node	5577896491	47.7889445	7.3699151	Crêperie au Farfadet				restaurant				
+way	1361410180	47.7745978	7.3931817	Buffalo Grill				restaurant	3		Rue de Lorraine	
+relation	386177			Schlierbach	8	68440	68301					
+node	1782886111	47.6827947	7.4068930	La fourchette				restaurant				
+node	1782899030	47.6887668	7.4238512	Le Close des Sens				restaurant				
+relation	80537			Sentheim	8	68780	68304					
+node	2833612820	47.7560590	7.0542793	La Marmite				restaurant				
+relation	391744			Seppois-le-Bas	8	68580	68305					
+node	1786083649	47.5394845	7.1785553	Au Cerf				restaurant				
+node	1791834012	47.5363036	7.1758677	La Carpe d'Or				restaurant				
+relation	80511			Sewen	8	68290	68307					
+node	916763733	47.8158395	6.8558016	Ferme Auberge du Hinteralfeld				restaurant		68290	Route du Ballon	
+node	916801281	47.8074717	6.9148175	Hôtel des Vosges				restaurant	38	68290	Grand' Rue	
+node	3144084659	47.8223259	6.8855492	Ferme Auberge du Baerenbach				restaurant		68290	Route du Ballon	
+node	3144125861	47.8028577	6.8605450	Ferme Auberge Grand Langenberg				restaurant		68290	Route de la Fennematt	
+node	4283682871	47.7891044	6.8620444	Ferme auberge du Wissgrut				restaurant		68290	Piste de la Gentiane	
+way	182760358	47.8156609	6.8735149	Auberge du Lac d'Alfeld				restaurant				
+way	182764796	47.8004752	6.8498081	La Cabane				restaurant		90200	plain de la gentiane	
+relation	385151			Sierentz	8	68510	68309					
+node	1942008446	47.6546808	7.4536148	Délices d'Asie				restaurant				
+node	1942008450	47.6540322	7.4538723	Auberge Saint-Laurent				restaurant				
+node	10886216807	47.6556202	7.4526424	La Croix d'Or				restaurant				
+node	14180821923	47.6544318	7.4533811	Porquinho Viajante				restaurant	7	68510	Rue Poincaré	
+relation	906235			Sondernach	8	68380	68311					
+node	1131677835	47.9860881	7.0487476	Restaurant Le Panoramic				restaurant				
+node	1712386957	47.9826277	7.1194643	Ferme-Auberge Rothenbrunnen				restaurant		68380		
+way	97773073	47.9859831	7.0487533	Restaurant Le Panoramic				restaurant				
+way	97774018	47.9672533	7.0572058	Auberge du Raedlé				restaurant				
+relation	80333			Soppe-le-Bas	8	68780	68313					
+way	181415854	47.7178010	7.0931480	Auberge Erhard				restaurant	23	68780	Rue Principale	
+relation	78845			Soultz-Haut-Rhin	8	68360	68315					
+node	277438569	47.9049048	7.1041588	La Vue des Alpes				restaurant				
+node	1636972826	47.8838737	7.2272885	Metzgerstuva				restaurant	69	68360	Rue du Maréchal de Lattre de Tassigny	
+node	1710583310	47.8788886	7.1905454	Le Jardin des Violettes				restaurant				
+node	1785629853	47.8860617	7.2295437	Il Veneziano				restaurant	12	68360	Place de la République	
+node	3143908802	47.8972500	7.1308727	Ferme-Auberge de la Glashütte				restaurant				
+node	4175720805	47.8863622	7.2291931	Café Les 2 Clefs				cafe				
+node	4175720807	47.8781963	7.2205978	La Bellevue				restaurant				
+node	4175720808	47.8864454	7.2293581	Les Clefs d'Or				restaurant				
+node	4175720811	47.8862249	7.2289810	Sherazade				restaurant	2	68360	Place de la République	
+node	4175754641	47.8840034	7.2275171	La Chocolatisserie				cafe	65	68360	Rue du Maréchal de Lattre de Tassigny	
+node	4175765599	47.8847235	7.2285195	MIRA MARE				restaurant				
+node	4175765600	47.8845291	7.2282104	Le Winz' Bar, Brasserie				pub				
+node	4757990041	47.8859447	7.2287755	Remy K. Cafe, Patisserie				cafe	50	68360	Rue Jean Jaurès	
+node	6007138951	47.8948646	7.1456489	Auberge de Dieffenbach				restaurant				
+node	9524719953	47.8788202	7.1906215	Lounge bar				bar				
+node	9791868904	47.8888379	7.2269615	Winstub Sür Und Siess				restaurant				
+node	10129925240	47.8872856	7.2306407	L'Avant-Scène				restaurant	7	68360	Place de l'Église	
+way	70280998	47.8763314	7.1302860	Ferme Auberge du Kohlschlag				restaurant		68760	route du Col Amic	
+way	70282950	47.8927372	7.1161517	Ferme Auberge du Grand Ballon				restaurant		68760		
+way	70284247	47.8948190	7.2248215	Au fin Bec asiatique				restaurant	19	68360	Route de Guebwiller	
+relation	913748			Soultzbach-les-Bains	8	68230	68316					
+way	97607832	48.0363250	7.2031185	Ô Lavoir				restaurant				
+relation	905901			Soultzeren	8	68140	68317					
+node	496239839	48.0890150	7.0686673	Gaertlesrain				restaurant				
+node	3143647129	48.0749309	7.0950779	Ferme Auberge Bichstein (Position estimée/visée !)				restaurant				
+node	3143816961	48.0872539	7.1126160	Ferme Auberge Wettstein				restaurant				
+way	67235541	48.0781306	7.1277999	Ferme Auberge du Glasborn-Linge				restaurant				
+way	67235985	48.0827963	7.0581134	Ferme Auberge Seestaedle				restaurant				
+way	67236202	48.0678303	7.0882529	Ferme Auberge Soultzersmatt				restaurant				
+way	67236846	48.0916713	7.0685838	Chalet Erichson				cafe				
+way	67237066	48.0881047	7.1101494	Ferme Auberge du Musmiss				restaurant				
+way	961423432	48.1034856	7.0747816	Ferme Auberge du Forlet				restaurant				
+relation	911056			Soultzmatt	8	68570	68318					
+node	826247468	47.9608508	7.2393038	Better				restaurant				
+node	826247489	47.9610207	7.2391768	Klein				restaurant				
+node	1256758997	47.9685871	7.2118856	Hôtel de la Vallée Noble				restaurant				
+node	3779637061	47.9615980	7.2384473	Brasserie au Tigre				pub				
+node	11084124605	47.9588766	7.2433186	Entre Potes				restaurant	20	60570	Rue de la Vallée	
+way	84417047	47.9542316	7.2424842	Restaurant l'Écrin				restaurant		68570	Rue du Lussweg	
+relation	905907			Stosswihr	8	68140	68329					
+node	301207452	48.0533370	7.0245321	Ferme-Auberge Les Trois Fours				restaurant				
+node	411065417	48.0374534	7.0400761	Le Schallern				restaurant		68380	Gaschney	
+node	6047201514	48.0635346	7.0234716	La Maison				restaurant		68140	Col de la Schlucht	
+node	12498242801	48.0537224	7.1145243	Hotel la roche viaje a francia promo 48				bar				
+way	71262194	48.0781726	7.0586686	Auberge de Schantzwasen				restaurant				
+way	71262529	48.0757909	7.0526830	Auberge Schupferen				restaurant				
+way	71262743	48.0432950	7.0213131	Marcairie du Frankenthal				restaurant		68140		
+way	71263435	48.0505387	7.1102036	Flam's Gourmandes				restaurant	61	68140	Route de la Schlucht	
+way	71264194	48.0513917	7.1082954	A L'ancienne Poste				restaurant				
+way	71264733	48.0526769	7.0961758	Au Tapis Rouge				restaurant				
+way	1102389502	48.0341575	7.0464678	360				bar				
+relation	393208			Strueth	8	68580	68330					
+node	10858330205	47.5819267	7.1276962	La Pomme d'Or				restaurant				
+way	170775690	47.5870227	7.1200770	Ferme auberge Le Paradis				restaurant				
+relation	905801			Sundhoffen	8	68280	68331					
+node	11765868103	48.0409842	7.4099650	La Villa des Saveurs				restaurant	14	68280	Route de Sainte-Croix en Plaine	
+way	83676253	48.0415170	7.4115681	Au Trou du Cru				restaurant				
+way	83676257	48.0412893	7.4124393	Bim Hudsala				restaurant				
+way	83701680	48.0462475	7.4194710	Restaurant de la Gare				restaurant				
+relation	85550			Tagolsheim	8	68720	68332					
+way	170739330	47.6552030	7.2668465	Restaurant Alcôve				restaurant	58	68720	Route de Mulhouse	
+relation	383380			Tagsdorf	8	68130	68333					
+way	172483461	47.6188817	7.2976697	Restaurant La Couronne				restaurant	3	68130	Rue de Belfort	
+relation	48098			Thann	8	68800	68334					
+node	3665870687	47.8125613	7.0990837	Ringenbach, Café, Boulangerie, Patisserie				cafe				
+node	4044524248	47.8076469	7.0867677	Au Floridor				restaurant	54	68800	Rue du Floridor	
+node	4135656146	47.8067048	7.1054557	Hôtel aux Sapins				restaurant	3		Rue Jeanne d'Arc	
+node	4135656147	47.8066682	7.1055321	Restaurant Aux Sapins				restaurant	3		Rue Jeanne d'Arc	
+node	4143102329	47.8099008	7.1037820	La Demi Lune				restaurant	31		Rue du Général de Gaulle	
+node	4143176017	47.8108726	7.1027343	Au Petit Rangen				restaurant	8	68800	Rue de la 1ère Armée	
+node	4143185033	47.8115882	7.1017453	Gully et Fils				cafe				
+node	4380749727	47.8135306	7.0969640	Le Mézé				restaurant	10		Rue Saint-Jacques	
+node	4380751969	47.8118653	7.1004482	Le Caséus				restaurant	100	68800	Rue de la 1ère Armée	
+node	4380761784	47.8083680	7.1027576	Hôtel du Parc				restaurant	23			
+node	5696879369	47.8126078	7.1021274	Café de l'Engelbourg				cafe				
+node	9864175178	47.8126711	7.0989879	Neuf Plus				restaurant	4	68800	Rue des Cigognes	
+node	10857949805	47.8112535	7.1029646	Chez Emma				cafe	38	68800	Rue de la 1re Armée	
+node	11390047630	47.8122191	7.0994778	Ali Pacha				restaurant				
+node	11392328138	47.8112739	7.1010102	Allo Pizza				restaurant				
+node	11392465522	47.8117742	7.0994854	Sporting Bar				bar				
+node	13634013847	47.8118846	7.1015365	Zeffirio				restaurant	11		Rue Saint-Thiébaut	
+relation	85675			Thannenkirch	8	68590	68335					
+node	3095495349	48.2300055	7.3036710	Auberge La Meunière				restaurant				
+relation	83255			Turckheim	8	68230	68338					
+node	2702400612	48.0864635	7.2782612	Restaurant de la Tour				restaurant				
+node	3296170496	48.0865917	7.2781973	Stammtisch				restaurant				
+node	4311490091	48.0866986	7.2773547	Caveau du Vigneron				restaurant	5		Grand'Rue	
+node	4893419471	48.0865479	7.2778331	L'Abreuvoir				restaurant				
+node	4893419472	48.0867410	7.2778079	Brasserie Gourmandizes & Co				restaurant				
+node	6635746277	48.0864033	7.2752511	Roma				restaurant				
+node	6635805547	48.0864413	7.2754330	Little Italy				restaurant				
+node	7346349193	48.0864117	7.2750010	La Scud				bar	51	68230	Grand'Rue	
+node	7354659983	48.0865803	7.2755755	Au rendez-vous de 22h08				restaurant	44	68230	Grand'Rue	
+way	55821608	48.0986289	7.2349150	Mon Repos				restaurant				
+way	60451166	48.0920751	7.2063359	Ferme Auberge Obschel				restaurant				
+way	78032698	48.0861130	7.2778351	Hôtel des Vosges				restaurant				
+way	78040611	48.0866100	7.2782227	Le Stammtisch				restaurant				
+way	78040635	48.0864299	7.2779771	L'Auberge du Veilleur				restaurant				
+way	78042270	48.0868557	7.2773218	L'Auberge du Brand				restaurant	8	68230	Grand'Rue	
+way	78146324	48.0863276	7.2716091	Caveau du Chemin de Ronde				restaurant				
+relation	112024			Uffholtz	8	68700	68342					
+node	1722550511	47.8175880	7.1791955	Auberge du Relais				restaurant	35	68700	Rue de Soultz	
+node	11863209026	47.8184684	7.1798514	À l'abri				cafe				
+node	12111948275	47.8180942	7.1802188	Da Giu’				restaurant				
+way	141522479	47.8157907	7.1783404	Danny Bar				bar				
+relation	69046			Ungersheim	8	68190	68343					
+node	1775854042	47.8548830	7.2859445	Auberge de Hégenheim				restaurant				
+way	46772845	47.8536103	7.2847406	Taverne - Maison de Rixheim				restaurant				
+way	46778032	47.8608789	7.2977780	Météorite Café				cafe				
+relation	945236			Urbès	8	68121	68344					
+node	1814711891	47.8897994	6.8993160	Moto-Hôtel du Col de Bussang				restaurant		88540	Col de Bussang	
+node	8949031473	47.8815632	6.9443755	Le Grisou				restaurant	1	68121	Rue de la Scierie	
+way	218477639	47.8932899	6.9284366	Gustiberg Ferme Auberge				restaurant		68121	Brennwald	
+relation	391070			Vieux-Ferrette	8	68480	68347					
+node	5144765760	47.5032855	7.3016213	Restaurant Au Chaudron				restaurant				
+node	5144795549	47.5006113	7.3071013	La Mignardaise - Patisserie, Salon de The				cafe				
+node	5144795551	47.5001396	7.3066398	Pizzeria Pendaries				restaurant	51		Rue de Ferrette	
+relation	48097			Vieux-Thann	8	68800	68348					
+way	181066809	47.8076630	7.1315040	Le Bloom				restaurant				
+way	181071012	47.8017910	7.1310160	Alba				restaurant				
+relation	85423			Village-Neuf	8		68349					
+node	2027027868	47.6066988	7.5700411	A l'Eglise				cafe				
+node	2028771827	47.6057181	7.5711788	Restaurant à l'Aigle				restaurant				
+node	2028822110	47.6054143	7.5709026	Le Bouquet Garni				restaurant				
+node	2028874869	47.6040887	7.5611313	La Nouvelle Brasserie				restaurant				
+node	2029046138	47.6068614	7.5656469	Ville de Belfort				pub				
+node	2033063574	47.6083750	7.5716075	Au Bord du Rhin				cafe				
+node	4882169751	47.6001495	7.5793974	Café du Touriste				cafe	81	68128	Rue Vauban	
+way	154176676	47.6121466	7.5765005	Astro sur Rhin				restaurant				
+relation	69290			Vogelgrun	8	68600	68351					
+node	11976533093	48.0235897	7.5781277	La Plage				restaurant		68600		Île du Rhin
+node	12273279717	48.0230255	7.5780717	l'Europeen				restaurant				
+way	110205604	48.0195420	7.5816496	Le Caballin				restaurant		68600	Île du Rhin	
+relation	69278			Volgelsheim	8	68600	68352					
+node	838432956	48.0115111	7.5401844	Chez François				cafe				
+node	4599693703	48.0335143	7.5495798	La Boîte à Sel				restaurant				
+node	8035341457	48.0108813	7.5408068	Le Palais des Pandas / Le Soleil du Rhin				restaurant	1	68600	Rue du Pourquoi Pas	
+node	14135227801	48.0118393	7.5348660	La Stub Greiner				restaurant	7	68600	Rue des Artisans	
+node	14135233306	48.0111990	7.5407381	Pizzeria Da Pietro				restaurant	6	68600	Rue du Pourquoi Pas	
+relation	383768			Wahlbach	8	68130	68353					
+node	3713761570	47.6302845	7.3466155	Auberge de la gloriette				restaurant	9			
+relation	391460			Waldighoffen	8	68640	68355					
+node	2356505699	47.5479262	7.3216166	Le Mitron				restaurant				
+node	8051258751	47.5508894	7.3178254	La Table de Jean				restaurant				
+node	8059195480	47.5507012	7.3158989	Nuances Café				cafe				
+relation	905909			Wasserbourg	8	68230	68358					
+node	467405854	47.9828305	7.1325653	Ferme-Auberge Strohberg				restaurant		68230		
+node	467407680	47.9769010	7.1477459	Auberge du Boenlesgrab				restaurant				
+node	568321307	47.9946506	7.1373414	Ferme Auberge Wassmatt				restaurant	134	68230	Wassmatt	
+way	66174849	47.9909361	7.1322378	Ferme-Auberge Buchwald				restaurant		68230		
+relation	112026			Wattwiller	8	68700	68359					
+node	1482684473	47.8534955	7.1355148	Ferme-Auberge du Molkenrain				restaurant		68700	Route des Crêtes	
+node	9177559737	47.8392581	7.1796870	Caveau Le Flamma Stuwa				restaurant	11	68700	Rue de la Cantine	
+way	159673532	47.8465207	7.1679282	Domaine Hirtz				restaurant				
+relation	80445			Wegscheid	8	68290	68361					
+node	13502773024	47.8005091	6.9573018	Decolatte				cafe				
+relation	85293			Wentzwiller	8	68220	68362					
+way	178137325	47.5565811	7.4762669	Auberge Belle-Vue				restaurant	1	68220	Rue de Hésingue	
+relation	79403			Westhalten	8	68250	68364					
+node	3801183672	47.9447277	7.2573921	Au Vieux Pressoir				restaurant				
+node	9855142961	47.9578075	7.2586405	Le Comptoir de la Vallée				restaurant	5		Rue de Soultzmatt	
+way	62549101	47.9566193	7.2603805	Au Cheval Blanc				restaurant				
+relation	79444			Wettolsheim	8	68920	68365					
+node	5615181921	48.0534466	7.3297080	Vecchia Romagna				restaurant				
+way	50672507	48.0458159	7.3464973	Le Clos Alexi				restaurant				
+way	81103190	48.0578742	7.2983661	Le Hagueneck - Le Pied de Cochon				restaurant				
+way	81104119	48.0592319	7.2987087	Au Soleil				restaurant				
+way	81382799	48.0601429	7.3031953	La Palette				restaurant				
+relation	69092			Widensolen	8	68320	68367					
+way	175259372	48.0705840	7.4782404	Auberge du Moulin				restaurant				
+relation	905945			Wihr-au-Val	8	68230	68368					
+node	2442569163	48.0519331	7.2050480	La Tropezienne, Pizzeria				restaurant				
+node	4319140656	48.0520455	7.2048538	Le Bar Joe, Tabac				pub				
+way	451913352	48.0462835	7.2084107	La Nouvelle Auberge				restaurant				
+relation	916033			Wildenstein	8	68820	68370					
+node	5128062396	47.9913687	6.9650885	Au Bram's				restaurant	2	68820	Rue du Bramont	
+relation	80378			Willer-sur-Thur	8	68760	68372					
+node	1865817744	47.8431637	7.0732588	Le Bouillon Alsacien				restaurant	17	68760	Rue du Général Gallieni	
+node	2329466553	47.8426969	7.0713602	La Couronne				restaurant				
+way	134423647	47.8631413	7.1232428	Ferme Auberge du Freundstein				restaurant		68760	Route des Crêtes	
+way	134423809	47.8520631	7.1098885	Ferme Auberge Ostein				restaurant			Rue du Vieil Armand	
+relation	83245			Wintzenheim	8	68124;68920	68374					
+node	3803109286	48.0721438	7.2927019	A la Ville de Colmar				restaurant				
+node	3803109287	48.0719665	7.2926122	Dart's Cafe				cafe				
+node	4043612053	48.0749932	7.2787514	Espace Poisson Rouge				nightclub	137	68920	Rue Clemenceau	
+node	6735202187	48.0727261	7.2904520	Casa Gina				restaurant				
+way	52173356	48.0841389	7.3132060	Buffalo Grill				restaurant				
+way	52565308	48.0844046	7.3138594	Palais de l'Est				restaurant				
+way	77021450	48.0736741	7.2910065	Au Bon Coin				restaurant				
+way	77345415	48.0737513	7.2853680	Cristal				restaurant				
+relation	48079			Wittelsheim	8	68310	68375					
+node	581990938	47.7742446	7.2293170	La Pyramide				restaurant				
+node	582002972	47.7766861	7.2254931	Ristorante Isola Verde				restaurant				
+node	582003078	47.7802400	7.2242109	L'Orée du Bois				bar				
+node	1705440264	47.8050945	7.2380309	Au Raisin				restaurant				
+node	1715864266	47.8095520	7.2441362	L'Aigle d'Or				restaurant				
+way	157044268	47.7786635	7.2259670	Le Flibustier				nightclub				
+way	157044279	47.7788961	7.2260734	Cavalino				restaurant				
+relation	68735			Wittenheim	8	68270	68376					
+node	9833291773	47.8091862	7.3376568	Chez Aydin				restaurant				
+node	11071193561	47.8077473	7.3380171	Les mil'saveurs				restaurant				
+node	11071202435	47.8063013	7.3375581	Le Palace				bar				
+node	11071203630	47.8068872	7.3374395	ushio				restaurant				
+node	11071206086	47.8066262	7.3373641	aldo pizza				restaurant				
+node	11169356225	47.8086538	7.3373889	L'Arancina				restaurant	14	68270	Rue de Kingersheim	
+node	13041100534	47.7991781	7.3120541	Okito O'grand Buffet				restaurant				
+way	232589048	47.7977115	7.3107913	La Pataterie				restaurant	147c	68270	Rue des Mines Anna	
+way	705952973	47.7985786	7.3073098	Courtepaille				restaurant				
+relation	912405			Wolfersdorf	8	68210	68378					
+way	166880944	47.6381293	7.1117014	Café de la Largue				bar				
+relation	69091			Wolfgantzen	8	68600	68379					
+node	1484320518	48.0272847	7.5017470	Restaurant de la Poste				restaurant				
+node	4922332100	48.0273806	7.5014046	Restaurant Kastenwald				restaurant				
+relation	83755			Zellenberg	8	68340	68383					
+way	74041245	48.1686608	7.3209212	Auberge du Froehn				restaurant				
+way	74127464	48.1693264	7.3189318	Maximilien				restaurant				
+way	74127591	48.1717086	7.3219515	Hôtel Au Riesling				restaurant				
+way	74127632	48.1679877	7.3189599	Le Schlossberg				restaurant				
+relation	47920			Zillisheim	8	68720	68384					
+node	1692265049	47.6811011	7.3120925	Auberge du Canon				restaurant				
+node	1782680494	47.6966545	7.2937207	Bar de zillisheim				bar				
+node	1782680495	47.6966613	7.2938037	La Fontaine				cafe				
+node	1924839995	47.6939648	7.2942773	Auberge Mohn				restaurant				
+relation	47923			Zimmersheim	8	68440	68386					
+node	10811513065	47.7209671	7.3879714	Chez Colette				restaurant				

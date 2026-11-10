@@ -1,0 +1,2497 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	2129973			Les Adrets-de-l'Estérel	8	83600	83001					
+node	1485189857	43.5263381	6.8375161	Bar Restaurant de l'Estérel				restaurant				
+node	1485189860	43.5289479	6.8203930	La Table d'Amanda				restaurant				
+node	1485189875	43.5153181	6.8108121	L'Estirado des Adrets				restaurant	133		Chemin Panoramique	
+node	1485189876	43.5257564	6.8140276	Le Relais des Adrets				restaurant				
+node	5349379948	43.5258027	6.8138400	A Casa Serena				restaurant	1		Rue Grande	
+relation	2162205			Aiguines	8	83630	83002					
+node	662269129	43.7751089	6.2433355	L'Antidote				restaurant	18		Place de la Mairie	
+node	662269130	43.7755162	6.2431307	Le Rive Gauche				restaurant	13	83630	Place de la Fontaine	
+node	1408668916	43.7378621	6.3455223	Restaurant du Grand Canyon				restaurant	1365		Route du Verdon	
+node	8647833813	43.7756313	6.2434262	Le Vieux Château				restaurant	4		Place de la Fontaine	
+node	8831305345	43.7753523	6.2435491	Chez Dante				restaurant	6		Place du Barda	
+node	8972708002	43.7969313	6.2432106	La Guingette du Lac				restaurant	714		Route du Galetas	
+node	11029684269	43.7636207	6.2211943	Chanteraine				restaurant	2404		Chemin de Chanteraine	
+node	12777886882	43.7755515	6.2427938	Sous Le Tilleul				restaurant	47	83630	Grand Rue	
+node	12873113291	43.7762872	6.2425134	La Table de Gabrielle				restaurant	35	83630	Grand Rue	
+way	1459786789	43.7763760	6.2453405	Restaurant				restaurant				
+relation	125328			Ampus	8	83111	83003					
+node	2437013823	43.6070863	6.3831593	Chez Fanfan				restaurant	3	83111	Place de la Mairie	
+node	2437013829	43.6071376	6.3829464	Le Bistronomique				restaurant	2	83111	Place de la Mairie	
+node	3380266732	43.6056934	6.3810943	Terre et papilles				restaurant	56	83111	Rue Neuve	
+node	7739953833	43.6068585	6.3827799	La maison bleue				restaurant				
+relation	125362			Les Arcs	8	83460	83004					
+node	2969336123	43.4628104	6.4779474	Café de la Tour				cafe				
+node	2969336125	43.4632723	6.4781717	La Boutique				restaurant	2		Rue de la République	
+node	4358914989	43.4632660	6.4776577	La Terrasse				restaurant	46	83460	Rue du Docteur Mourre	
+node	5814088981	43.4466751	6.4726692	La Cascade				restaurant				
+node	7093498734	43.4600237	6.5251643	La Pinède				restaurant		83460	Quartier Roque-Rousse, RD N7	
+node	7733589311	43.4625421	6.4783403	Café de Paris				cafe	27		Boulevard Gambetta	
+node	7733903850	43.4626287	6.4782272	Le 421				cafe	29		Boulevard Gambetta	
+node	7733903859	43.4619148	6.4793280	Nouvelle brasserie des sports				pub	3		Boulevard Gambetta	
+node	7733903862	43.4552355	6.4794704	S'well Coffee				restaurant				
+node	7733903868	43.4636476	6.4778831	Crêperie				restaurant				
+node	7733922685	43.4614059	6.4804720	Le Cabanon				restaurant	22		Place Edouard Soldani	
+node	8251108434	43.4634520	6.4784167	Saveurs d'Asie				restaurant	11	83460	Rue de la République	
+node	11146109878	43.4643726	6.4779874	Le Château d'Argens				restaurant		83460		Place du Château
+node	11146109892	43.4629599	6.4776712	La Casa di Giu				restaurant				
+way	266398635	43.4660875	6.4905040	Le Relais des Moines				restaurant	77	83460		
+relation	2162206			Artignosc-sur-Verdon	8	83630	83005					
+way	366651513	43.7232056	6.0949515	Restaurant / Guingette				restaurant	1134	83630	Chemin de l'Eouvière	
+relation	2418563			Aups	8	83630	83007					
+node	5715605393	43.6282485	6.2244438	Le Petit Provençal des chouchous				restaurant	4	83630	Place Géneral Girard	
+node	7395042865	43.6277966	6.2243957	Lou Baraulo				bar	4	83630	Rue Gabriel Péri	
+node	8647762147	43.6270624	6.2252778	Le Provençal				restaurant		83630	Place Martin Bidouré	
+node	8647778986	43.6276952	6.2234445	Le Grand Hôtel				restaurant	4	83630	Place Gendarme Duchatel	
+node	8775794690	43.6283189	6.2242063	Le Tilleul				restaurant	3	83630	Rue Maréchal Foch	
+node	8775932262	43.6279264	6.2244406	Snack Santa				restaurant	10	83630	Rue Gabriel Péri	
+node	8775932606	43.6287129	6.2239687	Soléa				restaurant	12	83630	Rue Maréchal Foch	
+node	8776014471	43.6280505	6.2244918	Chez ton père - Café Central				bar	12	83630	Rue Gabriel Péri	
+node	8994276117	43.6274636	6.2250797	Le Saint Marc				restaurant	7	83630	Rue Jean-Pierre Aloïsi	
+node	10649489203	43.6274694	6.2240276	Grand Café du Cours				cafe		83630	Place Frédéric Mistral	
+node	10649579806	43.6280952	6.2242749	Chez Ta Mere				restaurant	12	83630	Place Géneral Girard	
+node	10651628212	43.6284263	6.2250478	Crêperie Maison Cyriange				restaurant	2	83630	Place Louis Gautier	
+node	10651711674	43.6273479	6.2254821	Restaurant des Gourmets				restaurant	5	83630	Rue Voltaire	
+node	10688353822	43.6276363	6.2236146	Brasserie Arnaud				cafe	2	83630	Place Gendarme Duchatel	
+node	11011114253	43.6169012	6.2202841	Pizza Les Uchanes				restaurant	1223		Route de Salernes	
+node	11011137424	43.6275688	6.2245496	Auberge de la Tour				restaurant	1	83630	Rue Jean-Pierre Aloïsi	
+node	11083849423	43.6263374	6.2235731	Feu - Les Délices du Monde				restaurant	8	83630	Avenue Georges Clemenceau	
+node	13355569536	43.6243153	6.2178615	Restaurant				restaurant				
+node	14022444907	43.6158769	6.2200034	La Table d'Emilie				restaurant	1337	83630	Route de Salernes	
+relation	124449			Bagnols-en-Forêt	8	83600	83008					
+node	12361235504	43.5371618	6.6989471	L'Envie				restaurant	565	83600	Grande Rue	
+node	12361235505	43.5372541	6.6987306	Les Remèdes de Bacchus				restaurant	545	83600	Grande Rue	
+node	12361235506	43.5373105	6.6986318	En Face				restaurant	539	83600	Grande Rue	
+node	12361235507	43.5373546	6.6984361	Le Bistrot				restaurant	513	83600	Grande Rue	
+way	160022826	43.5388825	6.6961650	Le Pinedon				restaurant				
+relation	1203272			Bandol	8	83150	83009					
+node	2329199461	43.1326257	5.7495594	Sirenetta				restaurant				
+node	2407542156	43.1356640	5.7383044	Le Méditerranéen				restaurant				
+node	3904992879	43.1364025	5.7556935	Le Scotch				restaurant				
+node	3904992880	43.1362961	5.7563529	Le Diams				restaurant	14	83150	Quai Charles de Gaulle	
+node	3911065109	43.1370616	5.7613032	Black jack				nightclub				
+node	3913111134	43.1361170	5.7549056	L'Amiral				restaurant				
+node	3913116579	43.1362077	5.7553301	Le Nautic				bar	1		Allée Jean Moulin	
+node	3913118062	43.1359210	5.7546119	Le Bistrot du Port				bar	5		Rue de la Republique	
+node	3913137015	43.1356763	5.7542659	La Marine				bar				
+node	3913137016	43.1355966	5.7540312	Le Winny				bar				
+node	3913152278	43.1361544	5.7556687	Poupoune				bar				
+node	3916732238	43.1281115	5.7527419	Le Delos				restaurant				Île de Bendor
+node	3916732239	43.1275620	5.7516635	La Grand Large				restaurant				
+node	3916732240	43.1277841	5.7515615	La Terrace de Bandor Brasserie				restaurant				
+node	3916732241	43.1280068	5.7524065	Le Bar des Voûtes				bar				
+node	3916732242	43.1283903	5.7470547	Le Soukana Plage				bar				
+node	3916756484	43.1281150	5.7506881	Le Delos Plage				restaurant				
+node	4970322904	43.1368271	5.7576898	Mare e Monti				restaurant	27	83150	Rue du Docteur Louis Marçon	
+node	4970393019	43.1365612	5.7570937	La Storia				restaurant	24	83150	Rue du Docteur Louis Marçon	
+node	4970422537	43.1365915	5.7566271	Au Boucanier				restaurant	13	83150	Rue du Docteur Louis Marçon	
+node	4971214765	43.1367774	5.7573668	Au Clair de la Vigne				restaurant	25		Rue du Docteur Louis Marçon	
+node	4971214767	43.1367309	5.7571799	Du côté de chez Swam				restaurant				
+node	4972313077	43.1366874	5.7570306	L'espérance				restaurant	21	83150	Rue du Docteur Louis Marçon	
+node	4972313078	43.1364743	5.7571732	Le Quai				restaurant				
+node	4972344060	43.1365501	5.7564289	Chez Gérald				restaurant				
+node	4982251998	43.1486626	5.7501162	Bandol Pizza				restaurant				
+node	4983652008	43.1370222	5.7594858	Du Thym à l'Ail				restaurant	73		Quai Charles de Gaulle	
+node	5239112110	43.1327856	5.7490751	La Chipotte				restaurant				
+node	5845967839	43.1464312	5.7660859	Ô'Sushi Bar				restaurant				
+node	5885680140	43.1331610	5.7504458	Le Petit Navire				restaurant				
+node	5885680141	43.1334929	5.7508289	La Goélette				restaurant				
+node	6964918485	43.1364244	5.7542046	Mammô				restaurant	19	83150	Rue des Tonneliers	
+node	7660589386	43.1355137	5.7530908	La Table De Romain				restaurant				
+node	7823628551	43.1366051	5.7577319	Les 2 Pins				restaurant				
+node	9661507017	43.1341782	5.7522947	Casa Paula				restaurant				
+node	9942791899	43.1309831	5.7536583	Mirrey				restaurant			promenade Paul Ricard	
+node	10908680329	43.1308682	5.7535289	Mirrey				bar				
+node	10934171671	43.1354123	5.7530647	La grange				restaurant	38	83150	Rue de la République	
+node	11014301208	43.1340796	5.7522317	Les palmiers				bar				
+node	11014301213	43.1355953	5.7529400	L’auberge provençale				restaurant	26		Rue Pons	
+node	11014301905	43.1356960	5.7535095	Le café bandolais				restaurant			Rue de la République	
+node	11014301906	43.1366729	5.7551868	Ti punch				restaurant	10		Rue Voltaire	
+node	11014301907	43.1366242	5.7551355	mimi				restaurant			Rue de la Paroisse	
+node	12037042221	43.1365565	5.7549884	KV & B				restaurant				
+node	12300009291	43.1370443	5.7595755	L’Envie				restaurant	75		Quai Charles De Gaulle	
+node	14101682335	43.1364485	5.7559868	Qeya				restaurant				
+node	14101706201	43.1367911	5.7584980	Ó Sud				restaurant	50		Rue du Docteur Louis Marçon	
+node	14101715270	43.1362736	5.7547721	Le Narval				restaurant	2		Place de la Liberté	
+node	14101715273	43.1365050	5.7548159	Bleu Blanc Roz				restaurant	1		Rue de la Paroisse	
+node	14101728403	43.1362537	5.7542223	L'Atelier du Goût				restaurant	2 bis		Rue Pons	
+node	14103209501	43.1396229	5.7518458	La Table Provençale - Chez Michel				restaurant				
+node	14103235101	43.1394538	5.7518128	Pizzeria Della Stazione				restaurant				
+node	14103580545	43.1378147	5.7520474	L'Antidote				bar				
+node	14103606801	43.1362033	5.7558532	O'Bullrock				pub				
+node	14103615701	43.1364449	5.7570388	L'Escale				restaurant				
+node	14103643001	43.1366600	5.7579691	La Caravelle				restaurant				
+node	14103681501	43.1356764	5.7534065	La Casa di Boldrini				restaurant				
+node	14103792601	43.1378541	5.7523221	De la Terre au Vin				restaurant				
+node	14105770601	43.1349199	5.7527693	La Brise d'Asie				restaurant				
+node	14105953101	43.1329400	5.7487227	Le Spot				bar				
+node	14105959103	43.1332127	5.7507436	Les Oliviers				restaurant				
+node	14111899901	43.1365302	5.7539727	Rendez-vous en Italie				restaurant				
+node	14111953904	43.1368817	5.7590087	L'Estanco de la Dentellière				restaurant				
+node	14111992301	43.1371792	5.7599752	Belati Bandol				restaurant	64		Rue du Docteur Louis Marçon	
+node	14116235501	43.1331926	5.7505215	Karma				bar				
+node	14116258501	43.1343218	5.7523991	Le Jérôme				restaurant				
+node	14116267601	43.1356379	5.7541534	Tchin Tchin				bar	5 quater		Rue de la Republique	
+node	14116267701	43.1357806	5.7543706	Auberge du Port				restaurant				
+node	14120402839	43.1355128	5.7536045	Le Repère				bar				
+way	145070267	43.1355765	5.7532430	Djurdjura				restaurant	36		Rue de la République	
+way	623563628	43.1363178	5.7588555	Palm B				restaurant	71		Quai Charles de Gaulle	
+relation	2131096			Bargème	8	83840	83010					
+node	7153215180	43.7298500	6.5726351	L'Amandier Rose				cafe				
+node	7153257799	43.7299827	6.5727813	Maya Kaffee Boutik				cafe				
+node	7153257830	43.7298194	6.5720243	Pizza Coco				restaurant				
+node	9103421217	43.7298957	6.5716205	Les jardins de Bargème				restaurant	35		Chemin de Ponteves	
+relation	125309			Bargemon	8	83830	83011					
+node	13236629901	43.6197646	6.5510504	Café du Commerce				cafe	8	83830	Place Philippe Chauvier	
+relation	2700359			Barjols	8	83670	83012					
+node	1889862253	43.5575733	6.0059064	Ben&Nat				restaurant	21	83670	Allée Louis Pasteur	
+node	4336807289	43.5583816	6.0053237	Cercle de l'avenir				bar				
+node	4464909990	43.5575603	6.0074305	Bar Le 456				bar				
+node	4475663100	43.5573813	6.0059815	Café PMU l'Univers				bar				
+relation	2144169			La Bastide	8	83840	83013					
+node	6039345639	43.7358032	6.6251856	Bar du Lavoir				bar	46		Chemin des Bailes	
+relation	2162207			Baudinard-sur-Verdon	8	83630	83014					
+way	352967844	43.7159400	6.1340521	Auberge de Baudinard				restaurant				
+way	489041699	43.7166293	6.1339228	Le chardon				restaurant	59		Grand'Rue	
+relation	2162208			Bauduen	8	83630	83015					
+node	1969066180	43.7332117	6.1754790	La Terrasse				restaurant				
+node	1969066182	43.7331409	6.1756415	In Bocca al Lupo				restaurant	7	83630	Rue des Jardins	
+node	1969091924	43.7329657	6.1761300	Le Bouchon				restaurant				
+node	3054446013	43.7239624	6.1826572	Ranch Snack				restaurant				
+node	7827669585	43.7109176	6.1957269	Pizzeria Les Restanques				restaurant				
+node	8651062668	43.7330830	6.1757477	Les Jardins du Lac				restaurant	9	83630	Rue des Jardins	
+node	8655893074	43.7340091	6.1747758	Café du Midi				restaurant		83630	Place Saint-Lambert	
+node	8831340226	43.7333385	6.1752259	Le Papillon				bar		83630	Rue des Jardins	
+node	8831484587	43.7349199	6.1731981	L'Ô à la bouche				restaurant				
+relation	163063			Le Beausset	8	83330	83016					
+node	6250057353	43.1982762	5.8015793	La Cantina				restaurant				
+node	6250057354	43.1983001	5.8014973	Le Cabanon				restaurant	10	83330	Rue de la République	
+node	6310674905	43.1983322	5.8007010	La Kasbaa				restaurant	9	83330	Rue de la République	
+node	6312820620	43.1952054	5.8069400	L'Europe				bar				
+node	6557966937	43.1985535	5.8018145	Grand Bar Tabac				bar				
+node	6557966938	43.1985961	5.8017687	Cercle du 24 février 1848				bar				
+node	6557966939	43.1986370	5.8017102	Les Filles				restaurant	44	83330	Rue Portalis	
+node	8543970860	43.1962461	5.8058544	Sapa				restaurant	42	83330	Boulevard Chanzy	
+node	9653404183	43.1978736	5.8037027	Le Clos des Arts				restaurant	2 bis	83330	Rue Portalis	
+node	12004018043	43.1965770	5.8007875	La Cauquière				restaurant				
+node	12004042217	43.1987600	5.8013126	La symphonie des plaisirs				restaurant				
+node	12004042218	43.1966862	5.8052527	La Grange				restaurant				
+way	220346307	43.1961065	5.8062365	Hôtel - Restaurant Le Relais de la Calèche				restaurant	46	83330	Route Nationale 8	
+relation	969749			Belgentier	8	83210	83017					
+node	1805043514	43.2452650	6.0005168	Le Bistrot				bar				
+node	2205077396	43.2459090	6.0003010	Restaurant des arcades				restaurant				
+node	10143077368	43.2459615	5.9995713	La table de Belgentier				restaurant				
+way	210109778	43.2455570	6.0000850	Le Moulin du Gapeau				restaurant				
+relation	241355			Besse-sur-Issole	8	83890	83018					
+node	5339029721	43.3485634	6.1766987	Restaurant La Remise				restaurant				
+node	6285215085	43.3490357	6.1774363	Comptoir de Gaspard				bar	2	83890	Rue de la République	
+node	6774280436	43.3488020	6.1774336	Du Lac				bar				
+node	6774300620	43.3521008	6.1768554	La Guinguette du Lac				restaurant				
+node	13254256492	43.3466905	6.1733660	L'Issola Pizza				restaurant				
+relation	1118915			Bormes-les-Mimosas	8	83230	83019					
+node	299359331	43.0997603	6.3254356	La Paillote				biergarten				
+node	1496097101	43.1199022	6.3574356	Le Domaine				restaurant				
+node	2354759932	43.1245736	6.3575062	La Table de l'HDLP				restaurant	352	83230	Boulevard de la Plage	
+node	2355009884	43.1517475	6.3439935	Maison Gil Renard				restaurant				
+node	2355009896	43.1517206	6.3433444	Hôtel Restaurant Bellevue				restaurant				
+node	2355009909	43.1519660	6.3433995	Le Progrès				restaurant				
+node	2355009913	43.1518780	6.3438554	La Terrasse de l'Osteria				restaurant				
+node	3104257753	43.1443435	6.3380259	Le Bistrot du pin				cafe				
+node	4383977303	43.1240808	6.3602213	Di Napoli				restaurant				
+node	4384022204	43.1515406	6.3421490	Bella Cucina				restaurant		83260		
+node	4384049993	43.1576096	6.3083552	La Ferme des Janets				restaurant		83230	Chemin des Janets	
+node	4384050310	43.1241059	6.3602681	La Crêpe d'Or				restaurant				
+node	4384058593	43.1233221	6.3594281	Le Poulet Bronzé				restaurant	101	83260	Boulevard du Front de Mer	
+node	5637813921	43.1445554	6.3389470	La Rastégue				restaurant	13	83230	Impasse des Genets	
+node	5637829021	43.1511191	6.3412407	Bistro La Cueva				restaurant				
+node	5861519585	43.1413095	6.3501361	Cucina Siciliana				restaurant				
+node	5924014685	43.1236559	6.3600919	Le Bormeo				bar				
+node	6855159077	43.1212802	6.3649160	La Brasserie du Port				restaurant				
+node	7851290665	43.1519732	6.3435780	Le Sofa				restaurant				
+node	8149370733	43.1226213	6.3593123	Le Provençale				restaurant				
+node	8149370734	43.1227073	6.3591135	Le Marakech				restaurant				
+node	8149370738	43.1232204	6.3593443	Chez Marius				cafe				
+node	8149370739	43.1228191	6.3591510	Fleur de sel				restaurant				
+node	8149370740	43.1242496	6.3607394	L’Aquarium				cafe				
+node	8149370742	43.1237787	6.3598139	La Vigie				cafe				
+node	8149370743	43.1228377	6.3591592	Le Tify				restaurant				
+node	11515807185	43.1218035	6.2765629	Café Léoube				restaurant	2387	83230	Route de Léoube	
+node	14105424766	43.1511872	6.3414062	Le Petit Café de la Cueva				cafe				
+node	14105513102	43.1509887	6.3414110	L'hibiscus				restaurant				
+node	14185362226	43.1429713	6.3384032	La Garrigue				restaurant	2	83230	Avenue du 8 Mai 1945	
+node	14204685001	43.1512991	6.3421506	Café Grain de Soleil				restaurant	29	83230	Rue Carnot	
+way	1173760168	43.1099174	6.2988973	Ti Sable				restaurant		83230		
+way	1319032291	43.1103197	6.2980779	l'Estagnol				restaurant	1632	83230	Route de Léoube	
+way	1410355976	43.1234123	6.3595403	L'Annexe				restaurant				
+way	1410355977	43.1234442	6.3595776	Côté Palmier				restaurant				
+relation	2144177			Le Bourguet	8	83840	83020					
+node	11061310900	43.7833214	6.5185948	Auberge du Bourguet				restaurant	1	83840	Impasse du Château	
+relation	2699975			Bras	8	83149	83021					
+node	1133027108	43.4722147	5.9537212	Bar des Sports				pub				
+node	1133027159	43.4720409	5.9537814	Café du Centre				pub				
+node	3835683757	43.4719839	5.9539061	L'Aoutée				restaurant		83149	Rue Jean Jaurès	
+node	13817847219	43.4715272	5.9581337	Le Jardin d’Édouard				restaurant				
+relation	252749			Brignoles	8	83170	83023					
+node	1702314401	43.4063722	6.0614875	L'Oustau				restaurant				
+node	1702315791	43.4062316	6.0615842	La Civette				cafe	3		Rue de la Republique	
+node	1828696805	43.4065185	6.0619677	Café de l'Univers				restaurant				
+node	1828696826	43.4064663	6.0623138	Le Provence				bar				
+node	1829084401	43.4065786	6.0609069	Au Kafas				restaurant				
+node	1829999866	43.4062628	6.0622818	La table des 4 saisons				restaurant	16		Rue Jules Ferry	
+node	1829999880	43.4062556	6.0641215	Le Nemrod				bar				
+node	1830232128	43.4058369	6.0670490	Chez Lee				restaurant				
+node	1830232140	43.4062827	6.0654362	Restauraut Saïgon				restaurant				
+node	1831043318	43.4067819	6.0594101	Le Provence				restaurant				
+node	1842662268	43.4070566	6.0639685	Le Saint-Louis				bar				
+node	1852928009	43.4064821	6.0611200	Le tout végé				restaurant				
+node	2322856127	43.3938930	6.1481271	Le Saint-James				restaurant				
+node	3658959246	43.4074404	6.0624968	Massilia Pizza				restaurant	10bis	83170	Rue Petit Paradis	
+node	4637392291	43.4033316	6.0073495	Le Paris Nice				restaurant		83170	DN 7	
+node	5734779223	43.4070922	6.0585213	La Craie des Mets				restaurant				
+node	5736162167	43.4066307	6.0593896	Le Brasero				restaurant				
+node	5736601738	43.4062384	6.0621177	Le Gourmand				restaurant				
+node	5736609632	43.4065034	6.0620358	El Cochino				restaurant				
+node	10026172896	43.4074719	6.0528356	Le 80				restaurant		83170		
+node	11374992312	43.4074027	6.0530521	Esprit Sushi				restaurant	99	83170	Avenue Saint-Jean	
+node	13877430512	43.4121655	6.0617442	Saveurs à gogo				restaurant				
+way	120961256	43.4115015	6.0661130	Le Bouddha Gourmand				restaurant				
+way	120962592	43.4211050	5.9906260	Autogrill				restaurant				
+way	120970455	43.3975275	6.1433552	Restaurant Le Bistro				restaurant				
+way	120973226	43.4123750	6.0660815	Réfectoire + infirmerie + internat				restaurant				
+way	120978137	43.4089450	6.0640060	Lou Crespeu				restaurant				
+way	120979195	43.4109740	6.0650495	Royal Kebab				restaurant				
+way	120979335	43.4129384	6.0625593	Buffalo Grill				restaurant	318		Avenue Jean Moulin	
+way	120979709	43.3965810	6.1440730	La Tapenade				restaurant				
+way	120980384	43.3955745	6.1455125	Le Pas Pareil				restaurant				
+way	120980861	43.4168386	6.0173286	Ordinaire				restaurant				
+way	255213333	43.4067558	6.0490183	Flunch				restaurant				
+way	352646552	43.4220032	5.9933313	Buffalo Grill				restaurant				
+way	352692610	43.4075099	6.0679181	Restaurant Scolaire				restaurant				
+relation	2700296			Brue-Auriac	8	83119	83025					
+node	12055380813	43.5271761	5.9448021	Chez Juline				restaurant	4	83119	Cours Roux de Corse	
+way	325336107	43.5278985	5.9458425	L'Escale				bar	2	83119	Route de Varage	
+relation	225950			Cabasse	8	83340	83026					
+node	6054445110	43.4269805	6.2211832	Cafe des Sports				cafe				
+node	6054445111	43.4258703	6.2209330	Le Cabassois				restaurant				
+node	6054446633	43.4280560	6.2240552	La Table de St. Pierre				restaurant				
+node	13092666975	43.4267321	6.2214447	La Pasta è la Vita				restaurant	7	83340	Place de la Libération	
+way	163396901	43.4134296	6.2226842	Valbonne				restaurant				
+relation	1203327			La Cadière-d'Azur	8	83740	83027					
+node	6297230464	43.1965294	5.7567439	La petite Cave				restaurant	11	83740	Rue Gabriel Péri	
+node	8121357839	43.1962344	5.7543525	Le Regain				restaurant				
+node	8121577120	43.1964443	5.7564637	PMU Le Cadiero				bar	5	83740	Rue Gabriel Péri	
+node	8153767155	43.1962371	5.7562030	L'Arlequin				restaurant	1	83740	Place Jean Jaurès	
+node	10876023306	43.1963772	5.7562859	La Table du Cadiero				restaurant				
+node	12037045078	43.1964811	5.7566054	Brasserie Centrale				restaurant				
+node	14107134001	43.1962237	5.7564158	Cercle des Travailleurs				bar				
+relation	970825			Callas	8	83830	83028					
+node	1417963166	43.5934776	6.5392942	Grotte Italienne				restaurant	19		Rue Saint-Eloi	
+node	6549780927	43.5466852	6.5727183	Les Gorges de Pennafort				restaurant				
+node	11930842679	43.5548795	6.5611929	La Bergerie				restaurant				
+node	13243111002	43.5937419	6.5390413	La Fontaine				restaurant	1	83330	Place Georges Clémenceau	
+relation	970822			Callian	8	83440	83029					
+node	5842112987	43.6227983	6.7541637	Le Bellevue				restaurant		83440	Place Honoré Bourguignon	
+node	8987421754	43.6229485	6.7538905	Les Marronniers				restaurant	6	83440	Place Honoré Bourguignon	
+relation	970824			Camps-la-Source	8	83170	83030					
+node	864841730	43.3856367	6.0969549	L'oasis				cafe				
+node	14192066692	43.3859642	6.0970313	Le Petit Camps				restaurant		83170	Rue Marcellin Marin	
+way	162765106	43.3856892	6.0957669	Restaurant Scolaire				restaurant			Rue du Ménage	
+relation	223524			Le Cannet-des-Maures	8	83340	83031					
+node	10147796790	43.3936826	6.3265117	Sushi City's				restaurant				
+node	10147848280	43.3939138	6.3285890	Gourd'I				restaurant				
+node	10147895906	43.3939907	6.3303030	La Provençale				restaurant				
+node	10940249295	43.3946882	6.3289916	La Pièce de Bœuf				restaurant		83340	Quartier La Taurelle, Route Nationale 7	
+node	12879210401	43.3863518	6.3759291	O' Club chez Thomas				bar				
+way	243664913	43.3942730	6.3270381	Le P'tit Resto Chez les Ch'tis				restaurant				
+way	243669144	43.3921203	6.3472414	L'Oustalet				restaurant				
+way	255208495	43.3771445	6.3866900	Restaurant Militaire				restaurant				
+way	255211873	43.3892936	6.3428898	Ecce Terra				restaurant		83340	Chemin de Causserène	
+relation	125409			Carcès	8	83570	83032					
+node	1680851186	43.4765633	6.1818217	Bar Tabac National				pub				
+node	2912636124	43.4763356	6.1834947	Café de France				cafe				
+node	4632700702	43.4736211	6.1838704	Les Chineurs				restaurant	62	83570	Avenue Ferrandin	
+node	4633225705	43.4755638	6.1808047	Le Pressoir				restaurant	18	83570	Avenue Georges Clemenceau	
+node	4633288754	43.4761334	6.1822606	Creperie Le Jabadao				restaurant	25	83570	Rue du Maréchal Foch, Passage Public Entre le Parking Respelido Et la Rue Principale	
+node	4633312813	43.4772619	6.1853968	Pile Poêle				restaurant	347	83570	Chemin des Lones	
+node	4633342925	43.4752090	6.1809057	L'oie qui boit				restaurant	33	83570	Avenue Georges Clemenceau	
+node	4751169995	43.4763093	6.1832561	Bar tabac Le pitchoun				bar			Rue du Maréchal Foch	
+node	4751170011	43.4763107	6.1840352	Le Central				bar			Boulevard Fournery	
+node	6662676955	43.4773857	6.1860559	Saint James				restaurant	19	83570	Rue Hoche	
+way	133926388	43.4557085	6.2158206	La Guinguette du Lac				restaurant		83570	D13 Route de Cabasse Lac de Carces	
+way	133926802	43.4642621	6.1284126	Les Moulins Aufiés				restaurant	177	83570	D 45	
+way	133929993	43.4763550	6.1840593	L'Olalpa				restaurant				
+relation	970820			Carnoules	8	83660	83033					
+node	1565960602	43.2980041	6.1869235	Restaurant Chez Doudou				restaurant				
+node	1565960605	43.2980696	6.1870449	Café Chez Doudou				cafe				
+node	1570230992	43.2983117	6.1872233	Restaurant Le Castel Fleuri				restaurant				
+node	2208064917	43.3024227	6.1889963	Flour de Camin				cafe	2	83660	Cours Victor Hugo	
+node	2208064958	43.3028649	6.1893202	La Locomotive				restaurant	15	83660	Cours Victor Hugo	
+node	2395134221	43.2980217	6.1870284	Bar Tabac Chez Doudou				bar				
+node	2705699170	43.2970579	6.1516202	Auberge " La Tuilière "				restaurant				
+node	12435568999	43.2977139	6.1768965	Kook World Food Fusion				restaurant	659	83660	Avenue des Platanes	
+node	12435576009	43.2981812	6.1771674	L'atelier de la Viande				restaurant				
+relation	1118907			Carqueiranne	8	83320	83034					
+node	5345677427	43.0912398	6.0798260	La Case à sausse				restaurant				
+node	5348668201	43.0995536	6.0628377	La Lasagnerie				restaurant				
+node	5349140293	43.0938722	6.0757414	La Maison des Saveurs				restaurant				
+node	5349140294	43.0940206	6.0744845	Le Bar Populaire				bar				
+node	5349140295	43.0940100	6.0746513	Café de la Gare				bar				
+node	6510495465	43.0881329	6.0771557	Tata Suzette				restaurant				
+node	6510498824	43.0881679	6.0772328	La Réserve				restaurant				
+node	7837025436	43.0947582	6.0751028	Côté Place				restaurant				
+node	7837166496	43.0946375	6.0744147	Le Salon				restaurant				
+node	7837189330	43.0942374	6.0738555	Le Zen				pub				
+node	7837268652	43.0961721	6.0697050	Légend Prosper Club				nightclub				
+node	7840285178	43.0856053	6.0747123	L'Aventure				restaurant				
+node	7840473478	43.0848957	6.0696622	Le Bamboo				restaurant				
+node	7841050961	43.0879331	6.0767122	Andy's				restaurant				
+node	7841069188	43.0894285	6.0767298	Pizzeria du Port				restaurant		83320		
+node	7841074790	43.0883462	6.0773011	Savage Café				cafe				
+node	7841082034	43.0896031	6.0765675	La Baie d'Along				restaurant				
+node	7841082100	43.0891239	6.0772937	Bistrot Cabrol				pub				
+node	7841082101	43.0895550	6.0769268	Faï Canta				restaurant				
+node	7841083967	43.0891402	6.0774582	La Saga				restaurant				
+node	7841084356	43.0890935	6.0769526	Il Casale				restaurant				
+node	7844647175	43.0877945	6.0762548	Le Clapotis				restaurant				
+node	7846465060	43.0853767	6.0711850	Brise Marine				restaurant				
+node	7846497917	43.0879538	6.0767899	Récif				restaurant				
+node	12136420830	43.0864034	6.0755539	Le Rouge				restaurant				
+node	13326414721	43.1005757	6.0823944	Lou Petoulet				restaurant	13	83320	Chemin du Petoulet	
+node	13754977601	43.0888331	6.0775266	Famiglia				restaurant		83320		
+node	13806733972	43.0880265	6.0768008	Salettes				restaurant				
+node	13826663728	43.0944055	6.0742855	Break in bowl				restaurant				
+way	140603496	43.0850975	6.1047030	La Paillote				restaurant				
+way	140613895	43.0881608	6.0770154	Nonna Trattoria				restaurant				
+way	690059040	43.1143034	6.0567956	Resto du BeauVezé				restaurant				
+relation	163067			Le Castellet	8	83330	83035					
+node	5390591832	43.2499835	5.7832959	La table du Castellet				restaurant	3001	83330	Route des Hauts du Camp	
+node	5592229221	43.2554022	5.7552736	Le Sun’Day				restaurant	5735	83330	Route des Hauts du Camp	
+node	5823579054	43.2027744	5.7761549	Le Roy d’Ys				restaurant	2	83330	Place de la Fontaine	
+node	6551014546	43.2030476	5.7753690	Azzura				restaurant		83330	Place de l'Ormeau	
+node	6551020028	43.2022214	5.7757786	A Payolle				restaurant	9	83330	Rue du Portail	
+node	6551033648	43.2022559	5.7756867	Le Vin'Olive				restaurant	7	83330	Place du Portail	
+node	6551049457	43.2029682	5.7762917	Bistro La Souca				restaurant	7-5	83330	Rue Droite	
+node	6551055144	43.2024928	5.7763343	Remane				restaurant	13	83330	Rue de l'Aube	
+node	6551060790	43.2025124	5.7770936	Le Pied de Nez				restaurant	8	83330	Montée Saint-Eloi	
+node	6551074366	43.2026304	5.7773725	La Farigoule				restaurant	2	83330	Place du Jeu de Paume	
+node	6551097883	43.2031001	5.7756098	L'Atypique				restaurant	1	83330	Impasse de l'Homme de Paille	
+node	7968105983	43.2142271	5.7765392	Le 52				restaurant	739	83330	Boulevard des Acacias	
+node	9798838926	43.1768143	5.7737106	Brasserie Du Plan				bar				
+node	11392099869	43.2119269	5.7779154	Les Vignes				restaurant				
+node	11392104469	43.2119300	5.7780028	L'olivier				restaurant				
+node	14107271402	43.2031058	5.7754846	Le Terroir d'Antonin				restaurant				
+node	14107292501	43.2029849	5.7761394	BLS				restaurant				
+node	14107292502	43.2030483	5.7765341	La Farigoule				restaurant				
+node	14220713685	43.2495718	5.7841355	Le San Felice				restaurant				
+relation	971022			Cavalaire-sur-Mer	8	83240	83036					
+node	4450010695	43.1710478	6.5349742	Comptoir des Saveurs				restaurant				
+node	4450010696	43.1715257	6.5349695	L'Émeraude				restaurant				
+node	4450014498	43.1705471	6.5367948	Bar des Îles				bar				
+node	4450040593	43.1713193	6.5349533	La Plancha				restaurant				
+node	4450040691	43.1710487	6.5353775	La Rhumerie				restaurant	355		Rue du Port	
+node	5760578121	43.1717488	6.5341492	Le Pizzaiole				restaurant				
+node	6373931764	43.1701995	6.5361966	Les Rôtisseurs de la Côte				restaurant	500	83240	Rue du Port	
+node	7697884708	43.1735422	6.5324865	La Rhum Caffée				bar				
+node	7997567993	43.1722389	6.5332009	Le Bellini				restaurant				
+node	7997568287	43.1717133	6.5347980	Le Bateau Ivre				restaurant				
+node	7997581290	43.1715980	6.5346384	L'Oasis				restaurant				
+node	7997585486	43.1715046	6.5344554	La Baie des Moules				restaurant				
+node	7997593985	43.1713324	6.5346653	L'Atelier by CDM				bar	220		Rue du Port	
+node	7997594685	43.1715243	6.5345099	Mambo				nightclub				
+node	7997799403	43.1725282	6.5307699	Héracléa Pizza				restaurant				
+node	8791235329	43.1725018	6.5311984	150 avenue				pub	178	83240	Avenue des Alliés	
+node	9831418134	43.1693824	6.5299983	Les Cocotiers				restaurant				
+node	9834317270	43.1706641	6.5367517	Le Cygne d‘Asie				restaurant	564	83240	Rue du Port	
+node	10299189057	43.1783661	6.5354334	Vinie Sushi				restaurant				
+node	10299189060	43.1782551	6.5353677	La Récré				restaurant	144		Avenue des Myrtes	
+node	10299189066	43.1781370	6.5352993	La Petite Creperie				restaurant				
+node	10299189067	43.1780702	6.5352610	Elite Pizzas				restaurant				
+node	10299189068	43.1780132	6.5352278	Restaurant Le Yams				restaurant				
+node	10299189069	43.1779156	6.5351706	Drive in Pizza				restaurant				
+node	10299189070	43.1777417	6.5350925	Les Oliviers				restaurant				
+node	10299202874	43.1810980	6.5366871	La Fournée des Palmiers				restaurant				
+node	10299202876	43.1806966	6.5363322	Brasserie ô Cavalaire				restaurant	45		Avenue des Lauriers Roses	
+node	10299202877	43.1806616	6.5362938	L'impre Vu				restaurant				
+node	11823087771	43.1728947	6.5318043	Pizza à l’Italienne				restaurant				
+node	12634080355	43.1723748	6.5305952	Bar Les Palmiers				restaurant	205	83240	Avenue des Alliés	
+node	13310803268	43.1776634	6.5350188	La Terrasse				restaurant				
+node	14204557901	43.1807533	6.5386406	Bellini Plage				restaurant				
+way	299371813	43.1865265	6.5492527	La Plage				bar				
+relation	2148075			La Celle	8	83170	83037					
+node	3666042728	43.3940716	6.0405493	Café du midi				bar				
+relation	125327			Châteaudouble	8	83300	83038					
+node	7739962809	43.5961320	6.4514702	Cercle Saint-Martin				bar				
+node	7739962821	43.5968744	6.4506849	Le château				restaurant	1		Place Vieille	
+relation	2134974			Châteauvieux	8	83840	83040					
+node	8679247911	43.7767167	6.5801211	La Gruppi				restaurant		83840	Le Bas Village	
+relation	970819			Claviers	8	83830	83041					
+node	1418172823	43.6018140	6.5622930	Cercle De La Fraternité				bar				
+node	7711300551	43.6013673	6.5624913	La Place				restaurant	4		Place du 8 Mai 1945	
+node	7711307956	43.6016616	6.5625741	Le Clavero				restaurant	3		Place Marius Ollivier	
+node	7714441583	43.6013801	6.5618990	Adagio				restaurant	7	83830	Rue de la Tour	
+node	12209565219	43.6014233	6.5637311	Les Chapeliers Bar à Vin				bar	8	83830	Rue des Chapeliers	
+relation	1208367			Cogolin	8	83310	83042					
+node	2345221029	43.2477372	6.5360200	La Brasserie				restaurant				
+node	3309695290	43.2667186	6.5771250	Baou-Baou				restaurant				
+node	7407450585	43.2485449	6.5324521	Garuda Thaï				restaurant				
+node	10789699375	43.2636601	6.5888877	SevenThree				restaurant				
+node	12161640601	43.2524720	6.5323669	epicerie de moulin				restaurant				
+node	14010828576	43.2515736	6.5327680	La Grange des Agapes				restaurant	16		Rue du 11 Novembre 1918	
+way	180040525	43.2504415	6.5408170	Pizzas du Golfe				restaurant				
+way	180042348	43.2497910	6.5341790	La Petite Maison				restaurant	6		Impasse Parmentier	
+way	775961326	43.2625802	6.5918397	L'azura				restaurant				
+relation	969997			Collobrières	8	83610	83043					
+node	486221733	43.2375025	6.3091076	Les Olivades				restaurant	5		Place de la Liberation	
+node	486221738	43.2375470	6.3090329	Un Air de Rien				restaurant	3	83610	Place de la Libération	
+node	2052788403	43.2368679	6.3101928	La terrasse provençale				restaurant				
+node	2052788407	43.2368200	6.3080759	La Farigoulette				restaurant	4		Boulevard Lazare-Carnot	
+node	2052788425	43.2367760	6.3101848	La petite fontaine				restaurant	4		Place de la Republique	
+node	4354528995	43.2371711	6.3090648	Le Petit Collo				restaurant	15		Rue Jean-Jaurés	
+node	4709625901	43.2376296	6.3086696	Restaurant Bar de La Mairie				restaurant	25		Boulevard Lazare-Carnot	
+node	4709633689	43.2361009	6.3103230	Chez Pa'				restaurant	7		Place du General de Gaulle	
+node	9032368015	43.2140884	6.3112231	La Ferme de Peigros				restaurant		83610	Peigros	
+node	9508214242	43.2374521	6.3091841	Côté Resto				cafe	5	83610	Place de la Libération	
+relation	2141958			Comps-sur-Artuby	8	83840	83044					
+node	5713749519	43.7096952	6.5083815	La Gargouille				restaurant				
+node	6401245690	43.7100200	6.5080610	Grand Hôtel Bain				restaurant				
+node	6401247252	43.7099119	6.5087453	Café de France				bar				
+node	9953183765	43.7108264	6.5062363	Bar Restaurant de l'Artuby				restaurant				
+way	620197688	43.7058858	6.5059875	Le Rouable Pizzeria Crèperie Snack				restaurant				
+relation	2700029			Correns	8	83570	83045					
+node	3664300164	43.4875210	6.0797739	L'Oustaou Corrençoise				bar				
+node	7707699953	43.4870599	6.0799934	Auberge de Correns				restaurant				
+relation	2694505			Cotignac	8	83570	83046					
+node	4618001299	43.5263912	6.1499612	Picotte				restaurant	8	83570	Rue Saint-Jean	
+node	4618018097	43.5269638	6.1495636	Le Bistro Cotignac				restaurant	10	83570	Cours Gambetta	
+node	4620417708	43.5268849	6.1492034	Les 3 Marches				restaurant	11	83570	Cours Gambetta	
+node	4620419502	43.5269607	6.1491766	La Tarente				restaurant	15	83570	Cours Gambetta	
+node	4620420803	43.5271756	6.1495240	Modern				bar	12	83570	Cours Gambetta	
+node	4620431480	43.5274527	6.1494770	Restaurant du Cours				restaurant	18	83570	Cours Gambetta	
+node	4620439813	43.5276511	6.1490747	Brasserie la Fontaine				restaurant	35	83570	Cours Gambetta	
+node	4620442108	43.5275480	6.1494529	La Sarrazine Crêperie				restaurant	18	83570	Cours Gambetta	
+node	4620448308	43.5279980	6.1493326	L'Union				bar		83570	Cours Gambetta	
+node	4620454820	43.5279925	6.1491427	Le Marigny				bar		83570	Cours Gambetta	
+node	4620461675	43.5291736	6.1491738	Le Temps de Pose				restaurant	11	83570	Place de la Mairie	
+node	5436452839	43.5182271	6.1472931	Foyer de la Sainte Famille				restaurant				
+node	7737190309	43.5273849	6.1489897	La table de Marie Alice				restaurant				
+node	12882685618	43.5272453	6.1490547	Cafe du Cours				cafe				
+node	13136174726	43.5275386	6.1490401	Paulette				cafe	33		Cours Gambetta	
+relation	969993			La Crau	8	83260	83047					
+node	2707082978	43.1200157	6.0694231	Le Bistrot de la Place				restaurant	265	83260	Avenue Édouard Aiguier	
+node	5342321924	43.1238505	6.0736724	Key West				restaurant				
+node	5346859592	43.1248052	6.0745311	Pizza Italia				restaurant				
+node	5354938189	43.1169124	6.0593929	Papa				restaurant				
+node	6718241988	43.1196196	6.0696522	Chez Pascaline				restaurant				
+node	6718261385	43.1202721	6.0690374	La cabane				restaurant				
+node	6718266385	43.1204833	6.0734405	Pizzeria da luigi				restaurant				
+node	7136631329	43.1486616	6.0734854	Le Patio Bistronôme				restaurant	237	83260	Place Jean Jaurès	
+node	12551461522	43.1476628	6.0704403	Absolu				restaurant	99		Avenue du Lieutenant Jean Toucas	
+node	13991800582	43.1331742	6.0709879	LA ZONE				restaurant	44	83260	Rue André Ampère	
+way	211521187	43.1697104	6.0912675	Le Bellagio				restaurant				
+relation	970875			La Croix-Valmer	8	83420	83048					
+node	6612178885	43.2064456	6.5684977	Pizza House				restaurant		83420	Rond-Point de la Croix de Constantin, D559	
+node	6673532785	43.1840359	6.5986724	Marius à la Plage				restaurant	1242	83420	Boulevard de Gigaro	
+node	7729130385	43.1890307	6.5570094	Le Petit Zinc				restaurant	12	83420	La Douane et les Ruines	
+node	7743351487	43.1885867	6.5807245	Le Petit Gigaro				restaurant	2219	83420	Boulevard du Littoral	
+node	7997456624	43.1888378	6.5568172	Nautic Beach				restaurant				
+node	7997459991	43.1888171	6.5571323	L'Oasis				restaurant				
+node	9583387691	43.2067752	6.5665773	La Terrasse Bleue				restaurant	1190		Boulevard de Saint-Raphaël	
+node	9583387692	43.2075703	6.5683516	Le Patio				restaurant				
+node	9583387694	43.2092974	6.5685401	Villa Bacco				restaurant				
+node	12055099981	43.1840515	6.5984516	Couleurs Jardin				restaurant	1242	83420	Boulevard de Gigaro	
+node	13016162303	43.1835920	6.6001898	Pépé				restaurant		83420	Boulevard de Gigaro	
+node	13016162304	43.1836966	6.5998312	Brigantine				restaurant	1325	83420	Boulevard de Gigaro	
+node	13024743403	43.1838893	6.6009636	Le Refuge				restaurant	1412	83420	Boulevard de Gigaro	
+node	14180557701	43.1892906	6.5569992	La Scarpetta				restaurant	215		Avenue du Maréchal Juin	
+way	426562560	43.2065611	6.5663738	Les Saissoniers				restaurant				
+relation	969748			Cuers	8	83390	83049					
+node	1596575757	43.2377071	6.0717233	Le Marigny				cafe				
+node	2551359141	43.2371845	6.0721786	Les Pieds sur Terre				restaurant				
+node	2551419676	43.2377622	6.0725592	Bar De L'Aviation				cafe	6		Avenue Maréchal Foch	
+node	3202330600	43.2375212	6.0719417	Bar de l'Univers				cafe				
+node	3202330601	43.2380946	6.0713000	Restaurant Le Caprice				restaurant				
+node	6681149472	43.2399426	6.0744031	7-Eme Ciel				restaurant	3	83390	Avenue Adjudant Hourcade	
+node	9710874310	43.2372767	6.0718692	Saloon Games				cafe				
+way	1060112032	43.2337488	6.0978043	Le Mas du Lingousto				restaurant				
+relation	125329			Draguignan	8	83300	83050					
+node	1417026640	43.5383159	6.4651802	La Table de Martine				restaurant				
+node	1417080583	43.5381770	6.4655272	Bar des Chasseurs				bar	28		Place du Marché	
+node	1417082191	43.5385660	6.4652530	Why not				bar	17	83300	Place du Marché	
+node	2615431218	43.5328723	6.4512701	La Casa Nostra				restaurant		83300	Avenue Pierre Brossolette	
+node	2757282649	43.5353942	6.4658471	Le Taj Mahal				restaurant	8	83300	Avenue Lazare Carnot	
+node	3655233048	43.5378440	6.4629020	La Boîte à Crêpes				restaurant	1	83300	Place René Cassin	
+node	4078326465	43.5369382	6.4625633	Brasserie des Allées				restaurant	5		Rue des Allées d'Azémar	
+node	4612000400	43.5329802	6.4512968	Wok Saigon 2				restaurant	386	83300	Avenue Pierre Brossolette	
+node	5069076046	43.5314686	6.4688933	L'Academia				restaurant				
+node	5293738052	43.5408054	6.4645996	Les Malycan				restaurant	50	83300	Boulevard de la Liberté	
+node	6415952734	43.5363257	6.4657505	L'Amande Aulorée				restaurant				
+node	6919747912	43.5287649	6.4386181	Le Col de l'Ange				restaurant	1308	83300	Avenue de Tuttlingen	
+node	6942734731	43.5377379	6.4622936	Le Café du Commerce				cafe	5	83300	Boulevard Georges Clemenceau	
+node	6942961866	43.5393417	6.4634620	Le Gay Capucin				bar	1	83300	Place Claude Gay	
+node	7166598646	43.5385112	6.4656278	Au Bureau				restaurant	23	83300	Place du Marché	
+node	7166598647	43.5384925	6.4658870	La Petite Agerola				restaurant	14	83300	Rue des Marchands	
+node	7230906085	43.5372296	6.4631453	Eat sushi				restaurant	9	83300	Boulevard Georges Clemenceau	
+node	7237219581	43.5371359	6.4633334	Tonka Fé				bar	11	83300	Boulevard Georges Clemenceau	
+node	7301475472	43.5410889	6.4648256	Bar Les Philosophes				bar	2	83300	Place du Dragon	
+node	7302308236	43.5399326	6.4635989	Au Fruit Défendu				restaurant	21	83300	Boulevard de la Liberté	
+node	7308867774	43.5375949	6.4625406	Puravida café				cafe				
+node	7308867775	43.5376530	6.4624316	Bar Tabac de la Poste				bar	32		Place René Cassin	
+node	7346581311	43.5323556	6.4710526	Brasserie Le Chabran				pub	14	83300	Avenue de la Première Armée	
+node	7350874340	43.5302524	6.4700251	Au Vieux Figuier				restaurant	214	83300	Avenue Maréchal Juin	
+node	7351161916	43.5315083	6.4706368	La Gitane Bar & Tabac				cafe	17	83300	Avenue Maréchal Juin	
+node	7351161917	43.5319612	6.4708600	Bento Sushi				restaurant	25	83300	Avenue Maréchal Juin	
+node	7736158435	43.5390080	6.4630729	L'Assistant Culinaire				restaurant				
+node	7736158457	43.5347898	6.4668234	Le Domino				restaurant	28		Avenue Lazare Carnot	
+node	7736158467	43.5391499	6.4653128	Le Mékong				restaurant				
+node	7736167696	43.5385607	6.4646982	Brûlerie varoise				cafe				
+node	7736167701	43.5370215	6.4608377	Les Trois Garçons				restaurant	10	83300	Boulevard Maréchal Joffre	
+node	7736167706	43.5386214	6.4646066	Bar Tabac Les négociants				cafe	4	83300	Place du Marché	
+node	7736167725	43.5368464	6.4645907	L'androuno				restaurant	11	83300	Rue des Endronnes	
+node	7736167729	43.5329226	6.4511937	L'Esperanto				restaurant				
+node	7736167732	43.5391737	6.4639023	Portuguignan				restaurant	16	83300	Rue Frédéric Mireur	
+node	7739953792	43.5366153	6.4680812	PMU Journaux				cafe				
+node	7739953866	43.5379243	6.4672108	Le kfé inventé				cafe				
+node	7739953880	43.5387655	6.4648748	O! La Vaca!				restaurant	6		Place du Marché	
+node	7739953882	43.5376775	6.4627011	Le Bistrot				cafe	32		Place René Cassin	
+node	7739962823	43.5384045	6.4658385	Le Marigny				cafe	31		Place du Marché	
+node	7739962850	43.5381372	6.4658347	Le rendez-vous				restaurant				
+node	7739962858	43.5382146	6.4654235	Bar du marché				cafe				
+node	9519117201	43.5388850	6.4666361	Les 1000 Colonnes				restaurant	2	83300	Place aux Herbes	
+node	10568345633	43.5348620	6.4585947	Le Black Thaï				restaurant	40	83300	Rue Notre-Dame-du-Peuple	
+node	11062025339	43.5382399	6.4653775	Les Kalli's				restaurant	24	83300	Place du Marché	
+node	11062043230	43.5386745	6.4649752	Le Panda Tea				restaurant	5	83300	Place du Marché	
+node	11063436491	43.5301648	6.4425992	La Villa Dolce				restaurant	509	83300	Avenue de Tuttlingen	
+node	11116080188	43.5320031	6.4722499	Pizza Laly				restaurant		83300	Avenue de la Première Armée	
+node	11521876166	43.5382787	6.4650216	Bacchus				bar	7-1	83300	Rue de la République	
+node	11524263047	43.5375226	6.4640522	Le Saint-Pierre				restaurant	12	83300	Rue de la Visitation	
+node	11524301703	43.5377855	6.4630634	Café des 2 L				cafe			Place	
+node	11881034546	43.5363148	6.4671930	The One				pub	47	83300	Boulevard Bernard de Trans	
+node	12078750587	43.5389339	6.4643242	Kantin				restaurant	11	83300	Rue Frédéric Mireur	
+node	12079110867	43.5315269	6.4447818	Bar de l'Esterelle				bar	44	83300	Chemin de Saint-Louis	
+node	12079673293	43.5390484	6.4642705	Le Jennie's				restaurant	10	83300	Rue Frédéric Mireur	
+node	12079694764	43.5389109	6.4643649	O Vinivini				restaurant	9	83300	Rue Frédéric Mireur	
+node	12079725931	43.5389775	6.4644101	Mordu !				restaurant	10	83300	Rue Frédéric Mireur	
+node	12079727799	43.5389439	6.4644524	La Tigelleria de Wina				restaurant	8	83300	Rue Frédéric Mireur	
+node	12079758485	43.5365543	6.4668238	Orient Express				restaurant	1	83300	Rue Labat	
+node	12079790562	43.5380120	6.4655868	Je t'aime Brasil				restaurant	2	83300	Rue Pierre Clément	
+node	13097230619	43.5307448	6.4748498	Vicenza Café et Restaurant				restaurant				
+way	120884002	43.5302879	6.4466212	Asia Buffet Wok				restaurant	877	83300	Avenue Pierre Brossolette	
+way	120885552	43.5203265	6.4250055	Domaine Rabiega				restaurant	516		Chemin du Cros d'Aimar	
+way	120902590	43.5377185	6.4636555	Le Gambrinus				bar	17	83300	Rue d'Arménie	
+way	269874363	43.5351172	6.4652711	Le Cappello				restaurant	5	83300	Boulevard Gabriel Péri	
+way	270725999	43.5355241	6.4655688	La Civette				cafe	1		Boulevard Gabriel Péri	
+way	331244794	43.5346093	6.4755763	Cafeteria				cafe				
+way	888916488	43.5281386	6.4515929	Cafétéria Crescendo				restaurant		83300	Place Jacques Resplandin	
+way	888916505	43.5278644	6.4512348	Brasserie L'Atelier				restaurant		83300	Place Jacques Resplandin	
+relation	2694456			Entrecasteaux	8	83570	83051					
+node	3665640125	43.5146379	6.2425455	Café du cours				bar				
+node	3665640926	43.5146379	6.2431350	Bar central				bar				
+node	4665290154	43.5134428	6.2436456	La Castellane				restaurant	7	83570	Cours Gabriel Péri	
+node	4665296367	43.5148199	6.2434125	Le Bistrot Gourmand				restaurant		83570	Place du Souvenir	
+node	4665321984	43.5152854	6.2436100	La Fourchette				restaurant	2	83570	Rue de l'Église	
+relation	2697481			Esparron-de-Pallières	8	83560	83052					
+way	325333623	43.5915720	5.8495047	Bistrot école				restaurant				
+relation	163059			Évenos	8	83330	83053					
+node	6757865820	43.1734298	5.8700178	Auberge du Broussan				restaurant	219		Avenue Estienne d'Orves	
+node	9993373594	43.1635570	5.8463214	Even Bistrot				restaurant				
+way	396080845	43.1636920	5.8460417	Lo'tentic				restaurant				
+relation	969994			La Farlède	8	83210	83054					
+node	2292987930	43.1540735	6.0449353	Le Break				restaurant	18	83210	Rue de Lavoisier	
+node	13675910981	43.1683485	6.0435756	Restaurant Asia				restaurant				
+relation	125395			Fayence	8	83440	83055					
+node	1007802418	43.6238770	6.6950010	Bistrot Fayencois				cafe				
+node	2278090842	43.6218442	6.6911807	Bar de la gare				bar				
+node	2874946583	43.6220923	6.6937925	La Cantina				restaurant				
+node	3387706759	43.6182275	6.6966019	Boulangerie Patisserie				cafe				
+node	3387706760	43.6146717	6.6982874	Le Vol à Voile				restaurant				
+node	5239544513	43.6239766	6.6951028	Le France				restaurant				
+node	11930702035	43.5848373	6.6667042	La Brasse...Rit				restaurant				
+node	12605250695	43.6240762	6.6952252	La Strega				restaurant			Grande Rue du Château	
+node	13323846280	43.6238128	6.6899224	Le Bis				restaurant				
+node	14078215253	43.6218464	6.6849191	Moulin de la Camandoule				restaurant				
+relation	1118891			Figanières	8	83830	83056					
+node	14165752069	43.5689679	6.4965633	Le Bar du Caou				bar	10	83830	Place du Caou	
+node	14166130539	43.5692340	6.4964538	Le Passage				restaurant	8	83830	Rue Grande	
+relation	125338			Flayosc	8	83780	83058					
+node	1647568529	43.5337404	6.3965973	Le Café du Commerce				bar	2	83780	Boulevard du Général de Gaulle	
+node	1647568539	43.5340423	6.3964072	Café du Midi				bar				
+node	1647568581	43.5337777	6.3962427	Laitable				restaurant	8	83780	Place de la République	
+node	1647568592	43.5339342	6.3962787	La Salle à Manger				restaurant				
+node	1647568597	43.5337443	6.3961346	Les Folie's				restaurant			Place de la République	
+node	1647568611	43.5341244	6.3966180	L'Oustaou				restaurant				
+node	11029769241	43.5335358	6.3967781	Café de Paris				bar	8	83780	Boulevard du Général de Gaulle	
+node	11292492254	43.5332858	6.3974310	Lou Farniente				restaurant	1	83780	Rue des Fainéants	
+node	12896517701	43.5335161	6.3963319	Le Double B				restaurant	3		Rue de la Conque	
+relation	2690481			Forcalqueiret	8	83136	83059					
+node	13661704851	43.3367378	6.0808243	Bar des Chasseurs				bar				
+relation	2700391			Fox-Amphoux	8	83670	83060					
+node	12524121914	43.5957717	6.1082543	Cercle de l'Avenir				bar		83670	Place du Cercle	
+relation	186322			Fréjus	8	83600;83370	83061					
+node	1867006875	43.4333473	6.7328710	Le cadet Rousselle				restaurant	106	83600	Place Agricola	
+node	1998480626	43.4218484	6.7451718	La Rose des Sables				restaurant	31		Place d' Actium	
+node	1998578771	43.4228920	6.7483794	L'Hippocampe				restaurant				
+node	1999649016	43.4229067	6.7497525	Au Moussaillon				restaurant				
+node	2000001576	43.4232848	6.7461642	Le Bœuf sur le Quai				restaurant	73		Place Dei Tres Mast	
+node	2000002903	43.4228913	6.7462312	Le Savana Café				cafe				
+node	2000007691	43.4224837	6.7487310	Le César				restaurant				
+node	2000035577	43.4232183	6.7470172	Kokonut				bar	55		Quai de Cleopatre	
+node	2000037738	43.4231454	6.7474550	Évasion				bar				
+node	2000454670	43.4223586	6.7460792	Le Millesim				bar				
+node	2000933200	43.4225516	6.7459375	L'Ancre Bleue				bar				
+node	3415605815	43.4228613	6.7485464	Sépia				restaurant	37	83600	Quai de Marc Antoine	
+node	4071335389	43.4329494	6.7308526	Chicken'				restaurant	126	83600	Avenue de Verdun	
+node	5153599248	43.4340242	6.7369079	Brasserie Le Palais				restaurant	225		Rue Jean Jaures	
+node	5153599271	43.4326387	6.7351800	Bar Tabac du Marché				bar				
+node	5153620488	43.4327333	6.7360090	Bar Tabac de la Mairie				bar	28		Rue Sieyes	
+node	5153620491	43.4325391	6.7355066	Bar du Marché				bar	65		Place de la Liberte	
+node	5154748312	43.4331149	6.7359729	Les Micocouliers				restaurant				
+node	5154748313	43.4327182	6.7366954	Crêperie des Délices				restaurant	18		Rue Abbe Toti	
+node	5154748314	43.4332438	6.7361806	Le Jardin de Jules				restaurant	186		Rue Jean Jaures	
+node	5154748315	43.4328863	6.7363916	Brasserie Hermès				restaurant				
+node	5154987139	43.4331023	6.7358015	L'Absolu				restaurant	52		Place Paul Albert Fevrier	
+node	5154987140	43.4324218	6.7332284	Le Jardin de l'Aréna				restaurant				
+node	5154987142	43.4326836	6.7320266	Le Coxx				pub				
+node	5691489427	43.4497140	6.7556587	Instan't				restaurant				
+node	5753968244	43.4335285	6.7360712	La Bodeguita				pub				
+node	5753968245	43.4335170	6.7363809	La Cave Blanche				restaurant	53		Place du Docteur Calvini	
+node	5769115974	43.4242945	6.7580602	Chez Mam's				restaurant				
+node	5769119067	43.4249747	6.7612794	La Crêperie d'Émilie				restaurant				
+node	5769119068	43.4244587	6.7617059	Les Sablettes				restaurant	390		Boulevard de la Liberation	
+node	5769119170	43.4248054	6.7601818	Saveur d'Asie				restaurant				
+node	5769119171	43.4242808	6.7579574	La Moule Joyeuse				restaurant	39		Boulevard de la Liberation	
+node	5769119269	43.4238866	6.7582483	Kazaar				restaurant				
+node	5769119270	43.4242447	6.7578063	Au Coq Hardi				pub	33		Boulevard de la Liberation	
+node	6290769909	43.3983591	6.7292690	Ocean Drive				restaurant				
+node	6564914485	43.4323182	6.7370045	À Table!				restaurant	137	83600	Rue Grisolle	
+node	6652849281	43.4249927	6.7620272	Kronenbourg				pub				
+node	6652865396	43.4250073	6.7618434	La Bocca				restaurant	409		Boulevard de la Liberation	
+node	6652866551	43.4250121	6.7625487	Vésuve				restaurant				
+node	6652866709	43.4249166	6.7626339	La Gueule de Bois				pub	451		Boulevard de la Liberation	
+node	6652883325	43.4249079	6.7627150	Vach' et Moi				restaurant	469		Boulevard de la Liberation	
+node	6779853593	43.4225439	6.7529973	Le Milano				restaurant	681		Boulevard d' Alger	
+node	6855125571	43.4320153	6.7355197	La Cave Romaine				restaurant	114		Rue de Camelin	
+node	6943284415	43.4381641	6.7177287	Let's Wok				restaurant	146	83600	Rue Georges Besse	
+node	7070443710	43.4322686	6.7366194	Le Basilic				restaurant				
+node	7393231297	43.4324120	6.7349240	Sushi Klub				restaurant				
+node	7394073348	43.4682405	6.7343476	La Terrasse Du Capitou				restaurant				
+node	7394182412	43.4649963	6.7316841	Excel Café Restaurant				restaurant				
+node	7743209544	43.4327873	6.7370902	L'amandier				restaurant				
+node	7743209578	43.4321598	6.7358736	Vie Del Gusto				restaurant				
+node	7743234797	43.4320980	6.7364496	La Riviera				restaurant				
+node	7743234806	43.4324008	6.7372461	L'Entrée des Artistes				restaurant				
+node	8951736584	43.4244484	6.7586495	Le 7th Heaven				restaurant	123		Boulevard de la Libération	
+node	8976437617	43.4228207	6.7486263	Brasero				restaurant				
+node	9047560854	43.3993344	6.7150234	La Terrasse				restaurant				
+node	9098275065	43.4502174	6.7269753	Joy's Pizza				restaurant	1623		Rue des Combattants d'Afrique du Nord	
+node	9162773977	43.4245186	6.7589877	Le Merou Ardent				restaurant	157		Boulevard de la Liberation	
+node	10982997285	43.4255443	6.7590233	L'ABJ				bar				
+node	11077365205	43.3911886	6.7273465	Le caractere				restaurant	342	83370	Avenue de la Corniche d'Azur	
+node	11085654905	43.3986901	6.7301889	La Kabane Plage				bar				
+node	11089763106	43.3870170	6.7207839	La Tarantella				restaurant	558	83370	Boulevard Honoré de Balzac	
+node	11118487806	43.4377319	6.7215700	La Bodeguita				bar				
+node	11118496406	43.4379046	6.7213240	La Bodeguita				bar				
+node	11904558207	43.4430098	6.7530432	Le Comptoir D'Adriano				restaurant				
+node	11913922042	43.4260202	6.7608554	Le P'tit Resto				restaurant				
+node	12379480102	43.3858767	6.7231566	Le Central				restaurant	1075		Avenue de la Corniche d'Azur	
+node	12894668976	43.3918349	6.7282933	L'Émeraude				restaurant				
+node	13071257943	43.4661270	6.7630247	Madre Mio				restaurant				
+node	13159908609	43.4305767	6.7362156	Da Gennaro				restaurant	229		Rue des Moulins	
+node	13709049201	43.4323385	6.7355738	Les Copains d'Abord				restaurant				
+way	69763561	43.4232629	6.7477873	La Marée				restaurant				
+way	69807697	43.4228432	6.7422344	El Patio				restaurant				
+way	69845886	43.4254059	6.7373190	La Bastide du Pizzaiolo				restaurant	74		Avenue Eugène Joly	
+way	69862371	43.4229602	6.7482391	Le Tam Tam				restaurant				
+way	304583953	43.4192606	6.7475866	Alba Plage				cafe				
+way	503994800	43.4187476	6.7465605	Le Cabanon				restaurant				
+way	503994806	43.4190235	6.7466548	Le Cabanon				cafe				
+way	628844816	43.4570564	6.7373035	Bar et restaurant				restaurant				
+way	988960405	43.4641121	6.7601883	Horus Hotel, Bar, Restaurant et Karaokés				restaurant	1583	83600	Route de Cannes	
+way	1547314081	43.4001900	6.7304424	Zanzibar				restaurant				
+way	1569386778	43.3869533	6.7210596	Le Balzac				restaurant	538	83370	Boulevard Honoré de Balzac	
+relation	76462			La Garde	8	83130	83062					
+node	1734600196	43.1240655	6.0071324	Ici & Là-bas				restaurant				
+node	2354759935	43.1406146	6.0182443	La Brasserie				restaurant	1		Rue de l'Abbé Emmanuel Sieyès	
+node	2354763074	43.1405304	6.0182658	Bistro Tokata				restaurant	1120		Chemin des Plantades	
+node	4911483155	43.1395561	6.0191670	Hippopotamus				restaurant				
+node	7109247683	43.1389555	6.0183999	Chez Fred				restaurant		83130	Avenue Condorcet	
+node	7132944844	43.1418887	6.0372388	La Bastide Verte				restaurant				
+node	7476666396	43.1395922	6.0354289	Il Ristorante				restaurant	168	83130	Avenue Antoine Becquerel	
+node	13142345294	43.1253560	6.0099231	Bistrot de la Fontaine				restaurant	70	83130	Impasse Vincent Raspail	
+node	13271305121	43.1430786	6.0199361	Au Buffet - Cuisine française à volonté				restaurant	261		Avenue Saint-Just	
+node	13283854652	43.1358953	6.0271116	L'Univers Mezze				restaurant				
+node	13623826933	43.1396362	6.0348821	Il Ristorante				restaurant				
+node	14051236560	43.1389959	6.0221565	Tonton Gust				restaurant	18		Avenue André Lurçat	
+node	14051241209	43.1412882	6.0194560	Memphis				restaurant	1082	83130	Chemin des Plantades	
+node	14051252546	43.1388286	6.0231797	Au Bureau				restaurant	18		Avenue André Lurçat	
+node	14051252547	43.1388795	6.0227881	Kerliza				restaurant				
+node	14051252549	43.1388697	6.0229370	Royal donuts				restaurant				
+node	14244505578	43.1484792	6.0351264	Naho club				nightclub				
+node	14244588057	43.1263137	6.0107144	L'Avant-Scène				bar				
+way	197083397	43.1249650	6.0096205	Brasserie de la place				restaurant				
+way	197086603	43.1368342	6.0197257	Le Béal				restaurant				
+way	197091340	43.1385180	6.0196520	Buffalo Grill				restaurant				
+way	197092226	43.1243100	6.0106240	Le Feu Follet				restaurant				
+way	197095028	43.1251125	6.0102575	Le Chic Bar				bar				
+way	771172258	43.1362543	6.0172614	Restaurant Universitaire				restaurant				
+relation	276305			La Garde-Freinet	8	83680	83063					
+node	2295889257	43.3168864	6.4698950	Restaurant le Migranier				restaurant				
+node	2297237664	43.3126336	6.4714357	Le Bouchon				restaurant	189	83680	Route de Grimaud	
+node	2297261876	43.3179058	6.4681094	Le Carnotzet				restaurant	7		Place du Marche	
+node	2968668035	43.3172840	6.4685380	La Colombe Joyeuse				restaurant				
+node	5300585038	43.3153403	6.4710006	Le Foucado				restaurant				
+node	5300585052	43.3171926	6.4691101	Le Pitzou				restaurant	10		Rue Saint-Jacques	
+node	5300585055	43.3172726	6.4685958	La Petite Fontaine				restaurant	13		Place Vieille	
+node	5300585056	43.3174278	6.4686991	Lou Pichoun				pub				
+node	5300585060	43.3175956	6.4682900	Bar Du Soleil				cafe	3		Place Vieille	
+node	5300585081	43.3174112	6.4681962	La Cabane				restaurant	6	83680	Place Vieille	
+node	5300585084	43.3172805	6.4696687	Le Fraxinois				pub				
+node	9079193117	43.3177733	6.4680451	La Table d'Angele				restaurant	4		Place Vieille	
+node	11925855550	43.3164376	6.4720928	L’Escapade				restaurant		83680		
+node	13541591340	43.3171236	6.4694051	Tirelli				restaurant	13	83680	Place Vieille	
+relation	2690437			Garéoult	8	83136	83064					
+node	441604957	43.3280755	6.0466213	BRASSERIE DU PARC				bar				
+node	5966338686	43.3315502	6.0547247	L'Estable				restaurant				
+node	12192901114	43.3313393	6.0554494	Le "BOBO"				restaurant				
+node	13887711697	43.3271002	6.0476201	Saveurs d'Asie				restaurant	41	83136	Boulevard du Mourillon	
+node	14076189080	43.3305777	6.0465169	L'Atelier Moules Et Frites				restaurant				
+node	14076189084	43.3303138	6.0468417	L'Entre Potes				bar				
+node	14127313272	43.3292560	6.0469869	Café Paul				bar				
+node	14127968350	43.3285995	6.0467065	Au vin qui parle				bar				
+node	14128534259	43.3270942	6.0459363	Maison Pantaia				restaurant				
+way	867487487	43.3313822	6.0554298	Bar Restaurant "Le BOBO"				restaurant				
+relation	970827			Gassin	8	83580	83065					
+node	2290516255	43.2281976	6.5858636	La Casettina				restaurant		83580	Place deï Barri	
+node	4307192488	43.2284487	6.5858627	Bello Visto				restaurant		83580	Place Deï Barris	
+node	4307192491	43.2281374	6.5858972	Au Vieux Gassin				restaurant		83580	Place deï Barris	
+node	4307192492	43.2283049	6.5858134	Le Pescadou				restaurant		83580	Place deï Barris	
+node	4307217249	43.2298466	6.5854990	La Ciboulette				restaurant		83580	Rue Saint-Laurent	
+node	4307374165	43.2529762	6.5830742	Polo 1999				restaurant	1999	83580	Route du Bourrian	
+node	4307533040	43.2310065	6.5757679	Les Sarments				restaurant		83580	Chemin de la Gare	
+node	4307716051	43.2374570	6.5899760	La Verdoyante				restaurant	866	83580	Rue de Coste Brigarde	
+node	4307716150	43.2529820	6.6070250	Restaurant du Golf				restaurant	600	83580	Route du Golf	
+node	4307899798	43.2596503	6.6062877	Restaurant gastronomique Le Belrose				restaurant		83580	Boulevard des Crêtes	
+node	5922092594	43.2598260	6.6064419	Restaurant piscine Le petit Belrose				restaurant		83580	Boulevard des Crêtes	
+node	6475914006	43.2286669	6.5849464	Le Café Perché				cafe	6	83580	Place Neuve	
+node	12328977103	43.2621718	6.5770147	Le Franch.e				restaurant				
+node	12331421277	43.2628519	6.5800325	Paul				cafe				
+node	13853211266	43.2634018	6.6197279	Le Petit Célestin Saint-Tropez				restaurant	13	83580	Chemin de Rognon de la Valette	
+relation	2148174			Ginasservis	8	83560	83066					
+way	400333411	43.6717364	5.8542464	Hôtel Restaurant La Bergerie				restaurant				
+relation	240255			Gonfaron	8	83590	83067					
+node	10299209009	43.3199146	6.2883421	Chez Alain				restaurant	4	83590	Place de la Victoire	
+node	12776593604	43.3196786	6.2876838	Regain				bar	4	83590	Avenue du 8 Mai 1945	
+way	186266352	43.3223235	6.2903015	Restaurant Scolaire				restaurant				
+relation	1208368			Grimaud	8	83310	83068					
+node	1677472634	43.2815087	6.5867856	Restaurant de la plage				restaurant				
+node	1747064866	43.2734092	6.5222458	Le Clem's Bar Grimaud				restaurant		83310	Boulevard des Micocouliers	
+node	1747064870	43.2734928	6.5213685	L'écurie de la Marquise				restaurant	3 bis		Rue du Gacharel	
+node	1747064871	43.2734958	6.5196013	La Bretonnière				restaurant				
+node	1747064874	43.2735160	6.5216167	Le Bou-Bou				restaurant				
+node	1747064880	43.2737893	6.5178972	Le Côteau Fleuri				restaurant				
+node	1747064883	43.2734886	6.5218219	Fleur de Sel				restaurant				
+node	3732193725	43.2736710	6.5803393	La Marina				restaurant	20		Rue des 2 Ports	
+node	4364381794	43.2744646	6.5800610	Pasta & Via				restaurant				
+node	4908463921	43.2787245	6.5845158	Le Sun				restaurant		83310	Prairie de la Mer Plage	
+node	4915231823	43.2751743	6.5803465	La Table du Mareyeur				restaurant	11	83310	Rue des Artisans	
+node	5441321347	43.2725806	6.5220696	Les Santons				restaurant	27		Boulevard des Aliziers	
+node	5837142440	43.2769455	6.5838262	Les Baigneuses				restaurant				
+node	6063307066	43.2748463	6.5761408	Monroe's Pub				restaurant				
+node	6064736479	43.2825166	6.5882456	Capannina				restaurant				
+node	6412476989	43.2793348	6.5771198	Le Passage				restaurant				
+node	7227491287	43.2743729	6.5810466	Le Relais des Coches				restaurant				
+node	9065212942	43.2746151	6.5796295	Lily's				restaurant	14		Rue des Artisans	
+node	9186965511	43.2746275	6.5751738	Pizza LEONE				restaurant				
+node	9836786436	43.2798121	6.5855626	Le 6 Plage				restaurant		83310		
+node	9949299632	43.2771729	6.5824908	Long Bar				bar				
+node	10046989403	43.2697787	6.5756867	La Grimaudoise				restaurant				
+node	10047002137	43.2697140	6.5764213	Equille				restaurant				
+node	10047002138	43.2699025	6.5757847	La Caravelle				restaurant				
+node	10118076020	43.2747457	6.5750263	Pizza Italia Port Grimaud				restaurant		83310	Route du Littoral	
+node	10118151586	43.2745227	6.5750634	Thai Boat				restaurant				
+node	10118151587	43.2745808	6.5751225	Taquería wey				restaurant				
+node	10118151588	43.2746379	6.5749862	Los Tacos				restaurant				
+node	11268556480	43.2743307	6.5796919	Don Peppe				restaurant	2	83310	Rue des Deux Ports	
+node	11268556481	43.2745179	6.5816544	Le Grand Pin				restaurant	8	83310	Rue de l'Octogone	
+node	11869517759	43.2690819	6.5300261	La Bastide Blanche				restaurant				
+node	11953856356	43.2733354	6.5220639	L'Heure Bleue				restaurant				
+node	11953856357	43.2737510	6.5222374	La Petite Marquise				restaurant				
+node	11966891450	43.2741284	6.5809346	Fringale				cafe				
+node	11966891451	43.2744320	6.5802294	Brasserie L‘Escale				restaurant	12	83310	Pl. du Marché	Port Grimaud
+node	12195480048	43.2832257	6.5920711	La Cabane				bar				
+node	12196789634	43.2783459	6.5756197	Clos Saint Pons				restaurant				
+node	12198787238	43.2743886	6.5840260	La Pirogue Plage				bar				
+node	12200938411	43.2764625	6.5837747	La Paillotte				bar				
+node	12201020333	43.2831892	6.5923307	Riva Plage				restaurant				
+node	13306702797	43.2804769	6.5790781	La Table de Didier				restaurant				
+way	216637899	43.2736485	6.5234865	La Spaghetta				restaurant	1	83310	Montée Saint-Joseph	
+way	216665837	43.2784037	6.5837873	Canopy				bar				
+way	216667048	43.2782759	6.5842016	Tangerine				bar				
+way	1085816334	43.2783303	6.5766374	Le Petit Bain				bar				
+way	1214471302	43.2771434	6.5836381	La Cabane				bar				
+way	1430381404	43.2772729	6.5824159	Plage de Rock				bar				
+way	1431298298	43.2777737	6.5774630	Chez les copains				restaurant				
+way	1432353594	43.2795386	6.4920383	Saloon				restaurant				
+relation	380060			Hyères	8	83400	83069					
+node	487104492	43.1206393	6.1310831	La Caravelle				cafe				
+node	487104494	43.1217183	6.1300223	Vino Terre Happy				cafe	13	83400	Rue de la République	
+node	487104496	43.1204779	6.1284348	La Régence				cafe		83400	Place du Portalet	
+node	487104497	43.1187408	6.1283498	Le Phenix				cafe	20	83400	Avenue Gambetta	
+node	487104498	43.1213526	6.1287468	Le Bon Coing				bar				
+node	673065235	43.0006347	6.2026979	L'Arche de Porquerolles				restaurant	12	83400	Rue de la Ferme	
+node	694167116	43.0278674	6.1552001	Restaurant Le Prado				restaurant				
+node	766997227	43.0324930	6.1646719	Belambra				restaurant				
+node	766997228	43.0325766	6.1649474	Belambra				bar				
+node	1371380803	43.1215004	6.1287677	L'Eau à la Bouche				bar				
+node	1704856393	43.0649896	6.1498638	La Bastide				restaurant				
+node	1760450413	43.0384320	6.1318160	Le Duc				cafe				
+node	2354801078	43.1261143	6.0991531	La Colombe				restaurant				
+node	2462679924	43.0651740	6.1484040	Le Papaya				restaurant				
+node	2466587176	43.0914840	6.1622210	Le Marais				restaurant				
+node	2984677151	43.1146737	6.1340452	Flunch				restaurant	17		Avenue Ambroise Thomas	
+node	3027797007	43.0380158	6.1311201	Brasserie du Provençal				restaurant			Place Saint-Pierre	
+node	3027814474	43.0382272	6.1309539	La Jeannette				restaurant	1	83400	Rue du Maquis Vallier	
+node	3053359779	43.1205744	6.1282973	Le Jardin des Délices				restaurant				
+node	3053455430	43.1215969	6.1286357	Plaisir Glacé				cafe				
+node	3057811856	43.0360803	6.1266427	Le Poisson Rouge				restaurant				
+node	3057811866	43.0379387	6.1313103	La Rascasse				restaurant				
+node	3057814641	43.0356955	6.1303697	Le Bar du Soleil				restaurant				
+node	3058790296	43.0421235	6.1330860	La Mandra				restaurant	1264		Route de la Madrague	
+node	3394056383	43.1114744	6.1119912	L'Atelier				restaurant	829	83400	Route des Loubes	
+node	3626399393	43.0101921	6.3819993	L'Anse de Port-Cros				restaurant	41	83400	Avenue de la Font des Horts	
+node	3626399394	43.0099000	6.3826777	Le Sun Bistro				restaurant		83400		
+node	3626399395	43.0101791	6.3823949	Agrume				restaurant		83400		
+node	3626399396	43.0097805	6.3829414	L'Hostellerie Provençale				restaurant		83400		
+node	3626399397	43.0069157	6.3845007	Le Manoir de Port-Cros				restaurant	1	83400	Rue des Porches	
+node	3683738438	43.0281156	6.1514777	Le Pradeau Plage				restaurant	1420	83400	Avenue des Arbanais	
+node	3683738440	43.0382554	6.1312649	Les Thés de Capucine				cafe	102	83400	Place Saint-Pierre	
+node	3683738441	43.0277702	6.1554839	Les trois îles				restaurant				
+node	3714253830	43.0297074	6.1560452	O'Pelican				restaurant				
+node	3798156270	43.0026956	6.2046215	La plage				restaurant				
+node	4163961714	43.0002300	6.2029087	L'Étal du boucher				restaurant	8	83400	Place d'Armes	
+node	4233698192	43.1205617	6.1292075	L'épicure				bar	9	83400	Rue des Porches	
+node	4852674319	43.1182053	6.1276730	L'Anna				restaurant				
+node	4853350455	43.1216086	6.1283440	Les vedettes				restaurant	9	83400	Place Massillon	
+node	4854262793	43.1208749	6.1297198	Massillon				cafe				
+node	4854264342	43.1207639	6.1298987	La Cabane				restaurant				
+node	4858353708	43.1217287	6.1284754	Le Haut du Pavé				restaurant				
+node	4858365570	43.1216748	6.1285336	À l'Ouest				restaurant				
+node	5102851973	43.0011923	6.2028790	L'Escale				restaurant				
+node	5102851976	43.0007266	6.2027217	La Calanque				restaurant				
+node	5102851977	43.0009760	6.2031016	L'aventure...				restaurant		83400	Place d'Armes	
+node	5102851978	43.0002788	6.2027146	O'Tobago				restaurant				
+node	5102851979	43.0008768	6.2027925	L'Oustaou				restaurant				
+node	5102851980	43.0009701	6.2028536	L'Orangeraie				restaurant				
+node	5337603122	43.0153863	6.4347924	Buvette du port				cafe				
+node	5522092757	43.1203251	6.1274574	Columbus Café				cafe	12		Avenue des Îles d'Or	
+node	5522113565	43.1203477	6.1276197	Columbus Café & Co				cafe	10		Avenue des Îles d'Or	
+node	5522155529	43.1214494	6.1288143	La Pastachuca				restaurant				
+node	5525864967	43.1188332	6.1287678	L'île de beauté				restaurant			Avenue Gambetta	
+node	5548748922	43.0025388	6.2031969	Il pescatore				restaurant				
+node	5731061608	43.1207382	6.1277601	Peiro				restaurant	25		Rue Fanguerot	
+node	5731061609	43.1208362	6.1280459	Au fil de l'eau				restaurant				
+node	5812312753	43.1189266	6.1287426	Le Guillaume Tell				cafe				
+node	5981122952	43.0359017	6.1523891	Café Carbet				cafe				
+node	5981626808	43.1207705	6.1334043	Pizzeria Napoli				restaurant	53	83400	Avenue Alphonse Denis	
+node	6003103685	43.1168067	6.1284107	Di Giovanni				restaurant				
+node	6005145890	43.0384128	6.1308273	L’Envie				restaurant	20		Rue du Maquis Vallier	
+node	6006872185	43.0007930	6.2037519	Pelagos				restaurant				
+node	6006872186	43.0008136	6.2036191	Le Porquerollais				restaurant				
+node	6010463185	43.0479552	6.1494078	Le Bikini Plage				restaurant	39	83400	Avenue de la Sablière	
+node	6015101885	43.0578281	6.1477113	Made In La Capte				restaurant				
+node	6015144598	43.0652878	6.1484393	Fratelli d'Italia				restaurant				
+node	6015144714	43.0650526	6.1488166	L'Acapulco				restaurant				
+node	6015144890	43.0652389	6.1486725	Know Where				restaurant	15	83400	Rue des Marchands	
+node	6015190692	43.0490424	6.1461682	Welcome Café				restaurant	109	83400	Allée du Pousset	
+node	6024408885	43.0950365	6.1364760	Plan B				restaurant	860		Avenue de l'Aéroport	
+node	6024409085	43.0660265	6.1473116	Le Nautique				cafe				
+node	6070554707	43.1203883	6.1279328	Sushi House				restaurant	6		Avenue des Îles d'Or	
+node	6223599385	43.0394614	6.1102860	La Bouillabaisse				restaurant		83400	Avenue René de Knyff	
+node	6417522178	43.1211955	6.1316664	La Petite Galinette				restaurant				
+node	6417522392	43.1207080	6.1319947	Les Minots de la Garrique				restaurant				
+node	6417522605	43.1209141	6.1319948	La Piazza				restaurant				
+node	6417522606	43.1206988	6.1317572	Pavillon Thaï				restaurant				
+node	6418256971	43.1212105	6.1303091	Chez Soi				restaurant	9	83400	Place de la République	
+node	6418258370	43.1213062	6.1302079	La Flamboyante				cafe				
+node	6612119185	43.1042636	6.1752074	Restaurant La Réserve				restaurant				
+node	6624819906	43.0638138	6.1500915	Le Tahiti Plage chez Loulou				restaurant				
+node	6653664191	43.0929232	6.1394715	Les Peupliers				restaurant	1210	83400	Avenue de l'Aéroport	
+node	6653759022	43.1042704	6.1753629	Bar la Réserve				pub				
+node	6653794085	43.0928583	6.1634098	Le Petit Bain				restaurant				
+node	6653794681	43.1039714	6.1756540	L'Abri-Cotier				restaurant				
+node	6653798716	43.1038543	6.1753677	Le Tropicana				restaurant	10			
+node	6653836467	43.1040623	6.1754866	Restaurant du Soleil				restaurant	15		Avenue des Hippocampes	
+node	6654705242	43.1043486	6.1751418	Pizzeria de l'Ayguade				restaurant				
+node	6654735997	43.1046920	6.1754223	Comme à la Maison				restaurant	336			
+node	6719946603	43.1189154	6.1310705	Luz'in				restaurant	13		Rue Crivelli	
+node	6720586901	43.1208485	6.1297664	Than Loi				restaurant				
+node	6720599161	43.1205748	6.1283876	Le Millésime				restaurant	4		Rue de Limans	
+node	6720604030	43.1202390	6.1284484	Le Zebrano				pub	2	83400	Avenue Gambetta	
+node	6720612005	43.1205733	6.1289786	Carte Blanche				restaurant				
+node	6720626552	43.0353808	6.1311018	Le Barbecue sous les Pins				restaurant				
+node	6720626841	43.1207793	6.1308056	L'Excelsior				restaurant				
+node	6720633438	43.1206131	6.1286671	Le Garden				pub				
+node	6734446589	43.1200681	6.1263119	La Bella Vita				restaurant				
+node	6734465582	43.1203684	6.1277891	La T'Hyères				cafe				
+node	6734465584	43.1203192	6.1270951	Chez Lulu				restaurant				
+node	6735434303	43.1205022	6.1275508	Oh-Thaï				restaurant	16		Rue de Limans	
+node	7084313222	43.1208453	6.1301273	La Créma'Hyères				restaurant				
+node	7085746745	43.1190476	6.1292218	Viet Food				restaurant				
+node	7086581542	43.1202267	6.1318957	Le Kiosque				restaurant				
+node	7088103523	43.1205830	6.1299413	Cheeses & Cheers				bar	12		Avenue Général de Gaulle	
+node	7088242108	43.1204435	6.1282697	Sushi House				restaurant	4	83400	Avenue des Îles d'Or	
+node	7092845257	43.1157085	6.2005138	le Pothuau				restaurant	4		Place des Pêcheurs	
+node	7099755781	43.1173254	6.1287899	Snack La Fringale				restaurant	35	83400	Avenue Gambetta	
+node	7099835155	43.1175200	6.1287826	Chez Tony				restaurant	31		Avenue Gambetta	
+node	7099889068	43.1169796	6.1284057	Pizza Tony				restaurant				
+node	7099941387	43.1183765	6.1283923	SuperGusto				restaurant	24		Avenue Gambetta	
+node	7100064116	43.1170280	6.1283930	Au Pied D'Poule				restaurant				
+node	7100216400	43.1211043	6.1309480	Chez Adam				restaurant				
+node	7102094357	43.1205284	6.1277797	Maman Assitan				restaurant	3		Rue de Limans	
+node	7110753038	43.1175488	6.1282327	La Marjolaine				restaurant	1	83400	Avenue Ernest Millet	
+node	7110777504	43.1174686	6.1284030	La Gitane				bar				
+node	7127732894	43.1020311	6.1727198	Le Quai				restaurant				
+node	7127732895	43.1019116	6.1728385	Poiscaille				restaurant	26		Avenue des Sirènes	
+node	7131800466	43.1190452	6.1308894	Le Baraza				restaurant			Avenue Ambroise Thomas	
+node	7466519707	43.1203354	6.1311430	Pizza Bruno				restaurant				
+node	7681236894	43.0157363	6.4363771	La Levantine				restaurant				
+node	7795249085	43.1098758	6.1220150	Goto Sushi				restaurant	22	83400	Avenue Paul Bourget	
+node	7804200385	43.0651412	6.1485361	Le Patio				bar	12	83400	Rue des Marchands	
+node	7806974785	43.0653110	6.1477316	Savage Cafe				cafe				
+node	7814997985	43.1111525	6.1094572	Viet Wok				restaurant				
+node	7815005685	43.1116565	6.1100528	Le Local				restaurant				
+node	7835647485	43.0801263	6.1557147	Mango Bay				restaurant	3	83400	Avenue du Docteur Robin	
+node	7844199091	43.0388346	6.1311760	Le Presqu'ils				restaurant				
+node	7844208053	43.0388576	6.1314346	Grand Baie				restaurant				
+node	7959257963	43.1162957	6.2007519	Brasserie des Salins				restaurant	5	83400	Place des Pêcheurs	
+node	7959257964	43.1162357	6.2002874	La Salinoise				restaurant	1	83400	Rue de Saint-Nicolas	
+node	7959257965	43.1163548	6.2001504	Le Picque Bouffigue				restaurant				
+node	7959257966	43.1158659	6.2004088	Le Swan				restaurant				
+node	7959257967	43.1156805	6.2000748	La Frégate				restaurant				
+node	8733822017	43.0410203	6.1427695	Restaurant Vivendo				restaurant	153	83400	Route de la Madrague	
+node	8992101017	43.0363066	6.1379323	Relais H				cafe				
+node	8996889414	43.0653860	6.1480442	Le Bouchon Captois				restaurant	7	83400	Rue des Marchands	
+node	9062195317	43.1029214	6.1751503	Eugène Bain de Mer				restaurant				
+node	9809764602	43.0389398	6.1486163	Pizza bruno				restaurant	354		Boulevard d'Alsace-Lorraine	
+node	9809792898	43.0394639	6.1470146	L'île d'or				restaurant				
+node	9891711713	43.1093668	6.1823268	Tom Cariano				restaurant				
+node	9939720307	43.0382834	6.1316290	Côté Sud				restaurant	68	83400	Place Saint-Pierre	
+node	9939917179	43.0395364	6.1100630	L'Arbanais				restaurant	3311		Route de la Madrague	
+node	9961588374	43.1203117	6.1300921	Le Jardin				restaurant	19	83400	Avenue Joseph Clotis	
+node	9964299918	43.1094813	6.1246501	L'Oriental				pub	46	83400	Avenue Edith Cavell	
+node	9964300118	43.1095773	6.1250685	Le Palmier d'Or				restaurant	41	83400	Avenue Edith Cavell	
+node	10142347517	43.0024149	6.2031088	La Fringale				bar	3	83400	Rue de l'Artisanat	
+node	10142347518	43.0013567	6.2032868	Côté Port				bar	1	83400	Rue de la Douane	
+node	10161969369	43.1181354	6.1287791	Ninette				restaurant	23		Avenue Gambetta	
+node	10161980643	43.1184268	6.1288027	Bar Snack Gambetta				pub				
+node	10161990871	43.1210521	6.1342173	Pizza Lezard				restaurant				
+node	10162029408	43.1164013	6.1283827	Giulia l Ristorante Italiano				restaurant	54	83400	Avenue Gambetta	
+node	10162114019	43.1210834	6.1343584	Snack Le Palmier				restaurant	30	83400	Avenue Général Mangin	
+node	10227697969	43.1033316	6.1740234	Le Kallisté				restaurant				
+node	10933738605	43.0801363	6.1555639	Awa Café				bar				
+node	11160214027	43.1102715	6.1214928	L'instant chat - Cat café				cafe	16	83400	Avenue Paul Bourget	
+node	11226685837	43.1180160	6.1283671	Pizzeria Luma				restaurant				
+node	11226695737	43.0803448	6.1505427	Le Driver				restaurant				
+node	11245546035	43.0804279	6.1553586	Le Flore				restaurant				
+node	11245550510	43.0804163	6.1554563	A Tavola				restaurant				
+node	11245563598	43.0801353	6.1554481	Le Barracuda				restaurant				
+node	11245577058	43.0806219	6.1550809	Pizza Bruno Le Jardin de Manon				restaurant	74	83400	Avenue de la Gavine	
+node	11245578062	43.0804730	6.1551864	U Primu				restaurant	4	83400	Avenue de la Gavine	
+node	11292674722	43.1211581	6.1345185	Don Papazino				restaurant	4		Avenue Général Mangin	
+node	11446099584	43.1225091	6.1307000	Café La Potière				cafe	2	83400	Rue du Rempart	
+node	11496168769	43.1209183	6.1320540	Le Bistrot du bœuf bio				restaurant	2		Avenue Aristide Briand	
+node	11503244653	43.1156523	6.1333714	Le Logos				restaurant				
+node	11508874919	43.1156538	6.1319808	Le Noailles				bar				
+node	11538150924	43.1210328	6.1339919	Asiafood				restaurant				
+node	11557131671	43.0804371	6.1559681	Maison Gavroche				cafe				
+node	11557131672	43.0803563	6.1559520	El Mojito				cafe				
+node	11557131673	43.0802652	6.1559232	L'En-K				bar	7	83400	Avenue du Docteur Robin	
+node	11557135145	43.0816340	6.1562822	Le Sax				restaurant				
+node	11587654388	43.1205717	6.1282396	Le Tapassiette				restaurant	6	83400	Rue de Limans	
+node	11603609075	43.1201635	6.1328887	sachi				restaurant				
+node	11691194316	43.0805067	6.1549569	O Créol'				restaurant	6	83400	Avenue de la Gavine	
+node	11733985743	43.1186971	6.1290351	L'Atelier Provencal				restaurant				
+node	11739067584	43.0654105	6.1502154	La Pergola				restaurant	17		Rue du Port de la Capte	
+node	11749779056	43.1215625	6.1313724	Taj Mahal				restaurant				
+node	11909282018	43.1211597	6.1350872	Le Football Bar PMU				bar	38 bis		Avenue Alphonse Denis	
+node	11928457410	43.1186392	6.1431715	Pizz'Atomic				restaurant	17	83400	Avenue du Général Eisenhower	
+node	11961318541	43.0839768	6.1580716	Le Nautic				restaurant	47	83400	Quai Florence Arthaud	
+node	11997181817	43.0818998	6.1564084	Le Spinnaker				restaurant	59		Avenue de la Gavine	
+node	11999325651	43.0814129	6.1561500	Le Tocco				restaurant				
+node	12088859277	43.1203334	6.1287463	Bonhomie				restaurant				
+node	12125922810	43.1226141	6.1307556	Pizza Bologna				restaurant				
+node	12149254279	43.1214991	6.1204090	Pizza Box				restaurant				
+node	12149363545	43.1212081	6.1207100	Le Venezzia				restaurant	17		Avenue Riondet	
+node	12162401507	43.1129859	6.1351160	Okinawa Sushi				restaurant				
+node	12174567589	43.1056278	6.1755186	La Cigale Provencale				restaurant	3024	83400	Les Palmiers	
+node	12334338220	43.1150245	6.1086040	Ben Burger				restaurant				
+node	12334338239	43.1157936	6.1082859	Le Caffè				restaurant				
+node	12337277647	43.1095042	6.1241130	Le Hangar				restaurant	4	83400	Place de l'Europe	
+node	12635848045	43.1203481	6.1301850	La Salle				restaurant	21	83400	Avenue Joseph Clotis	
+node	12871395692	43.0933398	6.1585487	Trib's				restaurant				
+node	13123199268	43.1213563	6.1270966	Vola Café				cafe				
+node	13123221102	43.1205949	6.1288055	Mam'zel Bretzel				cafe	1		Rue des Porches	
+node	13146674991	43.0391503	6.1479543	La Bohème				restaurant	268		Boulevard d'Alsace-Lorraine	
+node	13146740379	43.0352279	6.1265461	Le Truck du Niel				bar				
+node	13192833748	43.1202693	6.1278701	Cook & Books				cafe				
+node	13200147555	43.1027679	6.1415841	Brew Pub				pub				
+node	13277510889	43.0360672	6.1263709	Le Mérou du Niel				restaurant				
+node	13443676033	43.1205158	6.1317088	Le Jardin de Saradam				restaurant	35	83400	Avenue de Belgique	
+node	13444992112	43.0401212	6.1074851	La Grotte				restaurant	183	83400	Avenue René de Knyff	
+node	13450917618	43.0986633	6.1328636	L'Estive				restaurant	278	83400	Avenue de l'Aéroport	
+node	13450917619	43.1013317	6.1306477	L'Aile ou la Cuisse				restaurant	48	83400	Avenue de l'Aéroport	
+node	13459650192	43.1217135	6.1312772	Poetic Studio				cafe				
+node	13463978071	43.1211931	6.1353999	Le Mediterranée				restaurant	44	83400	Avenue Alphonse Denis	
+node	13514487966	43.0825275	6.1566313	O Cap Couleurs				restaurant	393	83400	Avenue du Docteur Robin	
+node	13516411850	43.1202443	6.1304106	Mazette				restaurant	23	83400	Avenue Joseph Clotis	
+node	13524137365	43.1180096	6.1297477	Coba Sushi				restaurant				
+node	13534175205	43.0814932	6.1561849	Vice Versa				restaurant	31	83400	Avenue du Docteur Robin	
+node	13534499549	43.0650934	6.1493249	Café Bohème				restaurant	23	83400	Rue des Marchands	
+node	13589710801	43.0478911	6.1480720	Maurice à la plage				restaurant	5	83400	Avenue de la Bergerie	
+node	13614938453	43.1166025	6.2020079	Gaia				restaurant				
+node	13720450948	43.0821655	6.1565185	La Caravelle				restaurant	53	83400	Avenue du Docteur Robin	
+node	13720460090	43.0820811	6.1564900	La Crêperie du Port				restaurant	349	83400	Avenue du Docteur Robin	
+node	13840356762	43.1211330	6.1308641	La Table du Marché				restaurant	2	83400	Place de la République	
+node	13849026170	43.1097802	6.1245329	Viet -Nam				restaurant	55	83400	Avenue Alexis Godillot	
+node	13931157119	43.1207009	6.1297910	La Palme du Tassili				restaurant				
+node	13945554585	43.0805556	6.1554144	L'Escale du Sud				restaurant	6	83400	Avenue de la Gavine	
+node	13949094981	43.1093886	6.1263349	Le People				restaurant	11	83400	Avenue Pierre Renaudel	
+node	13956047710	43.1203521	6.1272223	Bistrot Napoléon				restaurant	14 B	83400	Avenue des Îles d'Or	
+node	13959518631	43.1105575	6.1255966	Do'RéMi				restaurant	4	83400	Rue Saint-Jacques	
+node	13959574823	43.1106526	6.1258059	Pizza Pasta Italia				restaurant	28	83400	Avenue Edith Cavell	
+node	14053433704	43.0416472	6.1276710	Le Solarium				restaurant	1762	83400	Route de la Madrague	
+node	14097698301	43.1205675	6.1285834	Bobamana				cafe	1	83400	Rue Portalet	
+node	14182773886	43.1200413	6.1288804	Bagus Kafé				cafe	5	83400	Avenue Joseph Clotis	
+node	14188691613	42.9985006	6.1998647	La Table du Domaine de l'Ile				restaurant				
+node	14196535949	43.0394694	6.1032794	La Table d'Olbia				restaurant				
+node	14281979728	43.1212190	6.1292461	La Maison de Mamie				restaurant				
+node	14298736026	43.1202266	6.1280713	Le Café Hyérois				bar	3	83400	Avenue des Îles d'Or	
+node	14313700847	43.0412416	6.1272289	La Réserve				restaurant				
+node	14316838007	43.1206902	6.1296479	La Cafetière des Porches				cafe				
+way	57769246	43.0038756	6.1880243	Restaurant de la Plage d'Argent				restaurant				
+way	221883150	43.1162910	6.2015170	La Salad Hyères				restaurant	15	83400	Place des Pêcheurs	
+way	221896729	43.0618625	6.1475030	Les Ombrelles				restaurant				
+way	221971856	43.0797395	6.1244090	Gaetano Plage				restaurant	3089	83400	Route de l'Almanarre	
+way	221971883	43.0796875	6.1246695	Funboard Center				bar				
+way	427459996	43.0201041	6.4396311	La Pomme d'Adam				restaurant	4		Place André et Gaston Durvile	
+way	427460004	43.0197455	6.4377857	Le Refuge				restaurant				
+way	427460055	43.0198350	6.4397213	Le Minimum				bar				
+way	427461377	43.0188773	6.4371360	La Fourmi				restaurant	27		Chemin de la Pente	
+way	427461412	43.0212442	6.4394722	Hélios Club				nightclub				
+way	427461423	43.0208928	6.4390240	Héliotel				restaurant		83400	Montée du Val des Moines	
+way	427462026	43.0201827	6.4399787	La Bohème				restaurant	4		Place André et Gaston Durvile	
+way	427463942	43.0158598	6.4347269	Le Gambaro				restaurant	847		Montée de l'Ayguade	
+way	427465681	43.0167668	6.4395100	La Palmeraie				restaurant				
+way	632889600	43.0389698	6.1508134	La Paillotte				restaurant				
+way	853256755	43.1158298	6.2027925	Plan Beach				restaurant	35		Traverse du Pentagone	
+way	1144509541	43.0393913	6.1100475	La Bouillabaisse				restaurant				
+way	1267697119	43.0391446	6.1258184	La Paillote				restaurant				
+way	1323619715	42.9996824	6.2111432	Le Poisson Ivre				restaurant				
+relation	970872			Le Lavandou	8	83980	83070					
+node	534648410	43.1381656	6.3698381	Le Repair				restaurant				
+node	910982905	43.1385146	6.3694380	L'Aventure				restaurant				
+node	4358685195	43.1518404	6.4267999	Le Grand Bleu				restaurant				
+node	4450010691	43.1415052	6.3811440	Brasserie de la Plage				restaurant				
+node	4450010692	43.1433918	6.3826072	Chez Regis				restaurant				
+node	4450014494	43.1372187	6.3738214	Le Bosco				restaurant				
+node	4450014495	43.1497499	6.4028830	Le Comodore				restaurant				
+node	4450014496	43.1526228	6.4272564	Le Comptoir				cafe				
+node	4450024494	43.1370498	6.3744107	Gargotte				cafe				
+node	4450040491	43.1457400	6.3800500	Le Saint-Clair				bar				
+node	4450040493	43.1494467	6.4069845	El Camino				cafe				
+node	4450040494	43.1371033	6.3742714	Bahiana				bar				
+node	4450040591	43.1369457	6.3741326	Gecko Bar				bar				
+node	4450040592	43.1520724	6.4275006	Le Folkis				cafe				
+node	4450040690	43.1517274	6.4275537	Les Sirènes				restaurant				
+node	4811646632	43.1445781	6.3792642	Le Mazet - Atelier de la truffe				restaurant	1	83980	Chemin de la Cascade	
+node	4927012621	43.1383746	6.3699818	Auberge Provençale				restaurant				
+node	5045263788	43.1350640	6.3663257	Le Flamenco				restaurant				
+node	5049041327	43.1363040	6.3672055	Le Calypso				bar				
+node	5062878105	43.1350956	6.3648299	Saïfi				cafe				
+node	5062878107	43.1351643	6.3648741	Chez Laurent				restaurant				
+node	5062878108	43.1351996	6.3649008	Le Café Gourmand				restaurant				
+node	5160779921	43.1374120	6.3740455	La Pasta				restaurant				
+node	5477591809	43.1432822	6.3824242	Les Tamaris - Chez Raymond				restaurant				
+node	5477591818	43.1428056	6.3821614	Bistr'eau Ryon				restaurant				
+node	5917991085	43.1382587	6.3690813	5 Sens				restaurant		83980	6 Rue Port Cros	
+node	6012454389	43.1378510	6.3685063	Le Balto				pub				
+node	6012454586	43.1376379	6.3686416	Le Bora Bora				restaurant	3		Rue Charles Cazin	
+node	6012456085	43.1377830	6.3684285	La Bouée				restaurant				
+node	6697501746	43.1425836	6.3822047	La Pinède				restaurant				
+node	6697501748	43.1418780	6.3816499	Le 5 Beach				restaurant				
+node	8339108755	43.1479087	6.4200792	Chez Joe				restaurant				
+node	10556344624	43.1372647	6.3742007	Le Onze				restaurant				
+node	10892651805	43.1516692	6.4314105	La Voile de Cavalière				restaurant				
+node	10916577405	43.1374459	6.3739336	Le Cub				restaurant				
+node	11039661896	43.1463077	6.3932975	La Farigoulette				restaurant				
+node	11964795641	43.1372144	6.3746965	L'arbre au Soleil				restaurant		83980	Nouveau port	
+node	12133955953	43.1375019	6.3736452	Le Pecheur				restaurant	31		Place de L'Etoile	
+node	12192883893	43.1408300	6.3812133	Paradiso Beach				cafe				
+node	12205304120	43.1340264	6.3656832	La Rotonde				restaurant				
+node	12205325437	43.1332137	6.3651324	Tan Shi				restaurant				
+node	12205330964	43.1338575	6.3656178	Le cafe Cezanne				restaurant				
+node	12205333674	43.1337379	6.3654418	Tam Tam				restaurant	62		Avenue du General Bouvet	
+node	12205341306	43.1337784	6.3655022	Le Lodge				restaurant	62		Avenue du General Bouvet	
+node	12205368938	43.1346351	6.3660358	Ohana				cafe				
+node	12205376607	43.1318230	6.3649021	Eden Plage				restaurant				
+node	12207251939	43.1383041	6.3704484	L'Hermine				restaurant	18	83980	Rue Patron Ravello	
+node	12959640145	43.1382126	6.3729074	La Petite Cantine				bar	52		Av Louis Faedda	
+node	13013338899	43.1493382	6.4018248	Le Jardin				restaurant				
+node	13013343703	43.1492969	6.4022754	Pazzi Plage				restaurant				
+node	13311027192	43.1528513	6.4446982	Le Jardin Gourmand				restaurant	82	83980	Avenue du Cap Nègre	
+node	13314324704	43.1551592	6.4458479	La Cabane				restaurant	22		Avenue du Capitaine Ducournau	
+node	14054318129	43.1376827	6.3666841	Brasserie du Soleil				restaurant	4	83980	Avenue des Martyrs de la Résistance	
+way	174911166	43.1379986	6.3650449	Le Terminus				restaurant		83980		
+way	175022724	43.1516525	6.4467910	Tamaris Plage				restaurant				
+way	175022725	43.1513290	6.4467310	AKWABÔ BEACH				restaurant				
+way	175023574	43.1530540	6.4478895	Le Cafe De La Plage				restaurant				
+way	175024221	43.1734120	6.4331236	Le Relais du Vieux Sauvaire				restaurant		83980	Route des Cretes	
+way	580743739	43.1518142	6.4295284	Les Canetons				restaurant	356	83980	Avenue du Cap Nègre	
+relation	970878			La Londe-les-Maures	8	83250	83071					
+node	794403932	43.1170692	6.2478908	Lond'on				restaurant				
+node	3024664672	43.1161402	6.2469018	Les Saveurs d'Ange				restaurant				
+node	5584120423	43.1195022	6.2549047	L’Hemingway				restaurant		83250	Rue de la frégate	
+node	9643401320	43.1373588	6.2347852	Le burger fou				restaurant				
+node	10048676535	43.1380209	6.2345076	Le Pélican				cafe	17		Avenue Georges Clémenceau	
+node	10048690919	43.1379009	6.2343715	Le Café des Sports				restaurant				
+node	10048693604	43.1372629	6.2350608	La Caravelle				restaurant				
+node	10048693605	43.1373509	6.2342857	La Casa di Fiorino				restaurant				
+node	10048707005	43.1380105	6.2358843	Le Jardin Provençal				restaurant				
+node	10160256517	43.1158279	6.2465247	Le Panoramic				restaurant		83250	Boulevard du Front de Mer	
+node	13087739734	43.1175128	6.2422085	Restaurant Le Loup de Mer La Londe				restaurant		83250	Le Forum, Av. de la Baie des Îles	
+node	13087739735	43.1174302	6.2421564	Snack Chez Micka				restaurant	150	83250	Rue du Forum	
+node	13374108287	43.1382009	6.2351058	pizza Pastor				restaurant	9	83250	Avenue Georges Clemenceau	
+node	13952506430	43.1258311	6.1953794	Club Vertigo				nightclub	3579	83250	Ancien Chemin de Hyères	
+node	13959284121	43.1212610	6.2606137	Côté plage				restaurant				
+node	14105538952	43.1197034	6.2464515	Aux Baguettes d'Or				restaurant	31	83250	Boulevard Louis Bernard	
+way	218295964	43.1176685	6.2473075	Mozzarella				restaurant	1136	83250	Boulevard Louis Bernard	
+way	659814035	43.1156089	6.2451243	Le President				restaurant				
+way	659814036	43.1156416	6.2450928	Le Président				restaurant				
+relation	125337			Lorgues	8	83510	83072					
+node	1660910829	43.4702338	6.3783396	Chez Bruno				restaurant	2350	83510	Route des Arcs	
+node	3223025088	43.4926524	6.3576392	La Grange				cafe	13	83510	Avenue de Toulon	
+node	3229905411	43.4892661	6.3533545	Le Dragon d'Or				restaurant	495	83510	Boulevard de la Libération	
+node	3275453734	43.4930971	6.3576936	Les Planches				restaurant				
+node	3454848982	43.4929776	6.3609874	Brasserie du Parc				restaurant	27	83510	Boulevard Georges Clemenceau	
+node	7010846021	43.4920500	6.3543180	l'eau				cafe				
+node	12056251537	43.4940732	6.3617819	La voute				restaurant	24	83510	Rue Droite	
+node	12057406407	43.4931904	6.3618203	La Table de Pôl				restaurant	18	83510	Boulevard Georges Clemenceau	
+node	12057406409	43.4929741	6.3622137	Aux 2 Fontaines				restaurant	7	83510	Boulevard Georges Clemenceau	
+node	12057406410	43.4932497	6.3622490	Bistrot Chez Ludo				restaurant	14	83510	Boulevard Georges Clemenceau	
+node	12057992192	43.4930639	6.3578675	L'Embarqu'Adhère				bar	22	83510	Place d'Entrechaux	
+node	12058027038	43.4932204	6.3608504	Le Galia				bar	21	83510	Boulevard de la République	
+node	12058100786	43.4930263	6.3624444	Café de France				cafe	3	83510	Boulevard Georges Clemenceau	
+node	12059641168	43.4932290	6.3603179	Le Grillon				restaurant	11	83510	Boulevard de la République	
+node	12059803172	43.4929772	6.3597311	Le Chrissandier				restaurant	18	83510	Boulevard de la République	
+node	12064623090	43.4920977	6.3572547	Les II Mûriers				restaurant	19	83510	Avenue de Toulon	
+node	12064802740	43.4929807	6.3595348	Et Si Un Jour				restaurant	14	83510	Boulevard de la République	
+node	12064802742	43.4932218	6.3610414	L'Embuscade				bar	2	83510	Rue du Docteur Courdouan	
+node	12064802743	43.4932870	6.3610024	Planet'Pizza				restaurant		83510	Rue du Docteur Courdouan	
+node	12064802745	43.4934304	6.3607227	La Main à la Pâte				restaurant	1	83510	Rue de la Vieille Commune	
+node	12064802746	43.4935089	6.3609270	Sushi wok 2				restaurant	2	83510	Rue de la Vieille Commune	
+node	12066235032	43.4931861	6.3613486	Ô P'Tigouren				restaurant	28	83510	Boulevard Georges Clemenceau	
+node	12066235033	43.4931832	6.3616086	Le Clémenceau				bar	24	83510	Boulevard Georges Clemenceau	
+node	12066235038	43.4930151	6.3623599	La Casa del Gusto 2				restaurant	3	83510	Boulevard Georges Clemenceau	
+node	12067873875	43.4930698	6.3577474	Le Comptoir de la Galinette				bar	20	83510	Place d'Entrechaux	
+node	12067873883	43.4934818	6.3570855	Mama Pizza				restaurant	5	83510	Place d'Entrechaux	
+node	12069647036	43.4928496	6.3598310	L'Italienne				restaurant	2	83510	Avenue Allongue	
+node	12069647040	43.4925038	6.3598026	Carnets de Voyage				restaurant	12	83510	Avenue Allongue	
+node	12069647041	43.4927881	6.3598299	La Table des Épiciersf				restaurant	4	83510	Avenue Allongue	
+node	12083314694	43.4917005	6.3632023	Le Vin’tage				bar	3	83510	Rue des Climènes	
+node	12083314696	43.4916823	6.3633186	Table du Moulin				restaurant	5	83510	Rue des Climènes	
+node	12083314698	43.4892702	6.3576994	Le Marine				restaurant	16	83510	Clos Saint-Roch	
+node	12088002477	43.4902161	6.3554709	Locelyan				restaurant	33	83510	Avenue de Toulon	
+node	12090316886	43.4627511	6.3434189	Vigna Restaurant				restaurant	4005	83510	Chemin de la Martinette	
+node	12090316888	43.4928233	6.3602033	AntrE'nouS				restaurant	7	83510	Avenue Allongue	
+way	264380126	43.4981070	6.3422225	L'Estellan				restaurant	1000	83510	Route de Saint-Antonin	
+way	264381777	43.4919335	6.3542165	Méli-Mélo Point Chaud				restaurant	344	83510	Boulevard de la Libération	
+way	264383274	43.4906955	6.3535055	Brasserie La Lorguaise				restaurant	151	83510	Boulevard de la Libération	
+relation	225037			Le Luc	8	83340	83073					
+node	2999824870	43.3929486	6.3124031	Le Ranch				restaurant				
+node	3002358460	43.3951506	6.3118351	Amical Bar				bar				
+node	3002358463	43.3949518	6.3128659	Café Le Commerce				bar				
+node	3002358464	43.3948186	6.3125912	Café de Paris				bar	61		Rue de la République	
+node	3002358465	43.3948468	6.3131017	Café du Centre				bar				
+node	3002358467	43.3950658	6.3120910	Chez Jerem				restaurant				
+node	3002358478	43.3948981	6.3123322	La Petite Bouffe				restaurant				
+node	3002358479	43.3950219	6.3118934	Le Gavroche				bar	32		Rue de la République	
+node	3002358480	43.3949708	6.3111344	Le Gourmandin				restaurant	8	83340	Rue Louis Brunet	
+node	6030545939	43.3934707	6.3250637	L'Olivade				restaurant				
+node	6054445115	43.3953121	6.3136638	Le Florette				restaurant	37		Rue Emile Combes	
+node	10138397039	43.3932111	6.3221698	Les Liebauds				bar	22		Rue Auguste Blanqui	
+node	10138397040	43.3932764	6.3227237	Le Stella				restaurant				
+node	10147796017	43.3935990	6.3251652	CM Signature				restaurant				
+way	1571909533	43.3956924	6.2716746	La Mesa				restaurant				
+way	1571909535	43.3948080	6.2745609	Gusto artisan burger				restaurant				
+relation	2144172			La Martre	8	83840	83074					
+node	8676256079	43.7765269	6.6434856	Entre Frères				restaurant	RD6085	83840	Route Napoléon	
+node	8676306623	43.7782756	6.6314142	Trattoria Da Mario du Château de Taulane				restaurant		83840	Le Logis du Pin	
+relation	1118918			Les Mayons	8	83340	83075					
+node	1936857488	43.3135894	6.3580221	Le Bérengoustain				bar			Grand-Rue	
+relation	2148074			Mazaugues	8	83136	83076					
+node	11069802169	43.3472774	5.9222837	Café du Midi				cafe				
+relation	2690408			Méounes-lès-Montrieux	8	83136	83077					
+node	6654496821	43.2839837	5.9716706	La Bella ciao				restaurant				
+node	8895141661	43.2808488	5.9695230	Cafe de la place Méounes				cafe				
+node	8895141662	43.2808981	5.9697755	La bonne franquette				cafe				
+node	10143090456	43.2793139	5.9713279	La poêle d'or				restaurant				
+node	13108578043	43.2638333	5.9504717	Guinguette de Montrieux				restaurant				
+relation	2694288			Moissac-Bellevue	8	83630	83078					
+node	3261254556	43.6540540	6.1676812	Hôtel Restaurant Le Calalou				restaurant		83630	Le Village	
+node	4253365800	43.6525906	6.1667928	Le Bellevue				restaurant				
+relation	970876			La Môle	8	83310	83079					
+node	2996402625	43.2082304	6.4648257	L'Auberge de la Môle				restaurant				
+node	2996402626	43.2076267	6.4652743	Les Mûrennes				restaurant		83310	Place de la Mairie	
+relation	2131012			Mons	8	83440	83080					
+node	2561895996	43.6896936	6.7140238	Auberge Provençale				restaurant				
+node	2568110373	43.6908018	6.7137746	Le Petit Bonheur				restaurant	1	83440	Place Frédéric Mistral	
+relation	970874			Montauroux	8	83440	83081					
+node	2957045946	43.6185258	6.7642474	Le Marina				restaurant	2	83440	Rue de la Rouguière	
+node	2957045947	43.6180130	6.7644963	Brasserie du clos				cafe	7	83440	Avenue Jean Camille Pauc	
+node	2957045948	43.6180682	6.7655841	Bar des boulistes				bar				
+node	3186698745	43.6045348	6.7628458	Le Lauranssy				restaurant				
+node	3186698746	43.6026379	6.7850124	Auberge Carré d'Ange				restaurant				
+node	8985414723	43.6053409	6.7630552	Sushi Wok Montauroux				restaurant				
+node	8985414726	43.6040425	6.7715850	Pastafolie's				restaurant				
+node	8985414737	43.6045977	6.7626366	Alpha Bar à Vin - Alpha Scène				restaurant				
+node	8985414739	43.6039780	6.7719184	Le New Leaf				restaurant				
+node	10285869868	43.6185392	6.7645541	les nudistes				cafe	8	83440	Rue de la Rouguière	
+way	159994971	43.6051195	6.7627919	Restô de la plaine				restaurant				
+way	159995078	43.6053479	6.7634978	Le Mas des Anges				restaurant				
+way	159995690	43.6021974	6.7769433	La pomme de pin				restaurant				
+way	159995827	43.6032035	6.7741195	Old Siam				restaurant	1025		Avenue de la Plaine	
+way	159996019	43.6030765	6.7745275	La Bécassière				restaurant				
+way	160001909	43.6189785	6.7651850	Histoire sans faim				restaurant	25	83440	Rue Antoine Bonnet	
+way	160008309	43.5933498	6.7897158	Les esclapières				restaurant				
+way	160008323	43.6060460	6.7654285	1000 miglia				restaurant				
+relation	224107			Montferrat	8	83131	83082					
+node	6766500986	43.6130443	6.4813390	Le Vintage				bar	49	83131	Rue du Docteur Rayol	
+node	7747085554	43.6097374	6.4823613	Le Clos Pierrepont				restaurant	56	83131	Route de Draguignan	
+relation	2694609			Montfort-sur-Argens	8	83570	83083					
+node	2261285998	43.4740281	6.1219569	Café National				cafe				
+node	2261286000	43.4738216	6.1272974	Le Mas des Templiers				restaurant				
+node	2261286002	43.4734889	6.1221232	La Petite Marmite				restaurant	11	83570	Grande Rue	
+node	2549113562	43.4736387	6.1220930	L'Angelouis				bar	1	83570	Place Gabriel Peri	
+relation	2162211			Montmeyan	8	83670	83084					
+node	1347564395	43.6415941	6.0641980	Le Ch'ti Verdon				bar				
+node	13015583434	43.6454359	6.0631013	Lou Meian				restaurant				
+node	13136157864	43.6464317	6.0633643	La Cave A Pizza du Verdon				restaurant				
+relation	125366			La Motte	8	83920	83085					
+node	2969327852	43.4928401	6.5356424	Bar des Cascades				bar	4	83920	Place Georges Clemenceau	
+node	2969327856	43.4933045	6.5355325	Chez Pascale				restaurant	2	83920	Grande Rue	
+node	6939433811	43.4910832	6.5350734	La Bohème				restaurant	23	83920	Boulevard André Bouis	
+node	6940173658	43.4936935	6.5661607	La Maurette				restaurant	2290	83920	Route de Callas	
+node	6942608475	43.4867810	6.5396894	Auberge des 2 Pins				restaurant	525	83920	Route de la Motte au Muy	
+relation	190263			Le Muy	8	83490	83086					
+node	5200320407	43.4724539	6.5658176	La Table des Gourmands				restaurant				
+node	10020296128	43.4725185	6.5665413	La Cave				bar				
+node	10020296134	43.4728309	6.5678862	Les Allées				restaurant				
+node	10020296141	43.4725701	6.5668703	Snack Café du Combattant				cafe				
+node	10020296142	43.4725553	6.5667402	Pizzéria du Marché				restaurant				
+node	10020296152	43.4717425	6.5665692	La Salle				cafe				
+node	10020296153	43.4716476	6.5667706	Café le Bon Coin chez Samir				cafe				
+node	10020296168	43.4717503	6.5661971	Le Provençal				bar				
+node	12633672117	43.4457518	6.5731675	La Table du Château				restaurant	3280	83490	Route de Sainte Maxime D125	
+way	269026101	43.4754870	6.5692805	Les Jonquières				restaurant	1005	83490	Boulevard de la Libération	
+way	269027150	43.4789455	6.5218140	Les Pins Blancs en Provence				restaurant	2469	83490	Route de Draguignan	
+way	269032625	43.4721860	6.5651540	Cantina				restaurant				
+way	682951679	43.4756369	6.5382176	Le Petit Atelier				restaurant	14		Avenue des Genêts	
+relation	2694688			Nans-les-Pins	8	83860	83087					
+node	6971746154	43.3704217	5.7827683	Bar des Sports				bar	13	83860	Cours Général de Gaulle	
+node	6971746171	43.3708504	5.7826027	Le Cercle et son Assiette Provençale				restaurant	12	83860	Cours du Général de Gaulle	
+node	6971746174	43.3705639	5.7823028	Chocola'Thé				cafe	21	83860	Cours Général de Gaulle	
+node	6971746175	43.3705372	5.7823832	Le Café de Fany				cafe	19	83860	Cours Général de Gaulle	
+way	356089871	43.3764730	5.7883885	Village Club de la Sainte-Baume				restaurant				
+way	356104230	43.3904054	5.7751700	Domaine de la Tuilière				restaurant				
+way	356108354	43.3687172	5.7842187	Restaurant Scolaire				restaurant				
+relation	2690451			Néoules	8	83136	83088					
+node	1251291636	43.3105494	6.0139189	Auberge des Vignes D'or - moules & frites				restaurant	5	83136	Place du Château	
+node	1251291647	43.3106851	6.0134807	Bar des sports				bar	7	83136	Place de la Liberté	
+node	14109380101	43.3116420	6.0138718	Le p’tit Néoulais				restaurant	3	83136	Place de la convention	
+relation	74987			Ollioules	8	83190	83090					
+node	457333981	43.1394643	5.8482568	Le Moderne				cafe				
+node	483425084	43.1229206	5.8267818	Le Flashback				restaurant				
+node	2377709616	43.1397632	5.8479419	Le Trotobas				bar				
+node	2377711380	43.1397636	5.8468119	L’Auberge du Vigneron				restaurant				
+node	2377711381	43.1395739	5.8467818	Da Vinci				restaurant	5		Place Victor Clément	
+node	2377761040	43.1399187	5.8483141	Le Bizerte				restaurant				
+node	2377761043	43.1400707	5.8487245	Capri				restaurant				
+node	2377761044	43.1390344	5.8484349	Médi Terrannée				restaurant				
+node	2377783525	43.1396187	5.8485672	L’épicurien				restaurant				
+node	4472272861	43.1268670	5.8581882	L'Octopus				nightclub	998	83190	Avenue Jean Monnet	
+node	4493236090	43.1273186	5.8605508	Le Pied Ardent				restaurant	1256	83190	Avenue Jean Monnet	
+node	5107276305	43.1258904	5.8454119	Le Patio				restaurant	324	83190	Route de La Seyne	
+node	5107276595	43.1261742	5.8462285	Brasserie Technopole				restaurant	363	83190	Route de La Seyne	
+node	6214471547	43.1253748	5.8685983	La Cantine de Papa				restaurant				
+node	8220612002	43.1273572	5.8547701	Easy sushi				restaurant	772		Avenue Jean Monnet	
+node	8220612003	43.1272857	5.8545554	Bar à jus				bar	772	83190	Avenue Jean Monnet	
+node	8220612006	43.1274218	5.8543749	La Boussole				restaurant	772	83190	Avenue Jean Monnet	
+node	8232715624	43.1215668	5.8804115	Bouchon				restaurant	553	83190	Chemin des Canniers	
+node	8232764824	43.1235746	5.8759701	Flunch				restaurant	55	83190	Chemin de la Bouyère	
+node	9233576554	43.1253381	5.8690494	A la crêperie				restaurant				
+node	9511952909	43.1317826	5.8677728	Chez les Amis...				restaurant	1990	83190	Route Nationale 8	
+node	12163091237	43.1333391	5.8458587	L'Atelier du Vigneron				restaurant	354		Avenue de la Résistance	
+node	13123379161	43.1400395	5.8469410	Chez Toto				restaurant	4	83190	Rue Baudin	
+node	13744169731	43.1392984	5.8475117	L'Oliva				restaurant	5			
+way	165099405	43.1234210	5.8754570	Restaurant Del Arte				restaurant		83190	Parking C.C. Carrefour La Bastide	
+way	165105730	43.1481240	5.8474076	L'Antidote				restaurant	994	83190	Route des Gorges	
+way	165105911	43.1262900	5.8787084	Buffalo Grill				restaurant		83190	Avenue Frédéric Mistral	
+way	165111640	43.1358760	5.8316985	La Table du Vigneron - Domaine de Terre Brune				restaurant	724	83190	Chemin Tourelle	
+relation	969995			Pierrefeu-du-Var	8	83390	83091					
+node	6405786771	43.2269378	6.1428397	Le Baou				cafe				
+node	6409944539	43.2275305	6.1432806	Pizza Célia				restaurant	4		Boulevard Henri Guérin	
+node	6410010304	43.2269110	6.1430385	Itali'As Ristorante				restaurant				
+node	6410072562	43.2271518	6.1433630	La Clé des Songes				restaurant	3		Rue Gabriel Péri	
+node	6410140356	43.2270258	6.1431907	Au Petit Tom				restaurant				
+node	6410170765	43.2270287	6.1432806	La Marjolaine				restaurant	2		Rue du Général Sarrail	
+node	6410258328	43.2273062	6.1430291	Chez Thierry et Guillaume				bar				
+node	6572564408	43.2237574	6.1407060	La grignotière				restaurant				
+node	9682656263	43.2268728	6.1449270	Le Gasquet				restaurant				
+node	11180402337	43.2270545	6.1436554	Café du Commerce  chez dany				cafe				
+way	255292669	43.2493600	6.1297945	Le Saint Tex				restaurant				
+relation	970826			Pignans	8	83790	83092					
+node	2851330843	43.3010201	6.2279558	Bar des Sports				bar				
+node	2851330844	43.3007488	6.2281253	Le Marco Polo				bar				
+node	2851421149	43.3007564	6.2275529	Le Calumet				bar				
+node	2851541546	43.3014234	6.2271713	Le 15 de Départ				restaurant	29	83790	Place Mazel	
+node	2851541547	43.3011188	6.2275309	The Fork & Beaver				restaurant				
+node	2917865703	43.3005056	6.2250497	Restaurant La Petite Auberge				restaurant	21	83790	Avenue Saint-Roch	
+way	656178025	43.3044961	6.2429669	Brasserie Le Bien Etre				restaurant				
+relation	2148153			Plan-d'Aups-Sainte-Baume	8	83640	83093					
+node	1560204448	43.3264154	5.7120385	Le Pèbre d'ail				restaurant				
+node	11016552817	43.3354511	5.7573742	La Terrasse				restaurant				
+relation	283726			Le Plan-de-la-Tour	8	83120	83094					
+node	894116915	43.3386344	6.5475327	La Tour du Plan				restaurant	5		Rue Jean Jaurès	
+node	2286919536	43.3389681	6.5473627	L'Oasis				cafe				
+node	2289257207	43.3542192	6.5475389	La Table de Fred				restaurant				
+relation	2700386			Pontevès	8	83670	83095					
+node	5838473460	43.5540945	6.0274042	Le Rouge Gorge				restaurant			Route de Garbelle	
+relation	2690625			Pourcieux	8	83470	83096					
+node	11308112869	43.4634285	5.8081634	Le Hinata				restaurant				
+way	550625444	43.4722965	5.7845555	Cantine scolaire intergénérationnelle				restaurant				
+relation	2148158			Pourrières	8	83910	83097					
+node	6630803839	43.4846807	5.7303301	Caroll's				restaurant				
+node	12613925548	43.5044922	5.7339458	Café Germain				restaurant				
+node	13502813760	43.5032436	5.7315479	Chez Arnaud				restaurant				
+relation	74996			Le Pradet	8	83220	83098					
+node	1445777873	43.0934925	6.0248581	Le Samaná				pub				
+node	2927686578	43.1060337	6.0224675	La cocotte pradétane				restaurant				
+node	2927692263	43.1060578	6.0221012	Restaurant La Cantine				restaurant		83220	Place Flamenq	
+node	2927706730	43.1060866	6.0224675	Le central				pub	37		Place Paul Flamenq	
+node	6964916898	43.1068965	6.0162775	Plein Sud				restaurant				
+node	7131033487	43.0945327	6.0238649	L'Essentiel				restaurant	262		Bd du Commandant l'Herminier	
+node	10877933805	43.1060841	6.0220962	Sushi-ma				restaurant		83220	Place Paul Flamenq	
+node	13831060001	43.0843657	6.0197407	Le 111				restaurant	111	83220	Quai Bigors	
+node	13831171901	43.0843666	6.0194585	Le Denti				restaurant	137	83220	Avenue du Port	
+node	14289213832	43.1068116	6.0225731	Côte Ouest				restaurant	32	83220	Place Charles de Gaulle	
+way	220576074	43.1091430	6.0460995	La Diligence				restaurant				
+way	220576174	43.1085920	6.0120555	Le Montcalm				restaurant				
+way	220576588	43.0792395	6.0244280	L'Oursinado				restaurant				
+way	688217445	43.1112198	6.0322575	Chez Les Amis				restaurant				
+relation	172988			Puget-sur-Argens	8	83480	83099					
+node	3172208963	43.4436149	6.7008752	Del Arte				restaurant		83480	Lotissement La Tuilière	
+node	6312912580	43.4548811	6.6857115	Le Comptoir Breton				restaurant				
+node	6314401944	43.4551108	6.6839891	Grand Café de la Place				restaurant				
+node	6936893282	43.4430381	6.7021845	3 Brasseurs				restaurant		83480		
+node	6967431790	43.4457219	6.6971312	Chez Alex				restaurant				
+node	9553624437	43.4543680	6.6904064	Crêperie l'Arcade				restaurant	106	83480	Boulevard Jean Moulin	
+node	10167013187	43.4438552	6.7042146	Columbus Café & Co				cafe				
+node	10171599496	43.4438890	6.7037411	Brasserie Casanova				restaurant				
+node	13136125501	43.4419512	6.6867073	le Bercail				restaurant	864	83480	Chemin de la Plaine	
+node	14159219101	43.4482280	6.6966210	La Cité d'Or				restaurant	7	83480	Quartier des Plaines Rn	
+way	270962811	43.4503235	6.6939250	Buffalo Grill				restaurant		83480		
+way	625901956	43.4416158	6.7042411	Tonton Gust				restaurant		83480	Zone d'activité La Tuilière Est RDN 7	
+way	1170472406	43.4502989	6.6926038	La Boucherie				restaurant				
+way	1226736966	43.4444329	6.7032161	Au Bureau				restaurant				
+way	1226736967	43.4442667	6.7034714	Hippopotamus				restaurant				
+relation	969992			Puget-Ville	8	83390	83100					
+node	925554987	43.2894111	6.1367398	La civette				restaurant				
+node	2661707813	43.2891868	6.1357741	La Regence				bar				
+node	2661707817	43.2894192	6.1367630	L'Escale				bar				
+node	2661707820	43.2892943	6.1363978	Le Grand Café				restaurant				
+node	2661707824	43.2893110	6.1364512	Le Grand Café				bar				
+node	2661707827	43.2896080	6.1373004	PIZZ'A GOGO				restaurant				
+relation	970871			Ramatuelle	8	83350	83101					
+node	60740391	43.2108050	6.6645623	Le Migon				restaurant				
+node	391797163	43.1998891	6.6262150	Les Écuries d'Augias				restaurant				
+node	536456334	43.2336559	6.6626012	Tiki Beach				restaurant				
+node	902714951	43.2156106	6.6128201	Au Soleil				restaurant	4	83350	Rue Victor Leon	
+node	2468018253	43.2278904	6.6621853	Club 55				restaurant				
+node	2487905537	43.2211793	6.6603228	Nikki Beach Club St. Tropez				bar		83350	Route de l'Epi	
+node	4347102690	43.2167088	6.6115481	Le SaintBARth				bar	33	83350		
+node	4364946995	43.2475965	6.6621341	La Pomme de Pin				restaurant	803	83350	Route de Tahiti	
+node	4365108891	43.2450596	6.6672634	Tropezina				restaurant				
+node	4906506885	43.2154332	6.6119525	Le Cigalon				restaurant	6	83350	Place de l'Ormeau	
+node	5064105621	43.2352158	6.6625712	Le Yapé				restaurant		83350		
+node	5834405985	43.2112504	6.6314400	L'éphémère				pub	7677		Route des Plages	
+node	6636662534	43.2153211	6.6120105	L'Olivier				cafe	14	83350	Place de l'Ormeau	
+node	6636662535	43.2154754	6.6120479	Café de l'Ormeau				cafe	4	83350	Place de l'Ormeau	
+node	6666577485	43.2343256	6.6624757	Le Bar d'Ô				restaurant				
+node	7320269407	43.2088433	6.6674254	Chez Camille				restaurant				
+node	9808365743	43.2131607	6.6443532	Le Will Restaurant & Bar à Vin				restaurant		83350	Route des Plages	
+node	11083751573	43.2308830	6.6620986	Tiki Club				restaurant				
+way	179923437	43.2141075	6.6625634	Cabane Bambou				restaurant				
+way	179923804	43.2125307	6.6630510	Tropicana				restaurant				
+way	179923825	43.2275065	6.6612755	Le Club 55				restaurant				
+way	179924049	43.2129111	6.6630630	L'Esquinade Plage				restaurant		83350		
+way	179929055	43.2119895	6.6566960	Le Kikouiou				restaurant		83350		
+way	179930272	43.2154865	6.6128435	Bar Cercle du Littoral				bar				
+way	179932436	43.2155745	6.6126220	La Forge				restaurant				
+way	847592432	43.2134150	6.6627363	Indie Beach				bar				
+way	1545056323	43.2208971	6.6620595	Verde Beach				restaurant				
+way	1545056324	43.2213771	6.6620152	La Réserve à la Plage				restaurant				
+way	1545056330	43.2247253	6.6620226	Byblos Beach				restaurant				
+way	1545056339	43.2251863	6.6620569	La Serena				restaurant				
+relation	2162212			Régusse	8	83630	83102					
+node	8647828988	43.6545372	6.1336366	Chez Bonne Maman				restaurant		83630	Grand Rue	
+node	9680732186	43.6553637	6.1319543	Tout Feu Tout Flam				restaurant	2	83630	Cours Alexandre Gariel	
+node	10652467458	43.6555266	6.1315330	Café du Cours				bar	6		Cours Alexandre Gariel	
+node	14113674926	43.6622265	6.1303362	Villa Callista				restaurant	119	83630	Avenue des Genévriers	
+way	1318790437	43.6553301	6.1314867	Chez Totote				restaurant			Cours Alexandre Gariel	
+relation	35287			Le Revest-les-Eaux	8	83200	83103					
+node	2565284052	43.1768654	5.9257646	Bar Tabac Le Vieux Château				bar				
+node	2565284066	43.1766595	5.9257793	Restaurant Pizzeria Le Colombier				restaurant				
+node	2565327904	43.1767782	5.9265351	Bar Le Groupe Revestois				bar				
+node	2565327905	43.1766962	5.9262876	Le Bar de la Fontaine				restaurant				
+relation	2148173			Rians	8	83560	83104					
+node	6049356151	43.6069604	5.7570651	Bar des Riansais				bar				
+node	6728992797	43.6057581	5.7513042	L'Atrium				restaurant				
+relation	970877			Riboux	8	13780	83105					
+way	1224546278	43.3043166	5.7578947	Le Bistrot de Riboux				restaurant		13780		
+relation	2148023			Rocbaron	8	83136	83106					
+node	6802717047	43.3152132	6.0760903	L'Impro				restaurant		83136	Fray Redon	
+node	13833922688	43.3150018	6.0754221	Sushi Pearl				restaurant		83136	Impasse de la Bergeronette	
+node	14123244551	43.3153830	6.0759792	E Sushi Rocbaron				restaurant				
+node	14123244553	43.3155639	6.0761907	PIZ PIZZA Camion au Feu de Bois Rocbaron				restaurant				
+node	14123244554	43.3156022	6.0757115	L'ardoisier				restaurant				
+node	14123244556	43.3158193	6.0754899	Angkor				restaurant				
+node	14123244559	43.3163529	6.0759872	Le Papareil				restaurant				
+node	14135968107	43.3167909	6.0765410	POP ZONE				cafe				
+node	14192062897	43.3041289	6.0911752	La Terrasse				restaurant	10	83136	Rue des Faysonnes	
+relation	168415			Roquebrune-sur-Argens	8	83380;83520	83107					
+node	1830874849	43.3410302	6.6853053	Le Quai des Issambres				restaurant		83380	Port des Issambres San Peire	
+node	1878593518	43.3417262	6.6940752	La Brasserie des Issambres				restaurant				
+node	1878593525	43.3419346	6.6937311	Les Mûriers				restaurant				
+node	2989761300	43.4441061	6.6380576	Evelyne.com à la maison				restaurant	14		Place Saint-Pierre	
+node	2990722668	43.4422462	6.6371832	Le Café de Roquebrune				cafe				
+node	2990722672	43.4439478	6.6376597	Café Gisèle				cafe	15	83520	Rue Grande André Cabasse	
+node	2997323286	43.4431298	6.6375122	Kiki N'en Veut				restaurant	11	83520	Rue des Portiques	
+node	3002864086	43.4456060	6.6366563	Le Marmiton chez Polo				restaurant	21	83520	Avenue du General de Gaulle	
+node	3002864097	43.4455359	6.6374717	Crêperie C’Fada				restaurant	20	83520	Avenue du General de Gaulle	
+node	3718591123	43.5003793	6.6440161	L'Actu Bar				restaurant	4	83520	Avenue des Eucalyptus	
+node	3718591124	43.4998158	6.6460129	Open Bar				bar				
+node	3772948267	43.4449696	6.6391972	La Faim du Bien				restaurant	15	83520	Avenue Gabriel Péri	
+node	5064669321	43.3667698	6.7125942	Le Cavo				nightclub				
+node	5430126946	43.4630521	6.6329841	Daiki Sushi				restaurant	325		Rue Pol Fabre	
+node	7016719852	43.3412245	6.6858178	Les Alizés				restaurant		83380	Port Les Issambres	
+node	7642915031	43.4454610	6.6365388	La Bonne Étoile				restaurant		83520	Place Germain Ollier	
+node	7995317597	43.3412011	6.6859585	Crêperie Délicious				restaurant				
+node	7995346990	43.3411473	6.6858472	L'abri Côtier				restaurant				
+node	7995587085	43.3416076	6.6946278	Pizza Fanfan				restaurant				
+node	8001326304	43.3421728	6.6925979	L'Ardoise				restaurant				
+node	8001343299	43.3417684	6.6937137	Le Bistrot du Provençal				restaurant				
+node	8001387786	43.3413792	6.6943886	Riva San Peire				restaurant				
+node	8001429785	43.3418301	6.6923025	Cap Mail				restaurant	5205		Corniche des Issambres	
+node	8395044800	43.4449546	6.6395777	Pizzeria Le Robinson				restaurant	23	83520	Avenue Gabriel Péri	
+node	8395049172	43.4451177	6.6391338	Song Quê				restaurant	2	83520	Rue des Douanes	
+node	8508029192	43.4422662	6.6366533	Les Templiers				restaurant	3	83520	Place Alfred Perrin	
+node	8668635525	43.3526035	6.7126294	Le Cercle				restaurant	2411		Corniche des Issambres	
+node	8946838886	43.3503445	6.7132938	Tutti Quanti				restaurant	35		Avenue des Eucalyptus Marbrés	
+node	8972126294	43.3436297	6.6889957	Les Calanques				restaurant				
+node	9500884113	43.4635404	6.6351364	La Grignoterie				restaurant		83520	Rond-Point des Quatre Chemins	
+node	9534832003	43.4612297	6.6420993	Club21				restaurant				
+node	9534832008	43.4609058	6.6429037	My Beers				bar				
+node	9534832010	43.4630270	6.6376023	Olasie				restaurant	109	83520	Rue de la Magnanerie	
+node	9804084310	43.3998645	6.6725153	Restaurant la Bergerie				restaurant				
+node	9995046204	43.4430896	6.6375031	A Modo Mio				restaurant	13	83520	Rue des Portiques	
+node	10030010218	43.4612132	6.6390884	Charlix' Guinguette				restaurant				
+node	10983639491	43.3666779	6.7119004	Windy				restaurant				
+node	11199232361	43.4454324	6.6366585	Bar L'Auberge d'Argens				bar	27	83520	Rue de la Pompe	
+node	11390023704	43.4612659	6.6420066	Le Luna				nightclub				
+node	11390270801	43.4609427	6.6367930	L'Authentique				restaurant	38	83520	Rue de la Tuilerie	
+node	12186174403	43.4129774	6.6931391	La Pergolade				restaurant				
+way	230639216	43.3412235	6.6945670	L'Arpillon				bar		83380	Corniche des Issambres	
+way	230643645	43.4578395	6.6351095	Chez Nous				restaurant		83520	CD7	
+way	230644079	43.4606170	6.6380890	Ma Cantine				restaurant	150	83520	Rue de la Tuilerie	
+way	230647114	43.4623488	6.6346353	Paradisio.83				restaurant	139	83520	Impasse des Figuiers	
+way	230666010	43.4430425	6.6372380	69 & 72				bar	6	83520	Boulevard de la Liberté	
+way	230673902	43.4518070	6.6328200	Restaurant du Lac				restaurant				
+relation	2690186			La Roquebrussanne	8	83136	83108					
+node	10757335901	43.3404478	5.9760389	Bar des Sports				bar				
+node	14109427401	43.3249987	5.9776844	Domaine du Baguier				restaurant	435	83136	Chemin du Baguier	
+relation	2144170			La Roque-Esclapon	8	83840	83109					
+node	3731421092	43.7242042	6.6286161	Le Coq en Pâte				restaurant				
+way	230043140	43.7233476	6.6276340	Auberge de la Bruyère				restaurant				
+relation	2694704			Rougiers	8	83170	83110					
+way	357240725	43.3907620	5.8532127	Restaurant Scolaire				restaurant				
+relation	2690498			Sainte-Anastasie-sur-Issole	8	83136	83111					
+node	4896001417	43.3411739	6.1233772	La Guinguette				restaurant				
+node	5832848234	43.3413382	6.1262909	L'Escale				restaurant				
+node	10144751807	43.3413342	6.1239425	Pizzeria Dos Santos				restaurant				
+relation	163083			Saint-Cyr-sur-Mer	8	83270	83112					
+node	1395773415	43.1477702	5.7096206	Chez Tanton Ju				restaurant				
+node	2016877434	43.1803283	5.6845264	L'abordage				restaurant				
+node	2411563833	43.1796918	5.6813501	Les 2 Soeurs				restaurant				
+node	2411563835	43.1797235	5.6810744	Le Caliente				restaurant				
+node	3935703059	43.1818931	5.6878729	Le Grand Hôtel				restaurant				
+node	6419660132	43.1799817	5.6814965	La Riviera dei Fiori				restaurant		83270	nouveau port	
+node	6419660133	43.1798001	5.6812664	La Pistache				restaurant		83270	nouveau port	
+node	7882027185	43.1803075	5.6829428	La Trattoria				restaurant	3	83270	Nouveau Port des Lecques	
+node	8169756417	43.1802974	5.6829544	La Trattoria				restaurant	3	83270	Nouveau Port des Lecques	
+node	9031354472	43.1832468	5.6942629	Sushi 2J				restaurant				
+node	9823524510	43.1720768	5.6956347	Les Beaumelles				restaurant	11	83270	Route de la Madrague	
+node	9824615339	43.1794685	5.6884570	Code Bar				bar				
+node	9824615340	43.1794924	5.6884185	Cottonclub				nightclub				
+node	9824615341	43.1795613	5.6883065	AD Sushi				restaurant				
+node	9824634853	43.1793879	5.6886430	Futtanni				restaurant				
+node	9824634854	43.1793183	5.6887221	Ô Chicoulon Churrasco do Brasil				restaurant	1		Avenue du Port	
+node	9921341587	43.1801339	5.6865212	Le Restô				restaurant	21	83270	Avenue du Port	
+node	11047098932	43.1799659	5.6868537	Chanteplage				restaurant	13	83270	Avenue du Port	
+node	11175203319	43.1656785	5.6942157	Le Christina				cafe				
+node	11179451533	43.1655759	5.6941271	Le Hors Piste				restaurant				
+node	12770326201	43.1539505	5.7141777	Cœurs d'alon				restaurant				
+node	12916858558	43.1825796	5.7120480	Wok N Rolls				restaurant				
+node	13754449702	43.1809083	5.6844999	Indochine				restaurant	2		Rue de la Chapelle	
+node	13754506160	43.1653888	5.6938508	La Barque de Sophie				restaurant				
+node	13776716202	43.1801737	5.6877147	Meridio				restaurant	18	83270	Avenue du Port	
+way	258807143	43.1806285	5.6924900	La Cave à Pizza				restaurant	24	83270	Avenue de la Mer	
+way	258813960	43.1804405	5.6845295	brasserie papillon				restaurant		83270	2 Quai Gelu	
+way	258815113	43.1775270	5.6904610	La Patouille				restaurant				
+way	354887263	43.1795353	5.6873716	LA BOHO				restaurant				
+relation	2698762			Saint-Martin-de-Pallières	8	83560	83114					
+node	3456873398	43.5890871	5.8841166	Le Cercle Du Progrès				restaurant				
+relation	223565			Sainte-Maxime	8	83120	83115					
+node	924534506	43.3842301	6.5889610	Le Mas Saint-Donat				restaurant				
+node	1830874847	43.3392747	6.6785315	Les Planches				restaurant	99		Avenue du Croiseur Leger le Malin	
+node	1965975476	43.3104345	6.6374409	La Dolce Vita				restaurant	52		Avenue Georges Clemenceau	
+node	2852854982	43.3087357	6.6428308	Les Tourelles				restaurant	5		Boulevard des Cistes	
+node	3591771189	43.3070971	6.6407813	Les Palmiers				restaurant				
+node	3592394654	43.3088458	6.6398860	Le Bistrot de Louis				restaurant	7		Place Colbert	
+node	3717629307	43.3079775	6.6389054	Snack le tonneau				cafe				
+node	4294088190	43.3248825	6.6648666	La Reine Jeanne				restaurant				
+node	5141248906	43.3064365	6.6398940	L'Amiral				restaurant				
+node	5630018921	43.3087621	6.6391005	Le Sud				cafe	1		Place Louis Blanc	
+node	6025348780	43.3417045	6.6795826	La Casa Mia				restaurant	La Garonette	83120	Avenue du Mont Cabasse	
+node	6705267885	43.3021417	6.6265592	Les P'tits Galets				restaurant	31	83120	Boulevard Jean Moulin	
+node	7700406051	43.3082003	6.6365257	Le Joke Club				nightclub				
+node	7700415255	43.3078219	6.6339138	Chez Jeff				bar	4	83120	Avenue De Lattre de Tassigny	
+node	7700421710	43.3087985	6.6363314	Brooklyn				pub				
+node	7700421741	43.3080001	6.6351823	La Bolée Bretonne				restaurant				
+node	7700423436	43.3078476	6.6353496	Les Copains D'abord				restaurant				
+node	7700442495	43.3081017	6.6362602	Côté Plage				restaurant				
+node	7700462407	43.3086620	6.6387613	Café Maxime				restaurant				
+node	7701496283	43.3071714	6.6405237	Le Jardin				restaurant				
+node	7713182004	43.3077100	6.6418051	L'Ormeau				restaurant				
+node	7713193927	43.3075089	6.6414456	White Pearl				pub				
+node	7722222243	43.3073564	6.6412913	La Cuisine de César				restaurant	45	83120	Rue Paul Bert	
+node	7722258446	43.3073743	6.6414871	Chez Longu				restaurant	62	83120	Rue Paul Bert	
+node	7722260566	43.3072724	6.6414803	Le Carillon				restaurant				
+node	7722271254	43.3074236	6.6414108	Le Montana				restaurant	60	83120	Rue Paul Bert	
+node	7722271602	43.3073109	6.6416614	Les Flambeaux				restaurant				
+node	8944975209	43.3386369	6.6778747	Kalmos K'fe				restaurant			Avenue du Croiseur léger Le Malin	
+node	8945020175	43.3327746	6.6688871	Les Eléphants				restaurant				
+node	8972170360	43.3084597	6.6392055	La Gruppi				restaurant	82		Avenue Charles de Gaulle	
+node	8980678089	43.3083003	6.6400550	La Crevette				restaurant				
+node	8995611960	43.3088771	6.6396964	Namaste				restaurant	33	83120	Rue des Maures	
+node	9064576302	43.3083897	6.6361356	Peanut's Café				cafe	30		Avenue Charles de Gaulle	
+node	9739387704	43.3077288	6.6408503	La Cantine				restaurant	23	83120	Rue Paul Bert	
+node	10812213663	43.3090028	6.6398077	Chez Fred				restaurant				
+node	11973937501	43.3272967	6.6034082	Andiamo				restaurant				
+node	11973959633	43.3272977	6.6044220	Yteka				restaurant				
+node	12000527533	43.3086183	6.6388370	Fatto Bene				restaurant	68	83120	Avenue Charles de Gaulle	
+node	12117510770	43.3076031	6.6411843	La Maison Bleue				restaurant	48		Rue Paul Bert	
+node	12153377202	43.3087935	6.6407042	le petite derive				cafe				
+node	12165320201	43.3088920	6.6363243	Entrepotes Brasserie				restaurant				
+node	13575292306	43.3083746	6.6360958	Little Cafe				cafe	22		Avenue Charles de Gaulle	
+node	13575292311	43.3084465	6.6362966	Le Dragon Bleu				restaurant				
+node	13575326504	43.3101240	6.6356944	Pizza & Basta				restaurant				
+way	218520669	43.3290210	6.6677115	Eden Plage				restaurant	35		Avenue du Croiseur Leger le Malin	
+way	750414222	43.3408810	6.6806483	Snack 44				restaurant	125	83120	Avenue du Croiseur Léger le Malin	
+way	750414233	43.3413362	6.6813059	Plage 44				restaurant	125	83120	Avenue du Croiseur Léger le Malin	
+way	771883602	43.3266050	6.6205865	King Seng Wok				restaurant	127	83120	Route du Plan de la Tour	
+relation	125417			Saint-Maximin-la-Sainte-Baume	8	83470	83116					
+node	2293894374	43.4536017	5.8580207	L'Imprévu				restaurant				
+node	2964007734	43.4532954	5.8608107	Le Malherbe				cafe				
+node	4253346611	43.4534817	5.8608896	Le Night Fall				restaurant				
+node	6188472385	43.4538678	5.8608677	Le Philharmonique				cafe				
+node	7024227255	43.4528246	5.8608831	Le Bambou				restaurant	10	83470	Rue de la République	
+node	7024241876	43.4532548	5.8595910	Côté Jardin				restaurant	5	83470	Avenue Albert 1er	
+node	7106584927	43.4567848	5.8499052	Le Brussels				restaurant				
+node	7106585359	43.4533541	5.8600554	Le Quillé				restaurant				
+node	7998093808	43.4534787	5.8592400	Saga Sushi				restaurant	65		Rue Gutenberg	
+node	9774475417	43.4533287	5.8613645	Jay & Greg				cafe				
+node	10031341685	43.4524073	5.8604555	Pastaluca				restaurant	9		Boulevard Jean Jaurès	
+node	11112398173	43.4534003	5.8597370	Hanedan Grill House chez Vakkas				restaurant	8	83470	Avenue Albert 1er	
+node	13504672918	43.4570682	5.8398460	Cafétéria La Salamandre				restaurant	181	83470	Avenue des Cinq Ponts	
+node	13786969301	43.4527644	5.8628065	Côté Sud chez Karine et Julien				cafe	50		Rue Général de Gaulle	
+node	13786984701	43.4529381	5.8628854	Le petit bistrot				bar				
+way	92441948	43.4561483	5.8449966	Aux 2 Cervoises				pub				
+way	92462753	43.4563159	5.8619356	Restaurant Scolaire				restaurant				
+way	222183524	43.4602213	5.8603640	ESAT				restaurant				
+relation	2135117			Saint-Paul-en-Forêt	8	83440	83117					
+way	506823633	43.5674533	6.6908819	Chez Alain				restaurant				
+relation	190208			Saint-Raphaël	8	83700;83530	83118					
+node	1313118247	43.4378457	6.8930381	Les Flots Bleus				restaurant	83		Route de Saint-Barthélémy	
+node	1398654818	43.4735960	6.9234809	La Marmite				restaurant				
+node	1905993916	43.4144077	6.7797068	Les Bons Vivants				restaurant				
+node	3089139864	43.4378686	6.8925313	Les Flots Bleus Snack				restaurant				
+node	3405166526	43.4254984	6.7695010	La Rose de Damas				restaurant	5	83700	Rue des Lauriers	
+node	3405282079	43.4210057	6.7699455	Balibar				bar	47		Boulevard Général de Gaulle	
+node	3405313948	43.4218286	6.7686464	Café des Bains				bar	133	83700	Rue Jules Barbier	
+node	3405830460	43.4239627	6.7666537	Le Touring				restaurant	1	83700	Quai Albert Premier	
+node	3415597730	43.4245366	6.7646374	La Roma				restaurant	132		Avenue Commandant Guibaud	
+node	3415612006	43.4244853	6.7650369	Le Corsaire du Vieux Port				restaurant	108		Avenue Commandant Guibaud	
+node	3415618350	43.4248556	6.7663680	Piccola Sicilia				restaurant	108		Rue de la Garonne	
+node	3455224819	43.4247396	6.7656172	Le Kashmir				restaurant	159	83700	Rue de la Garonne	
+node	3455229518	43.4248231	6.7656296	Le Refuge				restaurant	160	83700	Rue de la Garonne	
+node	3455234076	43.4248098	6.7658203	La Calèche				restaurant	144	83700	Rue de la Garonne	
+node	3455243048	43.4242611	6.7665849	Mugs				restaurant	92	83700	Avenue Commandant Guilbaud	
+node	3476186437	43.4140911	6.7791340	Le Cælacanthe				restaurant			Port Santa-Lucia	
+node	3476188929	43.4147684	6.7784617	À la Marée				restaurant			Port Santa Lucia	
+node	3494996363	43.4268060	6.7751616	Casa Mia				restaurant		83700	Boulevard Jean Moulin	
+node	3495024328	43.4267830	6.7753890	Pizza Flamm's				restaurant		83700	Boulevard Jean Moulin	
+node	3495060934	43.4296061	6.7728985	Le Prado				cafe	13	83700	Avenue de Valescure	
+node	3495912257	43.4237841	6.7665680	La Factory				restaurant	3	83700	Quai Albert Premier	
+node	3495914105	43.4237194	6.7665502	Quai Sud				restaurant				
+node	3495914106	43.4236550	6.7665312	Le Sirocco				restaurant	35	83700	Quai Albert Premier	
+node	3537840766	43.4252433	6.7695701	Globe Trotter's Café				restaurant	2	83700	Place de la République	
+node	3537951406	43.4249964	6.7701664	Don Camillo Pizza				restaurant	1	83700	Place Gabriel Péri	
+node	3538077977	43.4268335	6.7696908	Le Berbère				restaurant	97	83700	Avenue de Valescure	
+node	3538080504	43.4263682	6.7689371	The Rooster				pub				
+node	3733056830	43.4157111	6.8460521	La Plage de l'Île d'Or				restaurant	904		Boulevard de la 36ème Division du Texas	
+node	3736717090	43.4602971	6.9210331	Chez Monique				restaurant				
+node	3740231314	43.4328086	6.8583954	Maobi Beach				restaurant				
+node	4317688726	43.4344182	6.8643645	Le Moka d'Or				restaurant				
+node	4317688730	43.4344321	6.8642174	Rôtisserie Traiteur				restaurant				
+node	4317688731	43.4344231	6.8643102	Le Coast				restaurant				
+node	4390475492	43.4220104	6.7673379	Pub Excelsior				pub			Promenade René Coty	
+node	4390558694	43.4220172	6.7676315	Le Poussin Bleu				restaurant				
+node	4528952086	43.4290040	6.8562751	Grand Café d'Agay				cafe				
+node	4528952100	43.4189487	6.8522201	Soleil Bar				pub	1324		Boulevard de la 36ème Division du Texas	
+node	4528952105	43.4179104	6.8480368	El rio				restaurant				
+node	4997477704	43.4526736	6.7836176	Le Sud				restaurant	16		Boulevard Darby	
+node	5122677721	43.4301186	6.7759621	O’Sole Mio				restaurant	171		Avenue du 15ème Corps	
+node	5218613821	43.4339481	6.8606704	Auberge de la Rade				restaurant				
+node	5545773594	43.4374500	6.8914506	L'Azur				restaurant	1805			
+node	5664432021	43.4143653	6.7787020	La Canne à Sucre				restaurant				
+node	5690873413	43.4337477	6.8593725	La Belle Vie Café				cafe				
+node	5745482334	43.4371779	6.7850720	La Brasserie des Gourmands				restaurant				
+node	5751309394	43.4244677	6.7652848	Le Napoli				restaurant				
+node	5760020252	43.4208073	6.7700522	Le 47				restaurant	71	83700	Boulevard du Général de Gaule	
+node	5760020253	43.4209064	6.7700006	Le Carré				pub		83700	Boulevard du Général de Gaule	
+node	5760020254	43.4210731	6.7698558	Thai				restaurant		83700		
+node	5760020255	43.4218099	6.7689134	Le Rendez-Vous				restaurant		83700		
+node	5760020257	43.4243183	6.7664118	L'Equipage				restaurant		83700		
+node	5760020259	43.4261415	6.7690076	La Brasserie				pub		83700		
+node	5769119066	43.4233348	6.7664913	Ô Soleil				restaurant				
+node	5949074666	43.4310449	6.8714682	La Galère				restaurant	1208		Boulevard de la Baumette	
+node	6146249240	43.4228897	6.7685661	Olsen Butik				restaurant				
+node	6146276297	43.4279337	6.7716627	La Parenthèse				restaurant				
+node	6652823576	43.4244068	6.7658684	L'Authentik				restaurant				
+node	6652846799	43.4244239	6.7656294	La Plancha				restaurant	38		Avenue Commandant Guilbaud	
+node	6652876611	43.4244720	6.7648074	Les 2 filles				restaurant				
+node	6652877514	43.4244558	6.7654343	Emilie & The Cool Kids				cafe	92	83700	Avenue Commandant Guilbaud	
+node	6652888360	43.4243638	6.7660080	Crêperie du Vieux Port				restaurant	14		Avenue Commandant Guilbaud	
+node	6680005128	43.4334862	6.8585967	Happy days				restaurant	197		Boulevard de la Plage	
+node	6680046478	43.4199329	6.8552376	Le Tire Bouchon				restaurant	1620		Boulevard de la 36e Division d'Infanterie du Texas	
+node	6687157132	43.4252851	6.7689430	GranCaffé Amore Mio				restaurant				
+node	6687163577	43.4237105	6.7674950	Féérie				restaurant	12		Boulevard Félix Martin	
+node	6687181078	43.4256693	6.7692442	Le Duplex				restaurant				
+node	6687181263	43.4241700	6.7675345	Asie Délices				restaurant	65		Rue Gambetta	
+node	6687182598	43.4256022	6.7690606	Le Bouchon Provençal				restaurant				
+node	6688494247	43.4314287	6.8062323	Kaliméra				pub				
+node	6694125495	43.4235266	6.7665002	La Brocherie				restaurant	49		Quai Albert 1er	
+node	7418602057	43.4250455	6.7677770	Le Victor Hugo				restaurant	30		Rue Victor Hugo	
+node	7743209572	43.4254504	6.7688274	Café des Arts				cafe				
+node	7743234786	43.4245097	6.7664602	La Table				restaurant	47		Rue Thiers	
+node	7743234793	43.4255052	6.7684320	Mariu's				restaurant				
+node	7743234798	43.4253459	6.7682746	Chez Gaston				restaurant	34		Rue Charabois	
+node	7743234800	43.4250299	6.7678589	Costes				restaurant	30		Rue Victor Hugo	
+node	7743234815	43.4244372	6.7662691	Le Grillordin				restaurant				
+node	7743234822	43.4255023	6.7695868	Café du Marché				restaurant	14		Rue des Lauriers	
+node	7743234827	43.4254207	6.7701188	Chez Jonath				restaurant				
+node	8003913286	43.4237196	6.7680783	La Tarte Tropézienne				cafe				
+node	8003913287	43.4235321	6.7680563	Provençal Café				cafe				
+node	8180687796	43.4138886	6.7802046	Le Refuge - Savoyard				restaurant	101	83700	Rue du Commandant le Prieur	
+node	8870230536	43.4340196	6.8585821	Côté Jardin				restaurant	1		Rue du 11 Novembre 1943	
+node	9903510327	43.4170443	6.8075031	Les 3 Pizz'				restaurant	140		Rue Charles Goujon	
+node	9903510328	43.4170645	6.8075744	L‘entre-nous				cafe				
+node	9905442657	43.4169790	6.8071897	Le Crisser Heng Sok Nas				cafe	118		Rue Charles Goujon	
+node	11076121805	43.4145513	6.8068496	Bistrot Loudet				restaurant				
+node	11897226669	43.4142799	6.7788694	L'Obsolète				restaurant	2		Place Amiral Ortoli	
+node	11899147470	43.4140595	6.7796302	Le Pescadou				restaurant	2		Place Amiral Ortoli	
+node	12039750396	43.4261930	6.7690227	Le Jardin Poncet				restaurant				
+node	12072525220	43.4128991	6.7816718	Quai Raphaël				restaurant				
+node	12072525270	43.4144140	6.7786422	La Fabrik				restaurant	2		Place Amiral Ortoli	
+node	12072525271	43.4145981	6.7784612	Les Arcades				restaurant				
+node	12072525272	43.4146568	6.7784619	Le Palais Oriental				restaurant				
+node	12179315502	43.4144908	6.7785595	Santa Coffee				restaurant				
+node	12394643632	43.4293412	6.8566352	Le Pitalugue				restaurant	174			
+node	12655856318	43.4138596	6.8075808	L'étoile				restaurant		83700	Route de la Corniche	
+node	12736320912	43.4378121	6.8514699	Restaurant La Vallée du Paradis				restaurant	955	83530	Avenue du Gratadis	
+node	13142666258	43.4150326	6.8094115	L'Estaminet				restaurant	135		Boulevard de la Mer	
+node	13305033187	43.4190649	6.8517660	Babbo				restaurant				
+node	13305061757	43.4191225	6.8518936	Le P'tit Bohu				restaurant				
+node	13732136901	43.4179395	6.8220030	Buffet de brunch et de dîner				restaurant		83990	Route des Carrières	
+node	13852276201	43.4182944	6.8502323	Rotisserie du Sémaphore				restaurant				
+node	13998311102	43.4254420	6.7689138	La Rapugue				restaurant				
+node	14079986901	43.4229440	6.7682644	Thé Amo				cafe				
+node	14101119847	43.4244225	6.7691302	Ticket Bistro				cafe				
+node	14105503402	43.4348454	6.8565276	Villa Matuzia				restaurant				
+node	14109539040	43.4250786	6.7694823	Havanera				bar				
+node	14132697573	43.4226916	6.7678398	Cruz Coffee				cafe				
+way	130473847	43.4267070	6.7683730	Cafe Paradis				restaurant	56	83700	Avenue du Général Leclerc	
+way	130493357	43.4246465	6.7665075	L'Adresse				restaurant	23	83700	Rue Thiers	
+way	581288683	43.4240961	6.7641529	Le Baïa				restaurant				
+relation	970823			Saint-Tropez	8	83990	83119					
+node	388267668	43.2563976	6.6904665	Les Salins				restaurant	340	83990	Route des Salins	
+node	701236215	43.2733925	6.6390411	Crêperie Bretonne				restaurant	2		Quai Frédéric Mistral	
+node	1343795011	43.2706729	6.6478429	Plage des Graniers				restaurant				
+node	1350665688	43.2722131	6.6391243	Senequier				cafe	27		Quai Jean Jaurès	
+node	2389843621	43.2727887	6.6411058	Bistro Canaille				bar				
+node	2389843622	43.2720145	6.6393495	Le Gorille				restaurant	17		Quai du Bailli de Suffren	
+node	2389843628	43.2709066	6.6376531	Bistrot du Port				bar				
+node	2389868584	43.2737718	6.6389189	Bòu				restaurant	1	83990	Rue du Portalet	
+node	3129813780	43.2733223	6.6405953	À L'amitié				restaurant	13	83990	Rue de la Ponche	
+node	3129819024	43.2720051	6.6412812	Le Schpountz				restaurant	1			
+node	3740112650	43.2715538	6.6370794	L’Opéra				restaurant		83990	Résidence du Port	
+node	4444758579	43.2720019	6.6392527	Le Bailli				restaurant				
+node	4965937526	43.2728092	6.6389735	L'Escale				restaurant	9	83990	Quai Jean Jaurès	
+node	4965949176	43.2724122	6.6391008	Le Quai				restaurant	23	83990	Quai Jean Jaurès	
+node	4965953793	43.2725170	6.6390651	Le Girelier				restaurant	21	83990	Quai Jean Jaurès	
+node	4965958975	43.2726235	6.6390353	Marcellino				restaurant	4	83990	Rue du Commandant Guichard	
+node	5649006364	43.2727844	6.6395639	Pizzeria Bruno				restaurant				
+node	5701362922	43.2697012	6.6387368	El Mad Bar, Vins, Tapas				restaurant				
+node	5701368121	43.2610037	6.6299867	Le Bikini				restaurant				
+node	5774329647	43.2697752	6.6416497	Le Café				restaurant	1		Traverse des Lices	
+node	6237755588	43.2714159	6.6369051	GAÏO				restaurant	4	83990	Rue du 11 Novembre 1918	
+node	6535519285	43.2699868	6.6401963	Le Sporting				restaurant				
+node	6564915365	43.2716205	6.6408151	Au Caprice des Deux				restaurant	40		Rue du Portail Neuf	
+node	6564915366	43.2703748	6.6365679	Bistro Pastis				restaurant	18		Rue Henri Seillon	
+node	6815816206	43.2729301	6.6388538	La Petite Plage				restaurant	9		Quai Jean Jaurès	
+node	7254874996	43.2698045	6.6431678	Rivéa				restaurant				
+node	7254875002	43.2699784	6.6420486	Café des Arts				restaurant				
+node	8069687764	43.2700890	6.6356336	Le Pationata				restaurant				
+node	8881317477	43.2698098	6.6418990	Pablo				pub				
+node	9065264946	43.2734609	6.6388251	Cafe Madeleine				cafe	11		Quai Frédéric Mistral	
+node	9065273367	43.2715032	6.6355091	Gandhi				restaurant	3		Allée du Quai de l’Epi	
+node	9065273538	43.2666601	6.6254858	Pearl Beach				restaurant				
+node	9091348617	43.2702433	6.6391053	Saint-Tropez				restaurant	20	83990	Rue Étienne Berny	
+node	11048039105	43.2722745	6.6405369	Cohibar				bar				
+node	11090096005	43.2722034	6.6408176	Clandestino Saint Tropez				restaurant	15	83990	Rue de la Citadelle	
+node	11231198462	43.2674635	6.6391823	Salama				restaurant	1		Chemin des Conquettes	
+node	12126371215	43.2536162	6.6586887	La Table de La Messardière				restaurant				
+node	12143045502	43.2733271	6.6408603	La PeSQuière, Le Mazagran et Lou Revelen				restaurant	1		Rue des Remparts	
+node	12194382845	43.2707519	6.6370142	Zinzin				cafe				
+node	12200907748	43.2708422	6.6404274	Dior				cafe				
+node	12200925786	43.2703147	6.6410484	Louis Vitton				restaurant				
+node	12330730341	43.2674192	6.6304627	La Perla d'Asie				restaurant				
+node	12655880975	43.2534753	6.6583845	Matsuhisa				restaurant				
+node	12655880976	43.2537636	6.6583990	Palladio				restaurant				
+node	12655881053	43.2535408	6.6589199	La Table du Chef				restaurant				
+node	12776740279	43.2721502	6.6415109	Café Barock				cafe				
+node	12973940401	43.2690607	6.6396532	Scarlett Café				cafe				
+node	12992303404	43.2724876	6.6398081	Aux Deux Frères				restaurant				
+node	13152939452	43.2692798	6.6393377	Mimosa - café vélo et social club				cafe	1	83990	Boulevard Louis Blanc	
+node	13730614605	43.2700208	6.6402735	Le Clemenceau				restaurant				
+node	13825426801	43.2678892	6.6317294	FATTO BENE SAINT TROPEZ				restaurant	46	83990	Avenue du Général Leclerc	
+way	179780771	43.2657805	6.6248305	Beach Café				restaurant				
+way	179782729	43.2669600	6.6272390	La Vague d'Or				restaurant				
+way	724517360	43.2635040	6.6683442	Ti' Cabanon				restaurant		83990	Route des Salins	
+relation	74054			Saint-Zacharie	8	83640	83120					
+node	6612581869	43.3818637	5.7032484	La notté				restaurant	81		Avenue Gaston de Saporta	
+node	13236019921	43.3841729	5.7065296	Brasserie				restaurant				
+way	133933743	43.3845115	5.7256317	Le moulin de la Sambuc				restaurant				
+relation	2694470			Salernes	8	83690	83121					
+node	439780495	43.5480948	6.2141618	L'Étoile du Sud				restaurant				
+node	3032866124	43.5637688	6.2327385	Café de la Bresque				bar				
+node	3032866126	43.5637396	6.2331837	Les Négociants				bar				
+node	3032866127	43.5633771	6.2329383	L'Union				bar				
+node	3032884918	43.5638329	6.2319392	Le Biérodrome				bar		83690	Place de la République	
+node	3034529995	43.5633824	6.2325303	Chez Pépé Thomas				restaurant	1	83690	Place du 8 Mai	
+node	7395042866	43.5641980	6.2311930	Café Tabac de l'Architecte				bar				
+relation	2162210			Les Salles-sur-Verdon	8	83630	83122					
+node	2940715473	43.7741697	6.2092751	Le Chêne Vert				restaurant				
+node	2940715477	43.7733792	6.2085560	Le Mille Pâtes				restaurant				
+node	2940715566	43.7745419	6.2094086	L'Escapade				restaurant	2	83630	Rue Pierre Blanche	
+node	2940715569	43.7745068	6.2090339	Le Côté Lac				restaurant				
+node	2940715570	43.7744329	6.2089769	Chez nous				restaurant	5	83630	Place de l'Artisanat	
+node	2940715571	43.7735768	6.2100698	Lou Bouchin				restaurant	14		Avenue de Bocouenne	
+node	2940715572	43.7737352	6.2100638	Costebelle				restaurant	1	83630	Rue Saint-Clair	
+node	8831572290	43.7743384	6.2093609	La Fringale				restaurant	1	83630	Place de l'Artisanat	
+node	9902377748	43.7744596	6.2101029	La Plancha				restaurant				
+node	9903522425	43.7734096	6.2099050	Le Cabanon				restaurant	4b		Avenue de Bocouenne	
+node	11830321007	43.7741387	6.2092587	Bar du Chêne Vert				bar				
+node	11830321008	43.7734381	6.2099240	Au Cabanon Bar à vin				bar	4b	83630	Avenue de Bocouenne	
+node	11840632119	43.7741467	6.2171682	L'Orangerie				restaurant		83630		
+way	636619262	43.7814057	6.2131017	L'Escale du Verdon				restaurant		83630	Camping municipal Les Ruisses	
+way	1154477236	43.7741798	6.2116063	Cous & Cous				restaurant				
+relation	163056			Sanary-sur-Mer	8	83110	83123					
+node	2329192323	43.1189106	5.8021479	Le Brise				restaurant				
+node	5845967163	43.1292726	5.7840082	Le Baan Thaï				restaurant	968	83110	Chemin des Roches	
+node	5845981793	43.1179038	5.8008774	Le Grillon				restaurant	14		Quai Charles de Gaulle	
+node	5845985127	43.1176442	5.8005452	Restaurant de la tour				restaurant				
+node	5845985953	43.1178992	5.8008032	La Ptite Fabrik'				restaurant	16	83110	Quai Charles de Gaulle	
+node	5845986438	43.1179262	5.8012392	Le Nautique				bar	6	83110	Quai Charles de Gaulle	
+node	5845989151	43.1175782	5.8043323	Bar National				restaurant				
+node	5845992827	43.1179126	5.8011029	La Marine				restaurant	8	83110	Quai Charles de Gaulle	
+node	5845993418	43.1179363	5.8016488	Café de Lyon				cafe			Quai Charles de Gaulle, Sanary-sur-Mer	
+node	5845994507	43.1178257	5.8024210	Le sport				bar	2		Rue Siat Marcellin	
+node	5845995592	43.1175458	5.8045368	Le Comptoir de la Font des Pères				restaurant	12	83110	Place Albert Cavet	
+node	5845995593	43.1174974	5.8044947	L'Evidence				restaurant	10	83110	Place Albert Cavet	
+node	5845995621	43.1171307	5.8041152	Les Embiers				bar				
+node	6936646226	43.1171573	5.8001690	Le Molotov				restaurant				
+node	6942581764	43.1170143	5.8001605	La Muscade				restaurant	28	83110	Quai Marie Esmenard	
+node	6964916897	43.1178994	5.8035230	Le Galli				restaurant	41	83110	Ruelle de L'Enclos	
+node	7298645761	43.1172037	5.8001728	Quai 16				restaurant	16	83110	Quai Marie Esmenard	
+node	7613390448	43.1182279	5.8010672	Le Diablothym				restaurant	1	83110	Rue Louis Blanc	
+node	7617582804	43.1181370	5.8010047	Le Bistrok				restaurant				
+node	7617582806	43.1182737	5.8012972	Fusiø				restaurant	5	83110	Rue Louis Blanc	
+node	7637654626	43.1192284	5.8016015	Chez Sisters				cafe	20	83110	Rue Géneral Rose	
+node	7655222068	43.1180209	5.8027201	L.A Restaurant				restaurant	6	83110	Rue Barthelemy de Don	
+node	7655222070	43.1183303	5.8026485	Chez Mico				restaurant	18	83110	Rue Barthelemy de Don	
+node	7663489893	43.1165943	5.8050989	Pause Vintage				restaurant	17	83110	Boulevard d'Estienne d'Orves	
+node	7663489895	43.1166570	5.8049007	Le Cosy				restaurant	15	83110	Boulevard d'Estienne d'Orves	
+node	7740329148	43.1178347	5.8000983	Biscuiterie Bis				cafe	30	83110	Rue de la Prud'Homie	
+node	7817937785	43.1181502	5.8009499	Le Bistrok				restaurant	2	83110	Rue de la Prud'Homie	
+node	8492988642	43.1239722	5.7920886	Sushi's				restaurant	150	83110	Route de Bandol	
+node	8880617513	43.1174705	5.8000997	Le Gelys				restaurant	12		Quai Marie Esmenard	
+node	9061028384	43.1178583	5.8047600	Mamma Mia				restaurant	7	83110	Avenue des Poilus	
+node	9830484440	43.1240449	5.7879142	Restaurant Parc Mogadur				restaurant				
+node	10833473952	43.1175238	5.8041714	L'Endroit				restaurant				
+node	10946814731	43.1188476	5.8022838	Le baroudeur				restaurant				
+node	12919204382	43.1288816	5.7809835	Le Panoramic				restaurant				
+node	13162349705	43.1217162	5.8200647	MaVa				restaurant				
+node	13684419287	43.1177684	5.8025825	17cafe				cafe				
+node	14078625901	43.1160437	5.7939358	Le Café de Portissol				cafe	335	83110	Avenue de Portissol	
+node	14107865401	43.1289809	5.7809981	La Gorguette				restaurant	140		Chemin de la Plage	
+node	14107879601	43.1144745	5.7900243	Ô Petit Monde				restaurant				
+node	14109441801	43.1194695	5.8047570	La Royale				restaurant				
+node	14109603901	43.1153045	5.7988538	O Phare				cafe	4 bis		Quai Wilson	
+node	14109635301	43.1173760	5.8001326	L'Hippocampe				restaurant	14		Quai Marie Esmenard	
+node	14109635401	43.1175120	5.8000750	Tehani Tahiti				restaurant				
+node	14109662501	43.1184075	5.8012939	Le Second				restaurant				
+node	14133772657	43.1300989	5.7826291	Si Una Pizz'a				restaurant	1215		1206 Rte de Bandol	
+node	14278259001	43.1188536	5.8017638	Au Dé Lisse				restaurant	9	83110	Rue Laget	
+way	186386731	43.1151146	5.8047604	Le Sana'Beach				restaurant				
+way	186387351	43.1153125	5.7905520	O Petit Monde				restaurant			Esplanade Frédéric Dumas	
+way	186390676	43.1164370	5.8058655	Un Coin de ...				restaurant	25	83110	Boulevard d'Estienne d'Orves	
+relation	2131089			Seillans	8	83440	83124					
+node	4170652377	43.6359451	6.6424769	La Gloire de mon Père				restaurant				
+relation	2700247			Seillons-Source-d'Argens	8	83470	83125					
+node	11954020613	43.4964775	5.8839666	Seillons Pizza				restaurant				
+node	11954024324	43.4965459	5.8839010	Café de La Source				cafe				
+way	400822580	43.4968160	5.8845740	Restaurant des Écoles				restaurant				
+relation	29188			La Seyne-sur-Mer	8	83500	83126					
+node	290560620	43.1002025	5.8841274	Pizza La Tour de Pizz				restaurant				
+node	290560622	43.1008205	5.8850826	Brasserie des Chantiers				cafe				
+node	290560624	43.1008232	5.8846413	Le Comoedia				restaurant				
+node	290560625	43.1008497	5.8855524	Le Maki				pub				
+node	290560626	43.1009801	5.8837592	L'Entracte				cafe				
+node	290560628	43.1006932	5.8827431	Le Seynois				cafe				
+node	291447817	43.0989125	5.8843773	Bar du Rond-point				cafe				
+node	292581346	43.0832392	5.8815805	Auberge du Loup				restaurant				
+node	293639570	43.1005557	5.8838442	La Griotte				restaurant				
+node	293773446	43.1186045	5.8839639	La Pyro				cafe				
+node	294143649	43.0987985	5.8793552	Bar des Sports				bar				
+node	294143904	43.1006160	5.8826602	La Civette Artistique				cafe				
+node	295450079	43.1008370	5.8864719	Damero				pub				
+node	295464537	43.0989365	5.8983063	Les Platanes				pub				
+node	295788357	43.1168026	5.8780989	Bar de l'Hippodrome				cafe				
+node	297193954	43.1008510	5.8804592	Le Bidule				cafe				
+node	297614951	43.0823685	5.8789612	Le Pagnol				cafe				
+node	297614962	43.0775763	5.8856922	La Chapelle				restaurant				
+node	297614999	43.0688902	5.8710681	Maison Daniel et Julia				restaurant				
+node	297615000	43.0698279	5.8712172	Le Duplex				restaurant				
+node	297615001	43.0699623	5.8711591	Il Gusto				restaurant				
+node	297615353	43.0721665	5.8585605	L'Hacienda				restaurant				
+node	521190832	43.0815202	5.8856315	Bar Mar Vivo				cafe				
+node	1897101240	43.0786897	5.8935328	Palais des Sables				bar				
+node	1903629836	43.0784411	5.8905116	Inizio				restaurant				
+node	3048684172	43.1012985	5.8799013	Le Narval				bar				
+node	3048730133	43.1014495	5.8808963	Café des Arts				cafe				
+node	3050929252	43.0789032	5.8938930	L'Ostau				restaurant				
+node	3057813610	43.0792856	5.8943337	L'Escale des Sablettes				bar				
+node	3057813612	43.0794548	5.8947828	Oishi				restaurant				
+node	3142058191	43.0790082	5.8888886	Le Poseidon				restaurant	255	83500	Avenue Charles de Gaulle	
+node	3142067033	43.0794088	5.8936467	La Piazza				restaurant	4	83500	Place Édouard Lalo	
+node	3142067036	43.0795255	5.8920536	Le Fy Bar				restaurant		83500	Avenue Charles de Gaulle	
+node	4691772320	43.1017148	5.8797346	Torrefacteur La Cigale				cafe	5	83500	Rue République	
+node	4907798735	43.1013874	5.8943337	Murato Café				cafe		83500	Place des Mouissèques	
+node	6652441428	43.0790075	5.8940785	Prôvence Plage				restaurant	699	83500	Avenue Charles de Gaulle	
+node	7142410790	43.1156209	5.8591086	Le Palais d'Or				restaurant				
+node	7342535958	43.0953737	5.8832632	Pizza Bella Mistral				restaurant				
+node	7640733986	43.0692585	5.8716516	La Paillote				restaurant				
+node	7739192686	43.1166693	5.8491303	Saint Barth				restaurant	876	83500	Chemin de la Farlède	
+node	8339506017	43.1170433	5.8492547	Le LERY				restaurant	475	83500	Chemin de la Farlède	
+node	8339601219	43.1159203	5.8500022	HALLBOX'S				restaurant	55	83500	Avenue de Bruxelles	
+node	8457091453	43.1090949	5.8582030	O'nems				restaurant		83500	Avenue Jean-Albert Lamarque	
+node	8461627719	43.1151563	5.8490925	Maddie's				restaurant	730	83140	Boulevard de Léry	
+node	8884054542	43.0815474	5.8934926	Garden K'Phê				restaurant				
+node	8884089755	43.0875234	5.8554126	Gaïjin Sushi				restaurant				
+node	9751136223	43.0992327	5.8529615	Buffet Zen				restaurant	9		Avenue des Anciens Combattants d'Indochine	
+node	9885952717	43.0810651	5.8984454	Le Ponton				restaurant			Allée de la Petite Mer	
+node	9956796155	43.0791336	5.8935429	Bar des Sablettes				bar	667	83500	Avenue Charles de Gaulle	
+node	9956796159	43.0787727	5.8935031	Ô grain de sable				restaurant		83500	Promenade Jean Charcot	
+node	9956796160	43.0787697	5.8933124	Le miramar				restaurant		83500	Promenade Jean Charcot	
+node	9956796161	43.0787670	5.8930354	La vague d'or				restaurant		83500	Promenade Jean Charcot	
+node	9956796162	43.0789351	5.8926880	Le navigateur				restaurant	575	83500	Avenue Charles de Gaulle	
+node	10860430173	43.0915095	5.9005288	La Tamarisienne				cafe				
+node	10963509306	43.1022915	5.8803272	Il pomodoro A & I				restaurant	4	83500	Avenue Lazare Hoche	
+node	11283920322	43.0809283	5.8937345	Le Cedrus				restaurant				
+node	11283920332	43.0790824	5.8938801	Joao’s				restaurant				
+node	12522593794	43.0788960	5.8938370	El Pacha				restaurant				
+node	12785404462	43.0783966	5.8975917	Carré Plage				restaurant				
+node	12967365921	43.0790590	5.8941566	No Stresss				nightclub				
+node	13031187549	43.0780362	5.8980589	George Sand				restaurant				
+node	13031187551	43.0780588	5.8985516	Annananta				restaurant				
+node	13031187552	43.0779977	5.8985495	Le Rendez-vous				restaurant				
+node	13033504105	43.0781138	5.8985403	La Vie est une Fête				restaurant				
+node	13766199938	43.1105199	5.8592767	La Crêpe				restaurant				
+node	14019934888	43.0803367	5.8907342	Karma				restaurant				
+node	14022709881	43.0786875	5.8964499	Nini				restaurant				
+way	186649365	43.1171465	5.8651690	Chrysalide				nightclub	118	83500	Avenue Marcel Berre	
+way	188105178	43.0773195	5.8989335	Le Cannier				restaurant	103	83500	Avenue de la Jetée	
+way	188105394	43.0756915	5.8998145	La Terrasse du Port				restaurant				
+way	190632402	43.0789095	5.8937350	Crêperie les Deux Frères				restaurant				
+way	190632423	43.0787853	5.8959162	Le Sun				restaurant				
+way	208633895	43.1003580	5.8861615	Le Bloom				bar				
+way	208768599	43.1021685	5.8798275	Bun's House				restaurant				
+way	208768672	43.1030132	5.8801774	La Régalade				restaurant				
+way	208768712	43.1025495	5.8808578	La Frégate				restaurant				
+way	209617856	43.1192380	5.8583530	Chez Tania				restaurant	1659	83500	Avenue Robert Brun	
+relation	125420			Signes	8	83870	83127					
+node	10142959132	43.2912062	5.8632846	Restaurant Cafe leo				restaurant				
+node	14238808619	43.2575586	5.8061785	Le Zest				restaurant		83870		
+relation	2694545			Sillans-la-Cascade	8	83690	83128					
+node	4621782606	43.5672178	6.1801022	La Cascade				restaurant	3	83690	Grand Rue	
+node	4621824923	43.5676207	6.1589704	Le grand Chêne de Sillans				restaurant	1	83690	Le Plan	
+node	5804728453	43.5673061	6.1797630	La Gaudinette				restaurant				
+node	9906295690	43.5672545	6.1803189	Restaurant Le Pins				restaurant				
+relation	194637			Six-Fours-les-Plages	8	83140	83129					
+node	291924342	43.0693872	5.7933615	La Lagune				restaurant				
+node	294009241	43.1029873	5.8208927	Le tabarin				cafe				
+node	299290742	43.1079021	5.8147177	Le Taj				restaurant	60	83140	Avenue du Président John F. Kennedy	
+node	301163171	43.1092010	5.8485653	Le Maharadjah				restaurant				
+node	1282652343	43.1057502	5.8139621	Pouss-Pouss				restaurant	48	83140	Chemin des Hoirs	
+node	1282656457	43.0960111	5.8130198	Comptoir des Saveurs				restaurant				
+node	1568147450	43.0773183	5.8040273	Crêperie des Îles				restaurant				
+node	1568147459	43.0765461	5.8040998	Le Pointu				restaurant	44	83140	Rue des Pêcheurs	
+node	1568147465	43.0774427	5.8045129	La Citadelle				restaurant				
+node	1568147470	43.0780278	5.8041339	Le Saint-Pierre				restaurant				
+node	1568147474	43.0774117	5.8043997	Pinocchio				restaurant				
+node	1568147558	43.0758354	5.8026252	La P'tite Bouff				restaurant				
+node	1568147597	43.0763340	5.8035437	Le Bistro				pub				
+node	1568147629	43.0770011	5.8043634	La Cocotte				restaurant				
+node	1568147631	43.0772500	5.8044684	Saveurs du Brusc				restaurant				
+node	1568147641	43.0794321	5.8051347	Spiaggia Ristorante				restaurant				
+node	1568147646	43.0800980	5.8064525	Chez Riton				restaurant				
+node	1569046107	43.0711187	5.8088539	Le Mont Salva				restaurant				
+node	2332322208	43.1111307	5.8135323	Il Momento				restaurant	340	83140	Boulevard des Écoles	
+node	2350009953	43.1104362	5.8123139	La Vague				restaurant				
+node	2350009969	43.1106712	5.8121718	La Voile				restaurant				
+node	3077516270	43.1104609	5.8127655	Lou Capèu				restaurant	326	83140	Promenade Général Charles de Gaulle	
+node	3533758583	43.0767053	5.8041915	Le Cap Horn				bar				
+node	3683949505	43.0770149	5.8048680	Mazavaroo				restaurant				
+node	3683949506	43.0773829	5.8039626	Le Piadon				bar				
+node	3683949507	43.0697348	5.7939463	Le Vénus du Gaou				bar				
+node	3726244815	43.0777694	5.8039647	Riviera III				restaurant				
+node	4393707597	43.0968433	5.8127345	Mafana				pub				
+node	4393754192	43.0953458	5.8125731	Tao				restaurant				
+node	4572198646	43.0923626	5.8404105	Bar des Sports				cafe	59	83140	Rue de la République	
+node	4572198668	43.0923900	5.8403273	Le balto				cafe				
+node	4572198669	43.0945190	5.8361216	Manon des sources				restaurant				
+node	4940222955	43.0755455	5.8020672	Quai 245				restaurant	245	83140	Quai Saint-Pierre	
+node	5228152961	43.0753879	5.8021934	Sykia				restaurant				
+node	6967107656	43.0770184	5.8083122	Ô Tout Va Bien				restaurant	623		Avenue des Palmiers	
+node	7280495826	43.1105500	5.8127056	Blues Beach				restaurant	330	83140	Promenade Général Charles de Gaulle	
+node	7288810329	43.1118167	5.8116426	Côté Plage				restaurant	475	83140	Promenade Général Charles de Gaulle	
+node	7288810330	43.1110774	5.8119899	Le Golfe Plage				restaurant	325	83140	Promenade Général de Gaulle	
+node	7590012201	43.1209012	5.8464207	King Seng				restaurant				
+node	7948752165	43.1112135	5.8433579	Le rendez-vous				restaurant	235		Rue de Hyères	
+node	7948791126	43.1173104	5.8437554	Le Twenty-six				restaurant	80	83140	Avenue de l'Europe	
+node	8461278101	43.1159960	5.8425828	Beer Mamba				bar	878	83140	Chemin des Négadoux	
+node	8461627734	43.1162685	5.8490127	L'Arlequin				restaurant	830	83500	Boulevard de Léry	
+node	9201102268	43.0919896	5.8118090	La Terrasse				restaurant	941	83140	Corniche de la Coudoulière	
+node	9201117203	43.0886616	5.8103615	La Grange				restaurant	1305	83140	Corniche de la Coudoulière	
+node	9408409342	43.1116463	5.8133951	Le Leone				bar	398	83140	Boulevard des Écoles	
+node	9460195500	43.0776214	5.8041957	Le Poëte				restaurant				
+node	10151964010	43.1096253	5.8132510	Le p'tit dauphin				restaurant				
+node	10152008087	43.1153831	5.8083461	Eden & co				restaurant				
+node	11056543190	43.1029215	5.8209869	Les halles				restaurant				
+node	11465712455	43.0966736	5.8127647	Ocean's café				restaurant				
+node	11465774826	43.0961611	5.8131607	Sun beach				restaurant				
+node	11477032059	43.0927641	5.8401692	Ciao				restaurant				
+node	12979538014	43.0784393	5.7784867	L'Esplanade				bar				
+node	13504415151	43.1175587	5.8387623	La Terrasse				restaurant	175	83140	Rue d'Ollioules	
+node	13506795529	43.1153359	5.8438166	Avenir Café				restaurant	69	83140	Rue de l'Avenir	
+node	13506961811	43.1199192	5.8453454	L'entrepôt				restaurant	286	83140	Chemin de Bassaquet	
+way	143153111	43.0953430	5.8125795	La Petite Plage				restaurant	420	83140	Corniche de la Coudoulière	
+way	143163033	43.1096850	5.8135095	Le Dauphin				restaurant				
+way	375213770	43.1145825	5.8482950	Le 683				restaurant	683	83500	Boulevard de Léry	
+way	897868561	43.0989630	5.8094947	Le Niglo				cafe		83140		
+relation	969772			Solliès-Pont	8	83210	83130					
+node	3300325399	43.2043302	6.0476970	SeaSon				nightclub		83210		
+node	11799980570	43.1789965	6.0634227	Ferme de la Cressonnière				restaurant	300		Chemin de la Cressonnière	
+relation	969797			Solliès-Toucas	8	83210	83131					
+node	6337708386	43.2257593	6.0153406	La Bastide enchantée				restaurant				
+way	282769568	43.2258147	6.0154509	La Bastide enchantée				restaurant				
+way	1144512954	43.2086060	6.0291983	Bistrot D4 Saisons				restaurant				
+relation	2129958			Tanneron	8	83440	83133					
+node	6681868318	43.5901678	6.8754571	La Famiglia				restaurant				
+way	298823319	43.5816626	6.8078014	La Baie du Lac				restaurant				
+way	637307263	43.5731449	6.8047815	Macao Plage				restaurant		83440		
+relation	197538			Taradeau	8	83460	83134					
+node	6626950610	43.4542311	6.4272702	Bar de la Tour				cafe	20	83460	Avenue des Arcs	
+relation	2697286			Tavernes	8	83670	83135					
+node	13716711413	43.5933162	6.0160003	Bar Central				bar				
+node	13716817270	43.5934934	6.0154650	Café Le Saint Cassien				cafe				
+node	13716864619	43.5935171	6.0156017	Virgin's Pizza				restaurant				
+relation	224815			Le Thoronet	8	83340	83136					
+node	4635128025	43.4521957	6.3030644	L'Entre Deux				restaurant	10	83340	Rue des Trois Ormeaux	
+node	4635134959	43.4524274	6.3027211	Le Tournesol				restaurant	9	83340	Rue de l Ormeau	
+node	4635144624	43.4528507	6.3000409	Le Vallon				restaurant		83340	Z.A. la Gasquette	
+node	4912503391	43.4501878	6.3034116	Au Pre Long Dine				restaurant		83340	251 chemin de Pre Long	
+relation	35280			Toulon	8	83000;83100;83200	83137					
+node	472787297	43.1218137	5.9411922	La Mi-Temps				pub				
+node	475929924	43.1253833	5.9312212	L'Oasis				pub	301		Place de la Liberté	
+node	475933668	43.1300917	5.9265687	Le Narval				pub				
+node	948099940	43.1219688	5.9362018	Le Cybernaute-VEVB				cafe				
+node	1521127042	43.1206829	5.9394513	Isen Café				pub				
+node	1676887349	43.1238771	5.9305414	Gaetano				restaurant	4	83000	Place Amiral Sénès	
+node	1688797727	43.1216614	5.9363955	Le Bistrot des Remparts				restaurant				
+node	1688797841	43.1217880	5.9362219	Crousty thai				restaurant				
+node	1705459907	43.1202187	5.9316368	Le Grand Café de la Rade				restaurant	224	83000	Avenue République	
+node	1748634550	43.1097544	5.9802831	Le Magaud				bar				
+node	1803937894	43.1186580	5.9349240	Fenua Food				restaurant	121	83000	Quai de la Sinse	
+node	1803942824	43.1187150	5.9348180	La lampa				restaurant				
+node	1897907197	43.1122954	5.9345379	La Flambée				restaurant	500		Boulevard Bazeilles	
+node	2196366998	43.1258145	5.9297537	Taverne La Place				restaurant	31		Place de la Liberte	
+node	2196367048	43.1259410	5.9314271	Manofica				restaurant	237	83000	Place de la Liberté	
+node	2196688248	43.1247050	5.9302486	Le Bistrot de Gisèle				cafe	3	83000	rue Bertholet	
+node	2196688249	43.1246726	5.9293813	Cheese Naan				restaurant	5	83000	Rue Adolphe Guiol	
+node	2299299486	43.1351574	5.9320371	Pronto Pizza				restaurant	445	83000	Boulevard Sainte-Anne	
+node	2927903000	43.1079238	5.9396006	Suschi				restaurant				
+node	2927918502	43.1070934	5.9429834	Le Cabanon				restaurant				
+node	2927918570	43.1076732	5.9452011	Le Thaiti				restaurant				
+node	2927922229	43.1077985	5.9394075	Tout le Monde en parle				restaurant				
+node	2927922263	43.1080805	5.9397187	La Réserve				bar	437		Littoral Frederic Mistral	
+node	2927922271	43.1082128	5.9401518	Côté Jardin				bar	437	83000	Littoral Frédéric Mistral	
+node	2927925211	43.1075008	5.9385599	Le Gros Ventre				restaurant				
+node	2927964850	43.1119651	5.9356134	Le petit Toulon				restaurant	411		Boulevard Bazeilles	
+node	2927989767	43.1100073	5.9399225	La part des Anges				pub	57		Rue Lamalgue	
+node	2927999175	43.1115884	5.9393486	Le Comedia				pub	17		Rue Castillon	
+node	2928009806	43.1122534	5.9396615	La Bodega				restaurant				
+node	2928011519	43.1125215	5.9396650	Havanna Café				pub				
+node	2929950076	43.1090707	5.9800218	Les pins penchés				restaurant				
+node	2929961130	43.1067992	5.9786056	La Calanque				restaurant	367	83000	Chemin de la Mer	
+node	2929998068	43.1190308	5.9341282	La crêperie du port				restaurant	45		Quai de la Sinse	
+node	2929999505	43.1189088	5.9343734	La Tortue				restaurant				
+node	2930710301	43.1129211	5.9396735	O2J				restaurant	45		Boulevard Bazeilles	
+node	2930901245	43.1240395	5.9327592	Le Zinc				bar	12		Rue Molière	
+node	2930902310	43.1239416	5.9329831	Le Resto des Artistes				restaurant	10	83000	Rue de l'Humilité	
+node	2930904107	43.1241349	5.9330994	Racines				restaurant				
+node	2930906447	43.1240199	5.9312029	404				restaurant				
+node	2930908050	43.1237125	5.9336443	La P'tite Fringale				restaurant				
+node	2930908056	43.1236969	5.9335169	Tipoune				restaurant				
+node	2930911123	43.1238931	5.9304010	Gaetano Café				cafe				
+node	2930912657	43.1235376	5.9330944	Le Chantilly				cafe	15		Place Puget	
+node	2930914039	43.1235588	5.9328101	O'Blue Bar				cafe	1		Place Puget	
+node	2930914051	43.1235001	5.9327739	Le floreal				bar	1		Place Puget	
+node	2930914412	43.1229099	5.9321664	Côté terrasses				restaurant	13		Rue Richard Andrieu	
+node	2930916172	43.1244613	5.9293420	L'entracte				restaurant				
+node	2930918468	43.1255788	5.9282753	Braise				restaurant	202	83000	Boulevard Général Leclerc	
+node	2930919328	43.1246855	5.9287546	Kashmir Villa				restaurant				
+node	2930919569	43.1215310	5.9318575	Les Tables de la Fontaine				restaurant				
+node	2931061118	43.1226004	5.9349022	Le Turin				cafe				
+node	2931070707	43.1200338	5.9359456	RCT Café				restaurant				
+node	2931071498	43.1193740	5.9344757	L'avant première				restaurant				
+node	2931483143	43.1472294	5.9021979	Brasserie les 4 chemins				restaurant				
+node	2938051225	43.1078586	5.9316162	Le Bar à Thym				pub	32	83000	Boulevard Docteur Cunéo	
+node	2938068447	43.1210301	5.9348856	Unic Bar				bar	1		Rue Albert	
+node	2938113216	43.1269871	5.9301962	Al Dente				restaurant	30		Rue Gimelli	
+node	2938113217	43.1269639	5.9303872	Ô Bistro des Artistes				restaurant				
+node	2938113636	43.1270523	5.9303789	Taormina				restaurant				
+node	2947990780	43.1085790	5.9410986	Le Churchill				restaurant				
+node	2947996213	43.1083520	5.9404281	Rock				restaurant	465	83000	Littoral Frédéric Mistral	
+node	2948037782	43.1121134	5.9398648	L'Atelier à Vins				restaurant				
+node	2949210749	43.1208315	5.9330704	Les Têtes d'Ail				restaurant	22	83000	Rue des Bonnetières	
+node	2949210960	43.1208177	5.9328262	La poissonnerie				restaurant				
+node	2950248537	43.1111255	5.9392649	L'Amalgame				bar				
+node	2973035891	43.1079472	5.9314050	Old coucou				pub	14	83000	Boulevard Docteur Cunéo	
+node	3050164738	43.1080497	5.9317838	La Civette de la Marine				bar		83000	Boulevard Docteur Cunéo	
+node	3050925664	43.1221767	5.9320207	La Feuille de Chou				restaurant	15	83000	Rue de la Glacière	
+node	3051704144	43.1067801	5.9352826	Le Canastel				restaurant		83000	Boulevard Docteur Cunéo	
+node	3051704145	43.1075271	5.9335553	Le Cunéo				restaurant	191	83000	Boulevard Docteur Cunéo	
+node	3379568527	43.1198647	5.9489899	Le comptoir beauté				cafe				
+node	3791959938	43.1201193	5.9341719	Le Maryland				bar				
+node	3840432931	43.1275225	5.9302382	Bouc Ness				pub				
+node	3840432932	43.1303650	5.9204134	Pizza Follis				restaurant				
+node	4406900520	43.1121608	5.9398049	L'Atelier à Bières				pub				
+node	4406900521	43.1122891	5.9399698	Le Brandhy				bar				
+node	4406900522	43.1122264	5.9400315	Tantra				bar				
+node	4414008260	43.1114377	5.9394676	Au Café Blanc				cafe				
+node	4414008269	43.1118172	5.9396741	Oh Fan de Chichou				restaurant				
+node	4496457295	43.1099020	5.9402096	La Gallia				bar	60		Rue Lamalgue	
+node	4496468493	43.1080091	5.9319188	Jade de Chine				restaurant	47		Boulevard Docteur Cunéo	
+node	4559706538	43.1137110	5.9313716	Les Régates				restaurant	314		Avenue du Port de Plaisance	
+node	4932086629	43.1077734	5.9327374	Pizza Lito				restaurant	119	83000	Boulevard Docteur Cunéo	
+node	4932087879	43.1078235	5.9325941	La Palmeraie				restaurant	97	83000	Boulevard Docteur Cunéo	
+node	4932104649	43.1078823	5.9315014	Le Mousse				bar	22	83000	Boulevard Docteur Cunéo	
+node	4932157602	43.1072379	5.9337654	Le pizzaiolo				restaurant	220		Boulevard Docteur Cunéo	
+node	5469422321	43.1199061	5.9488302	Bière de la rade				pub	300	83000	Rue Amiral Nomy	
+node	5615902825	43.1306852	5.9282790	Bar Brasserie de l'Horizon				bar				
+node	5621199825	43.1119522	5.9366244	Le Marigny				bar	327		Boulevard Bazeilles	
+node	5621200021	43.1119138	5.9360391	La Dégust'				bar				
+node	5642629959	43.1120030	5.9373882	Stop Bar				bar	261		Boulevard Bazeilles	
+node	5661364369	43.1118010	5.9357050	Tables Comptoir				restaurant				
+node	5707417923	43.1197935	5.9328676	La Reale				bar	364		Avenue de la République	
+node	5707484421	43.1192106	5.9340164	Sfax Food				restaurant				
+node	5707484422	43.1197695	5.9329124	Le Panoramique				restaurant	364		Avenue de la République	
+node	5713292343	43.1207554	5.9307376	Mirch Masala				restaurant	99		Quai Cronstadt	
+node	5715207795	43.1127487	5.9393567	Le Boulevard				restaurant	79		Boulevard Bazeilles	
+node	5715207800	43.1130368	5.9398302	Le Nemrod				bar	25		Boulevard Bazeilles	
+node	5715207802	43.1131596	5.9399433	Le Point				restaurant	11		Boulevard Bazeilles	
+node	5715207810	43.1116781	5.9383223	Le Tegot				restaurant				
+node	5753295823	43.1265709	5.9329549	Le Maz				cafe				
+node	5760686881	43.1124160	5.9395044	Joao's				restaurant				
+node	5760686883	43.1124884	5.9394154	Nuit d'Orient				restaurant	109		Boulevard de Bazeilles	
+node	5760686885	43.1121267	5.9392764	O Trois Singes				restaurant				
+node	5760686886	43.1119837	5.9391165	Le Louisiane				bar				
+node	5773240072	43.1235833	5.8923545	Le chalet des iles				restaurant				
+node	5781189416	43.1493051	5.9300404	Le Panoramique				bar				
+node	5825363255	43.1157404	5.9605230	Provence Pizza				restaurant				
+node	5837017685	43.1238290	5.9312914	La tête à Toto				restaurant				
+node	5837017686	43.1237186	5.9315012	Feel Food				restaurant				
+node	6034732186	43.1230986	5.9325249	L'Instant Thé				cafe	5	83000	Rue Richard Andrieu	
+node	6349228585	43.1241927	5.9328182	Julietta Napoli Ristorante				restaurant				
+node	6645990641	43.1075115	5.9497429	L'Anse les Pins				restaurant		83000	Plage du Mourillon	
+node	6647348192	43.1276614	5.9300221	Banthaï				restaurant	10	83000	Boulevard de Tesse	
+node	6649580710	43.1230373	5.9318179	La pause culotte				restaurant	34	83000	Rue de Pomet	
+node	6665520485	43.1230928	5.9345972	Au petit marché				restaurant	20	83000	Rue Paul Lendrin	
+node	6690417692	43.1230796	5.9297422	Temple Beer				pub	18	83000	Rue Anatole France	
+node	6752026502	43.1235815	5.9337648	Au Petit Marché				bar	20		Rue Paul Lendrin	
+node	6752440155	43.1215291	5.9317503	BorsaVino				bar	2	83137	Place Gustave Lambert	
+node	6752563400	43.1216452	5.9332643	Café Mondial				cafe				
+node	6752570518	43.1222784	5.9300982	Sain Gourmand				restaurant	8		Rue de l'Equerre	
+node	6837429083	43.1280794	5.9289748	La Crêperie Toulonaise				restaurant	31		Place Albert 1er	
+node	7312052600	43.1312319	5.9381129	Việt Takara				restaurant	565	83000	Avenue de Siblas	
+node	7368570079	43.1310341	5.9379732	Le Bistrot Délices				cafe	545	83000	Avenue de Siblas	
+node	7419640865	43.1221913	5.9434505	Le Singapour				restaurant				
+node	7426776285	43.1132492	5.9498115	Pizza Milano				restaurant				
+node	7430865535	43.1236695	5.9486903	Les Saveurs du Gabon				restaurant	47	83100	Boulevard Maréchal Joffre	
+node	7743505188	43.1280400	5.9300774	Café bar brasserie				cafe				
+node	7835049910	43.1233820	5.9337664	L'aparté				restaurant	11	83000	Rue Paul Lendrin	
+node	7835049911	43.1235449	5.9337984	Ciao Pepe				restaurant				
+node	7856499648	43.1262960	5.9299368	Café Liberté				cafe				
+node	7856500542	43.1190002	5.9341902	Bella Ciao				restaurant				
+node	7856502193	43.1189469	5.9342949	La Cascade				restaurant				
+node	7856509932	43.1196249	5.9329568	Brasserie La Réale				restaurant	364		Avenue de la République	
+node	7856516669	43.1194958	5.9332129	Quaizéro 2				restaurant				
+node	7856517479	43.1209575	5.9303298	Le Navigateur				restaurant				
+node	7856521986	43.1263842	5.9307795	L'Orangerie				pub	159		Place de la Liberté	
+node	7856529626	43.1188454	5.9344866	La Tulipe Noire				restaurant	81	83000	Quai de la Sinse	
+node	7856540052	43.1195308	5.9331473	MMQ				restaurant				
+node	7856542063	43.1194237	5.9333791	La Gitane				pub				
+node	7856542380	43.1192230	5.9337435	Le Bistrot du Port				restaurant	462		Avenue de la République	
+node	7856547885	43.1191574	5.9338905	La Kasbah				restaurant				
+node	7929241431	43.1313426	5.9381375	Pizz&Délices				restaurant	579	83000	Avenue de Siblas	
+node	7932557800	43.1168331	5.9805943	Bellagio Pizza.Net				restaurant	82	83100	Boulevard Enseigne de Vaisseau Guès	
+node	8383177911	43.1219035	5.9430744	Saveurs d'Asie				restaurant	96	83000	Avenue François Cuzin	
+node	8769926045	43.1169039	5.9365563	Pizz'Atomic				restaurant	46		Avenue Maréchal de Lattre de Tassigny	
+node	8786464513	43.1242884	5.9272415	Himalaja Buddha				restaurant	20		Allée Amiral Courbet	
+node	8888297332	43.1212823	5.9309221	Ô Sushi & Wok				restaurant				
+node	9121099032	43.1132935	5.9340182	L'Ostrea				restaurant			Quai des Sous-Mariniers	
+node	9222297425	43.1266153	5.9299520	Chez le Brasseur				restaurant	20	83000	Rue Peiresc	
+node	9467023604	43.1214259	5.9304953	Le Pastel				restaurant	20	83000	Rue Victor Micholet	
+node	9467059939	43.1189663	5.9352560	La Tribune				pub	9	83000	Rue Dutasta	
+node	9911254863	43.1182736	5.9388682	JV Snack				restaurant				
+node	9911254864	43.1181425	5.9388999	Casa Salé				restaurant				
+node	9911309022	43.1177853	5.9370342	Le Cambuse				pub				
+node	9911309023	43.1178865	5.9369847	Le Corsaire				pub				
+node	9914223487	43.1200736	5.9336419	Sushi or not Sushi				restaurant	8		Rue de la Fraternité	
+node	9916738572	43.1180908	5.9369212	China Moon				restaurant	449		Avenue Franklin Roosevelt	
+node	9928912821	43.1198526	5.9332598	Le Graal				bar				
+node	9928912826	43.1207398	5.9342230	Asia				restaurant	93		Cours Lafayette	
+node	9936851208	43.1119215	5.9359203	Les Caves Bazeilles				restaurant	381		Boulevard Bazeilles	
+node	9947502905	43.1202559	5.9341836	Cap St Jacques				restaurant	106		Cours Lafayette	
+node	9947502911	43.1206076	5.9344267	Le Panier				cafe				
+node	9991524067	43.1224724	5.9292540	5 Parties Du Monde				bar	30	83000	Rue Anatole France	
+node	10178171185	43.1372032	5.9060625	U Spuntinu				cafe				
+node	10178201433	43.1368158	5.9074453	L’Assinie				cafe				
+node	10801426048	43.1229484	5.9297916	Church Beer				bar	2		Rue Pierre Semard	
+node	10801436179	43.1231363	5.9308333	Gueuleton				restaurant	31		Rue Larmodieu	
+node	10801447949	43.1231041	5.9314018	Koklico & Mimoza Coffee				restaurant				
+node	10801453262	43.1234374	5.9307039	E.t.c…				restaurant	6		Rue Louis Jourdan	
+node	10801473984	43.1230927	5.9314608	Sembilan				restaurant				
+node	10801474679	43.1230707	5.9315951	Les Filous				restaurant				
+node	10801475649	43.1231224	5.9312878	Café Noisette				cafe				
+node	10802362678	43.1200119	5.9321154	Le France				restaurant	304		Avenue de la République	
+node	10802399452	43.1197940	5.9325521	Saint Gabriel				restaurant				
+node	10802494342	43.1199673	5.9322129	Le Pointu				restaurant				
+node	10802514444	43.1203429	5.9314097	L'air du Temps				restaurant				
+node	10802535345	43.1199207	5.9323010	Manofica				restaurant				
+node	10802554772	43.1192005	5.9338029	Crêperies Bretonnes				restaurant				
+node	10802558406	43.1186927	5.9349883	PilouPilou				pub	152	83000	Avenue de la République	
+node	10805174577	43.1208481	5.9305574	Terre et Mer				restaurant				
+node	10805183569	43.1206991	5.9308757	Gaetano				restaurant				
+node	10814012553	43.1234388	5.9327683	Tonton Gust				restaurant	5		Place Puget	
+node	10814014592	43.1240325	5.9311363	A tavola				restaurant	389	83000	Rue Jean Jaurès	
+node	10814045428	43.1234682	5.9332620	Le Petit Prince de Toulon				restaurant				
+node	10814060452	43.1230408	5.9328222	Columbus Café & Co				cafe	9		Place Puget	
+node	10814080865	43.1232982	5.9326633	Le Quartz				restaurant	5		Place Puget	
+node	10814086342	43.1233979	5.9327351	Le Puget				restaurant	5		Place Puget	
+node	10815026776	43.1237893	5.9326020	L'Opéra				bar	16		Rue Molière	
+node	10815036232	43.1239572	5.9326993	Le Molière				restaurant				
+node	10819411806	43.1229932	5.9311226	Penida				cafe				
+node	10819425115	43.1226908	5.9312989	La maison de marionnettes				cafe				
+node	10820078635	43.1247301	5.9282952	Le Chiquito				bar	97		Avenue Jean Moulin	
+node	10820153777	43.1247133	5.9291815	Jardin Bambou				restaurant				
+node	10820188238	43.1243692	5.9288750	Chez le Palestinien				restaurant	206		Rue Jean Jaurès	
+node	10820188999	43.1228988	5.9341508	Roger Bar				bar	45		Rue Alezard	
+node	10820210506	43.1227419	5.9343036	Bouillotte				restaurant				
+node	10820213378	43.1217613	5.9349564	La Civette du Marché				bar	74		Cours Lafayette	
+node	10820215704	43.1222064	5.9295431	El Paso				bar				
+node	10820218783	43.1219692	5.9335618	Café Raspail				bar	3		Rue Jean Aicard	
+node	10820218796	43.1214788	5.9317270	AM Deli				restaurant				
+node	10820221476	43.1215058	5.9320309	Maison Sarroche				cafe	1		Place Gustave Lambert	
+node	10820224035	43.1211806	5.9317962	Brasserie Felix				restaurant				
+node	10820248653	43.1219306	5.9296865	Ken'Wok				restaurant				
+node	10820249462	43.1249374	5.9265304	Antik				restaurant				
+node	10820263882	43.1228163	5.9295106	Narrio Chicago				bar				
+node	10820290019	43.1247476	5.9266221	Asian Street				restaurant	18		Rue Jean Jaurès	
+node	10823744832	43.1236625	5.9315144	mamma lova				restaurant				
+node	10823757893	43.1244320	5.9292048	La Surprise				restaurant	235		Rue Jean Jaurès	
+node	10823770908	43.1246693	5.9313810	beam!				restaurant		83000		
+node	10823774186	43.1238905	5.9311646	Saucé				restaurant				
+node	10823777951	43.1238703	5.9314899	Croq'n Coffee				cafe				
+node	10825043823	43.1237084	5.9305377	Thaï Sabaï				restaurant				
+node	10825044620	43.1239224	5.9309815	Tuk Tuk NJ				restaurant				
+node	10825053722	43.1243330	5.9328469	Hôi An				restaurant				
+node	10825053921	43.1241506	5.9327692	Shanael				restaurant				
+node	10825064687	43.1248404	5.9334966	Su and Shi				restaurant				
+node	10825070159	43.1257960	5.9331801	Café le Colbert				bar				
+node	10825078480	43.1269017	5.9305460	Ô 2 Amis				restaurant	32		Rue Gimelli	
+node	10825089094	43.1271478	5.9304166	Mamma Sam				restaurant				
+node	10825123372	43.1277849	5.9296595	Le Terminus				restaurant				
+node	10825125912	43.1273098	5.9303183	L'Etoile de l'Inde				restaurant				
+node	10825128107	43.1276637	5.9301067	5.30 café				bar				
+node	10825146199	43.1274681	5.9295957	Addictea Cafe				restaurant	23		Rue Mirabeau	
+node	10825152843	43.1270416	5.9299075	Backstage				cafe				
+node	10825158358	43.1270468	5.9298639	Kfifen cœur du Liban				restaurant	28		Rue Gimelli	
+node	10825168340	43.1268840	5.9287739	Chenel				restaurant	123		Avenue Vauban	
+node	10827862581	43.1228088	5.9393039	La Boîte à Pâtes				restaurant				
+node	10829462757	43.1228100	5.9308182	Au bonheur des anges				cafe				
+node	10875223405	43.1247424	5.9293992	Sawa				restaurant			Rue de la Comédie	
+node	10902868418	43.1075289	5.9327293	La Racletterie				restaurant				
+node	10974677202	43.1172745	5.9360398	Immaterium Café				cafe				
+node	10974811860	43.1171220	5.9370347	Pacific				restaurant				
+node	11037226005	43.1251503	5.9728367	Le Petit Rungis				restaurant	11	83100	Rue Nicolas Appert	
+node	11178307479	43.1226006	5.9314706	Super Buvette				bar				
+node	11178386752	43.1219208	5.9345091	Ô Petit Kech				restaurant	1		Rue Saint-Vincent	
+node	11178389734	43.1225196	5.9310849	O'Boulodrome				bar	2		Rue Chevalier Paul	
+node	11178401371	43.1218734	5.9347571	Franki'Rolk Café				cafe	6		Rue Jean Aicard	
+node	11197353015	43.1215473	5.9336483	Le Saint Cyprien				restaurant	23		Place de la Cathédrale	
+node	11200251028	43.1277774	5.9269873	Café Culturel				cafe				
+node	11226674037	43.1075688	5.9326209	La Racletterie				restaurant				
+node	11245427709	43.1192213	5.9353594	Fenua Food				restaurant				
+node	11255891632	43.1205340	5.9328808	Espit Chupitos				bar				
+node	11255964654	43.1207883	5.9331880	Bar de la Halle				bar				
+node	11255985333	43.1206952	5.9331883	L escale				cafe				
+node	11256029132	43.1209906	5.9344003	Fast Food Cambodge				restaurant	83		Cours Lafayette	
+node	11256039276	43.1210554	5.9344386	Perle d'Orient				restaurant	79		Cours Lafayette	
+node	11341149543	43.1231068	5.9338216	TEILLE.BOU				bar				
+node	11341520078	43.1245603	5.9302409	Hanawa				restaurant				
+node	11341553269	43.1237059	5.9325997	Yes Tea				cafe	79		Rue Muraire	
+node	11360483475	43.1232257	5.9338586	The  beer nursery				bar				
+node	11598082932	43.1205152	5.9349687	La Maison Vietnamienne				restaurant				
+node	11618531215	43.1240974	5.9280207	Au Bouchon Provençal				restaurant				
+node	11645519103	43.1237565	5.9315166	La Kemia				restaurant				
+node	11683982032	43.1232636	5.9342555	Café Culture				cafe	24	83000	Rue Paul Lendrin	
+node	11684745545	43.1254110	5.9324214	Le Bistrok				restaurant				
+node	11727171413	43.1227785	5.9341479	Gino				restaurant	54	83000	Rue Alezard	
+node	11792048732	43.1231950	5.9315967	Café Vélo Pharmacycles				cafe		83000	Rue Cesar Vezzani	
+node	11832252969	43.1207746	5.9327440	Ma Nine				restaurant	3	83000	Place de la Poissonnerie	
+node	11832263369	43.1076702	5.9479743	L'O Beach				restaurant		83000	Plage du Mourillon	
+node	11935152632	43.1225369	5.9302537	Street Bar				restaurant				
+node	11949626771	43.1231194	5.9345093	Listo Arepas				restaurant				
+node	12115812901	43.1282215	5.9071504	Brasserie Le Còte D' Azur				bar		83200	Avenue du XVème Corps	
+node	12204960576	43.1314131	5.9324556	Le Bar Sainte-Anne				bar				
+node	12229736000	43.1232152	5.9340454	Léonie				cafe	15	83000	Rue Paul Lendrin	
+node	12237515092	43.1223087	5.9304223	Dark Side				bar				
+node	12281579108	43.1229740	5.9343379	Frankie				restaurant				
+node	12281765902	43.1226683	5.9320008	Dégus'Thé				restaurant	24	83000	Rue Pierre Semard	
+node	12317699274	43.1196901	5.9345878	Ma'a Tahiti				restaurant	41	83000	Rue du Murier	
+node	12398226753	43.1071757	5.9437730	Milady Mourillon				restaurant				
+node	12398226755	43.1070063	5.9431336	Petit Sud				restaurant				
+node	12785734558	43.1231870	5.9322445	L'Oustau				restaurant				
+node	12828298559	43.1118331	5.9395012	Tita Restaurant				restaurant				
+node	13008999503	43.1176502	5.9059792	La Naïade				bar				
+node	13009001701	43.1197025	5.9052701	Le Donjon				bar				
+node	13059359905	43.1227866	5.9343428	Mellow Coffee Spot				cafe				
+node	13062991301	43.1130440	5.9500372	Café des amis				bar				
+node	13312901588	43.1219172	5.9324853	Natif records				cafe	1	83000	Rue Émile Zola	
+node	13318061129	43.1254311	5.9323919	Eros Cruise				bar				
+node	13355651291	43.1284586	5.9280192	chalucet café				cafe				
+node	13355701409	43.1282368	5.9286254	Bar du Rhône				bar				
+node	13355712083	43.1284824	5.9279328	Boy's Paradise				nightclub				
+node	13401607230	43.1202122	5.9347013	Le Carthage				restaurant				
+node	13433028427	43.1073555	5.9466059	L'Stac				restaurant	8	83000	Plage du Mourillon	
+node	13529050912	43.1272716	5.9286721	Kfifen coeur du Liban				restaurant	28	83000	Rue Gimelli	
+node	13555935662	43.1123861	5.9400698	AOC41				restaurant	41	83000	Rue Pascal	
+node	13658648867	43.1228337	5.9316054	Croquez moi				cafe				
+node	13786946111	43.1075985	5.9495808	Le Yen				restaurant				
+node	13915017860	43.1225648	5.9345042	Jeanne				bar				
+node	13915026568	43.1224104	5.9344443	La Scélérate				bar				
+node	13922716883	43.1117821	5.9391315	Rajmahal				restaurant				
+node	13922788181	43.1118924	5.9390099	Rendez-vous à Saigon				restaurant				
+node	13922810693	43.1088717	5.9408410	FocaChérie				restaurant	87		Boulevard Sainte Hélène	
+node	13970057622	43.1221726	5.9338924	CAFÉ BILTOKI				cafe				
+node	13971078008	43.1238105	5.9314166	Badaboum				bar				
+node	14011479692	43.1201193	5.9350205	MAYOL				restaurant		83000	Centre Commercial Mayol - Rue du Mûrier	
+node	14030444599	43.1266127	5.9298336	Le Faron				bar				
+node	14049725953	43.1265637	5.9316600	Celenya				restaurant				
+node	14255074021	43.1239285	5.9338153	FloraBio				restaurant	15	83000	Rue Corneille	
+node	14308860623	43.1283539	5.9271685	Bistrot Chalucet				restaurant	30		Rue Jean de Chaumont	
+node	14320699979	43.1249919	5.9331468	Charl's				restaurant				
+way	145047768	43.1240375	5.9577715	La Coquette				restaurant				
+way	145062111	43.1254609	5.9564310	Restaurant les trois platanes				restaurant				
+way	145318604	43.1400824	5.8944619	Valbert Pizza				restaurant				
+way	145318763	43.1281075	5.9174485	Le las				bar				
+way	145318780	43.1283245	5.8902420	Indochine				restaurant				
+way	145321283	43.1281780	5.9171831	Unic bar				bar				
+way	145360452	43.1274030	5.9423800	La civette de la loubière				bar	2	83000	Bd Georges Richard	
+way	145364095	43.1321670	5.9323080	Le Comptoir Moderne				bar	111	83000	Boulevard Sainte-Anne	
+way	146106612	43.1407345	5.9038080	Les Jardins de Sidi Bou Saïd				restaurant				
+way	146128336	43.1427445	5.8914110	A Scontrata				restaurant				
+way	385741158	43.1400079	5.8945298	Valbert Presse				cafe		83200		
+way	1161609020	43.1194962	5.9333520	Istanbul Grill				restaurant	394		Avenue de la République	
+way	1275726094	43.1259329	5.9784032	Restaurant scolaire du lycée Rouvière				restaurant				
+way	1377285410	43.1176650	5.9395805	Cafétéria				cafe				
+relation	2131052			Tourrettes	8	83440	83138					
+node	11581613257	43.6099315	6.7280045	L'annexe				restaurant				
+node	14078709415	43.5946209	6.7310822	Le Faventia				restaurant				
+node	14078709416	43.5944134	6.7306895	Le Gaudina				restaurant				
+node	14078709430	43.5953123	6.7318106	Le Tousco Grill				restaurant				
+relation	2691239			Tourtour	8	83690	83139					
+node	987717032	43.5891214	6.3024655	La Farigoulette				restaurant				
+node	987717115	43.5893114	6.3026955	Bar des Ormeaux				bar				
+node	3062555167	43.5888777	6.3037470	La Table				restaurant				
+node	3062604877	43.5893648	6.3026130	La Place				restaurant				
+node	3062611585	43.5894124	6.3025540	Le Relais Saint Denis				restaurant		83690	Place des Ormeaux	
+node	7274744799	43.5891226	6.3014866	La Mimounia				restaurant				
+node	7274744800	43.5891942	6.3017260	Barjaca				restaurant				
+node	10662009047	43.5963811	6.2840285	Les Chênes Vert				restaurant		83690	Route de Villecroze	
+node	10663898299	43.5893876	6.3022187	Le Pacha				restaurant	13	83690	Place des Ormeaux	
+node	10664217259	43.5893104	6.3027015	Bar des Ormeaux				restaurant		83690	Place des Ormeaux	
+relation	2694730			Tourves	8	83170	83140					
+node	4737769417	43.4078577	5.9241752	Bar de la Fontaine				bar		83170	Place de l'Hôtel de Ville	
+way	640120780	43.4067023	5.9240614	Cantine Scolaire				restaurant				
+relation	190815			Trans-en-Provence	8	83720	83141					
+node	1858742933	43.5041870	6.4865070	Restaurant La Grotte				restaurant		83720	Place des Moulins	
+node	3603738663	43.5089652	6.4792559	Little Italy				restaurant				
+node	8592063542	43.5028890	6.4865333	Tibistro Chez Doudou				bar	18	83720	Rue Nationale	
+node	8592099765	43.5036263	6.4868283	Bistro Pastis				restaurant		83720	Place de l'Hôtel de Ville	
+node	8599472358	43.5036468	6.4845909	Café de la Gare				cafe				
+node	11372339768	43.5034241	6.4867899	Le Bar Jo				bar				
+way	66169569	43.5141944	6.4759659	Buffalo Grill				restaurant		83720	Route de Draguignan	
+way	66179216	43.5007977	6.4857316	Le Moulin de la Gardiole				restaurant	70	83720	Montée de l'Hermitage	
+relation	2135199			Trigance	8	83840	83142					
+node	1423272249	43.7952093	6.4431898	Le Moulin de Soleils				restaurant				
+node	2987527433	43.7613390	6.4446587	Le piccolo				bar	2	83840	Place Giraud	
+node	8709567705	43.7613425	6.4446750	Le Piccolo				restaurant		83840	Place Giraud	
+relation	2694577			Le Val	8	83143	83143					
+node	4610053165	43.4386679	6.0726729	La Fontaine				restaurant	2	83143	Place du Consul Debergue	
+node	4625320594	43.4400328	6.0748704	La Crémaillère				restaurant	23	83143	Rue Nationale	
+node	4625585117	43.4540930	6.0990549	Les chutes du Grand Baou				restaurant				
+node	9887117718	43.4394942	6.0730496	Café des Sports				cafe				
+node	9887134518	43.4393132	6.0732085	Le Central				bar				
+way	522154599	43.4404320	6.0709016	Restaurant des Écoles				restaurant				
+relation	76463			La Valette-du-Var	8	83160	83144					
+node	3339954428	43.1381189	5.9840538	Mamies Rotisseuses				restaurant	65	83160	Avenue du Char Verdun	
+node	3339954429	43.1381311	5.9840970	Le bar bu				bar	65	83160	Avenue du Char Verdun	
+node	6617493856	43.1363215	6.0071264	Chez le Brasseur				restaurant	300	83160	Avenue de l'Université	
+node	6617525157	43.1363598	6.0069289	Durant La Joie				restaurant	300	83160	Avenue de l'Université	
+node	7147159641	43.1364304	6.0074818	Arbora Café				restaurant	300	83160	Avenue de l'Université	
+node	7147159642	43.1365168	6.0075194	Old Wild West				restaurant	300	83160	Avenue de l'Université	
+node	9815603758	43.1368497	5.9812537	L'Étoile Corse				restaurant				
+node	11147951082	43.1361173	6.0032522	WingStop				restaurant				
+node	11148228882	43.1365923	5.9996883	La côte et l'arête				restaurant				
+node	11148228884	43.1358499	5.9973624	Ô Bouddha				restaurant				
+node	11189120510	43.1363699	6.0074597	Starbucks				cafe				
+node	11189130839	43.1367654	6.0070921	QO Sushi				restaurant				
+node	11449088576	43.1417452	6.0117840	Restaurant IKEA Toulon				restaurant		83160	A57 Zac Valgora, Château Redon	
+node	11983095633	43.1354560	5.9980282	Food Factory				restaurant				
+node	12009239256	43.1383093	5.9906926	L'Aristocloche				restaurant				
+node	12296582908	43.1382402	5.9830266	La Valettoise				restaurant				
+node	14050776411	43.1364121	6.0021270	Le palais d'asie				restaurant	245	83160	Avenue de l'Université	
+node	14051219561	43.1368068	6.0058532	L'Avant Goût				restaurant				
+node	14051219564	43.1384512	6.0071941	Columbus Café & Co				cafe				
+way	147690862	43.1384090	6.0159745	Salade & co				restaurant				
+way	147895868	43.1371415	6.0014245	Courtepaille				restaurant				
+way	442899608	43.1355191	6.0105110	Cafétéria SeaTech				restaurant	X	83130	Avenue de l'Université	
+relation	2697344			Varages	8	83670	83145					
+node	6054444565	43.5972815	5.9602696	Le Provence				restaurant				
+node	6772919993	43.5974007	5.9602061	Provence				bar				
+node	6772919994	43.5982906	5.9605893	Bar de la Foux				bar				
+way	400344377	43.5983525	5.9605805	Pizzéria de la Foux				restaurant				
+relation	2162209			La Verdière	8	83560	83146					
+node	2104143682	43.6371828	5.9356589	Bar des Sports				bar				
+way	400337552	43.6387575	5.9328350	L'auberge du Pont				restaurant	264	83560	Route de Rians	
+relation	192346			Vidauban	8	83550	83148					
+node	6691734861	43.4142758	6.4535163	Courtepaille				restaurant				
+node	12987915019	43.4160021	6.4520961	Stratto				restaurant				
+node	12987915020	43.4158914	6.4522207	Mezzoday				restaurant				
+relation	2694411			Villecroze	8	83690	83149					
+node	2484224592	43.5826465	6.2754341	Les Grottes				bar	3	83690	Rue Ambroise Croizat	
+node	3736372341	43.5620068	6.2871715	Hôtel-Restaurant "Au Bien-être"				restaurant	650	83690	Chemin du Bien-Être	
+node	4959577035	43.5819459	6.2766979	Lei Cigales				restaurant	12	83690	Place de l'Église	
+node	5860472595	43.5830459	6.2760841	Le Cercle de l'Avenir				bar	13		Place du général de Gaulle	
+node	5860472598	43.5829614	6.2759023	La Place... A côté				restaurant	9		Place du Général de Gaulle	
+node	7143160278	43.5817740	6.2777510	Les Sources				restaurant	185		Route de Draguignan	
+node	7739953820	43.5830148	6.2760169	La place				restaurant				
+node	7739953875	43.5820320	6.2756975	La bohème				cafe				
+way	240839164	43.5825500	6.2754530	La Cascade				restaurant	3	83690	Rue Ambroise Croizat	
+way	240846028	43.5522981	6.3018866	Hôtel-restaurant Les Esparrus				restaurant				
+relation	73862			Vinon-sur-Verdon	8	83560	83150					
+node	2971345063	43.7296775	5.8131507	Le Hameau				restaurant				
+node	5890255556	43.7257133	5.8117872	Le Mistral				restaurant				
+node	5892473097	43.7258086	5.8121342	Vinon Pizzas				restaurant				
+node	5892473098	43.7255521	5.8118049	La Dolcezza Di Giuseppe				restaurant	130		Esplanade du Cours	
+node	5892879548	43.7253938	5.8118422	San vero				restaurant			Esplanade du Cours	
+node	5892879549	43.7255101	5.8118109	Le Bistrot Du Cours				restaurant	134		Esplanade du Cours	
+way	91043440	43.7269442	5.8123998	Restaurant Scolaire				restaurant				
+way	91046156	43.7364621	5.7926585	Le Planeur				restaurant	919		Route de l'Aérodrome	
+way	91046938	43.7290239	5.8128218	Pizzéria-grill				restaurant	80		Rue Saint-André	
+way	91050448	43.7408388	5.7938712	Rock Star				nightclub				
+way	358371672	43.7270189	5.8086134	Restaurant Scolaire				restaurant				
+way	620650260	43.7340957	5.8060728	Carriole du Fin Gourmet				restaurant	605		Route de Manosque	
+way	1388800422	43.7261116	5.8123233	La Guinguette du Cours				biergarten				
+relation	2148011			Vins-sur-Caramy	8	83170	83151					
+node	11090409209	43.4338943	6.1423445	Le Baramy				bar				
+relation	970873			Rayol-Canadel-sur-Mer	8	83820	83152					
+node	6645812587	43.1576803	6.4650756	Le Tropicana				restaurant	11 b		Avenue Docteur Ratynski	
+node	7100376934	43.1603542	6.4783254	Le Maurin des Maures				restaurant				
+node	7102144033	43.1577105	6.4644289	L'Ancre d'or				restaurant				
+node	11015704847	43.1597597	6.4785349	Jardin Cabane Bambou				restaurant	4	83820	Avenue du Capitaine Thorel	
+node	12621130570	43.1557064	6.4837494	Le Café des Jardiniers				restaurant				
+node	12748386507	43.1563973	6.4765195	Boukarou Beach				restaurant				
+way	175262403	43.1533070	6.4482326	Mirages à la plage				restaurant				
+way	175262563	43.1580405	6.4649630	Tropicana club				restaurant	11c	83820	Avenue Docteur Ratynski	
+relation	78571			Saint-Mandrier-sur-Mer	8	83430	83153					
+node	3048959593	43.0768260	5.9278043	Café de la Place				bar				
+node	6017445059	43.0785365	5.9235417	Restaurant des Pêcheurs				restaurant				
+node	6017585131	43.0787814	5.9280118	Zanzi'Bar				pub				
+node	6017585133	43.0781340	5.9287963	La Goélette				restaurant				
+node	6017585134	43.0777611	5.9291405	Le Mistral				pub				
+node	6017587405	43.0786270	5.9281966	Le Calypso				restaurant				
+node	6017946727	43.0794176	5.9270951	Au Roy d'Ys				restaurant	18		Quai Jean Jaurès	
+node	10020411231	43.0788123	5.9232519	Bistrot Du Port				restaurant				
+node	11195260414	43.0820719	5.9212428	Le p'tit creux				restaurant				
+node	11195301508	43.0817588	5.9213619	L'élixir lounge club				nightclub				
+node	12022621357	43.0770748	5.9269251	Le Dragon d'Asie				restaurant				
+node	12022621358	43.0770122	5.9269806	Le Lamparo				restaurant				
+way	205053595	43.0725150	5.9072505	Saint-Asile				bar				
+way	208554418	43.0802775	5.9264950	Gout Thé II				restaurant				
+relation	2694442			Saint-Antonin-du-Var	8	83510	83154					
+way	400892744	43.5256570	6.2775360	Ferme-Auberge de Château Mentone				restaurant	401	83510	Chemin de Mentone	

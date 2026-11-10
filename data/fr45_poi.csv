@@ -1,0 +1,1101 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	164830			Adon	8	45230	45001					
+node	7054618906	47.7634178	2.7964645	L’Auberge d’Adon				restaurant	1	45230		
+relation	111133			Aillant-sur-Milleron	8	45230	45002					
+node	2547068870	47.7932393	2.9289990	Le Pressoir				cafe				
+relation	111045			Amilly	8	45200	45004					
+node	926355290	47.9763211	2.7388708	Campanile				restaurant				
+node	1868452998	47.9745531	2.7675613	Bar du Centre				pub				
+node	2080300246	47.9685248	2.7739056	La Marina				restaurant				
+node	2080605129	47.9911854	2.7688981	Bar des Jockeys				bar				
+node	4563932099	47.9768375	2.7311784	Pouce Cafe				bar				
+node	6744517390	47.9763770	2.7336062	Au Bureau				restaurant				
+node	6744523787	47.9739339	2.7369197	Wokasie				restaurant				
+node	6926321788	47.9869157	2.8041100	L'Atelier				cafe				
+node	12790120606	47.9648048	2.7350463	Volfoni Amilly				restaurant	17	45200	Rue de la Rose Blanche	
+way	95652549	47.9800410	2.7333765	Le Bergerac				bar				
+way	95656319	47.9778630	2.7282775	Buffalo Grill				restaurant	675	45200	Rue de l'Europe	
+way	161391949	47.9782690	2.7356065	La Boucherie				restaurant	688	45200		
+way	283921408	47.9745555	2.7350677	Restaurant à la bonne heure				restaurant		45200		
+way	1006820312	47.9725983	2.7496320	Le Saint-Firmin				bar				
+relation	150873			Ardon	8	45160	45006					
+node	12803853527	47.8221961	1.9124047	La Table				restaurant	200		Allée des Quatre Vents	
+relation	148217			Artenay	8	45410	45008					
+node	4939634223	48.0817431	1.8782871	La Fontaine				restaurant				
+way	152755462	48.0816625	1.8746350	Orléans Nord - Artenay				restaurant	29		Rue de Chartres	
+relation	151268			Augerville-la-Rivière	8	45330	45013					
+node	7139448288	48.2510195	2.4390925	Le Jacques Cœur				restaurant			Place du Château	
+relation	149641			Autruy-sur-Juine	8	45480	45015					
+node	2993034351	48.2754845	2.1014747	Hôtel-du Cygne				restaurant	17	45480	Rue de la Libération	
+relation	150877			Baule	8	45130	45024					
+node	1870288026	47.8105310	1.6700336	Le Baulois Bar, Tabac, FDJ				bar				
+node	1870288028	47.8106195	1.6701641	Le Family Grill				restaurant				
+node	1870288048	47.8101880	1.6701082	Au Clos des Vignes				restaurant	5	45130	Rue André Raimbault	
+node	11483099954	47.8189350	1.6793091	La Brasserie				restaurant				
+way	1386101875	47.7973671	1.6833635	Corne des Patures				biergarten				
+way	1386101876	47.7975330	1.6832769	Corne des Patures				cafe				
+way	1562800064	47.8202821	1.6821309	V and B				bar			Les Coutures	
+relation	150879			Beaugency	8	45190	45028					
+node	598690720	47.7781308	1.6283664	Le Maryland				cafe	20			
+node	1436451711	47.7789862	1.6319471	Le Petit Bateau				restaurant		45190	Rue du Pont	
+node	1970861309	47.7785111	1.6283206	O' Délices				restaurant				
+node	2889682445	47.7768615	1.6312377	Le Patio				restaurant				
+node	2889682446	47.7768199	1.6312862	L'Idée				restaurant				
+node	2889704087	47.7770700	1.6298455	Café de l'Agriculture				bar			Rue de la Maille d'Or	
+node	2917332437	47.7776766	1.6345258	Au Coin du Pont				bar				
+node	2917851114	47.7771373	1.6312880	Made in Loire				bar				
+node	2917869521	47.7804361	1.6314560	Le Rally				cafe				
+node	3089026243	47.7776330	1.6288257	L'Arganier				restaurant	17		Rue de la Maille d'Or	
+node	3093150897	47.7784594	1.6332059	La Crep'Zéria				restaurant				
+node	3102811342	47.7771994	1.6312407	Le Balto				cafe				
+node	3102871327	47.7774033	1.6310911	Thaï Moon				restaurant				
+node	3137368389	47.7790295	1.6315810	Chez Henri				restaurant	43		Rue du Pont	
+node	3439170620	47.7843734	1.6174433	Royal Burger				restaurant				
+node	3462424030	47.7745269	1.6230383	L'After				bar				
+node	3789360290	47.7780484	1.6328431	Les Pieds sous la Table d'Adeline				restaurant				
+node	3789382949	47.7770438	1.6333077	La Bouchée				restaurant				
+node	3807561161	47.7774874	1.6300492	Brasserie Téo Jasmin				restaurant				
+node	4143271780	47.7767886	1.6305601	Café Jo				cafe				
+node	9790719992	47.7895145	1.6427166	Lian				restaurant	73		avenue d'Orléans	
+node	10998215805	47.7764902	1.6408591	La Paillotte				restaurant				
+relation	164406			Beaulieu-sur-Loire	8	45630	45029					
+node	4924420536	47.5428948	2.8167771	L'Escale de Beaulieu				bar				
+node	4924420537	47.5434734	2.8175483	La Place d'Armes				restaurant				
+node	4924427474	47.5422702	2.8172511	Auberge de La Tour, Pizzeria				restaurant				
+relation	149086			Beaune-la-Rolande	8	45340	45030					
+node	599928972	48.0841246	2.4717346	Leo Resto				restaurant				
+relation	165920			Bellegarde	8	45270	45031					
+node	12999509001	47.9879749	2.4423600	Café du Château / The Route 66				restaurant				
+relation	157729			Le Bignon-Mirabeau	8	45210	45032					
+node	1833891911	48.1471139	2.9226824	Le Relais Mirabeau				restaurant	5	45210	Place Mirabeau	
+node	1850646853	48.1471356	2.9226750	Le Relais Mirabeau				bar	5	45210	Place Mirabeau	
+relation	147560			Boigny-sur-Bionne	8	45760	45034					
+node	4843620773	47.9217056	2.0103836	Café des Sports				cafe	3	45760	Place Chevaliers de Saint-Lazare	
+node	10691087294	47.9372473	2.0118222	Restauval				restaurant	400	45760	Rue du Grand Bouland	
+way	272062549	47.9299338	2.0024131	La Cafette				restaurant	2	45760	Rue de la Motte aux Saulniers	
+relation	164851			Boismorand	8	45290	45036					
+node	5994255876	47.8005509	2.7392175	Auberge des Templiers				restaurant				
+relation	165319			Les Bordes	8	45460	45042					
+node	11862643057	47.8117995	2.4052746	La Bonne Étoile				restaurant				
+relation	148219			Bou	8	45430	45043					
+node	4843434814	47.8741107	2.0468654	Au P'tit bou de Nanou				bar	1	45430		
+relation	165924			Boulay-les-Barres	8	45140	45046					
+node	14321327539	47.9675899	1.7799719	Chez Mimi				bar				
+relation	164890			Bouzy-la-Forêt	8	45460	45049					
+way	502146874	47.8513014	2.3782265	Café de la Mairie				cafe				
+relation	6837803			Bray-Saint-Aignan	8	45460	45051					
+node	10098199383	47.8300288	2.3655943	Bray'K Bar				bar		45460		
+relation	164903			Briare	8	45250	45053					
+node	4876652021	47.6330210	2.7403750	Auberge du Pont Canal				restaurant				
+node	6248165051	47.6384969	2.7341093	Le Saint-Hubert				bar				
+node	12248067248	47.6439772	2.7398818	Restaurant Le Séquoia				restaurant	2	45250	Rue de la Plaine	
+node	13050408520	47.6085320	2.7762255	Le relais de Chatillon (relais routier)				restaurant	9015	45250	Gare de Châtillon	
+way	142522804	47.6411075	2.7364725	Le Balto				pub				
+way	142522860	47.6346275	2.7432555	Le Midi				restaurant				
+way	142522964	47.6395656	2.7373286	Le Petit Saint-Trop				restaurant				
+way	142523357	47.6432625	2.7349185	Café de la Gare				cafe				
+way	142523385	47.6393590	2.7384020	Le Bord'eau				restaurant				
+way	142526625	47.6392420	2.7383575	RIKKY				bar				
+way	142527286	47.6385200	2.7340380	Le Saint-Hubert				restaurant				
+way	142528773	47.6394645	2.7381940	Créa Thé				cafe				
+way	142529426	47.6388105	2.7389370	Le Clos des Aromes				restaurant				
+way	142529451	47.6478275	2.7350825	Restaurant l'Estancia				restaurant				
+way	142529544	47.6397860	2.7378260	Le Caralon				restaurant				
+way	142529574	47.6383208	2.7390265	L'Agriculture				cafe				
+way	142529949	47.6411740	2.7357895	La Grillade				restaurant				
+way	142530093	47.6395400	2.7381070	L’hydropathe				restaurant				
+relation	151269			Briarres-sur-Essonne	8	45390	45054					
+node	5936469259	48.2290960	2.4275158	Le Relais Briarrois				bar				
+node	10914600495	48.2312109	2.4330763	Les amis du moulin ( restaurant associatif)				restaurant	499	45390	Rue de Buisseau	
+relation	148220			Bucy-Saint-Liphard	8	45140	45059					
+node	6670547121	47.9349859	1.7657038	Le Rendez-vous des Chasseurs				bar				
+relation	165292			La Bussière	8	45230	45060					
+node	13249815649	47.7441069	2.7493965	Le Petit Relais				restaurant	3	45230	Rue de Briare	
+node	13249863128	47.7352161	2.7458960	Le Nuage				restaurant				
+relation	164906			Cepoy	8	45120	45061					
+node	2128079252	48.0454212	2.7391339	Bar de la Marine				bar				
+node	13065518919	48.0447960	2.7386427	La Taverne de l'Ecluse				restaurant	2	45120	Rue de l'Écluse	
+relation	148205			Cercottes	8	45520	45062					
+node	13460801361	47.9857680	1.8831337	Le Cercottois				restaurant				
+way	344690775	47.9839410	1.8826600	Fleur de Sel				restaurant	68	45520	RN 20	
+relation	149252			Cerdon	8	45620	45063					
+way	352570788	47.6364767	2.3625160	Le Grill de Cerdon				restaurant	21	45620	Place du Marché	
+relation	164383			Cernoy-en-Berry	8	45360	45064					
+node	13974301478	47.5402856	2.6615211	Le Saint-Loup				restaurant				
+relation	110091			Chailly-en-Gâtinais	8	45260	45066					
+node	11099776502	47.9485802	2.5436944	Chez les Filles				bar				
+relation	148211			Chaingy	8	45380	45067					
+node	5211676625	47.8832725	1.7724091	Café de la Place				cafe				
+node	9081736983	47.8830856	1.7727138	Le Cambien				bar				
+way	311187405	47.8755648	1.7983614	Le Relais de Fourneaux				restaurant	43	45380	Route d'Orléans	
+relation	164930			Châlette-sur-Loing	8	45120	45068					
+node	3275177962	48.0129724	2.7313452	Le Jean Jaurès				bar				
+node	3656710078	48.0192999	2.7153967	Café des Sports				pub				
+node	4697549122	48.0120124	2.7379615	Au Bon coin				bar				
+node	6743881685	48.0073567	2.7202259	Dila				restaurant				
+node	6763917387	48.0210047	2.7374565	Les Acacias				restaurant		45120		
+node	7950864869	48.0240150	2.7274210	Restaurant sur le Lac				restaurant				
+relation	148483			Chambon-la-Forêt	8	45340	45069					
+node	806440662	48.0655458	2.2858295	Auberge de la Rive du Bois				restaurant				
+node	3750292331	48.0557834	2.2966930	Le relais de la foret				bar				
+relation	147553			Chanteau	8	45400	45072					
+node	9870735568	47.9683103	1.9658091	Domaine de la Brosette				bar	674	45400	Route d'Orléans	
+node	12467245048	47.9546584	1.9381900	Eurest				restaurant		45400	Route de la Fontaine à Mignan	
+relation	15738793	47.9545488	1.9381983	Batiment 033				restaurant				
+relation	164935			Chantecoq	8	45320	45073					
+node	8909581484	48.0528464	2.9600242	Le Chantecoq				bar				
+node	9571410831	48.0536168	2.9643558	Café Ephémère des Vallées Gâtinaises				cafe		45320		
+relation	148475			La Chapelle-Saint-Mesmin	8	45380	45075					
+node	1363146027	47.8964786	1.8535257	First Grill				restaurant		45380	Rue de la Chistera	
+node	1723826174	47.8874701	1.8400120	Au Bon Coin				pub				
+node	4356151715	47.8931060	1.8507272	Côté Saveurs				restaurant	55	45380	Route d'Orléans	
+node	4836572063	47.8896013	1.8376869	Les Tilleuls				bar	23	45380	Rue Nationale	
+node	5550920127	47.8955612	1.8530992	P'tit Bouche				restaurant				
+node	5550920128	47.8954611	1.8532085	Chat Noir Chat Blanc				restaurant				
+node	5550920129	47.8978565	1.8537972	Horizon 4				restaurant				
+node	11118163105	47.8975768	1.8541487	L'atypique				restaurant	5	45380	Rue de la Chistera	
+way	39035945	47.8997172	1.8532749	Campanile				restaurant				
+way	328137023	47.8953966	1.8551739	Buffalo Grill				restaurant				
+relation	148763			Charsonville	8	45130	45081					
+node	5815553759	47.9283908	1.5794873	Le Lucky's				restaurant	7			
+node	5815559707	47.9286748	1.5783903	Les Routiers				restaurant	15			
+relation	148201			Châteauneuf-sur-Loire	8	45110	45082					
+node	815155514	47.8659695	2.2192706	Brasserie de l'Europe				restaurant	7	45110	Place Aristide Briand	
+node	2306397754	47.8614216	2.2017615	Castel Pizza				restaurant	79		Route d'Orléans	
+node	2306406106	47.8598702	2.1981673	La Gabereau				restaurant				
+node	2306424964	47.8631326	2.2237492	Le lotus d'or				restaurant	77	45110	Grande Rue	
+node	2306424968	47.8632085	2.2234009	Aux Copains d'Abord				bar				
+node	2306453042	47.8646016	2.2197532	Brasserie des Arts				bar	2	45110	Rue de la Vrillière	
+node	2306453043	47.8636514	2.2198927	New Kebab Pacha				restaurant	28	45110	Grande Rue	
+node	2306453046	47.8636695	2.2197720	Le Celtique				bar	26	45110	Grande Rue	
+node	2306453047	47.8636857	2.2196110	Le Marigny				bar	22	45110	Grande Rue	
+node	2306453049	47.8644685	2.2195949	La Baleine				bar				
+node	2306453051	47.8647179	2.2196100	La fine bouche				restaurant	4	45110	Rue de la Vrillière	
+node	6715301186	47.8644689	2.2191720	La Gabare				restaurant	7	45110	Rue de Lattre de Tassigny	
+node	9947857236	47.8601260	2.2231906	Bar de la Loire				bar	81	45110	Grande Rue du Port	
+node	10278723779	47.8632529	2.2224133	bar à chats				cafe	88	45110	Grande Rue	
+node	11466730143	47.8628875	2.2045284	La P'tite Parlotte				restaurant				
+node	12525870647	47.8601050	2.2233242	auberge du Port				restaurant	83	45110	Grande Rue du Port	
+node	12525942649	47.8626135	2.2240028	Le Rob				restaurant	112	45110	Grande Rue	
+way	91167706	47.8638281	2.2193143	pizza di Napoli				restaurant				
+relation	164939			Château-Renard	8	45220	45083					
+node	954339920	47.9326867	2.9272153	Le Sauvage				restaurant				
+node	1116188504	47.9310132	2.9278800	Le Bar du Marché				bar				
+node	1949484926	47.9316690	2.9277793	Café Tabac du Berry				cafe	51	45220	Rue Aristide Briand	
+node	1992271871	47.9278390	2.9276227	Le Melanippe				restaurant				
+node	1992271875	47.9278924	2.9276905	Le Melanippe				bar				
+node	2528405021	47.9331672	2.9270550	Bar du Donjon				restaurant				
+node	3026980494	47.9325911	2.9277565	Kapital				cafe				
+node	3028187811	47.9325953	2.9269943	Andiamo Pizza				restaurant				
+node	3708559695	47.9329401	2.9280113	Le blé d'or				restaurant	31	45220	Rue Paul Doumer	
+node	9572963074	47.9307847	2.9253308	Bières Artisanales des vallèes Gâtinaises				bar		45220	Rue des Cerisiers	
+node	9572994142	47.9308054	2.9253683	Pause Détente des vallées Gâtinaises				cafe		45220	Rue des Cerisiers	
+way	463606616	47.9295232	2.9260902	Kiosque à Pizza				restaurant				
+relation	164942			Châtenoy	8	45260	45084					
+way	239970839	47.9183290	2.3964820	Auberge de l'étang				restaurant	2	45260		
+way	239970857	47.9189125	2.3970165	Le relais de Châtenoy				restaurant	1	45260		
+relation	111149			Châtillon-Coligny	8	45230	45085					
+node	3412172386	47.8232847	2.8466545	Casa Pizza				restaurant	21			
+node	3412208296	47.8234411	2.8460843	Pizzaria l’Eden				restaurant	9			
+node	3412535231	47.8206685	2.8468683	L'Auberge du Cheval Rouge				restaurant	6			
+node	10964094923	47.8223521	2.8459675	Au Corridor Des Arts				bar				
+node	13897606964	47.8217063	2.8454433	L'Amiral				pub				
+node	13897606968	47.8225812	2.8454488	Café de France				cafe				
+node	13897606970	47.8223318	2.8460612	Kebabland 2				restaurant				
+way	240305579	47.8218906	2.8436258	Le Coligny				restaurant	32			
+relation	164418			Châtillon-sur-Loire	8	45360	45087					
+node	7843277556	47.5945082	2.7570279	Le vieux port				restaurant				
+way	352535585	47.5916030	2.7665065	Le relais de Mantelot				restaurant				
+relation	148224			Chécy	8	45430	45089					
+node	2400720902	47.8915731	2.0257140	Le Week-end				restaurant	1	45430	Place du Cloître	
+node	4836776230	47.8919204	2.0229754	O'Bistro				bar	21	45430	Rue du Maréchal Leclerc	
+node	9975417931	47.9057624	2.0332010	V and B Chécy				bar	20	45430	Rue Gustave Eiffel	
+node	10285808345	47.9210265	2.0121592	Au Pont de Boigny				restaurant	2	45430	Rue de Ponchapt	
+node	11582516201	47.9044956	2.0379292	Plaza del Sol				restaurant		45430	Rue Alfred Kastler	
+node	11582612320	47.9051523	2.0383342	Bar à Sushi				restaurant		45430		
+node	11583814027	47.8918168	2.0245144	Pizza Cy				restaurant	2	45430		Place Jeanne d'Arc
+node	12082816444	47.8971600	2.0249175	La Detente				cafe	125	45430	Avenue Nationale	
+node	12082853244	47.8983582	2.0188326	Bon'Gosto				restaurant	78	45430	Avenue Nationale	
+relation	110096			Chevillon-sur-Huillard	8	45700	45092					
+way	159264197	47.9627873	2.6266824	Au Bonheur Tranquille				bar	37	45700	Grande Rue	
+relation	148200			Chevilly	8	45520	45093					
+node	4619372372	48.0252844	1.8745567	Le Petit Raboliot				bar				
+relation	149113			Chilleurs-aux-Bois	8	45170	45095					
+node	7139448285	48.0711341	2.1348537	Le Lancelot				restaurant	12	45170	Rue des Déportés	
+node	10652415747	48.0718787	2.1345874	Le Lazio				bar	33		Grande Rue	
+node	10652415748	48.0720817	2.1348524	À La Tête de Veau				restaurant	27		Grande Rue	
+node	10652420155	48.0716952	2.1346513	Le Concorde				restaurant				
+relation	164949			Chuelles	8	45220	45097					
+node	8909581486	48.0027963	2.9658902	Le Cheval Blanc				bar				
+relation	150412			Cléry-Saint-André	8	45370	45098					
+node	11778268674	47.8348178	1.7676890	Clos Q'Hâtre				restaurant			Rue du Hâtre	
+node	12162352329	47.8190587	1.7595035	Hôtel Restaurant Villa des Bordes				restaurant	9	45370	Rue des Bordes	
+relation	148213			Combleux	8	45800	45100					
+node	4839092954	47.8991575	1.9854944	La Marine				restaurant	12	45800	L'Embouchure	
+node	9793471259	47.9004238	1.9847525	La Guinguette de l’Écluse				nightclub	1B	45800	Chemin de l'Église	
+node	11778348710	47.9005014	1.9847992	Guinguette de l’Ecluse				bar	1B	45800	Chemin de l'Église	
+relation	148199			Combreux	8	45530	45101					
+node	806447562	47.9570717	2.3050824	Auberge de la Croix Blanche				restaurant	46	45530	Route du Gâtinais	
+node	806447563	47.9559382	2.3050287	Auberge de Combreux				restaurant				
+node	3704424339	47.9594610	2.2815049	Bar de la Plage				bar				
+relation	157726			Corbeilles	8	45490	45103					
+node	5602627881	48.0718755	2.5495403	Chez Sercan				restaurant				
+node	5602627883	48.0727115	2.5495617	Café de l'Union				bar				
+node	5602627884	48.0723262	2.5499332	Les Trois Marches				bar				
+relation	164951			Corquilleroy	8	45120	45104					
+way	606448062	48.0450150	2.6983276	Le Guillerois				restaurant	1	45120	Place de la Liberté	
+relation	164957			Coudroy	8	45260	45107					
+node	12455677061	47.9077243	2.4690171	Bistrot de Coudroy				restaurant	10	45260	Place du Bourg	
+relation	164374			Coullons	8	45720	45108					
+node	4375541692	47.6197812	2.4921041	Le Nemrod				bar				
+node	4375547389	47.6205324	2.4924515	Bistrot Gourmand				pub		45720	Rue de la Mairie	
+node	4375547489	47.6209226	2.4927386	La canardière				restaurant				
+relation	148761			Coulmiers	8	45130	45109					
+node	6753130583	47.9316100	1.6645843	Les Petit Coulmiers				pub				
+relation	165238			Courtenay	8	45320	45115					
+node	11293554625	48.0406054	3.0573373	ATLAS PIZZA				restaurant				
+node	11293554626	48.0406084	3.0573578	Raboliot				restaurant				
+relation	165241			Cravant	8	45190	45116					
+node	4777777521	47.8285045	1.5728142	Au Petit Cravantais				bar				
+relation	165243			Dammarie-en-Puisaye	8	45420	45120					
+node	8829118117	47.6261845	2.8725701	Le Relais du Donjon				restaurant	1	45420		
+relation	164530			Dampierre-en-Burly	8	45570	45122					
+node	9997193500	47.7616717	2.5189208	Le Relais, Bar Tabac				bar				
+relation	165250			Darvoy	8	45150	45123					
+node	12495882188	47.8572502	2.0985277	La Louisiane				bar	4	45150	Route d'Orléans	
+relation	157731			Dordives	8	45680	45127					
+node	1871344199	48.1504638	2.7635442	Royale Chine				restaurant				
+node	1871900016	48.1474754	2.7670998	Le Royal				restaurant				
+node	9885520516	48.1471687	2.7640976	Le Châlet				restaurant	86		Avenue de Paris	
+way	75654609	48.1473831	2.7635823	Le relais routier				restaurant				
+relation	5811998			Douchy-Montcorbon	8	45220	45129					
+node	3273679366	47.9427221	3.0536398	La Petite Auberge du Cheval Blanc				restaurant				
+node	3273679368	47.9420146	3.0568341	Le Douchyssois				restaurant				
+relation	151036			Dry	8	45370	45130					
+node	9813015225	47.7977413	1.7149580	Café de la Paix				cafe				
+relation	165253			Ervauville	8	45320	45136					
+way	242592978	48.0889395	2.9819015	Le Picotin				restaurant				
+relation	148202			Fay-aux-Loges	8	45450	45142					
+node	1716909948	47.9292389	2.1398433	Café du Canal				bar				
+node	1716909959	47.9292065	2.1398486	café ducsnal				cafe				
+node	1716910106	47.9294402	2.1385397	La Jeune France				restaurant				
+node	5738457254	47.9121756	2.1356753	Aux Saveurs Des Loges				restaurant	61	45450	Rue Georges Catlett Marshall	
+relation	150425			Férolles	8	45150	45144					
+way	1061015928	47.8350369	2.1087073	Férolliot				bar				
+relation	157740			Ferrières-en-Gâtinais	8	45210	45145					
+node	1869405211	48.0906170	2.7902907	Café des familles				cafe				
+node	1870083500	48.0858161	2.7893469	Le Cheval Blanc				restaurant				
+node	1870666241	48.0898144	2.7833261	Yummy sushi				restaurant				
+node	2548327234	48.0908185	2.7881665	Le Louis III				bar				
+node	5827883244	48.0912953	2.7888164	Le bistrot				cafe				
+relation	150408			La Ferté-Saint-Aubin	8	45240	45146					
+node	1365443196	47.7107550	1.9594710	La devantière				restaurant				
+node	1859866127	47.7241903	1.9412535	L’antre des Gourmets				restaurant		45240	Rue du Général Leclerc	
+node	1859866128	47.7257898	1.9368717	L'atelier du Cosson				restaurant	2		Avenue Lowendal	
+node	1859877881	47.7411202	1.9330120	Le Piquenbroche				restaurant				
+node	4606171398	47.7195818	1.9415649	Au Bistrot Gourmand				bar		45240	91 Rue du Général Leclerc	
+node	4607889530	47.7220449	1.9402398	Auberge Solognote				restaurant				
+node	4607893527	47.7173333	1.9416025	La Cortémilia				restaurant				
+node	5820122190	47.7234715	1.9414794	Olivier				restaurant				
+node	6163815640	47.7222077	1.9412960	Le Commerce				bar				
+node	6163838606	47.7228799	1.9416447	Aga Mame				restaurant				
+node	6271290100	47.7133075	1.9413335	La Pomme de Pin				bar				
+node	11309467783	47.7391109	1.9605318	L'Orée des Chênes				restaurant				
+node	11377465030	47.7227915	1.9400155	La Petite Auberge				restaurant				
+way	274621615	47.7241169	1.9393182	Le Massena				cafe				
+relation	148479			Fleury-les-Aubrais	8	45400	45147					
+node	385459399	47.9266726	1.8986912	Paulo & Marie				restaurant	39	45400	Rue André Dessaux	
+node	385459400	47.9258707	1.8992795	Ô Resto				pub				
+node	1268517933	47.9315479	1.9163927	A la Belle Cycliste				cafe	166	45400	Rue Marcellin Berthelot	
+node	2709445064	47.9451948	1.9171327	Jack Wok				restaurant		45400	Rue Frédéric et Irène Joliot Curie	
+node	4836793402	47.9232817	1.8975484	Le Flash				bar	250T	45400	Rue du Faubourg Bannier	
+node	6037356244	47.9394496	1.9410181	Bar Tabac Presse Restaurant A l'herveline				restaurant	71	45400	Avenue Louis Gallouedec	
+node	6342597487	47.9274766	1.9182014	Mont Fleury				bar	101	45400	Boulevard de Lamballe	
+node	6411530046	47.9196944	1.9181590	Le Reinitas				bar	3	45400	Place de la Croix Fleurie	
+node	6899752541	47.9292489	1.8959977	Da Pinocchio				restaurant	344	45400	Rue du Faubourg Bannier	
+node	6911961764	47.9367754	1.9127099	Pizza Bella				restaurant		45400	Rue Fernand Léger	
+node	8355470442	47.9395455	1.9217639	El Yazid Fassa				bar				
+node	11522124369	47.9301529	1.8962307	My Beers Orléans				bar	73	45400	Rue André Dessaux	
+node	11527924771	47.9243590	1.9004175	La Pression				bar	17	45400	Rue André Dessaux	
+node	11527935569	47.9269106	1.8984235	Asian Nour				restaurant	43	45400	Rue André Dessaux	
+node	11672233006	47.9239494	1.9020600	Cot’s				restaurant				
+node	11782459974	47.9444374	1.9188434	Stellenbosch				pub	10	45400	Rue de Montaran	
+node	12167600612	47.9289029	1.8960660	Le Sulky				bar	338	45400	Rue du Faubourg Bannier	
+node	12167657238	47.9282156	1.8962673	A Roy Food				restaurant	324	45400	Rue du Faubourg Bannier	
+node	12170574054	47.9435012	1.9243551	Le Kiosque à Pizza				restaurant		45400	Rue de Curembourg	
+node	12350485823	47.9341433	1.9038190	Le Bergerac				restaurant	2	45400	Place Jean Zay	
+node	13367024004	47.9259171	1.8999541	Chalet du Steack				restaurant				
+node	13409291036	47.9331434	1.9284957	La Tamariz				restaurant				
+node	14141785661	47.9225093	1.9020200	Restaurant Inter Entreprises				restaurant				
+relation	157732			Fontenay-sur-Loing	8	45210	45148					
+node	1869897224	48.0716523	2.7730132	domaine de vaugouard				restaurant				
+relation	148207			Gidy	8	45520	45154					
+node	2143312049	47.9895458	1.8374776	L'Escale				cafe				
+node	7263481762	47.9770227	1.8599101	Courtepaille				restaurant				
+node	12966232108	47.9771315	1.8585273	À Table !				restaurant				
+relation	164546			Gien	8	45500	45155					
+node	1219195233	47.6879564	2.6212052	Café du Nord				cafe				
+node	1219195239	47.6877812	2.6216982	Saïgon				restaurant	45		Place de la Victoire	
+node	1219195245	47.6874508	2.6211730	Au 110				pub				
+node	2417823806	47.6809871	2.6297049	Le Berry				bar	15	45500	Place Foch	
+node	2989474795	47.6864146	2.6250019	Le P'tit Bouchon				restaurant	66	45500		
+node	3418433628	47.6862700	2.6304354	Bar du Château				pub				
+node	3691422607	47.6840159	2.6312347	Le Regency				restaurant	6	45500	Quai Lenoir	
+node	3691425392	47.6840374	2.6311448	Le Winston				pub	8	45500	Quai Lenoir	
+node	3691425394	47.6840854	2.6309628	Krishnou				restaurant	12	45500	Quai Lenoir	
+node	3691425462	47.6840606	2.6310532	L'auberge du Maroc				restaurant	10	45500	Quai Lenoir	
+node	3691425463	47.6841511	2.6307026	Bistrot De Loire				restaurant	18	45500	Quai Lenoir	
+node	3691425646	47.6842091	2.6304690	L'Escale				restaurant				
+node	3691425647	47.6841914	2.6305301	A deux mains				restaurant	22	45500	Quai Lenoir	
+node	3691431233	47.6846431	2.6288145	Les Platanes				bar				
+node	3691471601	47.6855385	2.6330212	Le Derby				bar	25	45500	Avenue du Maréchal Leclerc	
+node	3691472776	47.6850408	2.6328581	Aux Délices				restaurant	21	45500	Avenue du Maréchal Leclerc	
+node	3691472779	47.6859481	2.6331942	Le Royal				bar	35	45500	Avenue du Maréchal Leclerc	
+node	3691474447	47.6848039	2.6327769	Pho Kimde45				restaurant	15	45500	Avenue du Maréchal Leclerc	
+node	3691475326	47.6849145	2.6330813	Le Commerce				bar				
+node	3839792200	47.6888648	2.6194066	La Brasserie				bar				
+node	5499783777	47.6988202	2.6348358	Vaz Maria				cafe				
+node	5916158214	47.6892993	2.6324254	Great Wall				restaurant				
+node	8791963614	47.7073373	2.6188639	Restaurant Horizon Brunch				restaurant	18		Place Maurice Ravel	
+node	10998080407	47.6862979	2.6304362	Café Bouche B				restaurant	2	45500	Rue Vieille Boucherie	
+node	11088964308	47.6850188	2.6284431	Crêperie Fleur de Sel				restaurant	13		Rue de l'Hôtel de Ville	
+node	12475440249	47.6845462	2.6291077	L'Antre Amis				restaurant	46	45500	Quai Lenoir	
+node	12475558976	47.6844376	2.6323686	Le Celtique				bar	3	45500	Avenue du Maréchal Leclerc	
+node	12478400796	47.6858861	2.6331716	Alibaba				restaurant	33	45500	Avenue du Maréchal Leclerc	
+node	12478513537	47.6843320	2.6320299	Paradis Sushi				restaurant	11	45500	Place du Maréchal Leclerc	
+node	12478540688	47.6838524	2.6320095	Le Corto				bar		45500		
+node	12480019952	47.6843600	2.6306756	Gourmet de Gien				restaurant	19	45500	Rue Gambetta	
+node	12480068186	47.6843264	2.6315192	Mamzelle Guinguette				bar	4	45500	Rue Gambetta	
+node	12480150437	47.6844030	2.6301692	Le Contadine				restaurant	4	45500	Place Jean Jaurès	
+node	12480240464	47.6841651	2.6334058	La Romagnola				restaurant	3	45500	Rue Victor Hugo	
+node	13771617940	47.6813003	2.6298055	Namaste				restaurant				
+way	211491164	47.6976315	2.6348193	La Belle époque				restaurant				
+way	211492125	47.7076830	2.6408029	Bufalo Grill				restaurant				
+way	211495980	47.6822377	2.6382166	La Poularde				restaurant				
+relation	157738			Gondreville	8	45490	45158					
+way	170512592	48.0508926	2.6550567	Le Celtic				bar				
+relation	148214			Ingrannes	8	45450	45168					
+node	1718543174	47.9910304	2.2129150	Le Bourg				bar				
+node	1718543205	47.9909424	2.2130009	Le Chêne Vert				restaurant				
+relation	148226			Ingré	8	45140	45169					
+node	460990173	47.9196070	1.8278346	Le Relax				bar	7	45140	Place de la Mairie	
+node	6274087354	47.9044044	1.8578163	Le Bistro C'dubs				restaurant				
+node	8405770083	47.9210232	1.8263101	Nuanzza				restaurant	6	45140	Rue de Changelin	
+node	9462403712	47.9339450	1.8350869	Tomate-Cerise				restaurant				
+node	9793357154	47.9186085	1.8356090	Guinguette du Parc de Bel Air				nightclub		45140	Rue du Parc	
+node	11701019827	47.9023955	1.8554260	V and B Ingré				bar	15	45140	Rue Pierre et Marie Curie	
+relation	144625			Isdes	8	45620	45171					
+node	6674340147	47.6720439	2.2553288	Le Petit Solognot				restaurant	11	45620	Grande Rue	
+node	11837239212	47.6721528	2.2553281	Le bistrot				bar	13	45620	Grande Rue	
+relation	165282			Jargeau	8	45150	45173					
+node	2624682573	47.8662814	2.1217566	Le Narval				bar				
+node	4932709760	47.8649289	2.1215845	Le Cheval Blanc				restaurant	1	45150	Rue des Limousins	
+node	6297199929	47.8662370	2.1215844	Le Fuego				bar				
+node	6297225118	47.8663711	2.1219718	Le Narval				bar				
+node	6297306746	47.8668556	2.1202909	Asie Pacifique				restaurant				
+node	6297340426	47.8672144	2.1218757	l'Intention				restaurant				
+node	6297344186	47.8669649	2.1217484	Eau des Lys				bar				
+node	6702718263	47.8649994	2.1217901	Le Berry				bar				
+node	6702718406	47.8657651	2.1234305	L'Authentique				restaurant				
+node	6702729432	47.8677568	2.1220630	Bar de la Lage				bar				
+relation	150510			Jouy-le-Potier	8	45370	45175					
+node	1676126671	47.7466189	1.8105700	L'ecureuil				pub				
+node	1676126678	47.7464354	1.8099838	Auberge des Potiers				restaurant				
+relation	160916			Ladon	8	45270	45178					
+node	5264036725	48.0032229	2.5368969	French Factory				pub				
+node	10243202117	48.0032529	2.5369587	La Halle				restaurant				
+relation	150410			Lailly-en-Val	8	45740	45179					
+node	6308533151	47.7702549	1.6863382	Café de la Mairie				cafe	2			
+relation	150409			Ligny-le-Ribault	8	45240	45182					
+node	10991669191	47.6836048	1.7814635	Le Colvert				bar				
+node	10991669196	47.6841322	1.7822496	Teddy Piz				restaurant	32	45240		Place de l'Église
+relation	164472			Lion-en-Sullias	8	45600	45184					
+node	5645799122	47.7261521	2.4888401	Les Bounicards				restaurant	8		Place de l'Église	
+relation	110051			Lorris	8	45260	45187					
+node	2103126346	47.8887158	2.5135835	Le Chalut				restaurant	8	45260	Grande Rue	
+node	4518921775	47.8918159	2.5137514	La Chaumière				restaurant				
+node	4540197158	47.8921276	2.5259407	La Ferme de Lorris				restaurant	112	45260	Route de la Grange des champs	
+relation	148203			Loury	8	45470	45188					
+node	6202774487	48.0010094	2.0852156	Café de la place				cafe	12	45470		
+node	8895982679	47.9982579	2.0877706	L'Auberge du Bonheur				restaurant	367	45470	Rue du 17 Juin 1940	
+relation	5811999			Le Malesherbois	8	45300;45330	45191					
+node	4421831829	48.2939162	2.4091905	Le Rajasthan				restaurant				
+node	5825974898	48.2969310	2.4152192	Le soleil du matin				cafe				
+node	5942553296	48.2966869	2.4152385	Écu de France				restaurant				
+node	5947877833	48.2968976	2.4151924	Le Soleil du Matin				restaurant				
+node	6485399367	48.2935646	2.4019198	Clos Saint-Jean				cafe				
+node	7552114185	48.2957108	2.4166399	Aux 3 farines				restaurant				
+way	197552109	48.2940515	2.4017390	Hôtel de la Gare				cafe				
+relation	150426			Marcilly-en-Villette	8	45240	45193					
+node	4625162582	47.7649832	2.0213076	Auberge de la Croix Blanche				restaurant				
+relation	148225			Mardié	8	45430	45194					
+node	1708544410	47.8908525	2.0546920	Traiteur Mets en Scène				restaurant	472	45430	Avenue Pont aux Moines	
+node	1711199678	47.9074528	2.0606987	Brioche Dorée				restaurant				
+node	4836878018	47.8917436	2.0534763	L'Escale				cafe	359	45430	Avenue de Pont aux Moines	
+relation	149120			Mareau-aux-Bois	8	45300	45195					
+node	10253131410	48.1027275	2.1890534	Le Montafilan				restaurant	2	45300	Rue de Montafilan	
+node	10253131411	48.1016962	2.1890504	Le Montafilan				restaurant	2		Rue de Montafilan	
+node	10253131412	48.1016885	2.1890573	Le Montafilan				restaurant	2		Rue de Montafilan	
+node	10253132009	48.1017300	2.1890534	Le Montafilan				restaurant	2		Rue de Montafilan	
+node	10253142609	48.1028051	2.1890593	Le Montafilan				restaurant	2	45300	Rue de Montafilan	
+relation	151037			Mareau-aux-Prés	8	45370	45196					
+way	242081730	47.8473635	1.8011412	Chez Moustache				restaurant				
+relation	148216			Marigny-les-Usages	8	45760	45197					
+node	6285740544	47.9573990	2.0150712	Le Marigny				restaurant	25	45760		
+node	6285756538	47.9573259	2.0150696	Le Marigny				bar		45760	Rue de la Gare	
+node	6286283777	47.9582748	2.0149739	Restaurant scolaire				restaurant				
+relation	150220			Ménestreau-en-Villette	8	45240	45200					
+node	3015406666	47.6990938	2.0225605	L'auberge du cerf				restaurant	3	45240	Place du 8 Mai	
+node	5075742621	47.7003703	2.0214488	Le Saint Thibault				bar				
+way	293041932	47.6993220	2.0220190	Le Relais de Sologne				restaurant				
+relation	150878			Messas	8	45190	45202					
+node	4606057967	47.8080055	1.6351083	Le P'tit Mess'				bar				
+node	12987626267	47.8208080	1.6409708	Bistro Régent				restaurant				
+relation	150874			Meung-sur-Loire	8	45130	45203					
+node	1866841642	47.8279206	1.6973416	Le Royal				bar				
+node	1866868616	47.8298951	1.7010889	L'Ovale de Loire				restaurant				
+node	1870207847	47.8270140	1.7028269	Relais Louis XI				restaurant				
+node	4367705299	47.8252176	1.6952614	Crêperie Les Hortensyas				restaurant	42bis		Rue Jehan de Meung	
+node	4553879879	47.8281710	1.6925013	Mari'o				restaurant				
+node	6712325985	47.8244644	1.6951621	A La Maison				restaurant	3	45130	Place du Martroi	
+node	12246552948	47.8244197	1.6893504	Le Carrousel				restaurant	21	45130	Rue de Blois	
+node	13115895193	47.8336425	1.6725846	Signorizza				restaurant				
+node	13928053134	47.8261645	1.7019715	La Capitanerie Du Port Du Bout Du Monde				cafe		45130	Quai Jeanne d'Arc	
+way	295665769	47.8248212	1.6954576	Le Tandem Café-Vélo				restaurant	22	45130	Rue Emmanuel Troulet	
+way	295665908	47.8242942	1.6952237	Café du commerce				restaurant	5	45130	Place du Martroi	
+way	295666050	47.8276400	1.6837847	A.P.A.J.H Gourmande				restaurant	50	45130	5ème Avenue	
+way	295670643	47.8243176	1.6959564	La Terrasse				restaurant	5	45130	Rue Emmanuel Troulet	
+relation	110100			Montargis	8	45200	45208					
+node	321588844	48.0056298	2.7449225	Chez H et F				restaurant	18	45200	Avenue Louis Maurice Chautemps	
+node	1790644098	48.0015803	2.7295384	Courtepaille				restaurant	4	45200	Rue du Port	
+node	2371630182	47.9949621	2.7320579	Brasserie de la Poste				cafe				
+node	2547848002	48.0050479	2.7382645	Le Méditerranéen				restaurant	52	45200	Avenue du Général de Gaulle	
+node	2547848008	48.0054801	2.7380719	King of Thai and Jap				restaurant	73	45200	Avenue du Général de Gaulle	
+node	2547848030	48.0018914	2.7350224	Le Rallye				bar	2	45200	Avenue du Général de Gaulle	
+node	2547848033	48.0057339	2.7384254	Les Petits Oignons				restaurant				
+node	2547848036	48.0056238	2.7382088	Lune Rouge				restaurant	77	45200	Avenue du Général de Gaulle	
+node	2901453001	47.9921230	2.7323370	L'Orangerie de Montargis				restaurant	57	45200	Rue Jean Jaurès	
+node	2901455301	47.9924678	2.7323428	Pizza Line				restaurant	49	45200	Rue Jean Jaurès	
+node	2901459801	47.9928149	2.7321461	Oh Terroir				restaurant	46	45200	Rue Jean Jaurès	
+node	2901459803	47.9946931	2.7323606	Roma				restaurant	2	45200	Rue Jean Jaurès	
+node	2901471601	47.9936460	2.7322560	L'Agrappe Cœur				restaurant				
+node	2901476101	47.9938670	2.7322870	Saveur d'Or				restaurant				
+node	2901479501	47.9942608	2.7325382	Le Jaurès				bar	13	45200	Rue Jean Jaurès	
+node	2901627405	47.9978380	2.7326630	Les Dominicaines				restaurant				
+node	2901686201	47.9953890	2.7339930	Le Concept				bar				
+node	3235268360	47.9977394	2.7348031	La Cantine				restaurant	5	45200	Rue du Loing	
+node	3235268661	47.9985151	2.7334913	Café des Glaces				restaurant	5	45200	Place Mirabeau	
+node	3235268662	47.9984154	2.7317118	Sushi Love				restaurant	71	45200	Rue du Général Leclerc	
+node	3235286266	47.9967712	2.7341431	Vin Sur Vin				bar	10	45200	Rue de la Pêcherie	
+node	3235286267	47.9968187	2.7332333	Le Tendance				bar	5	45200	Rue de l'Ancien Palais	
+node	3239789285	47.9968794	2.7337709	Cafe Blue Montain				cafe	22	45200	Rue de la Pêcherie	
+node	4563883394	47.9955551	2.7327529	Asia Delices				restaurant	85B	45200	Rue Dorée	
+node	4563897291	47.9941675	2.7325535	Doree Cacao				bar				
+node	4563897698	47.9970856	2.7327669	Charcuterie Traiteur				bar		45200	Rue Dorée	
+node	4563932090	47.9955259	2.7329542	Le Dandy				bar	42	45200	Place de la République	
+node	4563932093	47.9969776	2.7329945	Sucre' & Sale'				bar		45200	Rue Dorée	
+node	4742691440	47.9976207	2.7306921	Ege				restaurant				
+node	4742700558	47.9974682	2.7306224	Le Girodet				restaurant				
+node	4742700582	47.9975005	2.7304078	Le Brazza				bar	17	45200	Rue Girodet	
+node	4742743062	47.9987676	2.7305809	Royal Raj Mahal				restaurant				
+node	4742748997	47.9988017	2.7302831	Bar du Tribunal				bar				
+node	4742793023	47.9998551	2.7323578	Le Cactus				restaurant				
+node	4742793025	47.9999564	2.7318795	La Licorne				bar	15	45200	Rue Renée de France	
+node	4742819867	47.9995446	2.7337892	La Terrasse				bar	2	45200	Boulevard Paul Baudin	
+node	5741728633	47.9978507	2.7325599	Les Pitchouns				restaurant	6	45200	Rue du Dévidet	
+node	6068051533	48.0000077	2.7306081	La Riviera				bar	53	45200	Rue Renée de France	
+node	6140873711	48.0071603	2.7407825	Bar du Chemin de Fer				bar				
+node	6140873886	48.0034994	2.7415904	Le Reinitas				bar				
+node	6299328593	48.0012780	2.7423979	Le Week End				restaurant				
+node	6299383636	48.0030793	2.7405796	Au P'tit Bar				restaurant				
+node	9887788225	48.0064788	2.7427860	Buffet de la Gare				restaurant				
+node	10182177217	47.9974942	2.7324424	French Coffee Shop				cafe				
+node	12487943380	47.9956406	2.7325432	L'After				bar	82B	45200	Rue Dorée	
+node	12520404016	47.9968459	2.7343622	Chateau d'Alep				cafe	2	45200	Place Jules Ferry	
+node	12520763255	47.9985142	2.7224610	Pacha				restaurant	47	45200	Avenue De Lattre de Tassigny	
+node	12579432776	47.9987018	2.7309018	Restaurant du Château				restaurant				
+node	14086537401	48.0022520	2.7291871	Le Vingt-Trois				restaurant	8		Rue du Port	
+relation	111157			Montbouy	8	45230	45210					
+way	370535384	47.8593760	2.8196200	La maison prodigieuse				cafe	26	45230	Écluse de Montbouy	
+relation	111165			Montcresson	8	45700	45212					
+node	2537184797	47.9068251	2.8061535	Café de la Madeleine				cafe				
+node	13081377925	47.9063501	2.8065395	Restaurant de Montcresson Pizzeria				restaurant				
+relation	111030			Mormant-sur-Vernisson	8	45700	45216					
+node	6178186337	47.9299207	2.7363145	Courtepaille				restaurant				
+relation	157734			Nargis	8	45210	45222					
+way	295780869	48.0757949	2.7518974	Le Martin Pecheur				pub	482	45210	Impasse de la Fontaine de Montabon	
+relation	148480			Nesploy	8	45270	45223					
+node	13687902232	47.9965863	2.3612841	Auberge de Nesploy - Le Poivre et Sel				restaurant	1	45270	Route de Nibelle	
+relation	148478			Neuville-aux-Bois	8	45170	45224					
+node	8951381022	48.0697816	2.0532719	Le Fontenoy				bar	18		Place du Général Leclerc	
+node	8951381026	48.0700970	2.0540186	Istanbul Bar restaurant kebab				restaurant	45		Place du Général Leclerc	
+node	8951381027	48.0700928	2.0534784	Le Longchamp				bar				
+node	12494007576	48.0688057	2.0658332	Pause & Vous				restaurant				
+relation	148481			Nibelle	8	45340	45228					
+node	4958896627	48.0236484	2.3273215	Le relais saint sauveur				restaurant		45340		
+relation	111248			Nogent-sur-Vernisson	8	45290	45229					
+node	11295607282	47.8477362	2.7412924	La Gaîté				cafe				
+relation	147557			Olivet	8	45160	45232					
+node	480453762	47.8702763	1.9039307	Aux Canotiers				restaurant	2	45160	Avenue du Loiret	
+node	853304110	47.8715341	1.9044586	Le 128				restaurant	128	45160	Avenue du Loiret	
+node	853304779	47.8713283	1.9039011	Mickey Bar				cafe	55	45160	Avenue du Loiret	
+node	938878985	47.8437540	1.9206281	Mont Fuji				restaurant	11	45160	Rue de Champagne	
+node	938878986	47.8437486	1.9200031	Wokasie				restaurant	45	45160	Rue de Champagne	
+node	1311882199	47.8417564	1.9137709	La Criée				restaurant				
+node	1824821730	47.8653624	1.9015233	Le Temps pour Tant				bar	6	45160	Place Louis Salle	
+node	3172252367	47.8393899	1.9152092	Ristorante Del Arte				restaurant		45160	Quartier des Provinces	
+node	3871371249	47.8645149	1.9011071	Le Celtique				bar	347	45160	Rue Marcel Belot	
+node	3871371252	47.8664232	1.9016420	L'absinthe				restaurant	133	45160	Rue Paul Genain	
+node	3994244619	47.8693356	1.8894575	Le Rivage				restaurant	635	45160	Rue de la Reine Blanche	
+node	3994244621	47.8691935	1.8927406	Le Madagascar				restaurant	315	45160	Rue de la Reine Blanche	
+node	4108474692	47.8526910	1.9095050	L'Arganier 2				restaurant	121	45160	Rue des Châpeliers	
+node	4222234875	47.8706486	1.8765686	L'Éphémère Café				bar	800	45160	Rue du Bac	
+node	4596401426	47.8709234	1.9041970	La Laurendière				restaurant	68	45160	Avenue du Loiret	
+node	4596663112	47.8632801	1.9007720	Yassi Yassa				restaurant	362	45160	Rue Marcel Belot	
+node	4596663113	47.8633053	1.9004688	Le Terminus				bar	482	45160	Rue Marcel Belot	
+node	4596663120	47.8638098	1.9010022	Le Ginko				restaurant	419	45160	Rue Marcel Belot	
+node	4683731995	47.8651151	1.9008328	Wema Coffee				restaurant	290	45160	Rue Marcel Belot	
+node	5272518769	47.8386542	1.9155210	Royal d'Olivet				restaurant				
+node	5272518770	47.8385415	1.9155796	Poivre Rouge				restaurant				
+node	5468010921	47.8435640	1.9216023	La Flûte du Palais				cafe	934	45160	Rue de Bourges	
+node	7667442258	47.8636050	1.9006807	O'444				restaurant	444	45160	Rue Marcel Belot	
+node	7864717738	47.8429607	1.9194067	Kogi				restaurant	149	45160	Rue de Champagne	
+node	9361187896	47.8393272	1.9159326	O Langue d'Oc				restaurant				
+node	11306869511	47.8424808	1.9162036	Columbus Café & Co				cafe	181	45160	Rue d'Artois	
+node	11576213387	47.8691773	1.8929908	Le Pavillon bleu				restaurant	374	45160	sent pres	
+node	11827082811	47.8680551	1.8990331	La Bamboche				nightclub	422	45160	Rue du Général de Gaulle	
+node	11928979047	47.8685960	1.9126012	Courtepaille				restaurant	707	45160	Avenue de Verdun	
+node	13997020402	47.8659899	1.9116381	SushiJin				restaurant	20	45160	Avenue de Verdun	
+way	199405255	47.8399165	1.9147820	Léon				restaurant				
+way	200711651	47.8470295	1.9263275	L'Arganier				restaurant	163	45160	Boulevard Duhamel du Monceau	
+relation	147559			Orléans	8	45000;45100	45234					
+node	314079813	47.8155797	1.9403585	Campanille				restaurant	326	45100	Rue de Chateaubriand	
+node	385459472	47.9147679	1.8999233	Bistro Coligny				bar	127	45000		
+node	385459483	47.9182823	1.8988777	Bar la Ville de Chartres				pub				
+node	596784217	47.9096108	1.8950145	Le Reinitas				pub	49	45000		
+node	597202812	47.9012244	1.8930331	Le Fontenoy				bar				
+node	820371353	47.8983965	1.8978947	La Sole Dorée				restaurant	54	45000		
+node	867374931	47.8988959	1.9126164	Restaurant Universitaire Guignebaud				restaurant				
+node	901670027	47.9107281	1.9040062	La Locomotive				restaurant				
+node	901670037	47.9105473	1.9040149	Le Pari's				pub				
+node	921136578	47.9019641	1.8974450	Le bistrot de la Croix Morin				cafe	24	45000	Place de la Croix Morin	
+node	921138686	47.9041909	1.9010949	Adora				restaurant				
+node	921138783	47.9062636	1.9018631	Le Brazza				pub				
+node	921139285	47.9052260	1.8967029	Le Petit Gone				restaurant				
+node	1202765568	47.8946476	1.9031566	Havanne				cafe	9	45100	Quai de Prague	
+node	1297021876	47.9019135	1.9054018	Heureux comme Alexandre				restaurant	52	45000	Rue Sainte-Catherine	
+node	1297038537	47.9082829	1.9009039	Annabi Kebab				restaurant				
+node	1297174945	47.8990789	1.9094706	La Java Pop				pub	45	45000	Rue de la Charpenterie	
+node	1297479018	47.9042365	1.9027540	Tex Mex				restaurant				
+node	1298149767	47.8980779	1.9103597	Le Lièvre Gourmand				restaurant				
+node	1298735696	47.8985219	1.9094562	Urban Patty				restaurant				
+node	1298768987	47.8995886	1.9078058	L'Antidote				bar				
+node	1298768997	47.8998662	1.9064781	La Pipe de Bois				bar				
+node	1299456556	47.8991557	1.9092736	L'Étoile de Fez				restaurant				
+node	1302372071	47.8996865	1.9063190	Blend Bistro Pub				restaurant	5	45000	Rue de la Cholerie	
+node	1302372090	47.9000095	1.9072391	Paxton's Head				bar				
+node	1302372113	47.9000223	1.9074446	Good vibes and coktails				bar				
+node	1302372125	47.8996174	1.9076773	Canon(s)				bar				
+node	1302372134	47.8995860	1.9075017	La Mangeoire				restaurant				
+node	1302372155	47.8993428	1.9067476	Urucum				restaurant	26	45000	Place du Châtelet	
+node	1302372158	47.8996719	1.9064994	Siam's				restaurant	8	45000	Rue de la Cholerie	
+node	1302372172	47.8999407	1.9074039	Le Orlean's				restaurant				
+node	1302372174	47.8995449	1.9065307	Volpone Ristorante				restaurant	4	45000	Rue de la Cholerie	
+node	1302372188	47.8995563	1.9072573	Le Charbon				bar				
+node	1302372189	47.8995085	1.9067662	Bar Le 5				bar	30	45000	Place du Châtelet	
+node	1302372192	47.8994179	1.9068078	Chez moi				restaurant	28	45000	Place du Châtelet	
+node	1302372195	47.8999379	1.9073431	Tiki Bar				bar				
+node	1302372203	47.8999852	1.9068205	Delirium				pub				
+node	1311902774	47.8475917	1.9380651	La Terrasse du Parc				restaurant				
+node	1313042379	47.9018538	1.9085023	Le Lutétia				bar				
+node	1313064359	47.9014027	1.9085654	La Vinithèque au n°7				bar				
+node	1313084813	47.9006747	1.9081148	La Dariole				restaurant				
+node	1317771414	47.8980365	1.9050750	Les Semettes				cafe	92	45000	Quai du Châtelet	
+node	1317771500	47.8981159	1.9046793	La Demi-Lune				cafe				
+node	1337330083	47.9007171	1.9076406	Victoria Pub				pub				
+node	1363298260	47.9140043	1.8958814	Le Bergerac				bar				
+node	1494206007	47.9056639	1.9051471	Hôtel de l'Abeille				cafe	64	45000		
+node	1558149901	47.9001084	1.9093625	La Datcha				bar				
+node	1558151275	47.9001107	1.9094063	L'Atelier				bar				
+node	1558152184	47.9002517	1.9100317	Le Key West				bar				
+node	1558152386	47.9002021	1.9096116	Le Petit Barcelone				bar				
+node	1558177554	47.8996581	1.9092870	L'Alchimie				restaurant				
+node	1558177855	47.9001852	1.9092890	Restaurant Angkor				restaurant				
+node	1558178401	47.9002027	1.9093838	Meat				restaurant				
+node	1559009578	47.9002099	1.9094711	Le 222				restaurant				
+node	1582684295	47.9025460	1.9109406	Café des Beaux Arts				cafe				
+node	1582684308	47.9002805	1.9116547	Beef House				restaurant				
+node	1582684415	47.9003324	1.9111520	Antoinette				restaurant				
+node	1582684837	47.9043615	1.9098505	Le Tonnelier				restaurant	5	45000	rue d'Alsace-Lorraine	
+node	1649344457	47.9149292	1.8995489	L'Amandier				pub	118			
+node	1649744746	47.9000681	1.9077365	Mac Ewans				bar				
+node	1722841266	47.8991845	1.9042575	Au Bureau				restaurant				
+node	1745973825	47.8880217	1.9048986	Le Narval				bar				
+node	2127309152	47.9043768	1.9129917	Le Saint-Vincent				pub	1	45000	Boulevard Alexandre Martin	
+node	2294865954	47.8980798	1.9085550	Garden Ice Café				bar				
+node	2295600821	47.9028333	1.9045786	Le Martroi				pub				
+node	2295600822	47.9020403	1.9037326	La Chancellerie				cafe	95	45000	Rue Royale	
+node	2295600823	47.9023503	1.9030952	Le Bistrot				restaurant				
+node	2295613092	47.9021087	1.9051406	Le Brin de Zinc				restaurant	62	45000	Rue Sainte-Catherine	
+node	2295613109	47.9020133	1.9052499	Au Don Camillo				restaurant	54	45000	Rue Sainte-Catherine	
+node	2295633785	47.9022042	1.9031302	Columbus Café & Co				cafe				
+node	2295637502	47.9020052	1.9032352	La Provence				bar	6	45000	Rue de la Hallebarde	
+node	2295791602	47.9025407	1.9024661	Dundee				restaurant	4	45000	Rue d'Illiers	
+node	2296749768	47.8986472	1.9091705	Le Lift				restaurant	5	45000	Rue de la Poterne	
+node	2296759094	47.8989265	1.9064219	Les Becs à Vin				bar				
+node	2296759096	47.8989918	1.9064460	Le Centr'Hall				bar				
+node	2296767617	47.9003075	1.9105097	Le Vieux Comptoir				bar	1	45000	Rue Pothier	
+node	2296779495	47.9000546	1.9085976	La Petite Folie				restaurant				
+node	2296790550	47.9000375	1.9083272	O'Tour du Rhum by Mojito Bar				bar				
+node	2296790551	47.9000079	1.9082521	J'M Bar				bar				
+node	2296795761	47.8999968	1.9081138	Paul et Juliette				restaurant				
+node	2296803473	47.9000774	1.9079084	L'embuscade				bar				
+node	2296803475	47.9000863	1.9080137	Crêperie Bretonne Orléans				restaurant				
+node	2297514170	47.9038376	1.9055246	Chez Eugène				restaurant	24	45000	Rue Sainte-Anne	
+node	2297529024	47.9004782	1.9130460	MaGa				restaurant				
+node	2297545723	47.9004057	1.9121075	Le Taj Mahal				restaurant				
+node	2297573317	47.9002801	1.9117700	Glouglou				restaurant				
+node	2297573322	47.9002615	1.9114432	Mon thé cristaux				bar				
+node	2297586366	47.9003913	1.9132535	L'improviste				bar				
+node	2297590270	47.9003874	1.9130238	La Civette				bar				
+node	2298700210	47.8993244	1.9059735	Le Dropkick Bar				bar				
+node	2576914056	47.9001137	1.9097604	La Cabanne				bar				
+node	2803729601	47.9035414	1.9151439	Café du Théatre				restaurant	2	45000		
+node	3250055866	47.9046734	1.9054386	L'Ardoise				restaurant				
+node	3250055867	47.9046896	1.9053420	Bar des Tribunaux				restaurant				
+node	3253411597	47.9008936	1.9026292	Le Jardin du Pavillon				restaurant	5	45000	Place du Général de Gaulle	
+node	3257484040	47.9088639	1.8837639	Mosaïque				restaurant				
+node	3258042700	47.9015145	1.9017813	Le Khédive				bar	4	45000	Rue des Carmes	
+node	3261760579	47.9062709	1.9048532	Le paradis du fruit				restaurant	1	45000	Boulevard de Verdun	
+node	3261760607	47.9051582	1.9047877	New China				restaurant				
+node	3261760613	47.9042235	1.9045081	mamé				cafe				
+node	3262370313	47.9016379	1.8996845	Mix				restaurant	21	45000	Rue des Carmes	
+node	3267514005	47.9059877	1.9020460	Plaisir Phô				restaurant				
+node	3308357508	47.9046560	1.9118612	L'îlot créatif				cafe				
+node	3313032770	47.9023506	1.9027775	La dernière séance				bar				
+node	3313032772	47.9007430	1.9310050	Le Cabinet Vert				restaurant	1	45000	Chemin de Halage	
+node	3315487761	47.9011984	1.9015487	Notre Cher & Tendre				restaurant	59	45000	Place du Général de Gaulle	
+node	3315487762	47.8990033	1.9068444	Au Bouillon				restaurant	12	45000	Place du Châtelet	
+node	3315487764	47.8984134	1.9081299	Oh Terroir version Fast Good				restaurant				
+node	3315487777	47.9000454	1.9084184	Les Pissenlits				restaurant				
+node	3315487779	47.9000904	1.9091197	Club 211				bar				
+node	3315487780	47.9002631	1.9092627	Restaurant Angkor				restaurant				
+node	3315487782	47.9001094	1.9095196	Esco				bar				
+node	3315487785	47.9002394	1.9111612	L'Hibiscus				restaurant				
+node	3319726330	47.9004183	1.9123286	Le Gaulois				restaurant				
+node	3321557398	47.9004139	1.9135464	Pizzerria Quatre Saisons				restaurant				
+node	3321557406	47.9003717	1.9128628	Pizza Spot				restaurant	127	45000	Rue de Bourgogne	
+node	3321557409	47.9003461	1.9124937	Kimme				restaurant				
+node	3321557410	47.9003280	1.9122399	Le p'tit Gavroche				restaurant				
+node	3321557411	47.9003249	1.9121808	Bombay				restaurant				
+node	3321557413	47.9002491	1.9112915	Nôme				cafe				
+node	3321557418	47.9003924	1.9119656	Flamme Viet				restaurant				
+node	3321557420	47.9004112	1.9121885	Only tacos				restaurant				
+node	3325852533	47.9035706	1.9080305	Osare				restaurant	8	45000	Rue de la Bretonnerie	
+node	3332816580	47.9003513	1.9037317	Chez Dionysos				restaurant				
+node	3337519238	47.8986593	1.9063860	Chez Jean Léon				restaurant				
+node	3413379314	47.9006997	1.9063256	French Coffee Shop				cafe				
+node	3413379315	47.9005067	1.9060323	Canotto				restaurant	3	45000	Place Louis XI	
+node	3413379333	47.9001390	1.9064202	Mamé café				cafe				
+node	3413379360	47.9007277	1.9077452	Dragon's Tattoo Pub				pub				
+node	3415031594	47.9007932	1.9167854	Le Drop				bar				
+node	3415031598	47.9004491	1.9126633	Chez Fa				restaurant				
+node	3415031602	47.9003396	1.9112713	Närenj				restaurant				
+node	3415031606	47.9002829	1.9104412	La Fabrique				restaurant				
+node	3415031609	47.9002378	1.9101436	Les Dix Fûts				bar				
+node	3415031611	47.9002488	1.9099554	Green Café				cafe				
+node	3421640636	47.9043608	1.9029851	Comptoir Studio 16				restaurant				
+node	3422000206	47.9007084	1.9170397	Afro'Centre				restaurant				
+node	3422000210	47.9002636	1.9115209	Chez Mian				restaurant				
+node	3422000213	47.9000918	1.9092406	Gavezzoti				restaurant	209	45000	Rue de Bourgogne	
+node	3422000215	47.9000805	1.9089242	La Famille				bar				
+node	3422000216	47.9000655	1.9087229	Bonne Pioche				cafe				
+node	3422188388	47.9016022	1.9030293	La Petite Saison				restaurant				
+node	3422189698	47.9011498	1.9052942	Cha+				cafe				
+node	3423826461	47.8986642	1.9040457	Ex Libris				cafe				
+node	3423826476	47.8988587	1.9022166	La maison par l'étoile d'Or				restaurant	25	45000	Place du Vieux Marché	
+node	3423827796	47.8991144	1.9031907	Au Coin Gourmand				restaurant				
+node	3423827811	47.8991534	1.9047207	Le Châtelet				cafe				
+node	3423827819	47.8994675	1.9060114	Bar des Halles				pub				
+node	3427564212	47.9040265	1.9053202	L'Essentiel				restaurant	15	45000	Rue Croix de Malte	
+node	3427564215	47.9038380	1.9040219	Comptoir				restaurant	2	45000	Rue de la Cerche	
+node	3427564224	47.9036529	1.9036190	Aux Fines Gueules				restaurant	3	45000	Rue de la Cerche	
+node	3427564226	47.9036183	1.9034171	Ramen House				restaurant	5	45000	Rue de la Cerche	
+node	3427564227	47.9037697	1.9036472	Tante Jeanne				restaurant	6	45000	Rue de la Cerche	
+node	3427564239	47.9017271	1.8992808	Pavin Caffe				cafe	51;49	45000	Rue des Carmes	
+node	3427564249	47.9029625	1.8959030	Quick & Cool				bar				
+node	3427564269	47.9083801	1.9009428	Le Bannier				restaurant				
+node	3427564273	47.9088383	1.9007800	Hôtel de Paris				bar	29	45000		
+node	3427564274	47.9090409	1.9011322	Di Na poli				restaurant	24	45000	Rue de Patay	
+node	3427564278	47.9088034	1.9038268	Restaurant Le Maroc				restaurant	23	45000	Avenue de Paris	
+node	3427564284	47.9079668	1.9037692	Le Mangal				restaurant				
+node	3427564285	47.9078867	1.9037583	L'assiette gourmande				restaurant				
+node	3439635262	47.9000971	1.9059734	Ô Poudrier				bar	4	45000	Rue des Trois Clefs	
+node	3439635266	47.8997285	1.9056596	Al Medina				restaurant	6	45000	Rue Ducerceau	
+node	3439635274	47.9087261	1.9144840	M.C.C				cafe				
+node	3439989271	47.9004076	1.9074540	Ver Di Vin				restaurant	2	45000	Rue des Trois Maries	
+node	3439989278	47.9012395	1.9052860	Chez Marie Laure et David				restaurant				
+node	3440008593	47.9001565	1.9011606	Well' in Town				restaurant	34	45000		
+node	3440098174	47.9018155	1.8997449	Chiche Flavor				restaurant	58	45000	Rue des Carmes	
+node	3440705575	47.8983623	1.9046331	Le Chien Fou				restaurant	3	45000	Rue Jean Hupeau	
+node	3440705584	47.8986171	1.9057683	Mijana				restaurant				
+node	3440705588	47.9006866	1.9028938	Bistrot Saint Germain				cafe				
+node	3440714896	47.9032170	1.8958305	Le Score				bar	56	45000	Rue de la Porte Saint-Jean	
+node	3440714903	47.9025708	1.8968266	Latino Café				cafe	24	45000	Rue de la Porte Saint-Jean	
+node	3440714904	47.9020413	1.8977108	Chicken Nür				restaurant				
+node	3440714908	47.9018024	1.8940645	Le Délice du Dragon d'Or				restaurant				
+node	3440714909	47.9010516	1.8931719	L'Orientale				restaurant	19	45000	Boulevard Jean Jaurès	
+node	3440714913	47.9011610	1.8924308	Saint-Blaise				pub				
+node	3440714915	47.9011052	1.8918500	L'Italien				restaurant				
+node	3440854469	47.9060929	1.8906777	Le Diplomate				bar				
+node	3440854475	47.9066036	1.8929455	Le Xaintrailles				restaurant	24	45000		
+node	3466390184	47.9194744	1.9192349	C'festin				restaurant				
+node	3468251911	47.8945537	1.9070039	Le Calumet				bar	3	45100	Place de la Bascule	
+node	3471260790	47.8867284	1.9051434	Diners'pizz				restaurant	5	45100		
+node	3490901393	47.9003773	1.9117403	Gokuki Kitchen				restaurant				
+node	3505748533	47.8982851	1.9079104	Le Boloye				restaurant				
+node	4329854765	47.8780752	1.9099354	Donna Mia				restaurant	9	45100	Rue Crignon Desormeaux	
+node	4329854766	47.8786823	1.9090724	G la dalle				restaurant	6		Rue Crignon Desormeaux	
+node	4331376917	47.8829671	1.9037131	L'Etna				restaurant	72B	45100	Route d'Olivet	
+node	4365996090	47.9028399	1.9043556	Studio 16				pub				
+node	4458111334	47.9005881	1.9143699	La Chouquette Masquée				cafe				
+node	4774155239	47.9162460	1.9004259	Yoyoshi				restaurant	1	45000	Passage de la Rapé	
+node	4825291407	47.8941272	1.9066887	Sahtayn				restaurant				
+node	4843445621	47.9013562	1.9215866	Au Disque Bleu				bar				
+node	4862313129	47.9006256	1.9066491	La Chopine				bar	36 T	45000	Rue Étienne Dolet	
+node	4972811866	47.8993095	1.9067548	Solo Palma Coffee House				restaurant	24	45000	Place du Châtelet	
+node	5536853114	47.9005560	1.9138035	Atelier bricolage - L'Arcanderie				bar				
+node	5648252324	47.9095060	1.9076668	Chicken Hut				restaurant				
+node	5648267945	47.9094426	1.9076031	Le Diabolo Menthe				bar				
+node	5796029624	47.8984447	1.9065167	Pizza OhTerroir				restaurant				
+node	5798042112	47.9000914	1.9064272	Le Bidule				restaurant	6		Rue Louis Roguet	
+node	5801109302	47.9006638	1.9136189	Le Chafouin				bar				
+node	6221567615	47.8990887	1.9069443	Cosani				restaurant	14	45000	Place du Châtelet	
+node	6394100474	47.8981892	1.9085444	Piraat Café				bar				
+node	6782816291	47.8984088	1.9062222	V&B				bar				
+node	6815501883	47.8815750	1.9011056	Casa Pasta				restaurant				
+node	6853677231	47.8985726	1.9073757	Gric				restaurant				
+node	7029855044	47.8920820	1.8886984	MEI				restaurant	80	45000;45100	Rue des Hautes Levées	
+node	7082895105	47.9090812	1.9010332	La Petite Italie				restaurant				
+node	7237351385	47.9038233	1.9081854	Sogeres - restaurant administratif				restaurant	2	45000	Rue des Anglaises	
+node	7519423875	47.8432135	1.9359178	Restaurant Universitaire Le Forum				restaurant		45100	Rue de Saint-Amand	
+node	7640366756	47.8983964	1.9085493	Taverne				bar				
+node	7687493569	47.8822193	1.8996214	Panda Grill				restaurant				
+node	8068985770	47.8983269	1.8960237	L'Entracte				restaurant	44	45000	Quai Barentin	
+node	8197241394	47.9073399	1.9036657	Hôtel le Tramway				pub				
+node	8251587082	47.8999951	1.8824904	Le Sintra				bar				
+node	8251587094	47.9000749	1.8818186	Les Quatres Mains				restaurant				
+node	9136326362	47.9157700	1.9013340	Freshkin				restaurant				
+node	9480713603	47.9065200	1.9070524	Pizzeria Martino				restaurant				
+node	9606136086	47.8765946	1.9101569	Cuisine centrale				restaurant		45100	Rue Anthelme Brillat-Savarin	
+node	9606136112	47.8737739	1.9123764	Madeleine				pub		45100	Rue Anthelme Brillat-Savarin	
+node	9606138819	47.8725196	1.9121184	Châlet du steak				restaurant		45100	Rue Anthelme Brillat-Savarin	
+node	9695502474	47.8866246	1.8881888	Papilles en herbes				restaurant	89	45100		
+node	9942010022	47.9320171	1.8950159	Chez les Jacquin				restaurant				
+node	9942409517	47.9000109	1.9073249	L'Escalier				restaurant				
+node	10683313658	47.9002239	1.9054497	Bes-tea				cafe	7	45000	Rue Sainte-Catherine	
+node	10683313660	47.9005393	1.9053474	Viaggio				restaurant				
+node	10706292270	47.9012363	1.9034268	Ma-Dam				restaurant				
+node	10706642349	47.8994677	1.9058562	Le petit Bar de Halles				bar				
+node	10799461469	47.8832760	1.8982364	Il Don Vittorio				restaurant	41	45100		
+node	10871628056	47.9148045	1.8964116	Restaurant administratif				restaurant		45000		
+node	10934076288	47.9110625	1.9153427	Le 147' café				bar				
+node	11466368604	47.8868642	1.9106897	Okla				restaurant	2	45100	Rue des Dahlias	
+node	11466686546	47.8402138	1.9347403	Brasserie de l'Indien				restaurant				
+node	11479440828	47.8993275	1.9058636	Le Georges				nightclub				
+node	11480943114	47.8982722	1.9094358	Banana Café				restaurant				
+node	11483909118	47.8987337	1.9056527	Greg'				bar				
+node	11486280234	47.8445865	1.9357554	Restaurant Universitaire - L'Anatidé				restaurant		45100	Rue de Saint-Amand	
+node	11494811769	47.9062332	1.8985131	30/40				nightclub				
+node	11499570901	47.9001111	1.9096867	Les Fils À Maman				restaurant				
+node	11499705817	47.8945270	1.9067293	Burger du Boucher				restaurant				
+node	11500153376	47.8946274	1.9037944	Troquet Royal				restaurant	1	45100	Quai de Prague	
+node	11508070228	47.9025890	1.9024536	Asian Street				restaurant		45000	Rue des Minimes	
+node	11527935570	47.9196184	1.9014848	Nova Club				nightclub	25	45400		
+node	11564416405	47.8974838	1.9088148	L'Inexplosible				bar	3	45000	Quai du Châtelet	
+node	11564482871	47.9000267	1.9052374	Amore Caffè				cafe				
+node	11564562469	47.9014535	1.9064582	Los Gabachos				restaurant				
+node	11601699743	47.9069177	1.9054786	Starbucks				cafe				
+node	11601700070	47.8985849	1.9086600	Starbucks				cafe				
+node	11627058270	47.9141591	1.9310622	Au Brazza				bar	34	45000		
+node	11627063471	47.8982288	1.8925944	Escale Oceania				restaurant	16	45000	Quai Saint-Laurent	
+node	11629789257	47.8991571	1.9040011	Le Comptoir de Mamie Bigoud				restaurant	21	45000	Rue Royale	
+node	11662744970	47.8880800	1.8948448	O'Grilo				restaurant				
+node	11715989943	47.8982910	1.9085665	Bowling Lounge Bar Club				bar				
+node	11862645091	47.8995203	1.9068552	La Maison Blanche				bar	44	45000	Rue du Poirier	
+node	11862725017	47.8999854	1.9064846	Le Club café				cafe	288	45000	Rue de Bourgogne	
+node	11934772267	47.8994382	1.9039750	Neko				cafe	29	45000	Rue Royale	
+node	12078150670	47.9061278	1.9054781	L'Artistic				restaurant				
+node	12155217838	47.8985678	1.9071963	Le Rive Droite				restaurant				
+node	12162087710	47.8981156	1.9058342	Empreinte Hotel - Bar Lounge				bar				
+node	12260722218	47.9062863	1.8978459	Grape Bar				bar	4	45000	Rue du Maréchal Foch	
+node	12412831824	47.8988088	1.9051808	Le Galavar				cafe				
+node	12412912170	47.8940484	1.9066734	Chez la Bourgeoise				restaurant	3	45100		
+node	12514010249	47.9073558	1.9058211	Momen'Tea				cafe				
+node	12536090719	47.9000154	1.9073761	Le Babylonia				cafe				
+node	12536181791	47.9000931	1.9081051	Dr Funk				bar				
+node	12536368710	47.9002673	1.9102188	Boci Ben’s				restaurant				
+node	12538989620	47.9003005	1.9107053	UTTA				bar				
+node	13543895992	47.8801762	1.9105414	Le 1944				bar				
+node	13543895993	47.8801171	1.9105761	Le Daniel				restaurant	9		Rue Basse Mouillère	
+node	13544486600	47.8750126	1.9107564	O'Tacos				restaurant				
+node	13544492501	47.8745355	1.9110157	My Beers				bar				
+node	13762029682	47.9000625	1.9075974	Makao				bar				
+node	14024029724	47.8781114	1.9093093	Thai & Vous				restaurant	27	45100	Rue Basse Mouillère	
+node	14081648526	47.8991221	1.9069107	So'Pho				restaurant				
+node	14081683703	47.8995064	1.9066678	Colombages				restaurant				
+node	14139612976	47.8982111	1.9066225	La panthère sourde				bar				
+node	14166438402	47.9000710	1.9087875	Le Secret				bar				
+way	113978290	47.9009875	1.9064430	Gioia				restaurant	32	45000	Rue Louis Roguet	
+way	806899562	47.8982264	1.9178953	La Capitainerie				bar		45000		
+way	1220148983	47.8975035	1.9094743	Le Bateau Lavoir				restaurant	1	45000	Quai du Châtelet	
+way	1391797026	47.8976770	1.9101354	Le Ponton				biergarten	34	45000	Quai du Châtelet	
+way	1391838163	47.8947238	1.9012116	La Paillote				biergarten		45100	Quai de Prague	
+relation	147552			Ormes	8	45140	45235					
+node	7131268680	47.9409156	1.8205422	La Poule Blanche				restaurant	123	45140	Route Nationale	
+node	8341337685	47.9410425	1.8203110	Au Petit Creux				restaurant	127	45140	Route Nationale	
+node	8341348620	47.9412033	1.8205538	Le 122				restaurant	122	45140	Route Nationale	
+node	12215790220	47.9421261	1.8187183	Le Relais De La Mairie				restaurant	142	45140	Route Nationale	
+relation	165333			Ousson-sur-Loire	8	45250	45238					
+node	13050408521	47.5973881	2.7922371	Le Hameau				restaurant				
+relation	165336			Ouzouer-sur-Trézée	8	45250	45245					
+node	1978279715	47.6713492	2.8095094	Le Phenix				bar				
+node	2266214615	47.6703112	2.8113786	Bar de la Marine				bar				
+node	12176486201	47.6704765	2.8092854	Tréz'Café				restaurant	3		Rue Saint-Roch	
+relation	165337			Pannes	8	45700	45247					
+node	1790181368	48.0098235	2.6937692	Rendez vous des ¨Pêcheurs				bar				
+node	1790327525	48.0177125	2.6716936	La Renaissance				bar				
+node	1796053427	47.9920946	2.6658755	La Table de Marie				restaurant				
+node	12426250084	48.0179598	2.6691829	Papilles				restaurant				
+relation	148476			Patay	8	45310	45248					
+node	4659184405	48.0477981	1.6956705	Le Bergerac				bar				
+node	4659184411	48.0480078	1.6953378	Café du Centre				bar				
+node	5365816395	48.0491531	1.6953412	Le Saint-Florian				restaurant				
+relation	149118			Pithiviers	8	45300	45252					
+node	829517289	48.1746741	2.2410366	Café de la Gare				cafe				
+node	2051226661	48.1765980	2.2514539	La Scala				restaurant				
+node	2615985577	48.1742033	2.2531938	Au Petit Bonheur				bar	8	45300	Mail Ouest	
+node	2615986677	48.1743112	2.2532209	À la Porte de Beauce				restaurant	6	45300	Mail Ouest	
+node	2615991250	48.1735352	2.2530804	Le Pénalty				cafe	22	45300	Mail Ouest	
+node	5808411472	48.1724287	2.2563703	Le Café des Halles				cafe	37	45300	Rue Amiral Gourdon	
+node	8210104042	48.1717323	2.2538393	Kyotorama				restaurant				
+node	10310764599	48.1726249	2.2559902	Oléone				restaurant	29	45300	Rue Amiral Gourdon	
+node	12483993069	48.1740142	2.2531697	Le Relais de la Poste				restaurant	10	45300	Mail Ouest	
+node	12484394327	48.1739956	2.2548337	Aux saveurs lointaines				restaurant	1	45300	Place du Martroi	
+node	12486097093	48.1719175	2.2547666	La porte d'Orléans				cafe	35	45300	Rue de la Couronne	
+way	69170026	48.1858746	2.2502656	Wok Grill				restaurant				
+relation	149108			Pithiviers-le-Vieil	8	45300	45253					
+node	11253213338	48.1626377	2.2095643	Aux Cyprès				cafe	5		Rue de l'Armistice	
+relation	164467			Poilly-lez-Gien	8	45500	45254					
+node	2407332292	47.6823455	2.6234726	Le Port Galiier				bar				
+node	14178582725	47.6644099	2.6179212	Le Diabolo				bar				
+relation	157737			Préfontaines	8	45490	45255					
+node	13355961189	48.1081306	2.6899123	Prati'Pizza				restaurant				
+relation	151274			Puiseaux	8	45390	45258					
+node	5382702340	48.2059003	2.4716462	L'Envie				restaurant				
+node	10704309898	48.2044320	2.4709563	Café des 2 places				bar				
+node	10704335309	48.2046391	2.4706131	Bar tabac PMU				bar				
+way	185618528	48.2055885	2.4707300	L'arôme antique				cafe				
+relation	160912			Quiers-sur-Bezonde	8	45270	45259					
+node	12999499405	47.9990513	2.4368195	Au Fil des Roses				restaurant				
+node	14073456297	47.9848976	2.4367659	Le Kiosque à Pizza				restaurant				
+relation	148212			Rebréchien	8	45470	45261					
+node	472734113	47.9881655	2.0448876	Le Rebrech'				restaurant	20	45470	Place de l'Église	
+node	13495099436	47.9868464	2.0443410	Regal Pizza				restaurant				
+relation	148756			Saint-Ay	8	45130	45269					
+way	307205563	47.8596735	1.7559170	La Grande Tour				restaurant	21	45130	Route Nationale	
+way	307208132	47.8580590	1.7520515	L'Agylien				restaurant	118	45130	Route Nationale	
+relation	149853			Saint-Benoît-sur-Loire	8	45730	45270					
+node	492894524	47.8102620	2.3062263	La Madeleine				restaurant	65		Rue Orléanaise	
+node	927998101	47.8101602	2.3065360	Café de la Ville, Presse, Tabac				cafe				
+node	4976167089	47.8106247	2.3059856	À la table des célestes				restaurant	3	45730	Place Saint-André	
+node	4976167090	47.8107327	2.3061358	Le Grand Saint-Benoît				restaurant	7	45730	Place Saint-André	
+relation	164460			Saint-Brisson-sur-Loire	8	45500	45271					
+node	2351405532	47.6478178	2.6822141	La Taverne				restaurant	3	45500	Rue d'Aurtry	
+relation	150427			Saint-Cyr-en-Val	8	45590	45272					
+node	6630703660	47.8320659	1.9693033	Boucherie du Val				restaurant	133	45590	Rue du 11 Novembre 1918	
+node	7102134185	47.8326233	1.9687884	Mayyel				restaurant	80	45590	Rue du 11 Novembre 1918	
+node	12174352635	47.8323236	1.9680262	Bouchon Dix Vins				restaurant	65	45590	Rue de la Gare	
+way	277107215	47.8205895	1.9483965	Le Clos de St Cyr				restaurant	2108	45590	Rue de la Gare	
+relation	165350			Saint-Denis-de-l'Hôtel	8	45550	45273					
+node	11934734759	47.8737164	2.1275617	Café De La Gare				restaurant				
+node	11942894260	47.8722952	2.1273082	La Sicilia				restaurant				
+relation	151013			Saint-Denis-en-Val	8	45560	45274					
+node	4661078369	47.8786949	1.9565069	Le P'tit Saint-Denis				restaurant	2	45560	Rue de Melleray	
+node	6875837440	47.8788558	1.9548592	La Gaité				restaurant	87		Rue de Saint-Denis	
+node	7685208292	47.8788933	1.9563235	L'Hédyoniste En Val				restaurant	10	45560	Rue de Saint-Denis	
+node	7685208293	47.8788573	1.9558397	l'Agora				cafe	30	45560	Rue de Saint-Denis	
+relation	165353			Saint-Germain-des-Prés	8	45220	45279					
+node	13043020261	47.9534618	2.8476735	Bar-Tabac Le St-Germain				pub				
+relation	165354			Saint-Gondon	8	45500	45280					
+node	10303968028	47.6990866	2.5422070	Le Bistro				bar				
+way	349912594	47.7044199	2.5370994	Le Maya				nightclub				
+relation	151038			Saint-Hilaire-Saint-Mesmin	8	45160	45282					
+node	9793397022	47.8669275	1.8268098	L'Escale du Port Arthur				nightclub	205	45160	Rue de l'Église	
+relation	147554			Saint-Jean-de-Braye	8	45800	45284					
+node	1343043935	47.9141392	1.9647915	L'Antarès				restaurant				
+node	1343049880	47.9154924	1.9697042	Le Gallia				pub				
+node	3172252366	47.9221371	1.9867987	Ristorante Del Arte				restaurant	41	45800	Allée du Grand Coquille	
+node	3777234773	47.9119997	1.9756368	Le Saint-Christophe				restaurant				
+node	5361683621	47.9034188	1.9317860	Le Celtique				bar				
+node	7409912061	47.9084335	1.9708853	La Haute Croix				restaurant	117	45800	Avenue Louis-Joseph Soulas	
+node	7925020622	47.9119374	1.9691216	Sandra Henriques				bar	165	45800	Rue Jean Zay	
+node	8909486705	47.9041303	1.9379838	Le Meeting Potes				bar		45800		
+node	9473829271	47.9135737	1.9403564	Restoself				restaurant	100	45800		
+node	9793476876	47.9061068	1.9700156	La Guinguette du Parc				nightclub	25	45800	Rue de Mondésir	
+node	9981919798	47.9158056	1.9715132	West garden				restaurant				
+node	11545872087	47.9098887	1.9527635	Pizzeria Du Pont Bordeau				restaurant	53	45800	Rue du Pont Bordeau	
+node	11578260596	47.9104324	1.9713448	Pizza Royale				restaurant	28	45800	Rue de la Mairie	
+node	11652452695	47.9027061	1.9404057	Les Toqués				restaurant	71	45800	Chemin de Halage	
+node	11668532893	47.9040261	1.9399880	Courtepaille				restaurant	28	45800	Rue du Port Saint-Loup	
+node	11733487469	47.9132297	1.9607614	Café La Crème				restaurant				
+node	12194108374	47.9110717	1.9696707	Nouvelle d'Asie				restaurant		45800		
+relation	147558			Saint-Jean-de-la-Ruelle	8	45140	45285					
+node	453057107	47.9036005	1.8619645	Flunch				restaurant		45140	Centre Commercial des Trois Fontaines	
+node	1006672826	47.8988386	1.8741182	Le Bistrot du Pont				cafe	32	45140	Rue de la Madeleine	
+node	3447442171	47.9096783	1.8824520	Au roi du café				bar				
+node	3489713851	47.9120684	1.8768773	Les Tulipes				bar	60	45140	Rue Charles Beauhaire	
+node	3489713858	47.9110289	1.8791922	Indochine 45				restaurant	40	45140	Rue Charles Beauhaire	
+node	5363477821	47.9054651	1.8674183	Ristorante Del Arte				restaurant		45140	Avenue Pierre Mendès France	
+node	6274222096	47.9084135	1.8594758	L'Inattendu				restaurant	50	45140	Rue de la Batardière	
+node	6369699305	47.9057189	1.8681028	Sushi King				restaurant		45140	Avenue Pierre Mendès France	
+node	6862358985	47.9151814	1.8687728	Pedra alta				restaurant				
+relation	147556			Saint-Jean-le-Blanc	8	45650	45286					
+node	1841964475	47.8802428	1.9349225	Le Moustic				bar		45650	Route de Sandillon	
+node	2398072227	47.8930182	1.9233928	Chez Meumeu				restaurant	2	45650	Levée de la Chevauchée	
+node	3473606628	47.8925692	1.9172990	Brasilia				bar	34	45650	Rue du Général de Gaulle	
+node	3473606629	47.8928841	1.9169382	La Besace				bar				
+node	3473606632	47.8926121	1.9176273	Côté Sud Loire				restaurant	31	45650	Rue du Général de Gaulle	
+node	9793243252	47.8996218	1.9417678	L'Îlot4				nightclub				
+node	11500112102	47.8880660	1.9130507	Le Brazito				bar	47	45650	Rue du Ballon	
+relation	169226			Saint-Lyé-la-Forêt	8	45170	45289					
+node	1106783606	48.0412983	1.9827578	Le Lion d'Or				cafe				
+relation	165377			Saint-Martin-d'Abbat	8	45110	45290					
+node	2306338855	47.8565625	2.2668444	Au Petit Bonheur				restaurant				
+way	158302021	47.8568700	2.2673255	Le Caf't				bar				
+relation	164464			Saint-Martin-sur-Ocre	8	45500	45291					
+node	2351405544	47.6595199	2.6580592	Auberge de St. Martin				pub				
+relation	165381			Saint-Père-sur-Loire	8	45600	45297					
+node	1253177437	47.7732594	2.3733694	Logis Hotel Sully le Château				restaurant	4	45600	Rue de Paris	
+relation	147550			Saint-Pryvé-Saint-Mesmin	8	45750	45298					
+node	452565125	47.8799456	1.8705617	Bar Restaurant Café de la Place				cafe	4	45750	Place Clovis	
+node	1885233132	47.8854214	1.8802524	Aux Bons Amis				bar	86	45750	Route de Saint-Mesmin	
+node	6143316915	47.8814982	1.8641852	La Ptite Cuisine				restaurant	5	45750	Avenue du Traité de Rome	
+node	9793426096	47.8733120	1.8413131	Au Piaf du Loiret				nightclub	350	45750	Route de Saint-Mesmin	
+node	13569800258	47.8820351	1.8697236	KP restaurant				restaurant				
+relation	147555			Sandillon	8	45640	45300					
+node	1601756169	47.8454527	2.0324040	Au Bon Accueil				bar		45640		
+node	1601756173	47.8454952	2.0331158	Un Toit pour Toi				restaurant	2	45640	Rue de la Villette	
+node	5827968944	47.8447912	2.0335904	Hop La Pizza				restaurant	60	45640	Place du 8 mai	
+node	6696761737	47.8456673	2.0301697	Sandwicherie de Sandillon				restaurant	212			
+node	12167958917	47.8456548	2.0302396	L'Arlequin				restaurant				
+node	12397900417	47.8454292	2.0321641	L'Escapade				bar	55	45640	Route d'Orléans	
+relation	147551			Saran	8	45770	45302					
+node	823031653	47.9499172	1.8596831	La Soupière				restaurant				
+node	1953049533	47.9444550	1.8928220	Léon				restaurant	744	45770	Rue Nationale 20	
+node	3172251664	47.9614575	1.8882719	Ristorante Del Arte				restaurant		45770	Rue Nationale 20	
+node	3472124901	47.9585929	1.8930245	Le Rococo				restaurant		45770	Rue de la Tuilerie	
+node	3473001694	47.9549345	1.8915781	Wokasie				restaurant	75	45770	Rue Gabriel Debacq	
+node	4024186239	47.9612342	1.8863652	Au Comptoir				bar		45770		
+node	5219528626	47.9631286	1.8881145	Otaru				restaurant	131	45770	Rue Thomas Edison	
+node	5297579505	47.9515991	1.8912691	Boulangerie Ange				restaurant	1545	45770	Rue Nationale 20	
+node	5624336121	47.9619931	1.8840044	Holly's Diner				restaurant			Centre Commercial Cap Saran	
+node	5632290136	47.9613260	1.8858157	Columbus Café & Co				cafe		45770		
+node	7101322636	47.9612322	1.8851674	Octopub				bar		45770		
+node	7525180619	47.9470874	1.9113167	Chez Marie				restaurant	101	45770	Rue de la Halte	
+node	8119059395	47.9462936	1.8955220	Memphis				restaurant	1010		Rue Nationale 20	
+node	8119059396	47.9461381	1.8955567	Signorizza				restaurant				
+node	9368001964	47.9508190	1.8778222	La fournée				restaurant				
+node	10707448172	47.9439128	1.8929384	Buffalo Grill				restaurant	680	45770	Rue Nationale 20	
+node	11518987299	47.9621345	1.8822432	El Tapas				restaurant		45770		
+node	11518987825	47.9623837	1.8819639	Les Arcades				restaurant		45770		
+node	11524918369	47.9378217	1.8932162	O Poulet Braisé				restaurant	17	45770	Allée de Bel Air	
+node	11530384420	47.9467864	1.8936267	La Boucherie				restaurant	1002	45770	Rue Nationale 20	
+node	11530384421	47.9467781	1.8940533	La Criée				restaurant	1004	45770	Rue Nationale 20	
+node	11530384422	47.9468181	1.8944965	3 Brasseurs				restaurant	1006	45770	Rue Nationale 20	
+node	11530384423	47.9467905	1.8948984	Il Ristorante				restaurant	1008	45770	Rue Nationale 20	
+node	11540056188	47.9471479	1.8917151	Au Bureau				restaurant	1083	45770	Rue Nationale 20	
+node	11540065507	47.9473516	1.8916733	BeeNooz				pub	1083	45770	Rue Nationale 20	
+node	11850983127	47.9488883	1.8861706	Restaurant de la Grande Planche				restaurant				
+node	11948366745	47.9585347	1.8930506	Le Complex				bar		45770	Allée de l'Orée de la Forêt	
+node	11948414269	47.9582688	1.8944274	Kart Racer Club House				bar		45770	Allée de l'Orée de la Forêt	
+node	12357758685	47.9526975	1.8913217	Chez Tang				restaurant	1653	45770	Rue Nationale 20	
+node	12559012745	47.9619189	1.8836262	El Toro				restaurant	2601	45770	Rue Nationale 20	
+node	13323685863	47.9650015	1.8876204	Royal Buffet				restaurant				
+way	68402553	47.9614726	1.8882691	Ristorante Del Arte				restaurant		45770		
+way	68412892	47.9421413	1.8925164	Le Bistrot 443				restaurant				
+relation	157735			Sceaux-du-Gâtinais	8	45490	45303					
+node	9902128428	48.1084332	2.5866728	La Fabrik Du Marais				pub				
+way	329636205	48.1050321	2.5960561	Le Trady				restaurant				
+relation	165306			La Selle-en-Hermoy	8	45210	45306					
+node	11755065567	48.0117037	2.8944918	Café de l'Hermois				cafe				
+relation	9464342			La Selle-sur-le-Bied	8	45210	45307					
+node	323192558	48.0636875	2.8928967	Restaurant scolaire				restaurant				
+node	323192616	48.0638467	2.8954930	Oh PierrO				cafe				
+node	323192617	48.0638931	2.8953444	Le Moulin du Bief				restaurant				
+relation	147549			Semoy	8	45400	45308					
+node	12647792671	47.9321845	1.9495571	Comme Chemoy				restaurant		45400	Place François Mitterrand	
+way	345781343	47.9323890	1.9498675	Le Flamboyant				bar	33	45400	Rue du Bourg	
+relation	150216			Sennely	8	45240	45309					
+node	12473626385	47.6833072	2.1344468	Auberge de Villechaume				restaurant	45	45240	45 route de Villechaume	
+relation	148210			Sully-la-Chapelle	8	45450	45314					
+node	1715913271	47.9759334	2.1819763	Auberge du Cheval Blanc				restaurant				
+relation	113272			Sully-sur-Loire	8	45600	45315					
+node	6634731980	47.7668559	2.3742576	Le Sushi d'Or				restaurant	5	45600	Rue du Grand Sully	
+node	6634734092	47.7663700	2.3746671	Délice Time				restaurant	13	45600	Rue Jean Jaurès	
+node	6638635645	47.7656882	2.3663914	Aux P'tits Oignons				restaurant	1	45600	Rue du Port au Bois	
+node	6638635651	47.7662119	2.3681742	Le Caméléon / Bar du Rio				bar	66	45600	Rue du Faubourg Saint-Germain	
+node	6638635652	47.7662091	2.3679995	Entre Loire et Sologne				restaurant	2	45600	Place Saint-Germain	
+node	6639697316	47.7650823	2.3743986	Le Paddy's				bar	22	45600	Boulevard Jeanne d'Arc	
+node	6639697336	47.7648731	2.3754041	Chez Wang				restaurant	19	45600	Rue Porte de Sologne	
+node	6641556668	47.7668715	2.3730775	Le Trévi				restaurant	5	45600	Rue du Faubourg Saint-Germain	
+node	6641556669	47.7669529	2.3739439	Castle Tavern				restaurant	2-4	45600	Rue du Grand Sully	
+node	11700888700	47.7654540	2.3754501	Atrium de Sully				bar	6	45600	Rue Porte de Sologne	
+node	13314111028	47.7675804	2.3729836	L’Arcatène				cafe	6	45600	Chemin de la Levée	
+node	13675746494	47.7671917	2.3738706	Le Cerf Thym				restaurant	2	45600	Rue du Faubourg Saint-Germain	
+node	13675773693	47.7643294	2.3760523	Restaurant du Grand Sully				restaurant	10	45600	Boulevard du Champ de Foire	
+node	13675872984	47.7663983	2.3743046	Allo Pizza Di Napoli				restaurant	13	45600	Rue du Grand Sully	
+node	13675918782	47.7666585	2.3739778	La Rose Blanche				restaurant	8	45600	Rue du Grand Sully	
+node	13676103965	47.7654179	2.3739352	SFC Fast Food				restaurant	16	45600	Boulevard Jeanne d'Arc	
+node	13676156575	47.7661461	2.3740744	Le P’tit Sully				bar	18	45600	Rue du Grand Sully	
+node	13676198039	47.7663995	2.3746064	Le Snack Time				restaurant	15	45600	Rue Jean Jaurès	
+node	13676227045	47.7598448	2.3702743	Relai Maximilien				restaurant	47	45600	Avenue de la Gare	
+node	13840785599	47.7669801	2.3742239	Casa Nicoletti La Rome Antique				restaurant	1	45600	Rue du Grand Sully	
+relation	148223			Sury-aux-Bois	8	45530	45316					
+way	542384578	47.9363899	2.3528725	Château de Chicamour				restaurant				
+way	542385624	47.9643801	2.3407960	Lacour des grands				cafe	22	45530	Rue de la Mairie	
+relation	150880			Tavers	8	45190	45317					
+node	3361226838	47.7656740	1.6099894	Petits buffets				restaurant				
+node	12660405994	47.7655561	1.6126814	à la bonne franquette				restaurant				
+node	12881351482	47.7643476	1.6115184	Happy Laos				restaurant	5/7	45190	Rue du Clos de Bordeaux	
+relation	110093			Thimory	8	45260	45321					
+way	201926970	47.9216895	2.6003730	Le Relais de Thimory				bar				
+relation	165385			Thorailles	8	45210	45322					
+node	3750378773	48.0192410	2.8893260	La Grande Halte				restaurant				
+relation	150222			Tigy	8	45510	45324					
+node	6633348855	47.7953471	2.1990835	Auberge du Cheval Blanc				restaurant				
+relation	148748			Tournoisis	8	45310	45326					
+node	2085492942	48.0107381	1.6297939	Relais Saint-Jacques				restaurant	35	45310		
+relation	165390			Traînou	8	45470	45327					
+node	5634761495	47.9745439	2.1025539	Le Petit Caprice				pub				
+node	5634766710	47.9747712	2.1026274	Café de la Place				cafe				
+relation	165392			Triguères	8	45220	45329					
+way	175729697	47.9390795	2.9847110	Bar Restaurant de l'Ouanne				restaurant				
+relation	150215			Vannes-sur-Cosson	8	45510	45331					
+node	14058161257	47.7124001	2.2119926	Bat tabac				bar				
+relation	110045			Varennes-Changy	8	45290	45332					
+node	2699214317	47.8519631	2.6838669	Autogrill				restaurant				
+node	6398073897	47.8657065	2.6591928	La Campagne				restaurant				
+relation	165393			Vieilles-Maisons-sur-Joudry	8	45260	45334					
+node	9879321384	47.8745038	2.4428416	L'étang des Bois				restaurant		45260		
+node	10017808477	47.8979515	2.4546205	Relais des trois écluses				restaurant	153	45260	Route de Grignon	
+relation	150227			Vienne-en-Val	8	45510	45335					
+node	6632775155	47.8007150	2.1354099	Bar Les Fouilles				bar				
+node	11930278082	47.8004910	2.1348832	Home burger VEV				restaurant				
+relation	149692			Viglain	8	45600	45336					
+node	12142878915	47.7284676	2.3014936	Le cheval rouge				restaurant				
+relation	148755			Villorceau	8	45190	45344					
+node	4594557750	47.8011054	1.5966653	Café de la Place				bar				
+relation	148651			Vitry-aux-Loges	8	45530	45346					
+node	3138144608	47.9375620	2.2672389	Cuisinerie Clémence Estaminet				restaurant				
+node	8907748207	47.9340118	2.2655151	Café des 4 Routes				cafe	10			

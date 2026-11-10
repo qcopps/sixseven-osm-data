@@ -1,0 +1,560 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	2073357			Allanche	8	15160	15001					
+node	6694743014	45.2491844	2.8994744	Le Buron des Estives				restaurant		15160	Route de Marcenat	
+node	7794660085	45.2491563	2.8994822	Le Buron des Estives				restaurant			Route de Marcenat 15160 Allanche	
+way	154663127	45.2288510	2.9346755	Le Mercoeur				bar				
+relation	1223480			Alleuze	8	15100	15002					
+way	695578447	44.9622516	3.0856575	Auberge du Château d'Alleuze				restaurant				
+relation	447646			Ally	8	15700	15003					
+node	6048682090	45.1735873	2.3137970	Au Bon Accueil				restaurant				
+relation	2804231			Andelat	8	15100	15004					
+node	12366127583	45.0388312	3.0598908	La Mangoune				restaurant				
+node	13052396080	45.0683636	3.0422962	La guingette du Sailhant				biergarten				
+way	702249484	45.0387856	3.0599171	La mangoune				restaurant				
+relation	1435172			Anglards-de-Saint-Flour	8	15100	15005					
+node	4109229291	44.9989029	3.1658564	Restaurant La Méridienne				restaurant		15100		
+node	4626785564	44.9738568	3.1718950	L'Escapade				restaurant				
+relation	135779			Anglards-de-Salers	8	15380	15006					
+way	146291331	45.2049675	2.4378445	Auberge Les Sorbiers				restaurant				
+relation	3059339			Antignac	8	15240	15008					
+node	4181092989	45.3409524	2.5448584	Auberge de la Sumène				restaurant				
+relation	3049086			Apchon	8	15400	15009					
+node	2874262201	45.2475140	2.6933190	L'Auberge le Cheylet				restaurant				
+relation	117214			Arpajon-sur-Cère	8	15130	15012					
+node	2435123631	44.9006856	2.4598446	Bar L'Auberge				bar				
+node	2502681995	44.9006835	2.4597235	Auberge du Clocher				restaurant				
+node	2502683627	44.9021382	2.4691125	Hôtel de la Gare				restaurant				
+node	2502684692	44.9049610	2.4793747	Les Crozes				restaurant				
+node	2502690733	44.9126184	2.4585802	CHEZ ROMU				restaurant				
+node	2503042445	44.9002707	2.4593824	Bar de Côte				bar				
+node	5713714054	44.9005660	2.4593734	Restaurant Ker Marie				restaurant				
+relation	115997			Aurillac	8	15000	15014					
+node	557555157	44.9276992	2.4436755	Bar l'abside				bar	12		Place du Square	
+node	776583607	44.9107475	2.4453297	La baguette d'Or				restaurant		15000	Avenue du Général Leclerc	
+node	1752647805	44.9301361	2.4486926	Levrette Cafe				nightclub	16	15000	Rue du Buis	
+node	1752655266	44.9289103	2.4439004	Grand café Mary				cafe	27	15000	Place du Square	
+node	2357356135	44.9289849	2.4437970	Le Milk				cafe	25	15000	Place du Square	
+node	2502694664	44.9110304	2.4263186	L'Envie				restaurant				
+node	2502720081	44.9078694	2.4221451	L'Olympic				restaurant				
+node	2502720084	44.8970346	2.4078987	La Sablière				restaurant				
+node	2915939318	44.9288055	2.4440356	Pizza Vival				restaurant				
+node	3220411085	44.9298041	2.4460940	Bistrot des Amis				bar				
+node	4017902498	44.9282109	2.4425077	Le Damier				restaurant				
+node	4039032089	44.9299320	2.4478161	Café de France				cafe				
+node	4044245831	44.9208713	2.4346609	La Source				cafe				
+node	4788251322	44.9290589	2.4498387	Bougnat Bohème				nightclub				
+node	5308273676	44.9308761	2.4465692	Le Médiéval				cafe	10	15000	Rue du Collège	
+node	6510781185	44.9303142	2.4451770	Le Diablo'Thym				bar				
+node	6510781186	44.9301429	2.4451004	Table(s) Zé Komptoir				restaurant				
+node	6510781285	44.9298814	2.4448951	Le Player				cafe				
+node	7795406262	44.9295179	2.4423869	Zadig				bar	6		Rue Beauclair	
+node	9015310717	44.9185033	2.4667360	Grand Siècle				restaurant	42		Avenue Georges Pompidou	
+node	9046351917	44.9185934	2.4669168	Grand Siècle				restaurant	42	15000	Avenue Georges Pompidou	
+node	9083588252	44.9214183	2.4352136	La Taverne (Les Relais d'Alsace)				restaurant	2		Place Pierre Semard	
+node	9083868017	44.9183497	2.4385020	Le Marigny				bar				
+node	9083868018	44.9180510	2.4389332	Bar de L'Étoile				bar				
+node	9083899720	44.9311426	2.4421434	La Maison d'Alexandre				restaurant	16		Place d'Aurinques	
+node	9083904417	44.9308189	2.4419104	La Pizzaiola				restaurant	6	15000	Place d'Aurinques	
+node	9083905017	44.9309881	2.4417762	Au Faisan Doré				bar				
+node	9084480435	44.9353594	2.4543319	Le Cap				pub				
+node	9084757018	44.9282940	2.4449101	Le Zinc				bar				
+node	9084757019	44.9283173	2.4449971	Moment'Café				restaurant				
+node	9084764317	44.9282770	2.4448423	Bouissou Alain				cafe				
+node	9084766717	44.9305281	2.4464731	Five Eleven				bar				
+node	9084766718	44.9302350	2.4455976	Le Chiquito				bar				
+node	9084774519	44.9296288	2.4457626	La Table des Matières				restaurant				
+node	9084783280	44.9300949	2.4481707	L'Excuse				pub				
+node	9084785917	44.9292079	2.4465335	Le café de ma mère				cafe				
+node	9085605658	44.9291819	2.4463909	Les 2 Pieds sous la Table				restaurant				
+node	9085666454	44.9293163	2.4459603	clandestino				bar				
+node	9085666455	44.9294288	2.4461688	Restaurant le Cromesquis				restaurant	1	15000	Rue du Salut	
+node	9085666460	44.9299210	2.4458603	Le Chandelier fast food				restaurant	4	15000	Rue du Crucifix	
+node	9085689717	44.9307376	2.4449894	L’ardoise				restaurant	17	15000	Place de l'Hôtel de Ville	
+node	9095087836	44.9324734	2.4471982	L'Auberge des garennes				restaurant				
+node	9095101598	44.9323828	2.4476650	La Loupiote				pub				
+node	9095134337	44.9319449	2.4477262	La Java des paluches				pub				
+node	9557215298	44.9235872	2.4404307	Topolino				restaurant				
+node	9743384518	44.9273933	2.4452769	Fleur de sel				bar				
+node	9743384717	44.9275124	2.4451629	L'atelier cantalien				bar				
+node	9746926118	44.9269750	2.4433723	Le narval				cafe				
+node	9746927018	44.9297860	2.4469386	Les quatre saisons				restaurant				
+node	9746927020	44.9283526	2.4481052	Côté rive				restaurant				
+node	9746927121	44.9304723	2.4480309	la vacherie				restaurant				
+node	9746927425	44.9277067	2.4462435	La Brasseeie d'Aurillac				restaurant				
+node	10252845709	44.9173453	2.4376323	Le Biarritz				bar	13	15000	Avenue des Prades	
+node	10793328757	44.9216112	2.4353492	Les Ateliers				restaurant				
+node	11115234262	44.9305770	2.4450300	Naka				restaurant	14	15000		Place de l'Hôtel de Ville
+node	11117503506	44.8950714	2.3984717	Ô Bistro				restaurant				
+node	11288302651	44.9093750	2.4528202	Au Bureau				restaurant				
+node	12099369165	44.9239555	2.4410197	Bar de la Tour				restaurant	45	15000	Rue des Carmes	
+node	12117120070	44.9258898	2.4424122	Croq'Pizza				restaurant	38	15000	Rue des Carmes	
+node	12117120072	44.9267912	2.4430343	Passage des Carmes				restaurant	20	15000	Rue des Carmes	
+node	12117178336	44.9282495	2.4459727	La Fontaine				restaurant	6	15000	Rue Baldeyrou	
+node	12137680001	44.9294380	2.4466391	Séreni'Thé				cafe		15000	Place Claude Érignac	
+node	12768091173	44.9306568	2.4487534	Le canotier live				bar				
+node	12768201459	44.9301173	2.4464593	L’engrenange				bar				
+node	12798321201	44.9309017	2.4418483	Yume Café				cafe	7	15000	Place d'Aurinques	
+node	12806458501	44.9279243	2.4429969	La Brasserie du Square				restaurant	15	15000	Place du Square	
+node	13018703502	44.9019978	2.4292945	L'envie				restaurant	5	15000	Impasse Blaise Pascal	
+node	13065295715	44.9212760	2.4358905	Caféterie Guillaume				cafe	25	15000	place Pierre Sémard	
+node	13071372884	44.9160850	2.4118016	Le Belbexois				restaurant				
+node	13981277879	44.9316518	2.4475527	Croq PIZZA				restaurant				
+node	13981277892	44.9354966	2.4541090	La Caban'a Pizzas				restaurant				
+node	13981322745	44.9315991	2.4504034	La cour des Miracles				bar				
+node	13981322751	44.9305787	2.4470081	FREERIDER Café				cafe				
+node	14048279930	44.9195889	2.4276677	Le zanzibar				restaurant	13	15000	Boulevard du Vialenc	
+node	14073615795	44.9292205	2.4443901	L'Helios				nightclub				
+node	14073615796	44.9250932	2.4412690	El Cubanito				bar				
+node	14125362962	44.9283826	2.4453233	Panino Di Nono				restaurant				
+node	14125440871	44.9281202	2.4426654	Aux Deux Cygnes				bar				
+node	14175570287	44.9099187	2.4462823	Mamija				pub				
+way	43881377	44.9281747	2.4441890	Le Kiosque				restaurant				
+way	45460597	44.9143698	2.4417599	Bar L'agora				bar				
+way	56237053	44.9115393	2.4504529	La Mangoune				restaurant	23	15000	Allée Georges Pompidou	
+way	343898248	44.9161107	2.4284453	Brasserie de l'Escudillier				restaurant	5			
+relation	3044795			Auzers	8	15240	15015					
+node	12757606583	45.2650749	2.4586932	Auberge du Troumelou				restaurant				
+relation	1923444			Boisset	8	15600	15021					
+way	361941119	44.7826801	2.2534481	Le Bouclier Arverne Bar Restaurant				restaurant		15600	Place de la Mairie	
+relation	2857804			Albepierre-Bredons	8	15300	15025					
+node	9967219188	45.0782569	2.8328945	Le Cantou				pub				
+node	10287647230	45.0782509	2.8329360	Hôtel restaurant Le Cantou				restaurant				
+relation	2858497			Brezons	8	15230	15026					
+node	6754228980	45.0344737	2.7878373	BURON DE LA COMBE DE LA SAURE				restaurant				
+relation	9134660			Puycapel	8	15340	15027					
+node	5915993236	44.6917687	2.3298834	L'Auberge de Mourjou				restaurant				
+relation	1901541			Cassaniouze	8	15340	15029					
+node	13947765126	44.6900289	2.3831044	L'auberge des voyageurs				restaurant	12	15340	rue du lavoir	
+relation	2865520			Cézens	8	15230	15033					
+way	242665641	44.9842515	2.8565820	Auberge Bar Restaurant Salon de thé Gîtes				restaurant				
+relation	2073364			Chaliers	8	15320	15034					
+node	2520999461	44.9686894	3.2358584	Le Relais de la Truyère				restaurant		15320		Prat Long
+relation	1435648			Chalinargues	8	15170	15035					
+node	2627772270	45.1541863	2.9312977	Chez Jo				bar				
+node	2627772272	45.1553316	2.9311132	L'auberge				bar	9	15170	Route du Pirou	
+node	2627772273	45.1552838	2.9310791	L'auberge				restaurant	9	15170	Route du Pirou	
+relation	1898991			Chalvignac	8	15200	15036					
+node	3595269395	45.2404723	2.2468563	Le Bar				bar				
+node	3595269397	45.2409395	2.2456413	Chez Mado				restaurant				
+node	11383820249	45.2405097	2.2470047	Le Resto				restaurant				
+relation	1963138			Champagnac	8	15350	15037					
+node	1841851017	45.3572735	2.3981479	Bar Tabac Presse du Midi				bar				
+relation	3059813			Champs-sur-Tarentaine-Marchal	8	15270	15038					
+node	4180573103	45.3959104	2.5619288	Bar de la fontaine				bar				
+node	4180641095	45.3954075	2.5614036	Le Faroulet				bar				
+node	4180661197	45.3955201	2.5608882	Pizzeria				restaurant				
+node	5024819729	45.3808819	2.5772779	La grange aux fleurs				restaurant		15270	Route de Sarran	
+node	5995916685	45.3961540	2.5627331	Le Saint-Rémi				restaurant				
+relation	2848777			La Chapelle-d'Alagnon	8	15300	15041					
+way	762619512	45.1130980	2.9184634	Café guinguette Le Moulin de Gaspard				restaurant				
+relation	1849163			La Chapelle-Laurent	8	15500	15042					
+node	6075672285	45.1779357	3.2431046	Bar du Centre				bar				
+node	6075672385	45.1782955	3.2430747	Auberge Provençale				restaurant				
+relation	2658224			Chaudes-Aigues	8	15110	15045					
+node	2264612584	44.8540908	3.0039192	Le Bistrot De La Fontaine				restaurant				
+node	3109717385	44.8542271	3.0037430	Chez Céline				bar				
+node	3109717396	44.8549532	3.0040736	Hôtel de la Mairie				restaurant			Place de la Mairie	
+node	5155948905	44.8504073	3.0029744	Coin d'Aubrac				restaurant				
+node	5159739546	44.8532421	3.0032741	Restaurant de la source du Par				restaurant				
+node	9000973590	44.8876598	2.9965852	Au rendez-vous des pêcheurs				restaurant				
+node	12000299387	44.8539721	3.0039089	Le remontalou				bar				
+node	12000318870	44.8538596	3.0038640	Le gravier				cafe				
+way	197943485	44.8516640	3.0032870	Hôtel & Restaurant Sodade				restaurant	21	15110	Avenue Georges Pompidou	
+relation	1223478			Chaussenac	8	15700	15046					
+way	155015511	45.1770175	2.2780535	Le Comptoir Chaussenac				restaurant		15700	le bourg	
+relation	1435647			Chavagnac	8	15300	15047					
+way	155164010	45.1868740	2.8828890	Instants d'Absolu, Ecolodge et Spa				restaurant		15300		
+way	257037127	45.1890045	2.8842545	Le Heron juste poelée				cafe		15300		
+relation	1998545			Cheylade	8	15400	15049					
+node	9930111837	45.2097141	2.7165382	Le grand hôtel de la vallée				restaurant	12	15400	Route du Puy Mary	
+way	370013628	45.1878685	2.7061445	Le Lac des Cascades				restaurant				
+relation	1998546			Le Claux	8	15400	15050					
+node	365504756	45.1143050	2.6718506	Chalet du Puy Mary				restaurant	104	15400	Route du Puy Mary	
+node	7809394227	45.1592649	2.7057084	La Petite Rhue				cafe				
+relation	1022036			Condat	8	15190	15054					
+node	2380672738	45.3350083	2.7693435	Le Lac des Moines				restaurant		15190	La chèvre Blanche	
+node	2800819401	45.3397863	2.7595722	La Petite Auvergne				restaurant		15190	Grand Rue	
+node	2800819404	45.3400352	2.7586683	Bar - Tabac - Presse Chez Yoyo Et Lolo				bar		15190	Grand Rue	
+node	2800819405	45.3414388	2.7573878	Bar-PMU Le Domino				restaurant		15190	Quartier des Écoles	
+node	13020896736	45.3399491	2.7592044	Burons et Bouchons				restaurant				
+relation	1450246			Dienne	8	15300	15061					
+node	7883628185	45.1776856	2.8482022	Auberge Le Lac Sauvage				restaurant		15300	Sous La Grange	
+node	13898632249	45.1585960	2.7868556	Le ravito de la Santoire				bar				
+way	155821783	45.1584950	2.7887470	Épicerie de Dienne				restaurant				
+way	155821851	45.1654418	2.8058046	Auberge Boudenche				restaurant		15300	Lieu dit Boudenche	
+relation	1787108			Drugeac	8	15140	15063					
+node	4142940423	45.1667386	2.3852819	Café de la Poste				cafe				
+relation	450808			Escorailles	8	15700	15064					
+way	155832498	45.1725577	2.3294446	Restaurant La Plantade Escorailles Salers				restaurant	4	15700	Place de la Plantade	
+relation	447645			Le Falgoux	8	15380	15066					
+node	2201802895	45.1549709	2.6231284	Chez Louis				restaurant				
+node	2201802935	45.1547321	2.6232488	Hôtel des Voyageurs				restaurant				
+relation	447648			Le Fau	8	15140	15067					
+node	9932553157	45.1016839	2.5842316	Auberge du Fau				restaurant				
+relation	1223509			Fontanges	8	15140	15070					
+way	242157845	45.1177915	2.4982510	Auberge de l'Aspre				restaurant				
+relation	2517623			Glénat	8	15150	15076					
+way	1313342193	44.9015134	2.1799614	Stella Artois				bar				
+relation	121802			Jussac	8	15250	15083					
+way	241180625	44.9931270	2.4198570	Le Pont d'Authre				restaurant				
+way	241180831	44.9905950	2.4209945	Pizzas Papou				restaurant				
+relation	129335			Lacapelle-Viescamp	8	15150	15088					
+way	1089193387	44.9131090	2.2489546	Le Nautilus				restaurant				
+relation	2984053			Lafeuillade-en-Vézie	8	15130	15090					
+node	2085157206	44.7891712	2.4608594	Le Relais des Bruyères				restaurant				
+relation	1999512			Landeyrat	8	15160	15091					
+way	148245513	45.2632707	2.8652275	Café de Landeyrat				cafe				
+relation	1770467			Lanobre	8	15270	15092					
+node	1797890495	45.4442243	2.5072344	Relais Valcastel				restaurant				
+node	1843196673	45.4272336	2.5019830	Bar de la Siauve				bar				
+relation	1792393			Laroquebrou	8	15150	15094					
+node	2519884380	44.9678120	2.1902779	Le 107				pub				
+node	3685461126	44.9676959	2.1905292	Le Joker				pub				
+node	3692478842	44.9676008	2.1910605	La Porte du Midi				pub				
+way	365208916	44.9661252	2.1907980	Restaurant de la Gare				restaurant				
+relation	133164			Lascelle	8	15590	15096					
+node	9932555883	45.0305389	2.5620728	Auberge de la Croix de Cheules				restaurant				
+node	12865059306	45.0146093	2.5554840	L'Atelier Soubrier				restaurant	9		Rue de la Fontaine	
+relation	2032836			Laurie	8	15500	15098					
+node	13773698501	45.2763323	3.1003853	A la Bonne Auberge				cafe	1	15500	Chemin du Pèlerinage	
+relation	2848698			Laveissière	8	15300	15101					
+node	3029543555	45.0824665	2.7500197	Le Rond-Point				restaurant				
+node	4922125221	45.0882135	2.7434513	Le 15'				bar				
+node	4922125322	45.0881461	2.7420968	Chez Lucy				restaurant				
+node	4922125323	45.0882026	2.7435507	Le Mass'				restaurant				
+node	6295948671	45.0831095	2.7482191	Au Goût du Jour				restaurant				
+node	6295950536	45.0830732	2.7483169	Les Myrtilles				restaurant				
+node	11043582205	45.1162469	2.8080210	Le Cristal				bar	15	15300	Rue de Peyre Arse	
+node	13034372739	45.0822924	2.7522088	Le Bufadou				restaurant	12	15300	Route du Rocher du Cerf	
+node	13034372740	45.0830877	2.7509379	Le Rocher du Cerf				restaurant	4			
+node	13172115901	45.0838968	2.7474862	Iguana café				restaurant				
+node	13354248927	45.0827081	2.7489628	Schuss Resto				restaurant		15300	Tour Sumène Super Lioran	
+node	13354248928	45.0828147	2.7490749	Schuss Food				restaurant		15300	Tour Sumène Super Lioran	
+way	370089138	45.0854695	2.7335958	Buron du Font-de-Cère				restaurant				
+way	370089193	45.0828908	2.7482742	Les Sagnes				restaurant				
+relation	1451015			Lavigerie	8	15300	15102					
+node	8571900471	45.1254899	2.7393388	La Boudio				restaurant				
+way	244865711	45.1361050	2.7326495	Auberge d'Aijean				restaurant				
+way	432542412	45.1123779	2.6868869	Buron d'Eylac				restaurant				
+way	432542413	45.1109739	2.6850713	L'Auberge des marmottes				restaurant				
+relation	5759907			Val d'Arcomie	8	15320	15108					
+node	4118280989	44.8897101	3.2077078	Restaurant Cussac				restaurant				
+node	4118737589	44.8895494	3.2075136	Club 15 48				nightclub				
+node	4127509910	44.9405980	3.1465687	Le Relais des Sites				restaurant				
+node	8995714117	44.9734761	3.1633957	L'Escale				restaurant				
+node	9225402937	44.9531430	3.1931275	Auberge Paysanne				restaurant				
+node	10673237762	44.9368824	3.2037921	Le Drop				restaurant				
+relation	1050552			Lugarde	8	15190	15110					
+node	2388704001	45.2878752	2.7613281	Chez Marie-Pierre				bar				
+way	408240971	45.2872361	2.7585542	Chez Serge				bar				
+relation	2479540			Malbo	8	15230	15112					
+way	297964392	44.9732344	2.7569503	le Relais de Malbo				restaurant	1	15230	Rue des Cassalouts	
+relation	133173			Mandailles-Saint-Julien	8	15590	15113					
+node	1005616591	45.0701811	2.6577666	Au Bout du Monde				restaurant				
+node	8312910509	45.0647949	2.6388994	La P'tite Dorée				restaurant				
+relation	2793889			Marcenat	8	15190	15114					
+node	11088648725	45.3034953	2.8317345	La P'tite Pause				restaurant				
+relation	2876048			Marchastel	8	15400	15116					
+way	273259204	45.2826535	2.7249614	L'Escapade				restaurant				
+relation	2929523			Marcolès	8	15220	15117					
+node	3669273525	44.7817295	2.3537621	Auberge du Porche				restaurant				
+node	5605012278	44.7815209	2.3519003	Auberge de la Tour				restaurant				
+relation	129339			Marmanhac	8	15250	15118					
+node	9932473988	45.0064345	2.4687527	GAEC Dupuy				restaurant				
+relation	1851586			Massiac	8	15500	15119					
+node	1693064436	45.2525879	3.1977710	Le Relais				restaurant				
+node	1693064481	45.2523082	3.1977543	Café du Nord				bar				
+node	1693118086	45.2565048	3.1987318	La Calèche				restaurant		15500	Avenue du Général de Gaulle	
+node	1693118233	45.2510601	3.1978590	Chez Tonton				bar				
+node	1693118304	45.2517665	3.1987487	Le Montel				restaurant				
+node	1693118394	45.2511049	3.1978005	Bouche à Oreille				restaurant		15500		
+node	10773269562	45.2537821	3.1981187	H24 - Repas du Terroir				restaurant	26	15500	Avenue du Général de Gaulle	
+way	162786481	45.2738870	3.2013190	Le Chalet				restaurant				
+relation	135763			Mauriac	8	15200	15120					
+node	2304998466	45.2189297	2.3312933	L'atelier				bar				
+node	2305007369	45.2180416	2.3323073	La Ouessantine				restaurant				
+node	2305007370	45.2188465	2.3354133	Café de la poste				bar				
+node	2305007375	45.2179151	2.3314221	Cantal a Dalle				restaurant	12	15200	Place Georges Pompidou	
+node	2305007379	45.2176638	2.3321489	Le glacier				bar				
+node	2305007385	45.2188824	2.3350216	le Grand Café				bar				
+node	2305007392	45.2176732	2.3318780	Le club				bar				
+node	2305007398	45.2178036	2.3326962	La Taverne du Palais				bar				
+node	4135983292	45.2217863	2.3411539	Le Bistro du Marché				cafe				
+node	13320156881	45.2193169	2.3358507	L'Écu de France				restaurant				
+node	13326070383	45.2177461	2.3326944	Les Feuillantines				restaurant				
+node	13328388919	45.2105906	2.3328566	Le Cadran (chez Gilou)				restaurant				
+node	13332556178	45.2209764	2.3380675	Le Pactole				bar				
+way	118995298	45.2208493	2.3446825	Les Deux Gares				restaurant				
+way	118995388	45.2214375	2.3444150	Le Terminus				bar				
+way	118995407	45.2193974	2.3195026	Restaurant du plan d'eau				restaurant				
+way	118997134	45.2180125	2.3326295	La Cantine du Palais				restaurant				
+way	118997381	45.2204320	2.3375155	Mar Y Sol				restaurant				
+way	1182676572	45.2186662	2.3150816	Chapiteau Animations				bar				
+way	1304036786	45.2150783	2.3458020	La Minute Blonde				bar		15200	Zone du marsalou	
+way	1453086711	45.2176355	2.3325705	La Taverne du Palais				restaurant				
+relation	2178638			Maurs	8	15600	15122					
+node	2707808941	44.7122776	2.1989391	La Bascule				restaurant				
+node	5856768494	44.7106786	2.1968811	Le kezako				restaurant				
+node	5856825885	44.7113196	2.1987380	Le grand cafe				cafe				
+node	5857112086	44.7116536	2.1982119	Chez Chantal				bar				
+node	5857126285	44.7113127	2.1974004	La Grande Fontaine				restaurant				
+node	6510984385	44.7102294	2.1970446	Café du Globe				cafe				
+node	12121874007	44.7122472	2.1978287	Le Cosy				restaurant				
+way	1312089604	44.7109176	2.1975198	Le Parisien				restaurant				
+way	1312576199	44.7109940	2.1980278	La Taverne				restaurant				
+way	1312664002	44.7102317	2.1970477	Cafédu Globe				cafe				
+relation	3058769			Menet	8	15400	15124					
+node	2914349871	45.2967037	2.5842585	Ludo Bar				bar				
+relation	2237377			Molompize	8	15500	15127					
+node	9913197665	45.2298936	3.1269996	La table des Palhas				restaurant			N122, Molompize	
+relation	2754730			Montgreleix	8	15190	15132					
+way	205200301	45.3442590	2.8700860	Auberge du Cézallier				restaurant				
+relation	2984312			Montsalvy	8	15120	15134					
+node	1862799213	44.7066912	2.5002261	Le Phocéen				pub				
+node	3672532035	44.7073327	2.5004666	Bar de la Mairie				pub				
+node	3672532140	44.7081878	2.5008291	Auberge Fleurie				restaurant				
+node	3672533628	44.7077201	2.5006143	Bar du Porche				pub				
+node	3672554630	44.7066312	2.4999128	Le Pichet Mignon				restaurant				
+relation	3044771			Moussages	8	15380	15137					
+node	4138391689	45.2377979	2.4713016	Le Marilhoux				cafe				
+relation	6837616			Murat	8	15300	15138					
+node	2366141270	45.1118735	2.8679689	Café de la Croix Blanche				bar				
+node	2366143623	45.1121366	2.8683605	L'arome Antique				restaurant				
+node	2374033300	45.1056964	2.8608788	Le Relais des Trois Rochers				restaurant	44		Avenue Hector Peschaud	
+node	2374041739	45.1110871	2.8699903	Le très petit café				restaurant				
+node	2374049232	45.1110063	2.8693506	Le Grand Café				bar				
+node	2374049872	45.1109003	2.8690448	Café de l'Hôtel de Ville				bar				
+node	2374057320	45.1120787	2.8679209	L'Auberge d'un instant				restaurant				
+node	2627812611	45.1115712	2.8677017	La Paix				restaurant	2		Rue Saint-Martin	
+node	2627812653	45.1115868	2.8691816	Chez Laurette				restaurant	28		Rue du Bon Secours	
+node	4886620342	45.1093235	2.8657190	Tendance et Saveurs				restaurant	23		Avenue Hector Peschaud	
+node	4886620343	45.1104763	2.8713416	Rebimgal Patrick				restaurant				
+node	4886620344	45.1102747	2.8712880	La Table des Volcans				restaurant	23		Rue du Faubourg Notre-Dame	
+node	6715412103	45.1116099	2.8687774	Le Cellier de la Marmotte				cafe	15	15300	Place Marchande	
+node	6715439792	45.1116941	2.8682014	L'escargot bar				cafe	5	15300	Place Gandilhon Gens d'Armes	
+node	13012188561	45.1109531	2.8695998	Le Comptoir				restaurant				
+relation	117217			Naucelles	8	15250	15140					
+way	1358175668	44.9567567	2.4195165	Brasserie Marguerite				restaurant	2	15250	Place de Lardennes	
+relation	2876535			Neussargues-Moissac	8	15170	15141					
+node	2871190161	45.1352639	2.9826444	Café du Nord				restaurant				
+way	235035235	45.1254419	2.9766736	Le Neuss				bar				
+relation	6796191			Neuvéglise-sur-Truyère	8	15100;15260	15142					
+node	11987284212	44.8846528	2.9650262	Le Petit Restaurant				restaurant				
+node	12973046325	44.9280327	2.9833775	Lou Plo				restaurant				
+way	339352421	44.9280000	2.9977920	Le Relais de la Poste				restaurant		15260	Cordesse	
+relation	1917006			Pailherols	8	15800	15146					
+node	5822293427	44.9505220	2.6843648	Le Pailherolais				cafe				
+node	5822304742	44.9504740	2.6836953	L'auberge de la Montagne				restaurant				
+relation	2603126			Parlan	8	15290	15147					
+node	4352121892	44.8286493	2.1727218	Café de la Place				cafe				
+relation	1927276			Paulhac	8	15430	15148					
+way	242636112	45.0517753	2.7930829	Buron du col de Prat de Bouc				restaurant				
+relation	2804450			Pierrefort	8	15230	15152					
+node	1834087740	44.9200767	2.8406289	Le Panoramic				restaurant				
+node	4409211082	44.9214229	2.8371669	Au bouchon Pierrefortais				cafe				
+node	4409211083	44.9214332	2.8374603	Café du progrès				bar				
+node	4409211084	44.9215046	2.8371924	Restaurant de l'hôtel dû midi				restaurant				
+node	6594422145	44.9213630	2.8368724	Hôtel - Restaurant du Midi				restaurant				
+relation	1789654			Pleaux	8	15700	15153					
+node	848824902	45.0783551	2.2346395	Aux Berges du lac				restaurant				
+node	6048524485	45.1339380	2.2254277	Bar Tabac				bar				
+node	6048524486	45.1336674	2.2259240	L'Olympic				bar				
+node	13282727835	45.1349917	2.2274598	L'Imprévu				restaurant				
+way	338897321	45.1340642	2.2259874	Sporting Bar				cafe				
+relation	2218359			Polminhac	8	15800	15154					
+node	5918175495	44.9522172	2.5776632	Bar de la Mairie				cafe				
+node	8989781554	44.9516639	2.5760274	Bistrot - Tabac				cafe				
+node	8989819517	44.9516100	2.5763084	Pizza Michou				restaurant				
+relation	2787454			Pradiers	8	15160	15155					
+node	12729609793	45.2689531	2.9243104	le pousdou				restaurant				
+relation	2970197			Prunet	8	15130	15156					
+node	2502659595	44.8218667	2.4953506	Le Relais d'Aubugues				restaurant				
+node	2502663565	44.8208897	2.4638709	L'Escarpidou				restaurant				
+relation	2220036			Raulhac	8	15800	15159					
+node	4979884984	44.8996667	2.6555784	Chez Mimi				restaurant				
+relation	118454			Reilhac	8	15250	15160					
+node	6045920586	44.9734734	2.4213701	Chez Sylvie et Pascal				cafe				
+relation	3029017			Rézentières	8	15170	15161					
+node	13021163776	45.1337936	3.1036243	Auberge L'Astrassadou				cafe				
+relation	3058938			Riom-ès-Montagnes	8	15400	15162					
+node	1841850952	45.2796660	2.6650788	Bar Relais du Puy Mary				bar				
+node	2691322754	45.2841708	2.6568903	La Salers et L'Écir				restaurant				
+node	4006144519	45.2817085	2.6594754	Le Cantou				restaurant				
+node	4175991092	45.2818764	2.6589968	Café de la halle				cafe				
+node	4177070893	45.2814166	2.6592574	Le Longchamp				bar				
+node	4182810517	45.2813377	2.6597774	Café de la mairie				bar				
+node	9004252417	45.2815135	2.6594609	Le Saint Georges				restaurant				
+node	10957645800	45.2825657	2.6588366	La Passerelle				bar	2	15400	Place du Monument	
+node	12437657895	45.2640692	2.6719466	Ferme auberge des arbres				restaurant				
+relation	2927174			Roannes-Saint-Mary	8	15220	15163					
+node	9002212885	44.8564284	2.3894359	Café restaurant tabac Charmes				cafe		15220	Place de la Mairie	
+relation	1799681			Rouffiac	8	15150	15165					
+node	6041243185	45.0232544	2.1363380	Le Petit Micalet				restaurant				
+relation	2178737			Ruynes-en-Margeride	8	15320	15168					
+node	4102061892	45.0029720	3.2235196	L'Imbuscado				bar				
+node	7510317173	45.0032612	3.2234582	Chez Annie				bar		15320		
+relation	3027843			Saignes	8	15240	15169					
+node	4135674889	45.3347269	2.4802254	Café de la poste				cafe				
+node	4135723289	45.3350244	2.4793510	Café de la paix				cafe				
+node	4135937295	45.3349251	2.4789000	Les terrasses				bar				
+relation	1223475			Saint-Bonnet-de-Salers	8	15140	15174					
+node	9010985330	45.1607035	2.4537918	Le Monzola				restaurant				
+relation	447649			Saint-Cernin	8	15310	15175					
+node	6039019585	45.0588579	2.4207173	Chez Martine				bar				
+node	6039019586	45.0584545	2.4212626	Chez Pédro				bar				
+node	6039019685	45.0586933	2.4208536	Le St Cernin				cafe				
+relation	133169			Saint-Cirgues-de-Jordanne	8	15590	15178					
+node	27278198	45.0285569	2.5816222	Les Tilleuls				restaurant				
+node	13918489992	45.0269357	2.5795960	Bar'Oudeur				restaurant				
+way	167976537	45.0316031	2.5761652	Auberge de Puech Verny				restaurant				
+relation	2517248			Saint-Étienne-Cantalès	8	15150	15182					
+way	244702084	44.9456183	2.2234356	Le Pradel				restaurant				
+relation	2965924			Saint-Étienne-de-Maurs	8	15600	15184					
+node	10939753150	44.7169159	2.2061975	Le Cruzel				restaurant				
+relation	3059174			Saint-Étienne-de-Chomeil	8	15400	15185					
+way	1189660024	45.3430585	2.6020333	Les Glycines				restaurant	31	15400	Route des Trois Tilleuls	
+relation	1785465			Sainte-Eulalie	8	15140	15186					
+node	13092961861	45.1178385	2.3746485	Auberge De La Vallée				restaurant				
+relation	135753			Saint-Flour	8	15100	15187					
+node	3935907916	45.0335695	3.0944773	Bar des Arcades				cafe				
+node	4440827464	45.0381349	3.0741723	Bowling Le 108				bar				
+node	4886590402	45.0381589	3.0888289	Le Bistrot du Marché				restaurant				
+node	4886590403	45.0348702	3.1063575	Les Messageries - Le Nautilus				restaurant				
+node	4886590404	45.0334590	3.1029752	Restaurant L'Étape				restaurant	18	15100	Avenue de la République	
+node	4886590405	45.0332249	3.1010024	Le Saint-Jacques				restaurant	8		Place de la Liberté	
+node	4886590406	45.0320952	3.0980802	L'Espace Gourmand				restaurant	2	15100	Place Odilon de Mercœur	
+node	4886590407	45.0336272	3.0944793	Les Roches				restaurant				
+node	4886590409	45.0341926	3.0904090	Le Quinze Cent				restaurant	3	15100	Cours Spy des Ternes	
+node	4886590410	45.0335135	3.0901113	Le Médieval				restaurant				
+node	4886590411	45.0329979	3.0915564	Le Gallia				restaurant				
+node	4886590412	45.0329970	3.0913357	Chez Geneviève				restaurant				
+node	4886590413	45.0330771	3.0901207	La Toscane				restaurant				
+node	4886590414	45.0328330	3.0898123	Les Iles du Cantal				restaurant				
+node	4886590415	45.0327724	3.0893884	Viking Pub				pub				
+node	4886750169	45.0339784	3.0926963	Le Collège				bar				
+node	5713959824	45.0315240	3.0968910	Le Pitchou Bar				bar				
+node	5918526786	45.0308955	3.0897720	Les Orgues				bar				
+node	7562029585	45.0334609	3.0925649	Café de la Halle				cafe				
+node	7765180685	45.0330324	3.0909795	Le Saigon				restaurant				
+node	8614643419	45.0340346	3.1016330	El Clandestino				bar	22	15100	Place de la Liberté	
+node	8614643420	45.0338490	3.1018730	Le Fontenoy				bar	19	15100	Place de la Liberté	
+node	12366073773	45.0327964	3.0924153	La Folie des sens				restaurant				
+node	13336960542	45.0323632	3.0909491	Hôtel-Restaurant Ancien Grand Séminaire				restaurant	7	15100	Rue des Planchettes	
+node	13516205363	45.0487376	3.1067421	Le Mix Club				nightclub	6	15100	Rue de la Florizane	
+relation	1266532	45.0385322	3.0693636	La brasserie				restaurant				
+relation	1804157			Saint-Georges	8	15100	15188					
+node	4886590401	45.0306887	3.1375140	Caféteria Les Logis				restaurant				
+node	13207335072	45.0315892	3.1360494	Aire du Cantal				restaurant				
+relation	2515940			Saint-Gérons	8	15150	15189					
+way	644826509	44.9358063	2.2168121	Oasis Bar				restaurant				
+way	644826524	44.9337365	2.2175284	Le cabanon du lac				restaurant				
+relation	1766336			Saint-Illide	8	15310	15191					
+node	1433739680	45.0615903	2.3150920	Le Miralier				cafe				
+node	1562768678	45.0621125	2.3142730	Mon P'tit Market				cafe				
+way	142804872	45.0585950	2.3104390	Ferme-Auberge du Bruel				restaurant				
+relation	2188695			Saint-Jacques-des-Blats	8	15800	15192					
+node	3040952378	45.0633784	2.7605465	Refuge du Plomb				restaurant				
+node	9074143794	45.0526205	2.7116630	Le chaudron				restaurant				
+relation	127316			Saint-Mamet-la-Salvetat	8	15220	15196					
+node	3672532538	44.8574392	2.3046403	Auberge Occitane				restaurant	34		Rue Arsene Lacarriere Latour	
+node	3672533626	44.8584909	2.3069780	Auberge Saint-Laurent				restaurant				
+node	3672533726	44.8571324	2.3040900	Bar du Centre				pub				
+node	9042641817	44.8593554	2.3138195	SARL Ferme Auberge Lou Braisadou				restaurant				
+relation	2868087			Saint-Martin-sous-Vigouroux	8	15230	15201					
+node	7716885022	44.9223775	2.8027891	Hôtel Bar B'roc				restaurant				
+node	7716885023	44.9226339	2.8029996	Hôtel de la Poste				restaurant				
+relation	1223472			Saint-Martin-Valmeroux	8	15140	15202					
+node	8605800784	45.1304899	2.4119415	Brasserie 360				bar		15140		
+way	242276190	45.1167510	2.4273240	Le Petit Bistrot				cafe				
+relation	132808			Saint-Paul-des-Landes	8	15250	15204					
+node	6042055985	44.9432954	2.3138363	Café des Sports				cafe				
+way	257529455	44.9439915	2.3136870	Restaurant des voyageurs				restaurant	22	15250	Grande Rue	
+relation	447652			Saint-Paul-de-Salers	8	15140	15205					
+node	11363969718	45.1549158	2.5361600	Les Burons de Salers				restaurant				
+way	245102252	45.1551566	2.5910111	Auberge du Col de Néronne				restaurant				
+way	245102709	45.1424805	2.5986265	Le Relais des Volcans				restaurant				
+way	554313020	45.1546327	2.5362292	Les Burons de Salers				restaurant				
+relation	1963139			Saint-Pierre	8	15350	15206					
+node	4132689389	45.3871040	2.3893941	Auberge des Templiers				restaurant				
+relation	447651			Saint-Projet-de-Salers	8	15140	15208					
+way	79630461	45.0707096	2.5801685	Auberge du Col de Legal				restaurant	1	15140		Col de Légal
+way	168099779	45.0846255	2.5279450	Auberge du Pont				restaurant				
+relation	2471530			Saint-Santin-Cantalès	8	15150	15211					
+node	2502724676	45.0287520	2.2568070	Auberge Chez Caty				restaurant				
+relation	2865524			Saint-Santin-de-Maurs	8	15600	15212					
+node	8875526315	44.6507572	2.2165244	L'entre deux				restaurant				
+relation	2073510			Saint-Saturnin	8	15190	15213					
+way	428324159	45.2553865	2.7953670	Le Limon				bar				
+relation	2603047			Saint-Saury	8	15290	15214					
+way	1326298495	44.8675061	2.1401967	Chez Mazières				restaurant				
+relation	2303090			Saint-Urcize	8	15110	15216					
+node	2015689614	44.6978197	3.0032266	Chez Remise				restaurant				
+way	172521545	44.6974815	3.0031879	Café Albert Gaillard				cafe				
+relation	447643			Saint-Vincent-de-Salers	8	15380	15218					
+way	1433592501	45.2035377	2.5325789	Café Mathieu				cafe				
+relation	1223496			Salers	8	15140	15219					
+node	1393762331	45.1388217	2.4946467	Bar-Tabac L'Écuyer				cafe				
+node	1393802130	45.1379424	2.4940898	Chez la Préfète				restaurant	19		Place Tyssandier d'Escous	
+node	1393802153	45.1380861	2.4946412	Les Templiers				restaurant				
+node	1393808768	45.1387111	2.4938686	Auberge La Poterne				restaurant				
+node	1433727474	45.1382920	2.4944233	La Diligence				restaurant		15140	Rue du Beffroi	
+node	1433727475	45.1376764	2.4928656	La Martille				restaurant				
+node	1433729395	45.1375731	2.4927972	Lou Pradou				restaurant				
+node	9881967719	45.1387700	2.4950556	Le P'tit Comptoir				restaurant				
+way	107166915	45.1470690	2.5001410	Le Gerfaut				restaurant				
+relation	3044362			Sauvat	8	15240	15223					
+node	4135967191	45.3133813	2.4424110	Auberge du Puy l'Abbé				restaurant				
+relation	2982503			Sénezergues	8	15340	15226					
+node	7393414134	44.7024953	2.4121713	Courchinoux Adrienne				restaurant		15340	Le Bourg	
+relation	3028823			Talizat	8	15170	15231					
+node	11262747273	45.1146116	3.0466000	Auberge de la Planèze				restaurant	4	15170	Place de l'Auberge	
+relation	2970306			Teissières-lès-Bouliès	8	15130	15234					
+way	654506252	44.8223467	2.5432994	L'Auberge de Teissières				restaurant				
+relation	447644			Thiézac	8	15800	15236					
+node	1760601227	45.0143724	2.6652114	L'Elancez				restaurant				
+node	2373262600	45.0157748	2.6714341	Casteltinet				restaurant				
+way	146684486	45.0144475	2.6805105	Chez papy moustache				restaurant	91	15800	Route de Niervèze	
+relation	1493130			Tournemire	8	15310	15238					
+node	13089146440	45.0539395	2.4832450	La Petite Grange				restaurant	17		Rue Édouard Marty	
+way	1360728151	45.0524102	2.4827353	Restaurant Le Puy Tilleul				restaurant				
+relation	3059667			Trémouille	8	15270	15240					
+node	7565863774	45.4015757	2.6761392	Au cœur des lacs				bar				
+way	297503637	45.4016142	2.6761464	Au coeur des Lacs				restaurant		15270	La Crégut	
+relation	2906844			Trizac	8	15400	15243					
+node	3030886276	45.2524221	2.5382046	Au Rendez-Vous des Chasseurs				bar				
+node	3030891075	45.2519456	2.5390951	Restaurant du Garage				restaurant				
+node	3031835961	45.2530577	2.5395928	Le XV 400				bar				
+relation	447650			Le Vaulmier	8	15380	15249					
+way	235161638	45.1917971	2.5887250	Restaurant du col d'Aulac				restaurant				
+way	390375849	45.1914334	2.5980336	Buron du Chaussedier				restaurant				
+relation	1524597			Vezels-Roussy	8	15130	15257					
+node	4620722581	44.8078449	2.5849318	La Bergerie				restaurant				
+relation	1902780			Vic-sur-Cère	8	15800	15258					
+node	2435123630	44.9797328	2.6246245	Au Daniels Bar				bar				
+node	2435123633	44.9793106	2.6263101	Beausejour, Hotel				restaurant				
+node	2435123655	44.9798369	2.6245929	Café de la Fontaine				cafe	1		Rue Pierre de Boissy	
+node	2435123661	44.9794986	2.6244321	Casino				restaurant				
+node	2435123674	44.9789658	2.6232327	La Terrasse				restaurant				
+node	2435123677	44.9788178	2.6226133	Le Paris Auvergne				restaurant				
+node	2435123680	44.9791410	2.6267977	Les Tilleuils, PMU				bar				
+node	6288784483	44.9775536	2.6229558	La Venue				cafe				
+node	6288793587	44.9796044	2.6243040	Bar du Centre				bar				
+node	7795438481	44.9764531	2.6319981	Le Bel Horizon				restaurant				
+node	8972051918	44.9797008	2.6245288	Le P'tit Bouchon				restaurant				
+relation	2967226			Vieillevie	8	15120	15260					
+node	5811925841	44.6449481	2.4179995	L'Entracte				cafe				
+relation	135767			Le Vigean	8	15200	15261					
+node	4138886189	45.2266485	2.3537928	L'Eden				bar				
+relation	2927713			Vitrac	8	15220	15264					
+node	5186478035	44.8151613	2.3151271	Le Trompe L'Oeil				restaurant				
+relation	118429			Yolet	8	15130	15266					
+node	13687000401	44.9265788	2.5311693	Bistro La Bascule				bar	6	15130	Rue de l'Église	
+relation	116435			Ytrac	8	15000;15130	15267					
+node	1799005353	44.9336923	2.3811199	Max' Hotel				bar				
+node	9041513317	44.8936502	2.3915485	Lo monde es fol				restaurant				
+node	9042459317	44.9110374	2.3639890	Restaurant La Terrasse				restaurant				
+node	9042466417	44.9139507	2.3619957	L'Ytracois				pub				
+relation	5759905			Le Rouget-Pers	8	15290	15268					
+node	2736337104	44.8552588	2.2343560	Hôtel des Voyageurs				restaurant				
+node	2736337117	44.8551757	2.2330144	Café de la Place				cafe				
+way	244888560	44.8556220	2.2305140	Chez Pascaline				pub				

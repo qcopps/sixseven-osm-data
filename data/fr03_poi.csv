@@ -1,0 +1,802 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	116515			Abrest	8	03200	03001					
+node	9633909655	46.0972807	3.4461407	L'Entrepôtes				restaurant				
+node	11784607921	46.1021242	3.4438274	Squadretta				restaurant				
+node	13017763301	46.1056536	3.4441328	La Cascade				restaurant				
+node	13017763712	46.0978746	3.4453774	La Sauterelle				bar				
+way	133503746	46.1077225	3.4225985	La Promenade				restaurant				
+way	1205272155	46.1004777	3.4411176	Le Palm Beach				restaurant				
+relation	116531			Ainay-le-Château	8	03360	03003					
+node	14323353523	46.7114749	2.6937901	Les Trois Marches				restaurant			Place Fauburg 5	
+relation	2781586			Arfeuilles	8	03120	03006					
+node	686765972	46.1067263	3.7689396	Auberge du Précontent				restaurant				
+relation	121959			Arronnes	8	03250	03008					
+node	2603672000	46.0190027	3.5748593	Chez Monique				restaurant		03250	Étang de Malforêt	
+node	2832137380	46.0587777	3.5687911	La Ritournelle				restaurant				
+relation	2818106			Audes	8	03190	03010					
+node	2364278457	46.4574820	2.5595216	Restauant Cafe des Sports				restaurant				
+relation	116595			Aurouër	8	03460	03011					
+node	7900429823	46.6872763	3.2996474	La Saboterie				restaurant				
+relation	116596			Avermes	8	03000	03013					
+node	9329638815	46.5900382	3.3231203	Bistro Cocotte				restaurant				
+node	9350361894	46.5889550	3.3306568	Les Potes de l'Allier				bar				
+node	9968455620	46.5886711	3.3302959	Le Cube				cafe				
+node	10844521752	46.5886087	3.3300430	Papylee				restaurant				
+relation	2824462			Beaulon	8	03230	03019					
+node	6937449280	46.6014554	3.6725351	Auberge de la Vieille Maison				restaurant	5	03230	Place de la Mairie	
+node	13051912855	46.6014392	3.6726102	Auberge de la Vieille Maison				bar	5	03230	Place de la Mairie	
+relation	121916			Bellerive-sur-Allier	8	03700	03023					
+node	617295864	46.1172957	3.4022822	La Rotonde				bar	16	03700	Place de l'Église	
+node	8473655044	46.1141320	3.4115008	Café de la Paix				cafe	5	03700	Place de la Paix	
+node	11047870488	46.1260411	3.4107147	Le Green				restaurant				
+node	12810395387	46.1216456	3.4050804	Pizza Capo				restaurant				
+node	12879655103	46.1139354	3.4111960	Le Haka				bar				
+node	13795652599	46.1162297	3.4151159	La Pizz'				restaurant				
+way	83387960	46.1249564	3.4020990	Buffalo Grill				restaurant				
+way	133381449	46.1162161	3.4265254	Chez Mémère				restaurant	24	03700	Rue Claude Decloître	
+way	133381870	46.1210250	3.4060905	Campanile				restaurant	74	03700	Avenue de Vichy	
+way	133382188	46.1182750	3.4148815	Sporting 1930				restaurant				
+way	133382332	46.1401590	3.4060555	L'Atrium				restaurant		03700	Avenue de l'Europe	
+way	133382527	46.1120660	3.3938745	Château du Bost				restaurant	27	03700	Rue de Beauséjour	
+way	133385238	46.1163605	3.4272560	L'Aventure				restaurant		03700	Rue Claude Decloître	
+way	133389078	46.1161872	3.4271872	Chez Mémère - La Suite				restaurant	24	03700	Rue Claude Decloître	
+way	133389097	46.1159510	3.4280655	Le Cabanon				restaurant	34	03700	Rue Claude Decloître	
+way	133389589	46.1172660	3.4200620	L'Atmosphère				restaurant				
+way	751127410	46.1434604	3.3961220	La Boucherie				restaurant	83	03700	Route de Charmeil	
+way	951749299	46.1187643	3.4150470	River Club				bar				
+relation	116612			Besson	8	03210	03026					
+node	4580850444	46.4701742	3.2635180	Aubergiste Gourmand				restaurant	1	03210	Avenue des Acacias	
+relation	116651			Billy	8	03260	03029					
+way	339133140	46.2355065	3.4259230	Auberge du Pont				restaurant	1	03260	Route de Marcenat	
+relation	116656			Blomard	8	03390	03032					
+way	304652129	46.2890330	2.9768515	Auberge La Chaumière				restaurant		03390	D68	
+relation	116673			Bourbon-l'Archambault	8	03160	03036					
+node	3750891419	46.5854241	3.0574018	Pizzeria				restaurant				
+node	3750891832	46.5856268	3.0582005	Restaurant des Bourbons				restaurant				
+node	7794926485	46.5849912	3.0568329	Bistrot Le Bocage				restaurant				
+relation	2841187			Braize	8	03360	03037					
+node	2490884818	46.6670106	2.6501935	Chez Marianne				restaurant				
+relation	2215575			Broût-Vernet	8	03110	03043					
+node	4932985426	46.1874361	3.2605428	Le Relais de Lilas				restaurant				
+relation	116727			Brugheas	8	03700	03044					
+way	133466268	46.0937770	3.3942315	L'Orée du Bois				restaurant	20	03700	Avenue de l'Europe	
+relation	117093			Busset	8	03270	03045					
+node	610436550	46.0614451	3.5133439	La Petite Auberge				restaurant				
+relation	2213818			Cérilly	8	03350	03048					
+node	7195989009	46.6177465	2.8204020	Hôtel Chez Chaumat				restaurant		03350	Place François Péron	
+relation	2807401			La Chabanne	8	03250	03050					
+node	1887669288	46.0222092	3.7531871	Auberge des Campanules				restaurant	1	03250	Route de la Loge des Gardes	
+node	14097679001	46.0117875	3.7587989	Les herbes folles				bar		03250	Chemin de Lallias	
+way	468479349	46.0383138	3.7558824	lisenovel				cafe	14	03250	Allée d'Aurouer	
+relation	114745			Chamblet	8	03170	03052					
+node	9606085340	46.3331786	2.7014112	La Renaissance				bar				
+relation	2810584			Chantelle	8	03140	03053					
+node	2295073702	46.2372632	3.1510973	Le Millésime				bar				
+node	3718107468	46.2384729	3.1517173	La Taverne				bar				
+relation	117628			La Chapelaude	8	03380	03055					
+node	9964670672	46.4222017	2.5012936	Le Canis Cool				pub				
+relation	2836033			La Chapelle-aux-Chasses	8	03230	03057					
+node	13811329201	46.6705729	3.5330142	La ceuillette 03				restaurant	19		Rue de la Mairie	
+relation	2804134			Chareil-Cintrat	8	03140	03059					
+node	6635825156	46.2681190	3.2229896	Le relais de la Bouble				restaurant				
+relation	117108			Charmeil	8	03110	03060					
+node	4728873482	46.1610254	3.3928093	Betty Boop				restaurant	28	03110	Route de Saint-Pourçain	
+relation	2805677			Charroux	8	03140	03062					
+node	1827430603	46.1864545	3.1582182	La Ferme Saint-Sebastian				restaurant		03140	Chemin de Bourion	
+node	12101854635	46.1856896	3.1612041	Kitschinette				cafe	3	03140	Rue de la Ferraillerie	
+node	13096799762	46.1833296	3.1599621	365 jours				restaurant	7	03140	Rue des Murs	
+way	339115263	46.1844576	3.1612379	Le Colibri				restaurant	4	03140	Rue Mornat	
+way	339116229	46.1846266	3.1603704	Auberge le Médiéval				restaurant				
+relation	2815668			Châtel-de-Neuvre	8	03500	03065					
+node	11060460697	46.4061085	3.3124981	L'Entre Potes				bar				
+relation	2804094			Châtel-Montagne	8	03250	03066					
+node	2410676430	46.1142055	3.6829162	Le 16 arts				restaurant				
+way	468460263	46.1134784	3.6826927	Bar Le 4				bar				
+relation	2798104			Châtelperron	8	03220	03067					
+node	10910820871	46.4025021	3.6356191	La grotte aux fées				restaurant		03220	La gare	
+node	10910883251	46.4025176	3.6356605	La grotte aux fées				bar		03220	La gare	
+relation	2875431			Chavroches	8	03220	03071					
+node	10910820843	46.3548405	3.5847374	Auberge de la Besbre				restaurant	2	03220	Rue de l'Étang	
+node	13149205194	46.3548121	3.5847475	Auberge de la Besbre				bar	2	03220	Rue de l'Étang	
+relation	2826335			Chazemais	8	03370	03072					
+node	9967357907	46.4834332	2.5257174	Le Grillon				pub				
+relation	122646			Chemilly	8	03210	03073					
+node	7988092216	46.4891703	3.3153522	Plaisir des sens				restaurant				
+relation	2872003			Cindré	8	03220	03079					
+node	10910860216	46.3269233	3.5643780	Auberge de Cindré				restaurant	55	03220	Rue de Trézelles	
+node	10910881049	46.3269341	3.5643384	Auberge de Cindré				bar		03220	Rue de Trézelles	
+relation	117223			Cognat-Lyonne	8	03110	03080					
+node	11434418555	46.1077075	3.3081624	La Rencontre				restaurant	28	03110	Route de Lyonne	
+relation	2213225			Cosne-d'Allier	8	03430	03084					
+node	1341463964	46.4753910	2.8322935	Le Globe				restaurant	61	03430	Rue de la République	
+node	13148916809	46.4752636	2.8319173	Le Grand Café				cafe				
+way	398479622	46.4756370	2.8304170	Chez Momo				restaurant				
+relation	124390			Couzon	8	03160	03090					
+node	2375920080	46.6578209	3.1219150	Auberge "Les Lucioles"				restaurant				
+relation	117233			Creuzier-le-Neuf	8	03300	03093					
+node	5305021422	46.1805747	3.4669036	Les Turiers				restaurant				
+relation	117232			Creuzier-le-Vieux	8	03300	03094					
+way	133361732	46.1526540	3.4119030	La Mère Riboulin				restaurant	10	03300	Rue des Ailes	
+way	133362031	46.1680520	3.4214360	La Fontaine				restaurant	16	03300	Rue de la Fontaine	
+way	133366366	46.1480705	3.4148795	Délices Wok				restaurant	21	03300	Rue des Ailes	
+way	133367401	46.1556605	3.4111810	L'Annexe				restaurant				
+relation	117241			Cusset	8	03300	03095					
+node	445033624	46.1329226	3.4589518	Café des Cours				cafe				
+node	507246302	46.1322654	3.4560904	Taverne Louis XI				restaurant				
+node	527296368	46.1326027	3.4562769	Le Victor Hugo				restaurant				
+node	617296645	46.1317917	3.4352197	Le Pass'Yo				bar				
+node	2745254898	46.1332302	3.4575487	Pronto Tacos				restaurant				
+node	3209349775	46.1337932	3.4610842	Les Montagnards				bar				
+node	6780999351	46.1328897	3.4572857	Chez les Coincoins				restaurant				
+node	6780999354	46.1331925	3.4582099	Le Saint-Régis				restaurant				
+node	6780999372	46.1330664	3.4589722	Heat & Burger				restaurant				
+node	6780999428	46.1321886	3.4561214	Crêperie du Théâtre				restaurant				
+node	6780999433	46.1319937	3.4586186	Les Autobus				bar		03300	Cours Lafayette	
+node	8232323655	46.1333869	3.4526968	Le Quatorze				restaurant				
+node	8232323681	46.1324255	3.4587981	L'Impro				restaurant				
+node	8423633360	46.1325160	3.4559480	L'Instant Gourmand				restaurant				
+node	8596278569	46.1320944	3.4557337	Artcade				cafe	23	03300	Place Victor Hugo	
+node	8691487936	46.1316671	3.4349882	Pacha Kebab				restaurant				
+node	8691487939	46.1317315	3.4351130	La Pane Città				restaurant				
+node	9141994619	46.1313886	3.4580311	Papy Clode				restaurant	13	03300	Rue Rocher Favyé	
+node	9297623648	46.1324677	3.4569618	Chez les Filles				bar	4	03300	Rue Saturnin Arloing	
+node	10075605318	46.1314471	3.4569042	Bar Parisien				bar				
+node	13368146469	46.1345140	3.4452198	Le Brayaud				restaurant				
+node	13368146635	46.1333289	3.4522867	Hôtel du Parc				restaurant				
+way	133450249	46.1379980	3.4559165	Café de la Gare				pub	7	03300	Route de Paris	
+way	722937603	46.1375244	3.4309297	Le Jardin Céleste				restaurant	4	03300	Boulevard d'Alsace-Lorraine	
+relation	111424			Désertines	8	03630	03098					
+node	14027199917	46.3599109	2.6176469	La Biachette				restaurant				
+way	77759505	46.3557899	2.6190695	Maison de la Presse				bar				
+relation	2814517			Deux-Chaises	8	03240	03099					
+way	435471538	46.3808482	3.0357689	Le Relais des Deux-Chaises				restaurant	56	03240	Route du Grand Chemin	
+relation	1528171			Diou	8	03290	03100					
+node	10910876121	46.5312025	3.7521948	Aux bambins gourmands				restaurant	1	03290	Grande Rue	
+node	10910878608	46.5312294	3.7521503	Aux bambins gourmands				bar	1	03290	Grande Rue	
+relation	65442			Domérat	8	03410	03101					
+node	9604922118	46.4064748	2.5273156	Le Relais des Tartasses				restaurant				
+node	12074088269	46.3654313	2.5631832	Crescendo				restaurant				
+relation	1744272			Dompierre-sur-Besbre	8	03290	03102					
+node	6436929987	46.5247761	3.6759714	Les bocaux d'Iris				restaurant	129	03290	Avenue de la Gare	
+node	9062039494	46.5224804	3.6804522	Bar le Bord'Eau				bar	131	03290	Rue Nationale	
+node	10911037427	46.5241612	3.6791626	Ô grand méchant loup				restaurant	2	03290	Place de Verdun	
+node	10965613295	46.5198700	3.6845119	Hôtel de la Marine				bar	21	03290	Rue du Port	
+node	11727496407	46.5198645	3.6835076	Chez Amina				restaurant	116	03290	Place du Commerce	
+node	11733423226	46.5201623	3.6836927	La Roseraie				restaurant	167		Grande Rue	
+relation	2851831			Le Donjon	8	03130	03103					
+node	4736526631	46.3505855	3.7939177	L'Escale				cafe		03130	Place de la République	
+node	4736526635	46.3502916	3.7940686	Brasserie l'arrêt gustatif				restaurant	4	03130	Place de la République	
+node	10911268495	46.3505885	3.7939545	L'Escale				restaurant		03130	Place de la République	
+node	10911289542	46.3505889	3.7943599	Au plaisir Charolais				restaurant	29	03130	Place de la République	
+node	12765760733	46.3505936	3.7943871	Au plaisir Charolais				bar	29	03130	Place de la République	
+node	13152607717	46.3503001	3.7941282	Brasserie l'arrêt gustatif				bar	4	03130	Place de la République	
+relation	125353			Doyet	8	03170	03104					
+node	9732222340	46.3359543	2.7964594	Bar Tabac				bar	28	03170	Rue Gambetta	
+way	398710396	46.3562760	2.8027320	Les Comptoirs Casino				restaurant				
+relation	125022			Durdat-Larequille	8	03310	03106					
+node	9605283129	46.2518348	2.7015058	Auberge du Lamaron				restaurant	1	03310	Route de Commentry	
+node	9626086781	46.2503440	2.7020156	Le Durdat				bar				
+relation	2193140			Ébreuil	8	03450	03107					
+node	4383659307	46.1160049	3.0880653	Les Plaisirs Partagés				restaurant				
+node	4384040758	46.1149756	3.0877425	Le 308				restaurant				
+relation	124460			Échassières	8	03330	03108					
+node	9914965333	46.1839676	2.9330949	Le Ris Blanc				restaurant	5			
+relation	2788109			Escurolles	8	03110	03109					
+node	13889422394	46.1433546	3.2656994	L'Aiglon				bar	3	03110	Rue de l'Agriculture	
+relation	2822084			Estivareilles	8	03190	03111					
+node	7159435845	46.4244188	2.6171447	Le Rétro				bar				
+node	9725092171	46.4357760	2.6133073	Le Manoir				nightclub				
+relation	124396			Ferrières-sur-Sichon	8	03250	03113					
+node	4524136473	46.0254722	3.6488596	Auberge du Sichon				restaurant				
+relation	2904531			Franchesse	8	03160	03117					
+node	2375920081	46.6419962	2.9963282	Auberge Le Chuchal				restaurant				
+relation	124960			Gannat	8	03800	03118					
+node	10049606444	46.0977132	3.1983014	Pizza Conda				restaurant				
+node	11831398106	46.1142860	3.1664493	Le Bivouac				restaurant				
+node	13764128323	46.1020226	3.1970937	Jardin de Gannat				restaurant	30	03800	Avenue Delarue	
+way	387245635	46.0991925	3.2021496	Kanki				restaurant	18	03800	Avenue de la République	
+way	387245667	46.1013454	3.1971524	Vit'Chaud				cafe	28	03800	Grande Rue	
+way	387245921	46.1013504	3.1982289	Saveurs D'asie				restaurant	12	03800	Cours de la République	
+way	387249026	46.1022607	3.1959205	Le Petit Zinc				restaurant	3	03800	Place Rantian	
+way	387249599	46.0999754	3.1980558	L'Occitan Bar				pub	8	03800	Place Hennequin	
+way	387249687	46.1014386	3.1994418	PIzza Foly's				restaurant	30	03800	Cours de la République	
+way	387250229	46.0999494	3.1990192	Le Bistrot				pub	22	03800	Rue de la Marche	
+way	387251032	46.0992027	3.1964919	Chez Domingo				cafe	12	03800	Rue des Frères Degand	
+way	387251343	46.1024073	3.1963496	Le Farfa'des				cafe	4	03800	Place Rantian	
+way	387251454	46.0981410	3.1983864	Pizza Xhaflaire				restaurant	109	03800	Grande Rue	
+way	1421531183	46.1010215	3.2005301	Chez Clément				bar	29	03800	Cours de la République	
+way	1424860430	46.0987243	3.1980651	Auvergne café				cafe	108	03800	Grande Rue	
+relation	2827087			Gannay-sur-Loire	8	03230	03119					
+node	2995607253	46.7265611	3.5996000	La Vacancière				restaurant				
+relation	2829057			Hérisson	8	03190	03127					
+node	2400307799	46.5083432	2.7112339	Auberge le Médiéval				restaurant				
+node	3676861624	46.5081202	2.7125831	Buvette Bourbonnaise				cafe				
+node	4472763757	46.5136899	2.7286874	Ferme-Auberge La Quécoule				restaurant		03190	La Quécoule	
+node	12758163470	46.5095220	2.7124479	chez meme louise				cafe				
+node	13647721831	46.5092322	2.7114298	Charles Ville				cafe	1		Rue Gambetta	
+relation	64768			Huriel	8	03380	03128					
+node	7201678711	46.3732629	2.4756729	Hôtel-restaurant-café George Sand				restaurant				
+node	13645542357	46.3733005	2.4772403	Pizzeria de la Toque				restaurant				
+relation	2215083			Isle-et-Bardais	8	03360	03130					
+node	1337364718	46.6506272	2.7439613	Auberge Le Rond Gardien				restaurant				
+node	7944323286	46.6886894	2.7921018	Le Relais de Pirot				restaurant				
+relation	2874296			Jaligny-sur-Besbre	8	03220	03132					
+node	2435620869	46.3802393	3.5927282	Hôtel de Paris				restaurant	3	03220	Grande Rue	
+node	2435620870	46.3841696	3.5936018	Le moulin de la Chaume				nightclub				
+node	10965554712	46.3797717	3.5911576	Le Contentoir				bar	6	03220	Rue du Château	
+node	11745187517	46.3796408	3.5911307	Chez Antoine				restaurant	12		Rue du Château	
+node	13149208699	46.3801746	3.5927347	Hôtel de Paris				bar	3	03220	Grande Rue	
+relation	117644			Lapalisse	8	03120	03138					
+node	1858926604	46.2488606	3.6353757	Bar du marché				cafe	20		Rue Winston Churchill	
+node	1859118902	46.2490171	3.6374996	Creperie Les Bigoudenes				restaurant				
+node	1859128628	46.2505622	3.6391089	Hôtel du Bourbonnais				restaurant				
+node	1859128631	46.2493621	3.6389668	Les Petits Plats				bar				
+node	1859131988	46.2507551	3.6398090	Le Vaudois				bar				
+node	1859227441	46.2459953	3.6356381	Hôtel Galland				restaurant	20		Place de la République	
+node	1859283721	46.2634230	3.6300525	Le moulin marin				restaurant				
+node	1962864390	46.2465059	3.6342753	Les Délices de Babette				restaurant	18	03120	Avenue Charles de Gaulle	
+node	9010321192	46.2485413	3.6378185	A La Bon Gache				restaurant				
+node	12804499025	46.2453010	3.6121070	Aire des Vérités				restaurant				
+way	1229613750	46.2480362	3.6376656	L'instant pause				restaurant	4	03120	Place Charles Bécaud	
+relation	2780629			Laprugne	8	03250	03139					
+node	1887386603	46.0055850	3.7991665	Bar Brasserie Snack de la Loge des Gardes				cafe				
+node	8975120635	45.9864448	3.7425164	Le Kimi				restaurant	9	03250	Route de la Loge des Gardes	
+relation	1773885			Lavoine	8	03250	03141					
+node	2010590953	45.9777075	3.6973966	Auberge des Bois Noirs				restaurant		03250	Place de la Mairie	
+relation	2848486			Lenax	8	03130	03142					
+node	10911250750	46.3103593	3.8092341	Ferme auberge le vieux logis				restaurant		03130	Vinzelles	
+relation	120052			Louroux-de-Bouble	8	03330	03152					
+node	5659124041	46.2237280	2.9853895	Auberge de Louroux				restaurant		03330	Rue de la Gare	
+relation	2856738			Luneau	8	03130	03154					
+node	10911288399	46.3624843	3.9511075	Café restaurant du centre				restaurant		03130	le bourg	
+node	13152587606	46.3624866	3.9511645	Café restaurant du centre				bar		03130	Le bourg	
+relation	2904425			Lurcy-Lévis	8	03320	03155					
+node	11961221411	46.7305836	2.9385291	Le Café de l'univers				restaurant	8	03320	Place de la Liberté	
+relation	120057			Magnet	8	03260	03157					
+way	366847103	46.2112460	3.5037500	café de la gare				cafe	16	03260	Avenue de la Gare	
+relation	5809340			Haut-Bocage	8	03190	03158					
+way	367291347	46.4796705	2.6524400	La table du poète				restaurant		03190		
+relation	125352			Malicorne	8	03600	03159					
+node	9651348176	46.3024293	2.7820437	Saint-Roch				restaurant		03600	Route de Doyet	
+relation	125029			Marcillat-en-Combraille	8	03420	03161					
+node	3796895196	46.1676417	2.6343240	Restaurant du commerce				restaurant				
+node	3798120273	46.1671316	2.6320806	Au Bon Accueil.				bar				
+relation	117087			Mariol	8	03270	03163					
+node	11425944993	46.0207614	3.4977382	Le Daro				bar				
+relation	120045			Le Mayet-de-Montagne	8	03250	03165					
+node	1887646290	46.0704682	3.6666408	Chez Jean-Luc				pub				
+node	2110633965	46.0714588	3.6673012	L'Auvergnat				restaurant				
+node	2110665263	46.0704944	3.6666176	Hôtel du Centre				restaurant				
+node	2798296294	46.0722918	3.6679084	La vieille Auberge				restaurant				
+node	4525394619	46.0682225	3.6635055	Le Bob Bar				bar		03250	Rue de Ferrières	
+node	4525454825	46.0703920	3.6662813	Biker's Road				bar		03250	Place aux Foires	
+node	4525480332	46.0701017	3.6671280	L'Authentik				restaurant	3	03250	Avenue du Lac	
+relation	6788741			Meaulne-Vitray	8	03360	03168					
+node	292539288	46.5971941	2.6169988	Au coeur de Meaulne				restaurant				
+relation	121941			Molles	8	03300	03174					
+node	2761205445	46.1086320	3.5591844	Café Restaurant du Centre				bar	6	03300	Rue du Bourg	
+relation	2810939			Monestier	8	03140	03175					
+node	11121532883	46.2303909	3.1006992	Aroma Café				cafe				
+node	13075733201	46.2551223	3.1130537	Le Prieuré chez Pépita				restaurant	2	03140	Place de la Mairie	
+relation	2866014			Monétay-sur-Loire	8	03470	03177					
+node	10911318831	46.4294444	3.8176700	Le Gourmet				restaurant		03470	Le bourg	
+node	11749856491	46.4293872	3.8177354	Le Gourmet				bar			Le bourg	
+relation	2846880			Montaiguët-en-Forez	8	03130	03178					
+node	10965676151	46.2714051	3.8031057	Restaurant de Montaiguët en Forez				restaurant	29	03130	Place du Champ de Foire	
+node	13165303527	46.2713633	3.8030924	Restaurant de Montaiguët en Forez				bar	29	03130	Place du Champ de Foire	
+relation	2783806			Montaigu-le-Blin	8	03150	03179					
+node	1250594228	46.2941498	3.5099099	L'Auberge des Tureaux				restaurant	1	03150	Rue Jo Moutet	
+node	10911346890	46.2941452	3.5121359	Brasserie des tureaux				restaurant	1	03150	Rue Michel Virotte	
+node	13149158102	46.2941220	3.5099294	L'Auberge des Tureaux				bar	1	03150	Rue Jo Moutet	
+relation	2805512			Le Montet	8	03240	03183					
+node	11802151490	46.4086010	3.0546820	L'Authentique				bar				
+relation	110282			Montluçon	8	03100	03185					
+node	937619392	46.3432897	2.5931173	Palais du Maharajah				restaurant				
+node	937619393	46.3416948	2.6020134	Parc Printemps				restaurant				
+node	1086325089	46.3390485	2.6052464	Le grenier à sel				restaurant	10	03100	Rue Sainte-Anne	
+node	1086325109	46.3407403	2.6046762	La vie en Rose				restaurant				
+node	1256635687	46.3386297	2.6066025	Crêperie des Forges				restaurant				
+node	1869999759	46.3264287	2.6085568	Le Celtique				bar				
+node	2201795678	46.3387896	2.6049038	Le Comptoir de Mamie Bigoude				restaurant	12	03100	Rue Place des Toiles	
+node	2634985543	46.3479561	2.6030916	Le One's				nightclub				
+node	2792504536	46.3405287	2.6064690	Le délirium				bar				
+node	2792504541	46.3395465	2.6048350	el loco				bar				
+node	2982435622	46.3479321	2.5994917	Royal Wok				restaurant	7	03100	Rue Olof Palme	
+node	3641011899	46.3382955	2.5966721	Brasserie de la gare				pub			Avenue Marx Dormoy	
+node	4399250039	46.3380142	2.5971767	Restaurant aux ducs de Bourbon				restaurant				
+node	4399250040	46.3380338	2.5973000	pub 47				restaurant				
+node	4400832370	46.3392948	2.6046955	El Padre				restaurant	29	03100	Rue Grande	
+node	4400832371	46.3400204	2.6048937	Iguane				restaurant	4		Rue Grande	
+node	4400917830	46.3391718	2.6053795	Auberge des 3 canards				restaurant		03100		
+node	4400917831	46.3385756	2.6031990	Brasserie				restaurant				
+node	4400917832	46.3387695	2.6033877	Chicken House				restaurant				
+node	4400917834	46.3390290	2.6050761	Le Grenier à Sel				restaurant	10	03100	Rue Sainte-Anne	
+node	4400917835	46.3391332	2.6043785	Le Kim Lee				restaurant	52		Rue Grande	
+node	4400917836	46.3393950	2.6049698	Le Perceval				bar	3		Rue Sainte-Anne	
+node	4401287508	46.3386973	2.5996273	Les Relays d'Allsace				restaurant				
+node	4401287509	46.3385255	2.5974393	The Scott Resto				restaurant				
+node	5607852221	46.3302031	2.5991541	Le Tivoli				restaurant				
+node	7201562569	46.3442938	2.5993784	Le Marigny				bar				
+node	7214541326	46.3473697	2.5964649	Brasserie de l'Europe				bar				
+node	7237194230	46.3459796	2.5975795	Bar Le Saint-Paul				bar				
+node	7237194234	46.3439040	2.5994052	Restaurant Antalya				restaurant				
+node	7237194235	46.3452902	2.5984795	Les Variétés				bar				
+node	7237194243	46.3464704	2.5967280	Le Petit Saignon				restaurant				
+node	7237194258	46.3465080	2.5966918	Burger Grill				restaurant				
+node	7237194263	46.3438547	2.5993985	Café de Paris				bar				
+node	7246512858	46.3399924	2.6028523	La Brasserie du Vieux Château				restaurant				
+node	10109759896	46.3372072	2.5872714	Pizza.com				restaurant	80 bis	03100	Avenue du Président Vincent Auriol	
+node	10173763217	46.3458454	2.6008785	French Coffee Shop				cafe				
+node	10255758270	46.3286166	2.5814725	La Rose des Sables				restaurant		03100		
+node	11618027246	46.3610345	2.5916144	L'atelier de Virginie				restaurant	45	03100	Rue de Pasquis	
+node	13084092253	46.3463235	2.6024521	Bar Brasserie Le Joker				bar				
+node	13094744539	46.3424850	2.5985009	La paillote				restaurant				
+node	13553639134	46.3554207	2.5878159	Bar-PMU des Marais				bar				
+node	13619735376	46.3391288	2.6069094	Le Chanzy				restaurant	5	03100		Place Jean Jaurès
+node	13637900901	46.3495985	2.6071809	La Cervoiserie				bar				
+node	13725382191	46.3392309	2.6022006	O'Tacos				restaurant				
+node	14065918769	46.3405767	2.6053101	La douce fabrique				cafe				
+way	72742404	46.3442937	2.6036243	Buffalo Grill				restaurant				
+way	72748367	46.3410444	2.6031470	Les 12 apôtres				restaurant		03100	Rue des 5 Piliers	
+way	77777857	46.3397688	2.6049573	Le Saint-Trop				restaurant	15	03100	Rue Grande	
+way	77778585	46.3407910	2.6027179	La Cantine				restaurant	6		Rue Comtesse	
+way	77779493	46.3489018	2.5989506	Osaka				restaurant	2	03100	Avenue du Canal de Berry	
+way	77781155	46.3390186	2.6071068	Le Palais				bar				
+way	77784251	46.3426820	2.6011580	KippaCabana				bar	46		Rue du Faubourg Saint-Pierre	
+way	77785418	46.3380909	2.5979706	Au Bureau				restaurant	41	03100	Avenue Marx Dormoy	
+way	77787591	46.3425292	2.6002761	Pizzeria Maestro				restaurant	1 bis	03100	Quai Rouget de Lisle	
+way	77788070	46.3402416	2.6069767	Le Damas				restaurant	12		Place Jean Jaurès	
+way	77790001	46.3336933	2.6086292	La Verde				restaurant	50	03100	Avenue John Fitzgerald Kennedy	
+way	77792677	46.3380624	2.5976444	Le Faisan				restaurant	45		Avenue Marx Dormoy	
+way	77794127	46.3384447	2.6027239	Le Moderne				bar		03100		
+way	77795371	46.3397912	2.6047246	Restaurant Alexandre				restaurant	26	03100	Rue Grande	
+way	77796516	46.3469797	2.5961435	Bar de la Poste				bar				
+way	77796991	46.3398647	2.6047890	La Squadra				restaurant	22	03100	Rue Grande	
+way	77800638	46.3394474	2.6048756	Pépé Louis				restaurant	27		Rue Grande	
+way	77801693	46.3380028	2.6037959	Orge & Houblon				bar	2	03100	Rue des Anciennes Boucheries	
+way	77802788	46.3380197	2.6060330	Irish pool				pub				
+way	1426366968	46.3306344	2.5895762	Restaurant Universitaire				restaurant				
+relation	120068			Montmarault	8	03390	03186					
+node	7498703840	46.3220433	2.9631650	Le Relais de l'Étape				restaurant				
+node	11047789233	46.3180660	2.9527560	Le Bocage				restaurant				
+node	11047803972	46.3202876	2.9606580	Logis Hostellerie du Centrotel et Spa				restaurant				
+node	13273782704	46.3175139	2.9531816	Le Central				restaurant				
+node	14228771899	46.3168139	2.9560910	Café du Champ de Foire				cafe	32	03390	Boulevard Tourret	
+way	288332747	46.3213770	2.9621510	Mamko				restaurant	33	03399	Route de Moulins	
+relation	2862770			Montoldre	8	03150	03187					
+node	1391233201	46.3343717	3.4481417	La Truffade de Saint-Eloi				restaurant		03150	le bourg	
+node	13149145845	46.3344055	3.4481122	La Truffade de Saint-Eloi				bar		03150	le bourg	
+relation	120072			Moulins	8	03000	03190					
+node	673481002	46.5639997	3.3285428	Pattaya				restaurant				
+node	682051355	46.5650341	3.3298085	Le P'tit Bar				bar				
+node	908383724	46.5625694	3.3299548	Le liberté				cafe				
+node	912555332	46.5616615	3.3382384	Le Parc				restaurant	31		Avenue du Général Leclerc	
+node	1446199658	46.5635584	3.3397023	La Pataterie				restaurant	16	03000	Rue Marcellin Desboutins	
+node	1486993350	46.5465865	3.3374854	Viltaïs				restaurant				
+node	1536530661	46.5485274	3.3396102	Kiosque à Pizzas				restaurant				
+node	1580942415	46.5642682	3.3345594	La Cave à Bières				pub				
+node	1580942473	46.5636383	3.3330276	Le Fontenoy				bar			Place Cortet	
+node	1580942491	46.5641690	3.3346066	Martin's				pub				
+node	1580942632	46.5637071	3.3334611	Royal de Kashmir				restaurant	10		Rue du 4 Septembre	
+node	1584106694	46.5640774	3.3331648	La Gloria				restaurant	1		Rue des Couteliers	
+node	1584106698	46.5644096	3.3340615	La Licorne				bar				
+node	1584106700	46.5642812	3.3332075	Le Glasgow				pub				
+node	1584106704	46.5649031	3.3339665	L'Entracte				restaurant	4	03000	Cours Jean Jaurès	
+node	1594660277	46.5612465	3.3382529	Le Terminus				cafe				
+node	1799356644	46.5634850	3.3302025	Bar du Bourbonnais				bar				
+node	1799356657	46.5634514	3.3304120	L'Éden Bar				cafe				
+node	1799356701	46.5637852	3.3300859	La Dolce Vita				restaurant	19		Rue Datas	
+node	1832899637	46.5671610	3.3321860	Le Face à Face				restaurant				
+node	1832901957	46.5667640	3.3324430	Toujours originale créative				restaurant				
+node	1832932537	46.5658200	3.3323510	A l'ancien Palais				restaurant				
+node	1832934212	46.5659710	3.3324220	Brasserie les ducs				restaurant				
+node	1833652535	46.5660796	3.3345608	Le Jacquemart				bar				
+node	1833655368	46.5659112	3.3345178	Le "9/7"				restaurant				
+node	1833672994	46.5644040	3.3307720	Le grand café				cafe				
+node	1833687998	46.5644220	3.3305140	Le France				restaurant	41	03000	Place d'Allier	
+node	1833689126	46.5647470	3.3299270	Brasserie le commerce				restaurant				
+node	1833689646	46.5648740	3.3306920	L’instant Gourm’Hand				restaurant	60		Place d'Allier	
+node	1833691062	46.5648900	3.3308670	Columbus Café & Co				cafe				
+node	1833860677	46.5662958	3.3266216	Hôtel Casabianca				restaurant	39	03000	Place Jean Moulin	
+node	1841248776	46.5646590	3.3292920	La bulle d'air				restaurant				
+node	1841269490	46.5646560	3.3289580	La boutique du logement				restaurant				
+node	1869110259	46.5638760	3.3281230	Le Saint-Laurent				restaurant				
+node	1869122011	46.5636490	3.3282080	Le Garibaldi				bar				
+node	1869128194	46.5634560	3.3277070	Pizza&pasta				restaurant				
+node	1869133538	46.5627340	3.3261000	Restaurant Le Bacchus				restaurant				
+node	1869171915	46.5635020	3.3306810	Le francais				bar				
+node	1869183545	46.5631240	3.3308770	Aladin				restaurant				
+node	1869190921	46.5626600	3.3304330	Le liberte				restaurant				
+node	1869210084	46.5635440	3.3320240	Le trait d'union				restaurant				
+node	1869236433	46.5663460	3.3346200	Restaurant des cours				restaurant				
+node	1869593542	46.5679811	3.3332732	Café americain				cafe				
+node	1869614377	46.5654900	3.3286490	La Petite Auberge				restaurant	7		Rue des Bouchers	
+node	1869622986	46.5661170	3.3280950	L'Aparté				restaurant	6		Place Jean Moulin	
+node	1869626246	46.5659740	3.3282400	Le Jean Moulin				restaurant				
+node	1972026671	46.5635141	3.3391209	Le Bouch' à Oreil'				restaurant	3		Rue Marcel Desboutins	
+node	2081183899	46.5715200	3.3328490	Bar Le globe				bar				
+node	3252186706	46.5674512	3.3334214	Le Richelieu				bar				
+node	3523526115	46.5689202	3.3444271	Le clos des saveurs				restaurant				
+node	3523526116	46.5689999	3.3447249	Thierry Traiteur				restaurant				
+node	4322297173	46.5644314	3.3288766	Le soleil de Tunis				restaurant	13	03000		Place d'Allier
+node	4322298567	46.5644187	3.3306747	La petite crêperie du grand café				restaurant				
+node	4558911639	46.5641262	3.3335156	Lattakia				restaurant	7		Rue Brechimbault	
+node	5794082130	46.5629017	3.3364389	La Coupole				bar				
+node	8287604449	46.5621505	3.3325025	Cantine Scolaire				restaurant				
+node	9346421763	46.5639466	3.3325852	La Cité D'Asie				restaurant	5	03000	Rue des Minimes	
+node	9459121062	46.5396498	3.3438301	Le Relax				bar				
+node	9481662365	46.5445303	3.3400528	Lucky Panda Wok				restaurant				
+node	9796261249	46.5594547	3.3170754	Mirco Pizza				restaurant				
+node	9797058017	46.5594434	3.3142826	Le Charlie				restaurant	59	03000	Avenue de la Libération	
+node	9922491906	46.5714543	3.3396794	Café de la Barrière				pub				
+node	9965379078	46.5601899	3.3214250	Le Bivouak				restaurant	4	03000	Route de Clermont	
+node	11324071785	46.5669591	3.3270529	Sushi Moulins				restaurant	2-4	03000	Rue du Vert Galant	
+node	11862691969	46.5638817	3.3318260	Au goût du jour				restaurant	11	03000	Rue de la Batterie	
+node	12590019201	46.5637619	3.3305452	Divers Gens				restaurant	8	03000	Place de la Liberté	
+node	12694694557	46.5655132	3.3283518	Namaste Nepal				restaurant	24		Rue Mathieu de Dombasle	
+node	12694715740	46.5642168	3.3329384	Le Petit Wagram				restaurant				
+node	12809459140	46.5635359	3.3360444	La Rôtisserie				restaurant	22	03000	Avenue Théodore de Banville	
+node	13227569756	46.5607478	3.3335977	Viet to wok				restaurant				
+node	13227606202	46.5607545	3.3335935	Viet to wok				restaurant				
+node	14150148301	46.5644058	3.3317658	Bistro de Guillaume				restaurant				
+way	45333523	46.5457234	3.3302205	Salle de soirée				restaurant				
+way	47120326	46.5583800	3.3253238	La Paillote				bar				
+way	77672958	46.5649985	3.3356540	Don Camillo				restaurant	11	03000	Rue des Six Frères	
+way	77687200	46.5450752	3.3412140	Buffalo Grill				restaurant				
+way	1076145930	46.5583237	3.3251040	La plage				restaurant				
+relation	120078			Murat	8	03390	03191					
+node	1669982742	46.4053211	2.9106328	Le Vent du Nord				restaurant				
+relation	111481			Néris-les-Bains	8	03310	03195					
+node	5253817250	46.2888754	2.6591570	Bar du mini golf				bar				
+node	9467226940	46.2873999	2.6613957	Auberge Nérisienne				restaurant	22	03310	Place de la République	
+way	78408958	46.2871478	2.6594532	La Brasserie				restaurant	34	03310	Rue Boisrot Desserviers	
+way	78410224	46.2909237	2.6515465	Le Relais du Vieux Moulin				restaurant				
+relation	2855588			Neuilly-en-Donjon	8	03130	03196					
+node	10911386607	46.3447793	3.8873388	La Cazotte				restaurant	2	03130	Rue de l'Église	
+node	12632870572	46.3447549	3.8873336	La Cazotte				bar	2	03130	Rue de l'Église	
+relation	120080			Neuilly-le-Réal	8	03340	03197					
+node	1709238205	46.4660046	3.4310421	Le Rally				bar				
+relation	120082			Neuvy	8	03000	03200					
+node	13542783521	46.5633125	3.2896429	Au Fil des Saisons				restaurant				
+relation	124401			Nizerolles	8	03250	03201					
+node	7902386731	46.0983708	3.6389502	Biguet Pizza				restaurant		03250	Rue de la Mairie	
+relation	2894526			Noyant-d'Allier	8	03210	03202					
+node	6042535033	46.4868771	3.1327495	Le Petit d'Asie				restaurant	38	03210	Rue de la Mine	
+relation	120085			Périgny	8	03120	03205					
+node	13347868027	46.2502190	3.5557527	Instant Pizz				restaurant				
+relation	2094818			Pierrefitte-sur-Loire	8	03470	03207					
+node	2172095647	46.5069715	3.8110427	Auberge La Péniche				restaurant	1	03470	Rue du Port	
+node	5740979206	46.5067744	3.8161817	Le Bistrot				bar	2		Rue du Commerce	
+node	11578933333	46.5067637	3.8161550	Le bistrot				restaurant	2		Rue du Commerce	
+node	12765738026	46.5069043	3.8110827	Auberge La Péniche				bar	1	03470	Chemin du Port	
+relation	2863226			Le Pin	8	03130	03208					
+node	11048969084	46.4133171	3.8952563	Le Pinois				restaurant	2	03130	Rue de la Mairie	
+node	11049035411	46.4133008	3.8952091	Le Pinois				bar	2	03130	Rue de la Mairie	
+relation	112058			Prémilhat	8	03410	03211					
+way	78402075	46.3374652	2.5720848	Wok Panda				restaurant				
+way	976233127	46.3346688	2.5606607	La Plage				bar				
+relation	2816267			Rocles	8	03240	03214					
+way	479503485	46.4233574	3.0314508	Château de la Tour				restaurant				
+relation	120087			Rongères	8	03150	03215					
+node	1397586458	46.2944884	3.4506173	La Forterre				restaurant	1	03150	Rue de la Fontaine	
+node	1397586463	46.2945162	3.4505637	La Forterre				bar	1	03150	Rue de la Fontaine	
+relation	114754			Saint-Angel	8	03170	03217					
+node	12849275131	46.3575427	2.6964229	Le Saint-Angel				restaurant	1		Route de Villefranche	
+relation	2215313			Saint-Bonnet-de-Rochefort	8	03800	03220					
+node	13140519201	46.1467390	3.1359159	La table de Saint-Bonnet				restaurant	2	03800	Route de Gannat	
+relation	2842835			Saint-Bonnet-Tronçais	8	03360	03221					
+node	1337364658	46.6405153	2.7177963	Chez Suisse				restaurant				
+node	1337364730	46.6405448	2.7174101	Le Col Vert				restaurant				
+way	656090353	46.6599207	2.6921375	Café de la place				cafe				
+relation	2807399			Saint-Clément	8	03250	03224					
+node	1871503624	46.0617395	3.7042081	Chez la Louise				bar	8	03250	Rue du Moulin	
+relation	114318			Saint-Désiré	8	03370	03225					
+node	2424118091	46.4884948	2.4200821	La halte de Goëlat				restaurant				
+relation	2854784			Saint-Didier-en-Donjon	8	03130	03226					
+way	1264774936	46.3886421	3.8727032	Le Coupon				bar			Les Jandons	
+relation	120091			Saint-Étienne-de-Vicq	8	03300	03230					
+way	339224745	46.1771198	3.5332576	Au coin du feu				restaurant	6	03300	Rue du Commerce	
+relation	2862731			Saint-Gérand-de-Vaux	8	03340	03234					
+node	10911407598	46.3796920	3.3968895	Le Cheval Blanc				restaurant	35	03340	Rue des Acacias	
+node	13132942943	46.3796970	3.3968369	Le Cheval Blanc				bar	35	03340	Rue des Acacias	
+relation	2783827			Saint-Gérand-le-Puy	8	03150	03235					
+node	1955896125	46.2577068	3.5124598	L Olivier				bar	3	03150	Rue de la Couronne	
+way	109917141	46.2771918	3.4750631	Le Contact Restaurant Bar				restaurant		03150	Côte de Bellevue	
+relation	120092			Saint-Germain-des-Fossés	8	03260	03236					
+node	6780796747	46.2049305	3.4325862	Le Leonie's				restaurant	31	03260	Rue Pierre Semard	
+node	7775636091	46.2024680	3.4332290	Le Moderne				bar	80	03260	Rue Pierre Semard	
+node	7787811264	46.2042531	3.4322840	Afrah				restaurant	50	03260	Rue Pierre Semard	
+node	7792048271	46.2059315	3.4329502	Le Central				bar	11	03260	Rue Pierre Semard	
+way	70934939	46.2046524	3.4322329	Chez Marie-Line				bar	42	03260	Rue Pierre Semard	
+relation	2804398			Saint-Germain-de-Salles	8	03140	03237					
+node	10086539126	46.1788181	3.2132053	La Boulangerie				cafe		03140	Rue de la Liberté	
+way	390929785	46.1932160	3.2433630	Table d'hôtes				restaurant				
+relation	2881445			Saint-Léon	8	03220	03240					
+node	10965688632	46.4049434	3.6971038	Le Petit Poucet				bar	20	03220		Les Côtes
+node	11078465969	46.4049710	3.6971469	Le petit poucet				restaurant	20	03220		Les Côtes
+relation	2195557			Saint-Marcel-en-Murat	8	03390	03243					
+node	5060129943	46.3215656	3.0087567	Le Marcellais				restaurant			Le bourg	
+relation	124380			Saint-Menoux	8	03210	03247					
+node	1027993284	46.5833982	3.1617454	Fourchette et découverte				restaurant				
+node	10044754777	46.5856129	3.1570814	Café du Centre				restaurant				
+relation	2790154			Saint-Nicolas-des-Biefs	8	03250	03248					
+node	8969261554	46.0608018	3.7823406	Tout là-haut				restaurant				
+relation	2904525			Saint-Plaisir	8	03160	03251					
+node	3840004093	46.6221586	2.9679365	Au bon plaisir				restaurant				
+relation	2884784			Saint-Pourçain-sur-Besbre	8	03290	03253					
+node	10911385502	46.4752615	3.6380718	L'envie des mets				restaurant	7	03290	Route des Tilleuls	
+node	13149263440	46.4752536	3.6380386	L'envie des mets				bar	7	03290	Route des Tilleuls	
+way	545801146	46.5072170	3.6311026	Cafétéria Le Quai West				restaurant				
+way	548378496	46.5089077	3.6317884	Restaurant La Coupole				restaurant				
+way	588723289	46.5045756	3.6327505	Le Tanganika				restaurant				
+relation	2799794			Saint-Pourçain-sur-Sioule	8	03500	03254					
+node	4127966128	46.3083885	3.2915970	Aliénor et Dolwen				pub				
+node	4127966130	46.3071277	3.2928167	Auberge du Pont				restaurant				
+node	4127966132	46.3085071	3.2911088	Brasserie du Cours				pub		03500		
+node	4127966136	46.3095882	3.2888122	Le Bergerac				bar				
+node	4127966137	46.3084284	3.2914441	Le Club				bar	39	03500	Boulevard Ledru Rollin	
+node	4127966138	46.3081041	3.2910525	Le Commerce				bar				
+node	4127966139	46.3092195	3.2894345	Les Arcades				bar				
+node	4127966141	46.3090416	3.2897657	Ambigüe				bar				
+node	4209766703	46.3103925	3.2849502	Chez Joe				restaurant				
+node	9413570417	46.3126945	3.3148600	Le DrugStore				restaurant				
+node	9983137057	46.3154811	3.2927601	Auberge Les Aubrelle				restaurant				
+node	13530271628	46.3131523	3.3158874	La Rôtisserie				restaurant				
+node	13985794089	46.3070705	3.2891862	Bar de la Mairie				bar				
+node	14211796378	46.3089664	3.2898908	Poulette				restaurant	55	03500	Boulevard Ledru Rollin	
+relation	120097			Saint-Prix	8	03120	03257					
+way	366876652	46.2322180	3.6506365	L'Étape Bleue				restaurant				
+relation	110580			Saint-Victor	8	03410	03262					
+node	13785643079	46.3780071	2.5865376	Aire des Vérités				restaurant	1	03410	Rue Marius Berliet	
+way	78522234	46.3952570	2.6064616	La Maison Bleue				restaurant			Rue André Gide	
+way	570395663	46.3781943	2.5880406	La Boucherie				restaurant				
+way	570395668	46.3780667	2.5876610	Constant				pub				
+relation	117072			Saint-Yorre	8	03270	03264					
+node	610434829	46.0658170	3.4653210	Logis Auberge Bourbonnaise				restaurant				
+node	1384958817	46.0660615	3.4611162	L'Anacardier				bar		03270		
+node	4835500725	46.0629537	3.4601971	Café de la Gare				cafe	1	03270	Rue Gambetta	
+node	8279281607	46.0655017	3.4633678	La Pause m'Aline				restaurant				
+node	13075601444	46.0673679	3.4649469	Isko Kebab				restaurant				
+way	133562612	46.0424070	3.4727700	Le Piquenchagne				restaurant				
+way	1122679187	46.0651034	3.4651897	luigi pizza				restaurant	4	03270	Avenue de Thiers	
+relation	2883246			Saligny-sur-Roudon	8	03470	03265					
+node	11049170647	46.4680966	3.7503565	Au convivial				bar	4	03470	Grande Rue	
+relation	2807402			Saulcet	8	03500	03267					
+way	349537549	46.3244550	3.2624135	Les Quatre Saisons				restaurant		03500		
+relation	120106			Seuillet	8	03260	03273					
+way	340652773	46.2025775	3.4724920	Auberge du Jacquelin				restaurant				
+relation	2868367			Sorbier	8	03220	03274					
+node	10944255017	46.3657281	3.6605339	Le petit Sorbier				bar	5	03220	Grande Rue	
+relation	120107			Souvigny	8	03210	03275					
+node	3745651541	46.5357716	3.1906807	Auberge des Tilleuls				restaurant				
+node	6802000544	46.5350871	3.1926787	Le Point d'Orgue				restaurant				
+node	12059143519	46.5334365	3.1926228	Caféine des sportifs				cafe				
+node	12059143543	46.5342558	3.1926205	Sphere plaisir				restaurant				
+node	12135535501	46.5347335	3.1923293	Aux Trois Topines				restaurant	9	03210	Place Aristide Briand	
+relation	2881619			Thionne	8	03220	03284					
+node	10911481373	46.4352012	3.5600225	La maison du lac				restaurant			Les clayeux	
+relation	120108			Toulon-sur-Allier	8	03400	03286					
+node	595998247	46.5062607	3.3612415	Au Top Du Roulier				restaurant				
+node	7425317885	46.5364894	3.3463885	Ristorante Del Arte				restaurant				
+node	10203759251	46.4978854	3.3624896	L'échoppe de Gustave				restaurant				
+relation	2817595			Treban	8	03240	03287					
+node	8366821324	46.4043054	3.1743957	Auberge du Bocage				restaurant				
+relation	2873893			Trézelles	8	03220	03291					
+node	13149041540	46.3292922	3.5925077	Bistrot gourmand				bar	13		Place Saint-Barthélémy	
+way	399278580	46.3292832	3.5924788	Bistrot gourmand				restaurant	13	03220	Place Saint-Barthélémy	
+relation	2215084			Valigny	8	03360	03296					
+node	7232978636	46.7124992	2.8172971	Le Relais de la Forêt				restaurant	9		Place de l'Église	
+relation	2827747			Vallon-en-Sully	8	03190	03297					
+node	292644923	46.5528774	2.6181151	Auberge des Ris				restaurant				
+node	2383198859	46.5315549	2.6141500	L'allée des soupirs				restaurant				
+node	10173101095	46.5358719	2.6126932	Le Sully's				restaurant	12	03190	Rue Jean Jaurès	
+node	11075235414	46.5154782	2.5821573	Aroma Café				cafe				
+relation	2794075			Varennes-sur-Allier	8	03150	03298					
+node	3686230243	46.3121158	3.4024141	La Frégate				restaurant	38	03150	Rue Claude Labonde	
+node	7560001692	46.3124483	3.4032708	Le Chaudron				restaurant	9	03150	Avenue Victor Hugo	
+node	7560001693	46.3124983	3.4034669	L'Atelier				restaurant	9	03150	Rue de l'Hôtel de Ville	
+node	7560001694	46.3127567	3.4024115	Le Dauphin				restaurant	6	03150	Rue de l'Hôtel de Ville	
+node	7560001695	46.3144984	3.3978994	La marmite de chez Jérôme				restaurant	17	03150	Rue de Vouroux	
+node	10911522871	46.3150514	3.3972604	Bar du coin				bar	1	03150	Rue de Vouroux	
+node	12765729484	46.3127374	3.4023965	Le Dauphin				bar		03150	Place de l'Hôtel de Ville	
+relation	2872457			Varennes-sur-Tèche	8	03220	03299					
+node	11064463945	46.3263602	3.6284876	Auberge de la Tèche chez Ange				restaurant	8	03220	Rue des Écoles	
+node	13149092365	46.3263463	3.6285310	Auberge de la Tèche chez Ange				bar	8	03220	Rue des Écoles	
+relation	365292			Verneix	8	03190	03305					
+node	9732668575	46.3970742	2.6703963	Le Verneix				restaurant				
+relation	120048			Le Vernet	8	03200	03306					
+node	8809419690	46.1086237	3.4626700	Bar Tabac de l'Académie				bar	1	03200	Rue de Cusset	
+relation	79337			Vichy	8	03200	03310					
+node	418221111	46.1292812	3.4153798	La Rotonde Bocuse				restaurant				
+node	439235723	46.1224741	3.4278144	L'Aloyau				restaurant	35	03200	Avenue des Célestins	
+node	485954513	46.1207061	3.4258428	Cocoon Coffee				cafe				
+node	517846481	46.1263936	3.4300215	La Broch'ET				restaurant				
+node	517846523	46.1235575	3.4233139	Brasserie 032				restaurant	6	03200	Avenue du Président Doumer	
+node	517846531	46.1175984	3.4264600	Tahiti Plage				restaurant				
+node	563979323	46.1262839	3.4300500	Wagyu				restaurant				
+node	577773751	46.1205687	3.4196380	Gigi e Giovanni				restaurant	58	03200	Boulevard du Président John Fitzgerald Kennedy	
+node	577774071	46.1214215	3.4195305	L'Hippocampe				restaurant	3	03200	Boulevard de Russie	
+node	577774564	46.1258693	3.4301518	L'Arrosoir				bar				
+node	577775426	46.1267607	3.4277689	Seven Homemade				restaurant	57	03200	Rue de Paris	
+node	617296334	46.1212867	3.4199995	Brasserie Albert 1er				bar				
+node	617296352	46.1255649	3.4247052	Alexandrie				restaurant				
+node	617296353	46.1263611	3.4218659	Au Bureau				restaurant				
+node	617296497	46.1158023	3.4344170	Les Berges de l'Aviron				restaurant				
+node	617296530	46.1261564	3.4300814	Le Gaulois				bar				
+node	630964079	46.1205954	3.4195129	Paris-Vichy				restaurant				
+node	630964206	46.1248222	3.4218841	La Table d'Antoine				restaurant	8	03200	Rue Burnol	
+node	630964232	46.1245935	3.4251591	Le Brazilia				bar				
+node	671673170	46.1213009	3.4196470	Café des Arts				cafe	1	03200	Boulevard de Russie	
+node	671673182	46.1261646	3.4229811	Le Lutèce				restaurant				
+node	671673191	46.1285103	3.4170955	Le Café de Sophie				cafe	18	03200	Rue Callou	
+node	671673193	46.1306710	3.4238594	Bar d'à Côté				bar				
+node	1055385343	46.1272090	3.4295373	Dôme Café				bar	52	03200	Boulevard Gambetta	
+node	1309179045	46.1250644	3.4222629	Le Vichy				restaurant				
+node	1309389397	46.1260934	3.4204975	Café des Sources				cafe				
+node	1309389414	46.1251429	3.4209542	Au Fidèle Berger				cafe				
+node	1310386155	46.1242313	3.4215694	Le Royal				restaurant	12	03200	Rue du Président Wilson	
+node	1311024251	46.1220043	3.4232078	Les Caudalies				restaurant				
+node	1311088062	46.1245672	3.4222471	L'Instant Gourmand				restaurant				
+node	1311088085	46.1240080	3.4219734	La Tart'In				restaurant				
+node	1311088194	46.1244688	3.4217729	Venus Barista Coffee Shop				bar				
+node	1311088211	46.1240125	3.4221204	L'Opus				restaurant				
+node	1353517147	46.1254539	3.4246873	Le M				bar				
+node	1384354113	46.1281505	3.4181304	Les Jardins d'Enghien				restaurant				
+node	1408727030	46.1259514	3.4223853	Saintonge				bar				
+node	1408727039	46.1259867	3.4222919	Joséphine				restaurant				
+node	1408727042	46.1259152	3.4224812	Le Morny				cafe				
+node	1408727045	46.1258786	3.4225779	Le Petit Pot				cafe				
+node	1535151674	46.1269027	3.4289697	Franc'Asie				restaurant				
+node	1535151682	46.1267901	3.4296896	Chez Martin				restaurant				
+node	1535151685	46.1269177	3.4290900	La Médina				restaurant				
+node	1535151691	46.1269377	3.4292504	Khemera				restaurant				
+node	1535151693	46.1268594	3.4285676	L'Atelier de Jérôme				restaurant				
+node	1535158539	46.1266764	3.4270970	Le Longchamp				bar	49	03200	Rue de Paris	
+node	1535166598	46.1265300	3.4275896	O'Délices				restaurant	60	03200	Rue de Paris	
+node	1535166609	46.1264084	3.4265843	Lyra Events				bar				
+node	1828381068	46.1232704	3.4211710	Casino du Grand Café				restaurant				
+node	1834696152	46.1282142	3.4229873	Basilic & Co				restaurant	17	03200	Rue Jean Jaurès	
+node	1834706464	46.1279892	3.4247749	La Marmite de Vichy				restaurant				
+node	1834729386	46.1282396	3.4276542	Dream Pizza and Pastry				restaurant	51	03200	Boulevard Gambetta	
+node	1834729657	46.1282705	3.4275862	Restaurant du Liban				restaurant	49	03200	Boulevard Gambetta	
+node	1834743231	46.1269854	3.4296394	Westing				restaurant				
+node	1834744070	46.1269577	3.4294123	L'Aromate				restaurant				
+node	1834748866	46.1268821	3.4287984	Burger Time				restaurant				
+node	1834753687	46.1268030	3.4279730	Le Helder				bar				
+node	1834755396	46.1268420	3.4281140	Mona Lisa				restaurant				
+node	1834760503	46.1267079	3.4273480	L'Oasis				restaurant	51	03200	Rue de Paris	
+node	1834760871	46.1267153	3.4274162	Poulet Grillé				restaurant	53	03200	Rue de Paris	
+node	1834760958	46.1267226	3.4274656	Villa de l'Inde				restaurant	53	03200	Rue de Paris	
+node	1836457515	46.1291848	3.4153680	BISTROT BOCUSE ORIGINAL COMPTOIR - VICHY				restaurant		03200		
+node	1836821898	46.1279057	3.4199915	La Terrasse				restaurant	1	03200	Avenue Victoria	
+node	1836967275	46.1235847	3.4187293	La Véranda				restaurant				
+node	1837449295	46.1255054	3.4246957	Le Riad				restaurant				
+node	1837450063	46.1257302	3.4246861	Polka				restaurant				
+node	1839122196	46.1253000	3.4218786	Papilles				restaurant	12	03200	Rue Sornin	
+node	1839134383	46.1251316	3.4218710	Les Porto's				restaurant	22	03200	Passage de l'Amirauté	
+node	1839137197	46.1252405	3.4216656	Mio Taqueria				restaurant				
+node	1839142006	46.1247209	3.4215304	Patchouli				cafe				
+node	1839147333	46.1250259	3.4221403	Chez Lucien				restaurant				
+node	1839165382	46.1250018	3.4231562	Crêperie Clémentine				restaurant				
+node	1839172319	46.1249707	3.4240278	L'Opportun				restaurant	16	03200	Rue Ravy-Breton	
+node	1839631095	46.1264800	3.4291893	Tiffany				restaurant	59	03200	Avenue du Président Doumer	
+node	1841521026	46.1224953	3.4217393	Édouard				bar				
+node	1841523776	46.1224114	3.4215807	Le Samoa				restaurant				
+node	1841562708	46.1227321	3.4219397	L'Écrin de Marlène				restaurant				
+node	1841565543	46.1228104	3.4219588	L'Imposteur				bar				
+node	2081431365	46.1253326	3.4219960	Le Comptoir du Croque				restaurant				
+node	3253885861	46.1255574	3.4224612	Columbus Café & Co				cafe				
+node	3874339064	46.1260910	3.4213832	Café Colada				cafe				
+node	5292591005	46.1226344	3.4206432	Le Verre à Cheval				restaurant				
+node	5292591010	46.1224782	3.4208181	Lapin				bar				
+node	5293873764	46.1227893	3.4185567	Les Ambassadeurs				bar	12	03200	Boulevard de Russie	
+node	5731926712	46.1217823	3.4210760	Scarlett				restaurant	4	03200	Place de la Source de l'Hôpital	
+node	6066576509	46.1249768	3.4333643	Le Laurmi				restaurant				
+node	6070397176	46.1303689	3.4234319	Le Drop				bar	55	03200	Rue Jean Jaurès	
+node	6077036001	46.1297364	3.4241692	La Fabrique à Pizzas				restaurant	2	03200	Boulevard Gambetta	
+node	6436449785	46.1255429	3.4262215	The Pub				pub	24	03200	Place Charles de Gaulle	
+node	6436481287	46.1299427	3.4317214	La Strada				restaurant	36	03200	Avenue de Lyon	
+node	6540574187	46.1243037	3.4244922	Le Four à Bois				restaurant	15	03200	Avenue du Président Doumer	
+node	6700898789	46.1277884	3.4203268	Le Bistrot Auvergnat				restaurant	1	03200	Avenue Victoria	
+node	6712184826	46.1263475	3.4244576	Le Parisien				bar	17	03200	Rue de Paris	
+node	6712189377	46.1263625	3.4262007	Xin Xin				restaurant	32	03200	Rue de Paris	
+node	6712189378	46.1263498	3.4260949	Palais Angkor				restaurant	30	03200	Rue de Paris	
+node	6780999390	46.1258831	3.4237125	Le Binche				bar	7	03200	Rue du Commerce	
+node	6780999395	46.1254535	3.4236801	Paolo				restaurant	22	03200	Rue du Commerce	
+node	6780999397	46.1256974	3.4301850	Anisse				restaurant				
+node	6780999516	46.1235700	3.4229099	La Régence				bar	7	03200	Avenue du Président Doumer	
+node	6780999522	46.1233999	3.4227600	Le San Remo				restaurant	2	03200	Avenue du Président Doumer	
+node	6780999575	46.1269616	3.4283556	Le Florencia				restaurant				
+node	7024428610	46.1338629	3.4169559	Le 15				bar	12	03200	Boulevard de la Résistance	
+node	7024428909	46.1219093	3.4190586	Les Nations				restaurant				
+node	7024428932	46.1213188	3.4232787	Le P'tit Montmartre				restaurant				
+node	7024429490	46.1224756	3.4230829	Le Delta				restaurant	18	03200	Rue Maréchal Foch	
+node	7024429539	46.1224911	3.4199801	Brasserie de l'Opéra				restaurant	6	03200	Passage Noyer	
+node	7024429540	46.1227356	3.4196144	Bouillon des Artistes				restaurant				
+node	7024429542	46.1228341	3.4200726	Le Poulailler et le Coq				restaurant	10	03200	Rue du Casino	
+node	7024429543	46.1226672	3.4202708	Oben Bar				bar	11	03200	Rue de Banville	
+node	7024429545	46.1225963	3.4203160	Le Bazar				bar				
+node	7024429560	46.1214932	3.4199047	La Coupe d'Or				restaurant				
+node	7024429585	46.1228491	3.4223420	Le Bistrot de Pierrot				restaurant				
+node	7024430172	46.1256274	3.4252367	Le Gandhi				restaurant				
+node	7024430236	46.1316605	3.4233280	Le Jockey Club				bar	83	03200	Rue Jean Jaurès	
+node	7093664625	46.1242795	3.4258227	Cuisine & Sentiment				restaurant				
+node	7098150443	46.1225112	3.4203702	Pequeña Tapa				restaurant	1	03200	Rue de Banville	
+node	7098194791	46.1308322	3.4262370	Bar des Halles				bar	6	03200	Boulevard de la Mutualité	
+node	7098194808	46.1244296	3.4229325	Vichy Saveur Créole				restaurant				
+node	7098194868	46.1276976	3.4293343	Home Eat Holding				restaurant	21	03200	Avenue de Gramont	
+node	7179911556	46.1294357	3.4280375	Le Cartel				bar	23	03200	Rue d'Alsace	
+node	7179911598	46.1269979	3.4284223	Babatchê				restaurant				
+node	7179911645	46.1267395	3.4187410	Brasserie Les Dômes				restaurant	1	03200	Avenue Thermale	
+node	7590467953	46.1299444	3.4322348	Ocho TZ				restaurant				
+node	7684887681	46.1266629	3.4238424	Chez Ruben				restaurant				
+node	8071855703	46.1251626	3.4217271	Banh Mi				restaurant				
+node	8071855822	46.1257365	3.4237573	Café Mélody				cafe				
+node	8071855823	46.1249747	3.4235689	Clem's Pizza				restaurant	76	03200	Passage Clemenceau	
+node	8232323658	46.1303596	3.4331363	Bar Denière				bar	42	03200	Avenue de Gramont	
+node	8232323714	46.1215556	3.4237366	Joseph Pizza				restaurant				
+node	8232323719	46.1231979	3.4286944	Le Tajine - Chez Hassania				restaurant	54	03200	Avenue des Célestins	
+node	8473742307	46.1207334	3.4276911	Maestro				restaurant				
+node	8473742310	46.1194993	3.4335904	La Bienvenue Chez Jacotte				bar	23	03200	Rue du Parc des Bourins	
+node	8473756777	46.1303634	3.4241127	Brasserie du Grand Marché				restaurant		03200	Place Pierre-Victor Léger	
+node	8473756816	46.1235272	3.4232481	Le Karousel				restaurant	6	03200	Avenue du Président Doumer	
+node	8526218458	46.1341407	3.4229157	Brasserie La Virgule				bar				
+node	8596278323	46.1295760	3.4320688	Le QG				nightclub	22	03200	Avenue de Gramont	
+node	8596278566	46.1213778	3.4215323	Keck's Café Nature Shop				cafe	16	03200	Rue d'Allier	
+node	8596278665	46.1258960	3.4254381	Dragon d'Or				restaurant	7	03200	Rue Dejoux	
+node	8645036158	46.1227698	3.4283339	La Casbah				restaurant	46	03200	Avenue des Célestins	
+node	8691487980	46.1267523	3.4293898	SG Club				nightclub				
+node	8809418536	46.1263577	3.4261612	Délice Pizza				restaurant	32	03200	Rue de Paris	
+node	8893059079	46.1256816	3.4237740	Le Passage Club				nightclub	19	03200	Rue du Commerce	
+node	8893059080	46.1283025	3.4181537	Restaurant d'application Atelier Dé'jeunes				restaurant	19	03200	Rue Callou	
+node	9064443156	46.1242748	3.4248835	Jungle Bar				bar	30	03200	Avenue du Président Doumer	
+node	9297621410	46.1301725	3.4264710	Le Bayou				bar		03200	Rue Paul Bert	
+node	9297623641	46.1228093	3.4199596	Le Coq				bar	8	03200	Rue du Casino	
+node	9297623643	46.1346267	3.4229374	Ga-Koung-OO				restaurant				
+node	9382654608	46.1259491	3.4285702	Cookie Corner				restaurant	56	03200	Avenue du Président Doumer	
+node	9382654609	46.1250176	3.4214824	Caminito				restaurant				
+node	9675071231	46.1329044	3.4231941	Le Ginkgo				restaurant	109	03200	Rue Jean Jaurès	
+node	9922704814	46.1245214	3.4235439	Le Cristina				bar	7	03200	Rue Ravy-Breton	
+node	10238233862	46.1279894	3.4291834	Ô Dix Verres				bar				
+node	10297344200	46.1223470	3.4203968	The Night Owl				restaurant				
+node	10597199759	46.1248496	3.4216175	La Rôtisserie				restaurant				
+node	10702792595	46.1322238	3.4302104	Bar Les Romains				bar	2	03200	Rue du Vert Galant	
+node	11170130821	46.1366297	3.4227304	France Doner Kebab				restaurant	163	03200	Rue Jean Jaurès	
+node	11308094107	46.1200186	3.4263438	Le 68				restaurant	44	03200	Avenue Eugène Gilbert	
+node	11784607745	46.1279832	3.4341482	Pat'à Pizz				restaurant	70	03200	Boulevard Denière	
+node	12312680190	46.1245685	3.4190042	Maison Decoret				restaurant				
+node	12631353322	46.1261248	3.4174793	Le Blue Note				bar				
+node	12879655395	46.1315180	3.4346136	La Boîte à Pizza				restaurant				
+node	13163037301	46.1214848	3.4234885	Le Pandzaï				bar				
+node	13421864772	46.1213495	3.4220908	La Bamboche				restaurant				
+node	13956203710	46.1257647	3.4151105	L'Effet Mer				restaurant				
+node	14085810496	46.1361747	3.4226114	Le Reims				bar				
+node	14204606009	46.1351386	3.4172112	Le Café du Stade				bar				
+way	81522719	46.1276383	3.4231500	Le Victoria				restaurant	27	03200	Avenue Victoria	
+way	90593697	46.1159750	3.4348895	Fa Bio Li				restaurant				
+way	90601052	46.1264003	3.4152009	Le Bungalow				restaurant				
+way	306275322	46.1185676	3.4225565	Bar de la Plage				bar				
+way	306275330	46.1204437	3.4177951	Le Chill				restaurant				
+way	306275360	46.1218578	3.4162891	Sandro				bar				
+way	306275361	46.1214138	3.4167287	La Pastille				restaurant				
+way	306275362	46.1223401	3.4158723	Le Mirage				restaurant				
+way	926329492	46.1439040	3.4126850	Carrefour Cafétéria				restaurant				
+way	1313726088	46.1271001	3.4305170	Le 7				restaurant	1	03200	Place de la Gare	
+relation	2893053			Vieure	8	03430	03312					
+node	2745422686	46.5013055	2.8756027	The Shiels				pub				
+node	3002817814	46.5036231	2.9093221	Auberge de la Borde				restaurant				
+relation	125330			Villefranche-d'Allier	8	03430	03315					
+node	4245952879	46.3970323	2.8561988	Le Bon Coin				bar				
+relation	120128			Villeneuve-sur-Allier	8	03460	03316					
+node	2001516471	46.6606402	3.2467394	L'Escapade				restaurant				
+node	2302899028	46.6599965	3.2302648	La Chaumière				restaurant				
+relation	2888988			Ygrande	8	03160	03320					
+node	13816615445	46.5529006	2.9426292	La taverne				bar				
+relation	124369			Yzeure	8	03400	03321					
+node	1536530673	46.5488217	3.3398828	Le Palmyre Kebab				restaurant				
+node	6032483512	46.5529006	3.3627146	Bar Yzatis				bar				
+node	9834643517	46.5559927	3.3523017	Le Carpe Diem				restaurant	11	03400	Boulevard Saint-Exupéry	
+node	9908287168	46.5522542	3.3689182	Espace Café				cafe				
+node	10799036959	46.5437971	3.3718391	Le Domaine				restaurant				
+node	11410010969	46.5656736	3.3551564	Le Petit Bouchon				restaurant	6	03400	Rue Bergeron Vebret	
+way	77903034	46.5476585	3.3411853	Royal Buffet				restaurant				
