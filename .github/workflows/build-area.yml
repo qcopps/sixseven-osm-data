@@ -1,0 +1,62 @@
+name: build-area
+
+# Builds the venue files of ONE area (an emirate, a region...) for the Six-seven app.
+# Data © OpenStreetMap contributors, ODbL.
+
+on:
+  workflow_dispatch:
+    inputs:
+      extract: { description: 'Geofabrik extract path', default: 'asia/gcc-states' }
+      code: { description: 'File code', default: 'dxb' }
+      iso: { description: 'ISO3166-2 of the area', default: 'AE-DU' }
+      city: { description: 'Town name written on every venue', default: 'Dubai' }
+  push:
+    branches: [main]
+    paths: ['.github/workflows/build-area.yml', 'area/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-area
+  cancel-in-progress: false
+
+env:
+  EXTRACT: ${{ inputs.extract || 'asia/gcc-states' }}
+  CODE: ${{ inputs.code || 'dxb' }}
+  ISO: ${{ inputs.iso || 'AE-DU' }}
+  CITY: ${{ inputs.city || 'Dubai' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install libraries
+        run: pip install osmium==4.3.2 shapely
+      - name: Download the Geofabrik extract
+        run: |
+          mkdir -p dl out
+          curl -fsSL --retry 3 --retry-delay 30 -A "sixseven-osm-data (GitHub Actions)" \
+            -o dl/extract.osm.pbf "https://download.geofabrik.de/${EXTRACT}-latest.osm.pbf"
+          ls -la dl
+      - name: Extract venues, addresses and roads
+        run: |
+          set -o pipefail
+          python3 -I area/extract_area.py dl/extract.osm.pbf out "$CODE" "$ISO" "$CITY" --en 2>&1 | tee "out/log_${CODE}.txt"
+      - name: Commit the files
+        if: always()
+        run: |
+          mkdir -p data logs
+          cp out/${CODE}_* data/ 2>/dev/null || true
+          cp out/log_* logs/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data logs
+          git commit -m "Venue files for ${CITY} (data © OpenStreetMap contributors, ODbL)" || echo "nothing to commit"
+          git pull --rebase origin main
+          git push
