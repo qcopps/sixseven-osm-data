@@ -5,8 +5,11 @@ so the osm_import pipeline of the Six-seven database can process them.
 The area is the administrative boundary whose ISO3166-2 tag equals <iso>. Every venue inside it gets
 the town name <city> (written as a single pseudo-commune row).
 
-Usage: python3 -I extract_area.py <input.osm.pbf> <out_dir> <code> <iso> <city> [--en]
-  --en : prefer the English name (name:en) of venues and roads when there is one.
+Usage: python3 -I extract_area.py <input.osm.pbf> <out_dir> <code> <iso> <city> [--en] [--area-tags=k=v,k=v] [--street=<name>]
+  --en         : prefer the English name (name:en) of venues and roads when there is one.
+  --area-tags  : select the area by these tags instead of an ISO3166-2 boundary (e.g. aeroway=aerodrome,iata=BAH);
+                 the area may then be a closed way or a relation.
+  --street     : write this street on every venue (e.g. the airport's name).
 """
 import json
 import math
@@ -64,8 +67,16 @@ def area_polygon(a):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    opts = dict(a[2:].split("=", 1) for a in sys.argv[1:] if a.startswith("--") and "=" in a)
     english = "--en" in sys.argv
     src, out_dir, code, iso, city = args[:5]
+    area_tags = dict(kv.split("=", 1) for kv in opts["area-tags"].split(",")) if opts.get("area-tags") else None
+    force_street = opts.get("street", "")
+
+    def is_area(t):
+        if area_tags:
+            return all(t.get(k) == v for k, v in area_tags.items())
+        return t.get("boundary") == "administrative" and t.get("ISO3166-2") == iso
     os.makedirs(out_dir, exist_ok=True)
 
     def nm(t):
@@ -84,18 +95,19 @@ def main():
     area = None
     area_id = 0
     fp = (osmium.FileProcessor(src).with_locations("flex_mem")
-          .with_areas(osmium.filter.KeyFilter("boundary", "amenity", "leisure"))
-          .with_filter(osmium.filter.KeyFilter("amenity", "boundary", "leisure")))
+          .with_areas(osmium.filter.KeyFilter("boundary", "amenity", "leisure", "aeroway"))
+          .with_filter(osmium.filter.KeyFilter("amenity", "boundary", "leisure", "aeroway")))
     for o in fp:
         t = o.tags
         if o.is_area():
-            if o.from_way():
-                continue
-            if t.get("boundary") == "administrative" and t.get("ISO3166-2") == iso:
+            if is_area(t) and (area_tags or not o.from_way()):
                 g = area_polygon(o)
                 if g is not None and not g.is_empty:
                     area, area_id = g, o.orig_id()
-            elif kind_of(t) and nm(t):
+                continue
+            if o.from_way():
+                continue
+            if kind_of(t) and nm(t):
                 key = f"relation/{o.orig_id()}"
                 locs = [(n.lat, n.lon) for ring in o.outer_rings() for n in ring]
                 if key not in venues and locs:
@@ -187,7 +199,7 @@ def main():
         t = v["tags"]
         lines.append("\t".join([v["type"], str(v["id"]), f"{v['lat']:.7f}", f"{v['lon']:.7f}", clean(nm(t)),
                                 "", "", "", kind_of(t), clean(t.get("addr:housenumber")),
-                                clean(t.get("addr:postcode")), clean(t.get("addr:street")), clean(t.get("addr:place"))]))
+                                clean(t.get("addr:postcode")), force_street or clean(t.get("addr:street")), clean(t.get("addr:place"))]))
     with open(os.path.join(out_dir, f"{code}_poi.csv"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     with open(os.path.join(out_dir, f"{code}_addr.csv"), "w", encoding="utf-8") as f:
