@@ -15,7 +15,7 @@ on:
       street: { description: 'Street written on every venue', default: '' }
   push:
     branches: [main]
-    paths: ['.github/workflows/build-area.yml', 'area/**']
+    paths: ['.github/workflows/build-area.yml', 'area/job.env', 'area/extract_area.py']
 
 permissions:
   contents: write
