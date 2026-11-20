@@ -22,6 +22,9 @@ JUNK = re.compile(r"\b(technolog\w*|enterprises?|college|academy|school|universi
                   r"ministr\w*|motors?|electronics?|cyber|printing|stationer\w*|boutique|clinic|hospital|investments?|"
                   r"ventures?|traders?|trading|wholesale|distributors?|suppliers?|consult\w*|logistics|realtors?|properties)\b",
                   re.IGNORECASE)
+# Fast-food chains filed as restaurants (OpenStreetMap's fast_food is not imported either).
+CHAINS = re.compile(r"^(kfc|chicken inn|pizza inn|galito'?s|burger king|mcdonald'?s|domino'?s|subway|debonairs|creamy inn|"
+                    r"hashi express|steers|simbisa)\b", re.IGNORECASE)
 SAME_POINT_MAX = 3   # more places than this on the exact same point = a default geocode (junk)
 
 
@@ -97,7 +100,7 @@ def main():
                 dropped["category"] += 1
                 continue
             name = clean(r[i["name"]])
-            if len(name) < 2 or re.fullmatch(r"[\d\s+().-]+", name) or JUNK.search(name):
+            if len(name) < 2 or re.fullmatch(r"[\d\s+().-]+", name) or JUNK.search(name) or CHAINS.search(name):
                 dropped["name"] += 1
                 continue
             if (round(r[i["lat"]], 6), round(r[i["lon"]], 6)) in crowded:

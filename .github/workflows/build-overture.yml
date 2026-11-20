@@ -29,6 +29,8 @@ jobs:
       max-parallel: 3
       matrix:
         include:
+          - { code: kenyaov, extract: africa/kenya, iso: KE, bbox: '33.9,-4.8,41.95,5.1' }
+          - { code: rdcov, extract: africa/congo-democratic-republic, iso: CD, bbox: '12.2,-13.5,31.4,5.4' }
           - { code: congoov, extract: africa/congo-brazzaville, iso: CG, bbox: '11.1,-5.1,18.7,3.8' }
     steps:
       - uses: actions/checkout@v4
