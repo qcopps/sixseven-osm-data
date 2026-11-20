@@ -12,8 +12,17 @@ import duckdb
 BAR = ["bar", "pub", "lounge", "night_club", "nightclub", "beer_garden", "cocktail_bar", "wine_bar", "sports_bar",
        "beer_bar", "hookah_bar", "dive_bar", "karaoke_bar", "brewpub", "gastropub", "irish_pub", "whiskey_bar",
        "rooftop_bar", "piano_bar", "jazz_and_blues", "dance_club"]
-CAFE = ["cafe", "coffee_shop", "tea_room", "coffee_and_tea", "internet_cafe"]
+CAFE = ["cafe", "coffee_shop", "tea_room", "coffee_and_tea"]
 RESTO_EXCLUDED = ["fast_food_restaurant", "food_truck", "food_stand", "food_court"]
+# Categories that look like food & drink but are not a place to have a drink.
+CAT_EXCLUDED = {"internet_cafe", "smoothie_juice_bar", "juice_bar", "airport_lounge", "bubble_tea", "fast_food_restaurant"}
+# Businesses wrongly filed as bars / restaurants (shops, schools, IT companies…).
+JUNK = re.compile(r"\b(technolog\w*|enterprises?|college|academy|school|universit\w*|bales|mitumba|supermarket|market|"
+                  r"ltd|limited|agency|agencies|solutions?|services?|hardware|pharmacy|chemist|salon|barber\w*|church|"
+                  r"ministr\w*|motors?|electronics?|cyber|printing|stationer\w*|boutique|clinic|hospital|investments?|"
+                  r"ventures?|traders?|trading|wholesale|distributors?|suppliers?|consult\w*|logistics|realtors?|properties)\b",
+                  re.IGNORECASE)
+SAME_POINT_MAX = 3   # more places than this on the exact same point = a default geocode (junk)
 
 
 def main():
@@ -64,14 +73,35 @@ def main():
     def clean(v):
         return re.sub(r"\s+", " ", str(v or "")).strip()
 
+    for r in rows:
+        if re.search(r"dijo", str(r[i["name"]] or ""), re.IGNORECASE):
+            print("  check:", r[i["name"]], r[i["cat"]], r[i["confidence"]], r[i["lat"]], r[i["lon"]], flush=True)
+    point = {}
+    for r in rows:
+        k = (round(r[i["lat"]], 6), round(r[i["lon"]], 6))
+        point[k] = point.get(k, 0) + 1
+    crowded = {k for k, n in point.items() if n > SAME_POINT_MAX}
+    print(f"  {len(crowded)} crowded points ({sum(point[k] for k in crowded)} places on them)", flush=True)
+    dropped = {"confidence": 0, "closed": 0, "category": 0, "name": 0, "point": 0}
     kept = 0
     with open(out, "w", encoding="utf-8") as f:
         f.write("id\tlat\tlon\tname\tkind\tstreet\tpostcode\tlocality\tconfidence\tcategory\n")
         for r in rows:
-            if (r[i["confidence"]] or 0) < min_conf or r[i["status"]] in ("permanently_closed", "temporarily_closed", "closed"):
+            if (r[i["confidence"]] or 0) < min_conf:
+                dropped["confidence"] += 1
+                continue
+            if r[i["status"]] in ("permanently_closed", "temporarily_closed", "closed"):
+                dropped["closed"] += 1
+                continue
+            if r[i["cat"]] in CAT_EXCLUDED or set(r[i["h"]] or []) & CAT_EXCLUDED:
+                dropped["category"] += 1
                 continue
             name = clean(r[i["name"]])
-            if len(name) < 2 or re.fullmatch(r"[\d\s+().-]+", name):
+            if len(name) < 2 or re.fullmatch(r"[\d\s+().-]+", name) or JUNK.search(name):
+                dropped["name"] += 1
+                continue
+            if (round(r[i["lat"]], 6), round(r[i["lon"]], 6)) in crowded:
+                dropped["point"] += 1
                 continue
             if name.islower() or (name.isupper() and len(name) > 4):   # « dijo rooftop », « MAMA OLIECH »
                 name = re.sub(r"[^\W\d_]+", lambda m: m.group(0).capitalize(), name.lower())
@@ -79,7 +109,7 @@ def main():
                                clean(r[i["street"]]), clean(r[i["postcode"]]), clean(r[i["locality"]]),
                                f"{r[i['confidence']]:.2f}", clean(r[i["cat"]])]) + "\n")
             kept += 1
-    print(f"kept {kept} places (confidence >= {min_conf}, not closed)", flush=True)
+    print(f"kept {kept} places (confidence >= {min_conf}); dropped {dropped}", flush=True)
 
 
 if __name__ == "__main__":
