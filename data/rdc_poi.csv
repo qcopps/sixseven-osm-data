@@ -1,0 +1,1140 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	1			Amalutu	8		CD					
+node	9462403099	0.7949122	29.1853249	Buvette vupiri				nightclub				
+relation	2			Ariwara	8		CD					
+node	12505280112	3.1306433	30.6990575	Cour de grand				pub				
+relation	3			Baego	8		CD					
+node	7036884988	0.7718587	26.2578781	Staff Mopao				pub				
+relation	4			Bahumbu	8		CD					
+node	798647356	-4.3199839	15.5173470	Le Filet				restaurant				
+relation	5			Bandundu	8		CD					
+node	5860906600	-3.3100468	17.3691537	Majestik Restaurant				restaurant	1		Avenue Ir Mutshima	
+node	5860906604	-3.3095490	17.3695655	Du bois				bar				
+node	5860933265	-3.3172279	17.3805245	Kimbuta				bar				
+node	5860933266	-3.3174446	17.3804609	Bedo				bar				
+node	5860933267	-3.3172738	17.3809302	Station Engen				bar				
+node	5860948227	-3.3085884	17.3770664	Welfair				restaurant				
+node	6253856068	-3.3108627	17.3709954	Chez Chinois				bar				
+node	6253856070	-3.3107057	17.3686445	Yebo Club				nightclub				
+node	6253856073	-3.3095463	17.3664236	Beau Vent				restaurant				
+node	6254640371	-3.3009105	17.3708707	Buvez et mangez				restaurant				
+node	6255374483	-3.3096025	17.3696208	Du bois Club				nightclub				
+node	6255374596	-3.3087215	17.3705435	Restaurant APROFEV				restaurant				
+node	6255374717	-3.3071309	17.3784426	Bar Muzumu				bar				
+node	6261545862	-3.2997270	17.3680973	Kinkole				bar				
+node	6261546761	-3.3046273	17.3748887	La Zamba				bar				
+node	6261546766	-3.3084350	17.3751542	Terrasse				bar				
+node	6261546774	-3.3008235	17.3756973	Espace Maman Espe				bar				
+node	6261546781	-3.2999305	17.3759066	Espace love Bar				bar				
+node	6261546782	-3.2995368	17.3760125	Terrasse +12				bar				
+node	6261546786	-3.2966301	17.3767729	Karibu				restaurant				
+node	11327680723	-3.3083132	17.3664020	DM Lounge bar				pub				
+way	480197120	-3.2954932	17.3788416	Cyber café tombwa				cafe				
+way	620326938	-3.3095381	17.3696245	Du bois				nightclub				
+relation	6			Baraka	8		CD					
+node	4958471878	-4.1041940	29.0947316	Le jardin				biergarten				
+node	4958471879	-4.1043465	29.0942836	Le voisin				pub				
+node	4958471880	-4.1043545	29.0943829	Le voisin				nightclub				
+node	5316849833	-4.1044443	29.0955494	Chez Fezali				pub				
+node	5316849843	-4.1044625	29.0952374	Restaurant Islamique Maison Verte				restaurant				
+relation	7			Beni	8		CD					
+node	1444101902	0.4873366	29.4667383	MONUSCO Cafeteria				restaurant				
+node	5912274440	0.5160044	29.4523113	VPDDA				bar				
+node	6032727441	0.4960468	29.4081000	Brasimba				biergarten				
+node	7057845787	0.4914936	29.4705671	Ishango				restaurant				
+node	7057897589	0.4940363	29.4714876	La Bourgeoisie				bar				
+node	7057897591	0.4927217	29.4715247	Mosaïque				bar				
+node	7057897592	0.4929030	29.4715755	Peak Club				bar				
+node	7057908887	0.4924946	29.4713077	Night Club Tokoss				bar				
+node	8223514308	0.4995389	29.4357651	Restaurant Migdol				restaurant				
+node	8579189091	0.4799898	29.4459756	la vigne				pub			Route nationale numéro 2	
+node	8599373430	0.4929300	29.4740717	Ta Poche				restaurant				
+node	8599456843	0.4891738	29.4717607	Bar Dixième Planète				pub				
+node	9162316800	0.5041775	29.4431096	Restau Bar La Baroche de Beni				restaurant				
+node	9202196437	0.4896449	29.4709077	restaurant bar c'est les moment				bar				
+node	9245552569	0.6000206	29.3559009	bar Real Madrid				bar				
+node	9266932993	0.4915936	29.4705831	Inbox				restaurant				
+node	9266948220	0.4903690	29.4688376	Virunga Origins				cafe				
+node	9306084664	0.4946617	29.4733383	Sous le Palmier				restaurant				
+node	9492536869	0.4899082	29.4683978	Mini Food				restaurant				
+node	9631225609	0.4946617	29.4733383	Sous le Palmier				pub				
+node	9718511379	0.4938934	29.4695900	Sous le Palmier				restaurant				
+node	10233333061	0.4973686	29.4725215	Resto-Buvette Christianna				restaurant				
+node	10316655212	0.4712519	29.4705371	Espace Maswata				restaurant				
+node	10605837781	0.4915819	29.4661122	Restaurant Kyangu				restaurant				
+node	10723530785	0.4788924	29.4602594	Restaurant				restaurant				
+node	10745056575	0.5254442	29.4829122	Espace Bukano Lounge				restaurant				
+node	10748747182	0.4980283	29.4716600	Bar Olive				bar				
+node	10784270055	0.4928417	29.4750966	Restaurant Dina				restaurant				
+node	10784543347	0.4946665	29.4491711	Buvette fleuri				pub				
+node	10784544386	0.4950061	29.4480812	Buvette fleuri				bar				
+node	10803949859	0.4895844	29.4689610	Super Gambela Elengi				restaurant				
+node	10839372917	0.4990881	29.4761103	Restaurant Manus				restaurant				
+node	10889001925	0.4946000	29.4743535	Espace au seccours				nightclub				
+node	10918132300	0.5030031	29.4711136	Restaurant Benediction				restaurant				
+node	10918159671	0.5028051	29.4713021	Restaurant Benediction				restaurant				
+node	10929369341	0.4948566	29.4701577	Espace Barumbu				nightclub				
+node	10929386291	0.4951552	29.4702169	Espace Wifi				pub				
+node	10937162325	0.5008920	29.4740411	Terrasse Amis clients Trinité				pub				
+node	10939896174	0.4944788	29.4644530	Restaurant Barô Kafe				restaurant				
+node	10961880083	0.4977263	29.4721450	Espace Kamwanya				pub				
+node	10974021116	0.4995499	29.4767194	Restaurant Arome d'Afrique				restaurant				
+node	10974021135	0.4951206	29.4744450	nganda oxygène				bar				
+node	10982137179	0.4919273	29.4732577	Restaurant Jolo				restaurant				
+node	10982733259	0.4985501	29.4766522	Restaurant				restaurant				
+node	11010202600	0.4951289	29.4717051	Espace Tiktok				pub				
+node	11010371270	0.4946590	29.4710598	Espace Ngomanene				pub				
+node	11010443569	0.4962166	29.4688620	Restaurant hosana Park				restaurant				
+node	11048080543	0.4967651	29.4721392	GOGO Espace				pub				
+node	11107986149	0.4988918	29.4730089	Restaurant Step by Step				restaurant				
+node	11153496792	0.5014818	29.4768248	Espace Marque Deux				pub				
+node	11262973087	0.5100682	29.4799921	Espace le Martinique				pub				
+node	11771072347	0.4943522	29.4770641	Espace Haut Lomami				nightclub				
+relation	8			Biakatu	8		CD					
+node	9462494512	0.8206209	29.2237940	Paillote bralima				nightclub				
+relation	9			Bikoro	8		CD					
+node	5650251240	-0.7329205	18.1309377	Espace Boyokani				pub				
+node	5664330869	-0.7370224	18.1374402	Coin Melak				bar				
+node	5664330870	-0.7364512	18.1353956	Mama Paulette				bar				
+node	5664330875	-0.7327438	18.1316473	Chez Freddy				bar				
+node	5666335174	-0.7332241	18.1349220	chez Tobala				bar				
+node	5666335183	-0.7272453	18.1332473	Koro				bar				
+node	5666350602	-0.7341062	18.1203093	Nebetoi				bar				
+node	5666350603	-0.7378136	18.1169269	Bar Nokanga				bar				
+relation	10			Bingi	8		CD					
+node	11061406876	-0.4068292	29.0790433	Dépôt brasimba				biergarten				
+relation	11			Bolomba	8		CD					
+node	6014112328	0.0345054	19.2852871	marks bar				bar				
+relation	12			Bolula	8		CD					
+node	8050861788	-2.3463642	18.3045561	beautiful beaches				bar				
+relation	13			Boma	8		CD					
+node	1232391202	-5.8575457	13.0540302	Big Staff				restaurant				
+node	1232391206	-5.8553684	13.0544164	Top Délice				restaurant				
+node	1232391234	-5.8580580	13.0517128	Chérie B				restaurant				
+node	6309889608	-5.8583166	13.0525491	Yema Restaurant & Terrasse				restaurant	2515		Route du Commerce	
+way	1549754410	-5.8614331	13.0644222	LA CANDIDE HOTEL Restaurant & Piscine				restaurant				
+relation	14			Bongonde drapeau	8		CD					
+node	10313801496	-0.1471056	18.2225552	Bar Toure				bar				
+relation	15			Botsima	8		CD					
+node	13724960630	-1.2905545	22.0235820	Elia Lodge				restaurant				
+relation	16			Bukavu	8		CD					
+node	1237692402	-2.4917543	28.8829081	MONUSCO SK HQ				cafe				
+node	5470873321	-2.5032439	28.8665076	Victoria				bar			Avenue Fizi	
+node	5809109653	-2.5000328	28.8825447	Patmos				restaurant				
+node	5884225532	-2.5006319	28.8716794	Kivuhub				cafe	01	32221	Avenue Patrice Emeri Lumumba	
+node	6543529619	-2.4980467	28.8763029	Le Quotidien				cafe			Avenue Muhumba	
+node	6788867191	-2.4917856	28.8560897	Salt & Pepper				restaurant				
+node	6788867194	-2.5033758	28.8576253	Negrita				restaurant				
+node	6788867195	-2.5051464	28.8598441	Le gourmet				restaurant				
+node	6788867205	-2.5042715	28.8669755	Starco				restaurant				
+node	6788867238	-2.5020193	28.8720730	Maman Kindja				restaurant				
+node	7277267287	-2.4899692	28.8557309	Mess des officiers				bar			Avenue Patrice Emery Lumumba	
+node	7277276485	-2.4960489	28.8549583	Sud Étoile Terasse				bar			Avenue Patrice Emery Lumumba	
+node	7291263585	-2.5016593	28.8562520	Restaurant aux Élysées				restaurant			Avenue Patrice Emery Lumumba	
+node	8913271746	-2.5017127	28.8483284	Restaurant 3.5				restaurant				
+node	12509249318	-2.5072321	28.8603762	SKY LOUANGE-BAR VIP				bar				
+node	12509279513	-2.5174545	28.8582182	Nganda chez ban luck				bar				
+node	12512080040	-2.5021978	28.8707559	Resto Bar LE MERIDIEN				restaurant				
+node	12512080041	-2.5011033	28.8714137	LA GAIETE RESTO BAR				restaurant				
+node	12512080048	-2.5009327	28.8725793	BAZIMA CAFE				restaurant				
+node	12513691507	-2.4958857	28.8547647	Mount Everest BAR				bar				
+node	12513691509	-2.4833196	28.8609477	Connexion Beach				restaurant				
+node	13901980554	-2.4944115	28.8801715	Coco Lodge				restaurant	28		Avenue Lundula	
+relation	17			Buma 2	8		CD					
+node	5239476171	-4.4664036	29.2080908	Merveille				pub				
+relation	18			Bunia	8		CD					
+node	1391511608	1.5544237	30.2480209	Le hellénique				restaurant				
+node	1391511640	1.5520806	30.2476873	MONUSCO House				restaurant				
+node	3410867787	1.5690970	30.2115605	Le camping				restaurant				
+node	7859132986	1.5448404	30.2562225	Kindia				bar			Kindia	
+node	8007450092	1.5400517	30.2462740	Espace castel				pub				
+node	8007480161	1.5473633	30.2442145	Jardin HDP				restaurant				
+node	8010273594	1.5299394	30.2517326	Centre d'accueil Chez les amis II				pub				
+node	8037089950	1.5592475	30.2602105	Restaurant Bar Amitié				restaurant				
+node	8039251265	1.5503463	30.2474385	La casa de mama				pub				
+node	8039269831	1.5541066	30.2487260	Cantine UNIBU				cafe			Ituri	
+node	8118626493	1.5474758	30.2491968	Espace Toulouse				bar			boulevard de liberation	
+node	8119174551	1.5403618	30.2481997	Amis B.K sous le palmier				pub				
+node	8120772706	1.5570272	30.2478897	Mopepse				restaurant				
+node	8120779234	1.5478137	30.2504382	La gare du nord				restaurant				
+node	8121198439	1.5533737	30.2484914	Garden City				restaurant				
+node	8121209267	1.5565567	30.2491450	Cour des grands				pub			rue Ituri	
+node	8121243938	1.5642126	30.2362590	Espace Z.K				pub				
+node	8247978807	1.5529867	30.2438483	Bassin				restaurant				
+node	8490039917	1.5500929	30.2458746	Impérial				restaurant				
+node	10013486592	1.5586980	30.2487740	Aldieu				restaurant				
+node	10016625887	1.5498851	30.2449835	Africana-House				restaurant				
+node	10032429036	1.5662029	30.2459501	Chez Maman Helena				restaurant				
+node	10033174614	1.5590930	30.2481783	Africain				restaurant				
+node	10033184817	1.5498522	30.2458036	Espace Novelas				restaurant				
+node	10033184832	1.5490230	30.2487557	La saveur divine				restaurant				
+node	10033184842	1.5580386	30.2481709	Delice				restaurant				
+node	10034939032	1.5471140	30.2483875	Mambasa 51				bar				
+node	10034939042	1.5474005	30.2482600	Maison Cabrit				restaurant				
+node	10034939043	1.5475074	30.2483473	Mahagi 51				bar				
+node	10034939044	1.5475544	30.2483493	Jiba 51				bar				
+node	10034939045	1.5476033	30.2483299	Irumu 51				bar				
+node	10034939046	1.5476938	30.2483118	Djugu 51				bar				
+node	10034939131	1.5468805	30.2481128	Espace Zoom				restaurant				
+node	10034939134	1.5472279	30.2480563	Espace La Fleur				restaurant				
+node	10036169820	1.5514251	30.2404399	La Reine				restaurant				
+node	10060751426	1.5696893	30.2199479	Joly coin				restaurant				
+node	10075076013	1.5569380	30.2495576	Restaurant café Milano Lounge				restaurant				
+node	10221663678	1.5287488	30.2559654	Centre d'accueil Victoria				restaurant				
+node	10221681650	1.5336287	30.2388583	Espace La cayote				bar				
+node	10221681651	1.5337480	30.2384332	Espace Bagdad				bar				
+node	10222381185	1.5483312	30.2195880	Espace Mississippi				bar				
+node	10222392271	1.5424808	30.2519529	Restaurant Sofistone				restaurant				
+node	10222392276	1.5346422	30.2530982	Restaurant Tout est grâce				restaurant				
+node	10222392287	1.5229871	30.2457127	Restaurant La gentillesse				restaurant				
+node	10222392297	1.5343707	30.2397206	Espace Lac Albert				bar				
+node	10225835833	1.5531206	30.2331465	Exodi				restaurant				
+node	10226545728	1.5541160	30.2319114	Espace Tokomesana				bar				
+node	10229613322	1.5634419	30.2510362	Hewa Bora				restaurant				
+node	10230659435	1.5501840	30.2512166	Espace des honorables				bar				
+node	10232115699	1.5507859	30.2414305	Espace Triomphal				restaurant				
+node	10233437467	1.5688291	30.2470008	Jolie Nana				restaurant				
+node	10542191355	1.5673920	30.2460902	Maman Espoir				restaurant				
+node	10550761836	1.5603592	30.2504495	Restaurant Ta rahim				restaurant				
+node	10553785443	1.5707073	30.2210847	Airport Garden Restaurant				restaurant				
+node	10555521028	1.5679678	30.2460272	Bar Cercueil				bar				
+node	11027959499	1.5492261	30.2483621	Restaurant				restaurant				
+node	11034402671	1.5432937	30.2519862	Buvettes				pub				
+node	11343273253	1.5493973	30.2412611	Espace Karaoké				bar				
+node	11344897868	1.5581528	30.2280613	Espace B4				restaurant				
+node	11353696030	1.5604799	30.2197825	Espace Parlement de sagge				bar				
+node	11360527352	1.5531550	30.2313095	Espace Belle Aire				restaurant				
+node	11364156787	1.5403603	30.2394033	Espace Sankuru I				bar				
+node	11364778945	1.5409168	30.2471103	Espace Belle étoile				restaurant				
+node	11367005337	1.5295280	30.2512882	Club Champagne				bar				
+node	11367649299	1.5398831	30.2443476	Espace Casino				bar				
+node	11369022184	1.5406312	30.2335358	Espace Béni				bar				
+node	11635181487	1.5493250	30.2412329	Espace Karaoke				pub				
+node	11727426127	1.5543237	30.2464204	Mitterand Champagne				nightclub				
+node	11727528546	1.5585679	30.2469740	Température 40				bar				
+node	14048070965	1.5617400	30.2335532	ESPACE MANE CACHÉ				restaurant				
+relation	19			Butembo	8		CD					
+node	7574698286	0.1273370	29.2918087	Restaurant Butembo				restaurant				
+node	7772360544	0.1300973	29.2895794	Paillotte BRALIMA				bar				
+node	7772360548	0.1283073	29.2924178	Restaurant Issale				restaurant				
+node	7772360551	0.1282765	29.2915986	Buvette Diocèse de Butembo_Beni				biergarten				
+node	7772360552	0.1293250	29.2895750	Buvette Kikorongo				biergarten				
+node	7783321651	0.1327120	29.2883856	Restau-Bar				restaurant				
+node	7783321653	0.1332960	29.2865126	Tour de Contrôle Dancing Club				pub				
+node	7796495316	0.1242106	29.2791810	Bar Olympique				bar				
+node	7880587186	0.1128121	29.3023298	Salle polyvalente Siriwayo de Bulumbi				restaurant				
+node	7880587193	0.1118741	29.3075891	Salle polyvalente Kowa de Vutaliria				restaurant				
+node	8021174535	0.1301883	29.2898717	Salle Nzuki: Réunion, Fête, Restaurant				restaurant				
+node	8021174557	0.1333589	29.2898203	Restaurant Mont Ruwenzori				restaurant				
+node	8021174592	0.1423884	29.2919407	Restaurant Arôme d'Afrique				restaurant				
+node	8021174626	0.1424467	29.2944133	PLAZADEX/ Cuisine Mont Ruwenzori				restaurant				
+node	8064414432	0.0913733	29.2842570	Restaurant Kingakati				restaurant				
+node	8064427591	0.0915029	29.2841955	Restaurant La Grâce				restaurant				
+node	8093958837	0.1401648	29.2935616	Restaurant Inuka				restaurant			Rue kinshasa	
+node	8094053261	0.1286246	29.2936224	Restaurant Oliday Park				restaurant			Rue kinshasa	
+node	8130754606	0.1473581	29.2939769	Restaurant Poste				restaurant				
+node	9079938944	0.1413367	29.2935618	Restaurant Uhai Kikyo				restaurant				
+node	9084324686	0.1258579	29.2930616	Wifi Club				nightclub				
+node	9165439514	0.1364207	29.2880703	Restaurant Fatima				restaurant				
+node	9165465626	0.1364118	29.2883353	Restaurant Pepelé				restaurant				
+node	9200031216	0.1311612	29.2961088	Le Pacifique				restaurant				
+node	9379230929	0.1175788	29.2943193	Restaurant Hewa Bora				restaurant				
+node	9379431792	0.1105158	29.2943435	One love caf				cafe				
+node	9379477841	0.1079543	29.2959952	Mini resto Salama				restaurant				
+node	9379494725	0.1063713	29.2944042	Caf la référence				cafe				
+node	9379498509	0.1029199	29.2951181	Caf canal+				cafe				
+node	9379502856	0.1065630	29.2950314	Mini resto Gloria				restaurant				
+node	9379503813	0.1058896	29.2942725	Caf de l'Union				cafe				
+node	9379549809	0.1023982	29.2953415	Caf de l'unité				cafe				
+node	9462326393	0.1359369	29.2924142	Restaurant Canal+				restaurant				
+node	9462526282	0.1392832	29.2937352	Restaurant C'est le moment aux Retrouvailles				restaurant				
+node	9462634440	0.1387902	29.2936053	Restaurant				restaurant				
+node	9465349778	0.1298028	29.2899278	Restaurant Vay Bal				restaurant				
+node	9500712354	0.1357779	29.2876541	Village Molokay				restaurant				
+node	9709279637	0.1430150	29.3087483	Espace Village Royal				restaurant				
+node	9929191136	0.1300012	29.2827125	Passerelle				cafe				
+node	9986192551	0.1280608	29.2927366	Issale				restaurant				
+node	9986196578	0.1308189	29.2926894	Tripoli				restaurant			RN2	
+node	11128041823	0.1314092	29.2892072	Buvette				pub				
+relation	20			Cinjoma	8		CD					
+node	10116544017	-2.4037190	28.8109978	Marché de Mudaka				restaurant				
+relation	21			Djupajalbonyo	8		CD					
+node	6338269285	2.2185037	31.1425093	MICRO-STATION CAFE GRAINS D OR				cafe				
+relation	22			Djupasonge Ghii	8		CD					
+way	943352886	2.0909201	31.1308558	Producteurs Cafe village THERARU				cafe				
+relation	23			Dungu	8		CD					
+node	2310413872	3.6128914	28.5669284	Maman Mado				bar				
+relation	24			Echinga	8		CD					
+node	5351491791	-4.9561380	29.1107523	Restaurant Maman Leki				restaurant				
+relation	25			Fizi	8		CD					
+node	5294107207	-4.3008466	28.9426708	Restaurant Mungu Anaweza				restaurant				
+relation	26			Fungurume	8		CD					
+way	407560748	-10.6155249	26.3135752	IClass				restaurant				
+way	450263988	-10.5461492	26.3187989	Copper Hills Diner				restaurant				
+relation	27			Gemena	8		CD					
+node	8848071178	3.2561852	19.7738140	Adraman				pub				
+relation	28			Goma	8		CD					
+node	2041149523	-1.6745670	29.2038277	Le chalet				restaurant				
+node	2041160176	-1.6862296	29.2385033	La Versaille				cafe				
+node	2857735661	-1.6881157	29.2352544	Espace Treichville				restaurant				
+node	2857740463	-1.6887650	29.2336357	Petit Paris				restaurant				
+node	3343529165	-1.6867760	29.2365913	Au Bon Pain				restaurant				
+node	3343802389	-1.6914660	29.2386129	Café des Arts				restaurant				
+node	4266677308	-1.6837629	29.2337991	Les Vétérans				bar			Avenue du Mont Goma	
+node	4299696221	-1.6886424	29.2387196	Le Petit Bruxelles				restaurant				
+node	4299696222	-1.6886317	29.2385855	Salt & Pepper				restaurant				
+node	4299717667	-1.6999735	29.2396605	Acajou				restaurant				
+node	5239563026	-1.6565481	29.1974043	Terminus				pub				
+node	5242220521	-1.6759206	29.2202055	Case Départ				pub				
+node	5407026970	-1.6609356	29.2029857	Nganda Manhttan				bar				
+node	5552555178	-1.6827391	29.2368159	dff				bar				
+node	5901707932	-1.6881496	29.2313171	Maghali Fan Club				restaurant				
+node	6125366738	-1.6902398	29.2394190	Flamingo Restaurant				restaurant				
+node	6417646324	-1.6924128	29.2377385	Lapa Lounge				restaurant				
+node	6417646325	-1.6831082	29.2307782	Nyumbani Lounge				restaurant				
+node	7077045488	-1.6829143	29.2294512	Carrefour des Arts				bar				
+node	7077077287	-1.6771412	29.2154653	Belladonna				restaurant				
+node	7077077288	-1.6777592	29.2189111	Ana Groupe				restaurant				
+node	7532813417	-1.6948199	29.2396684	Pili Pili Bar & Restaurant				restaurant				
+node	7532813418	-1.6953347	29.2398668	Le Volcan Bar & Restaurant				restaurant				
+node	8543217173	-1.6982065	29.2374811	Bar-B-Cue				restaurant				
+node	8543217175	-1.6940241	29.2393130	Arabica				restaurant				
+node	8566565942	-1.6616534	29.2007891	Snack Bar Irena Group				pub			Entrée Président	
+node	8566571124	-1.6614485	29.2011964	Astronaute				nightclub			Entrée Président	
+node	8566576734	-1.6614094	29.2013449	Armada				nightclub			Entrée Président	
+node	8566580501	-1.6670960	29.1939477	La base				pub				
+node	8566584186	-1.6670960	29.1939477	La base				pub				
+node	8566586040	-1.6676972	29.1931829	Freedom plazza				pub				
+node	8566590737	-1.6614206	29.2020078	Village Himbi				pub			Entrée Président	
+node	8566604726	-1.6615420	29.2011383	Astronaute armada				pub				
+node	8566605620	-1.6634438	29.1988761	Chez Donatien				pub				
+node	8567626489	-1.6750381	29.2290506	BM night club				nightclub				
+node	8586760891	-1.6758864	29.2202247	Case départ				nightclub				
+node	8586768331	-1.6778754	29.2218024	Nganda cap sud				pub				
+node	8590490890	-1.6582043	29.1916019	Bateau vert 1				pub				
+node	8617928823	-1.6730087	29.2019332	Espace bnm				pub				
+node	8617934798	-1.6793333	29.2185518	Restaurant benghazi				restaurant				
+node	8680640032	-1.6621699	29.2020510	La virunga night club				nightclub				
+node	8680657337	-1.6581370	29.1933027	La cayenne night club				nightclub				
+node	9340395717	-1.6879171	29.2338028	Carnacia				restaurant				
+node	10116544018	-1.6387720	29.2193814	Trois étoiles				bar				
+node	10658366305	-1.6703811	29.2141080	Belaire bar resto				pub				
+node	10784581566	-1.6782994	29.2315891	BH MURARA				cafe				
+node	10886877296	-1.6618352	29.2096663	Seketa2				pub				
+node	11019669978	-1.6877791	29.2296894	Mediterraneo				restaurant				
+node	11019669987	-1.6901850	29.2358167	Ô nectar				cafe				
+node	11019669989	-1.6904853	29.2352669	Nyoumbani Lounge				restaurant				
+node	11019800400	-1.6885471	29.2292715	Selfie				cafe				
+node	11261251037	-1.6669279	29.1924494	Petit caf				bar				
+node	11267586773	-1.6595177	29.2304562	Mukaja bar restaurant				pub				
+node	11351271356	-1.6739221	29.2040671	Top Five Garden				restaurant	129	00243	Rue Eugene Serufuli,Q.Himbi	
+node	12059589402	-1.6880171	29.2382695	LAVA restaurant et salon de coiffure				restaurant				
+node	12059606095	-1.6896269	29.2377180	Restaurant Ble d'Or				restaurant			Avenue de rond-point, Quartier des  Volcans	
+node	12442115058	-1.6882827	29.2327463	Restaurant Espace BEDAN				restaurant				
+node	12468530214	-1.6925812	29.2379828	La Rosta				restaurant				
+node	12468530217	-1.6956620	29.2394139	Château Dor				restaurant				
+node	12468551263	-1.6510835	29.1907304	caf Restau				restaurant				
+node	13247661501	-1.6959699	29.2363241	LaLiga				restaurant				
+node	13247661701	-1.6885165	29.2303292	Sous l'Avocatier				restaurant				
+way	196179990	-1.6738884	29.2040794	Top Five Garden				restaurant	129	00243	Rue Eugene Serufuli, Q.Himbi	
+way	257371173	-1.6970983	29.2355872	Hôtel Linda				restaurant				
+way	266625238	-1.6754622	29.2052037	Lac Kivu Lodge Restaurant				restaurant				
+way	822474019	-1.6594944	29.1847480	MBM cafe				restaurant	379		Maimoto	
+relation	29			Inongo	8		CD					
+node	8484919319	-1.9462180	18.2654500	26 Provinces				bar			Du Lac	
+relation	30			Kalemie	8		CD					
+node	1352761146	-5.9076515	29.2123085	Cafeteria MONUSCO				cafe				
+node	2473613425	-5.9151481	29.1912673	Bouquet de Fleurs				bar				
+node	2475102608	-5.9135563	29.2047994	Terrasse Mon petit village				bar				
+node	2477577365	-5.9114758	29.1924084	Baobab				restaurant				
+node	2482100631	-5.9240820	29.1954413	Maman Henriette				restaurant				
+node	2482247669	-5.9231352	29.1965495	Mamba beach				bar				
+node	5249919421	-5.9400994	29.1950884	Dépôt Brasimba				bar				
+node	5732529721	-5.9304262	29.1943414	Marackana				bar				
+node	5801872934	-5.9136887	29.2040151	Etoile de tanganika				restaurant				
+node	5801872936	-5.9047591	29.2174986	Safari Beach				bar				
+node	7784740185	-5.9188172	29.1928451	Restaurant Kwetu				restaurant				
+way	195979477	-5.9168898	29.1900285	Terrasse Petit Problème				bar				
+way	195979488	-5.9176480	29.1903228	Peace & King				bar				
+way	195979491	-5.9179542	29.1902866	Docteur Franck				bar				
+way	239363454	-5.9378732	29.1947694	Bar Atmosphere				bar				
+way	239363461	-5.9361986	29.1839948	Luvidjo				bar				
+way	239474822	-5.9407298	29.1948831	Cherika				nightclub				
+way	239585680	-5.9367017	29.1850713	Place du bonheur				bar				
+way	239624731	-5.9064106	29.2160740	Musalala				restaurant				
+relation	31			Kamina	8		CD					
+node	5245886760	-8.7348168	25.0051258	Twenty One				nightclub				
+node	5754322411	-8.7301970	24.9999867	Shaerka				bar				
+way	541890085	-8.7330129	25.0059527	TAVERNE				restaurant				
+way	542234017	-8.7331333	25.0110182	Cafeteria Méthodiste				cafe				
+way	542610390	-8.7355477	25.0039878	CLARK				bar				
+way	542610392	-8.7368632	25.0062589	OCEAN				bar				
+relation	32			Kananga	8		CD					
+node	2995508301	-5.8975296	22.4093753	mona luxe				cafe				
+node	2995508302	-5.9007997	22.4088793	stephani				bar				
+node	4012392506	-5.8977896	22.3871314	Chez Markabas				restaurant				
+node	4986708824	-5.9010351	22.4075569	Terrasse Bébé Rico				restaurant			Avenue Gecamines	
+node	9975055220	-5.8968943	22.4084415	Équinoxe				bar			lubaya	
+node	10004378818	-5.8938935	22.4176200	Bar gros bebe				bar				
+node	10004378820	-5.8971080	22.4082287	Table-rond nightclub				bar				
+node	10004390217	-5.8917576	22.4010409	Dépôt brasserie				bar				
+node	14307472592	-5.9074090	22.4094376	Restaurant Regal				restaurant				
+relation	33			Kaniki Kapangu	8		CD					
+node	6447490723	-7.0066073	23.4523293	Hôtel Bar du Park				restaurant				
+relation	34			Kasala	8		CD					
+node	10220604864	-6.3817300	20.8711535	Maison Lutulu Mayi				bar				
+relation	35			Kavumu	8		CD					
+node	13281165802	-2.3251511	28.7994087	Restaurant Maman Wa Bien				restaurant				
+relation	36			Kibamba	8		CD					
+node	5241404288	-4.7949385	29.0972324	Nganda Balalaïka Lux				pub				
+relation	37			Kibirizi	8		CD					
+node	12186148575	-0.9092872	29.1941902	Cantine Restaurant Tout resaux				restaurant				
+relation	38			Kikwit	8		CD					
+node	7712740885	-5.0386300	18.8259582	KFOOD				restaurant				
+way	477380115	-5.0364479	18.8216379	Restaurant de l'Université de Kikwit				restaurant				
+relation	39			Kimbanseke	8		CD					
+node	4769688391	-4.4227292	15.4013290	Chez Panick				restaurant				
+node	4796453812	-4.4303950	15.4308417	Bar Etat-Major				bar				
+node	4798307190	-4.4251316	15.3990467	Couloir des Stareos				bar				
+node	11237436238	-4.4284456	15.4203871	Bar et Hôtel Espace Porte Noire				bar	80		Avenue Lusanga	
+relation	40			Kimpoko	8		CD					
+node	759484545	-4.1937033	15.5484589	Ferme de Kimpoko				restaurant				
+relation	41			Kimwenza	8		CD					
+node	747821479	-4.4853138	15.2666201	petit restaurant et plage				restaurant				
+node	789465657	-4.4941289	15.2823866	Ma Vallée				restaurant				
+node	7742885788	-4.4404761	15.2582286	N6				pub				
+node	7931571131	-4.4348223	15.3048865	Staff Masolo ya Vita				bar			Kiduma	
+node	13663235201	-4.4350575	15.2783199	Chez fayulu				pub			Kimbemba	
+way	634256172	-4.4251850	15.3170382	ANKENE				biergarten			Congo Fort	
+way	642516472	-4.4238687	15.3182439	Maman Loboko Kitoko				pub				
+way	642597283	-4.4213803	15.3204699	Terrasse les 4 paillottes				bar				
+way	643340945	-4.4234363	15.3173026	Tindika Lokito				bar				
+way	643341081	-4.4250552	15.3170765	ANKENE				pub				
+way	1331943919	-4.4390759	15.2740711	cercle MAYALOS				bar				
+relation	42			Kindu	8		CD					
+node	11025884606	-2.9500519	25.9273311	Vero Beach				bar				
+relation	43			Kinshasa	8		CD					
+node	440108862	-4.3042155	15.3191258	Estoril Sun				restaurant				
+node	440109944	-4.3012269	15.3116034	Ibizabar				bar				
+node	440109945	-4.3009869	15.3113416	Caf'Conc'				bar				
+node	440111689	-4.3051029	15.3146977	Restaurant Hong-Kong				restaurant				
+node	440115096	-4.3053308	15.3019127	L'Olive Verte				restaurant	42		Boulevard du 30 juin	
+node	440115097	-4.3039181	15.3012657	Le Mistral				restaurant				
+node	440115099	-4.3051181	15.2965475	Le Colibri				restaurant				
+node	440115100	-4.3054898	15.2963152	Le Surcouf				bar				
+node	440131385	-4.3538431	15.3345940	Chong Qing Restaurant				restaurant				
+node	440132538	-4.3101387	15.2915006	O Poeta				restaurant	4		Avenue du Cercle	
+node	440142395	-4.3057977	15.3071187	Piccolo				restaurant				
+node	440142699	-4.3047927	15.3063091	VIP Pool				bar				
+node	440142702	-4.3052803	15.3048421	3615 Milo				restaurant				
+node	655854626	-4.3625810	15.2483703	La Dévinière				restaurant				
+node	786664207	-4.3686789	15.3197223	Relax				bar				
+node	930489700	-4.3016151	15.3123205	Chez Bibi				restaurant				
+node	942246342	-4.3032225	15.3067403	Chez Gaby				restaurant				
+node	974493182	-4.3026985	15.3113391	Al'dar				restaurant			Boulevard du 30 Juin	
+node	983582157	-4.3187010	15.2745044	Eric Kayser				restaurant	88		Croisement des avenues de la Justice et Ouganda	Kin Plazza Mall
+node	997440502	-4.3010121	15.3133130	Hunga Busta				restaurant			Avenue des Aviateurs	
+node	1018712007	-4.3036830	15.3145822	Cercle Onatra				restaurant				
+node	1018722296	-4.3010059	15.3109388	Patisserie Nouvelle				restaurant				
+node	1018727531	-4.3026813	15.3105321	Planete J				restaurant				
+node	1018729261	-4.3024147	15.3102569	La Baquette				restaurant				
+node	1018733251	-4.3021109	15.3086998	Chez Patrick				restaurant				
+node	1018741957	-4.3035974	15.3052695	La Bouronne				restaurant				
+node	1018746514	-4.3069995	15.3042396	New Jeans				restaurant				
+node	1018748383	-4.3078904	15.3020338	Nguasuma				restaurant			Avenue Huilerie	
+node	1018751772	-4.3071386	15.2962466	Mandarin				restaurant				
+node	1018755575	-4.3191727	15.2863082	Maison de France				restaurant	33		Avenue des Forces Armées	
+node	1424397157	-4.3011312	15.3084724	Chez Temba				bar				
+node	1424397158	-4.3056354	15.3069328	Basilic				bar				
+node	1424515410	-4.3477755	15.2498341	Lolo la crevette				restaurant				
+node	2143603943	-4.3514711	15.2841183	Boyoma Boyoma				nightclub				
+node	2144897730	-4.3291680	15.2732955	Le Palais				restaurant	7		Avenue de l'OUA	
+node	2144899265	-4.3053860	15.2858541	Jin Yang				restaurant	26		Avenue Caisse d'Epargne	
+node	2144899266	-4.3049538	15.2904084	Nouvelle Cuisine Congolaise				restaurant				
+node	2144899270	-4.3237643	15.2703018	Patisserie Nouvelle				restaurant			Avenue Colonel Mondjiba	
+node	2144899271	-4.3190549	15.2870899	Petit Trianon				restaurant				
+node	2144899382	-4.3152626	15.2823283	Résidence 165				restaurant	165		Boulevard du 30 Juin	
+node	2144927307	-4.3126940	15.2931796	Le Cercle Gourmand				restaurant			Avenue du Cercle	
+node	2144927308	-4.3165911	15.2866139	Quick Poulet - Chez Beki				restaurant				
+node	2148448309	-4.3249740	15.3037499	Chez le Pasteur				pub				
+node	2148448313	-4.3250729	15.3059242	Sous les safoutiers				pub				
+node	2157497454	-4.3056397	15.2963071	Yewon Restaurant Coreen				restaurant				
+node	2157565903	-4.3014524	15.3104858	Eric Kayser				restaurant	208		Avenue de l'Équateur	
+node	2158831409	-4.3278842	15.2696965	Malewa				restaurant				
+node	2159144027	-4.3018080	15.3077172	Grand Libulu				bar				
+node	2159144034	-4.2988614	15.3103504	Le Plein Vent				restaurant				
+node	2159144039	-4.3027634	15.3082323	Los Latinos				bar				
+node	2171586945	-4.3059697	15.3023157	Restaurant Melisse				restaurant				
+node	2171586966	-4.3060065	15.3019023	TERRASSE CRYSTAL				restaurant				
+node	2377757594	-4.3061095	15.2894228	Inzia				restaurant	6		Avenue Caisse d'Epargne	
+node	2857744082	-4.3144832	15.2865688	Gregoire's bar				bar				
+node	2926482693	-4.3514585	15.2873326	Maman Colonel				restaurant	296		Avenue Tonde	
+node	3062637137	-4.2991701	15.3179274	Plage de Palmiers				nightclub				
+node	3110803981	-4.3316782	15.2190433	Chez Tintin				bar				
+node	3110838152	-4.3205461	15.3314385	Chez Flore				restaurant				
+node	3428636711	-4.3096164	15.2988146	Chez Flore				restaurant				
+node	3447563303	-4.3170391	15.2842475	Maïsha Park				restaurant				
+node	3465529597	-4.3056172	15.3053515	La Datcha				bar	16		Avenue du Livre	
+node	3507656042	-4.3011284	15.3133489	Casa Nostra				restaurant				
+node	3634009298	-4.3058408	15.3055455	Gaspacho				bar				
+node	3758966475	-4.3233374	15.2955779	Délices de Notre Dame				restaurant			Avenue Kitega	
+node	3902298277	-4.3034544	15.3049874	Zamani				restaurant				
+node	3946468926	-4.3147738	15.2805576	Touche de Piment				restaurant	81b		Avenue de la Justice	
+node	3978344248	-4.3800644	15.3355550	Insomnia				bar				
+node	4106217538	-4.3053149	15.3100885	FUSION AER BAR				pub	34		avenue colonel Ebeya	
+node	4284689967	-4.3471643	15.2523236	Mukina Inn				restaurant	80	00243	Avenue Nguma	
+node	4369536505	-4.3794803	15.3392208	3000 l'an				bar				
+node	4369557400	-4.3800629	15.3360770	Tchetche				bar				
+node	4457506091	-4.3037944	15.2928227	Monte Christo				restaurant				
+node	4483541158	-4.3542354	15.2510753	Extrême - Ma Campagne				bar				
+node	4483654408	-4.3588700	15.2987545	Fumuti				bar			Avenue de Ngiri-Ngiri	
+node	4503795991	-4.3280354	15.2763393	Chez Koffi Vlisco				cafe				
+node	4701574280	-4.3071525	15.3041593	Restaurant chez Philo				restaurant				
+node	4701607516	-4.3049636	15.3032781	Cave de Bacchus				biergarten				
+node	4701607517	-4.3067780	15.3038666	Restaurant Ushuaia				restaurant				
+node	4942569721	-4.3017138	15.3109098	Anny Mav				bar			Avenue de la Paix	
+node	5077848344	-4.4308372	15.2793254	Agrripine				restaurant	1		Ilunga	
+node	5179802223	-4.3431844	15.2778898	Bandal Bloc				restaurant				
+node	5182837545	-4.3431265	15.2760355	Debonnaires Pizza				restaurant			Avenue Kasa-Vubu	
+node	5266023719	-4.3392275	15.3254315	Le Goyavier				restaurant				
+node	5287475024	-4.4033037	15.3161532	Bar Grand Monde				bar				
+node	5287475025	-4.3908906	15.3146692	Metro Bar				bar				
+node	5295927116	-4.4074729	15.2900237	Espace Mère Kams				restaurant				
+node	5305388647	-4.3237981	15.2780449	Shangrila				restaurant				
+node	5329686131	-4.3464139	15.2645561	Nganda Ba Kolo				restaurant			Bld Kasa-Vubu	
+node	5331304126	-4.3323630	15.2231392	Villa Bahari				restaurant	5		Avenue Général Bakatamba	
+node	5338068799	-4.3411853	15.2611256	Chez Bob				pub				
+node	5339118652	-4.3381788	15.2662138	Chez Elkana				restaurant	7	1017090	Avenue de Bangala	
+node	5343913894	-4.2983397	15.3115886	Arome				restaurant				
+node	5349253480	-4.3725620	15.3410661	La PAILLOTE				restaurant				
+node	5378169789	-4.4197419	15.3012166	La Terrasse du monastère				restaurant				
+node	5496060421	-4.3256846	15.3011489	Club Daniella				bar				
+node	5499221919	-4.3319903	15.2627912	Restaurant Opoeta				restaurant				
+node	5499269089	-4.3509419	15.3322148	Restaurant Debonnaire				restaurant				
+node	5499358555	-4.3188875	15.2848524	Restaurant Rocas				restaurant				
+node	5499358556	-4.3191042	15.2854988	Restaurant Chilou				cafe				
+node	5604062235	-4.3049107	15.2919948	Restaurant Fleur de Lys				restaurant				
+node	5717264782	-4.3124572	15.2841096	Loving Hut				restaurant			Avenue de la Justice	
+node	6030334307	-4.3275180	15.3106238	Dacing Club AZ				restaurant				
+node	6036833300	-4.3300044	15.3468108	Chez René				pub				
+node	6039060620	-4.3323259	15.3419814	Chez Maman Chantal				bar				
+node	6039060625	-4.3329317	15.3398390	Le goùt du changement				bar				
+node	6039103097	-4.3337628	15.3428552	N'oublie pas 1822				bar				
+node	6043767835	-4.3387770	15.3452853	Business Moto				bar				
+node	6044081876	-4.3301670	15.3460646	Muntu Wa Nzambe				bar				
+node	6044090067	-4.3379024	15.3500924	Chez ma Mamy				restaurant				
+node	6044140082	-4.3417396	15.3494574	Chez man's				bar				
+node	6115682396	-4.3463163	15.3506945	Whatsapp				bar				
+node	6124721189	-4.3427131	15.3534153	Espace Nono M.T				bar				
+node	6126926186	-4.3195048	15.3298213	Cheetah 2				restaurant			Avenue Flambeau	
+node	6140369563	-4.4107194	15.3069364	Forêt Muma				restaurant				
+node	6222632986	-4.3215400	15.2787004	La Reine du Cossa				restaurant	3		Avenue Milambo	
+node	6223647986	-4.3436082	15.2822928	Chez Emilia Nsuele				bar				
+node	6223647987	-4.3435777	15.2822949	M.L. de Bruxelles				bar				
+node	6223686385	-4.3436399	15.2822897	Chez Mireille Lufuma				bar				
+node	6293491298	-4.4170282	15.3417265	Yes We Kin				bar	36		Avenue Bumba	
+node	6293491342	-4.4042851	15.3421283	Bar Maman Muyombe				bar	34		Kinzau	
+node	6293492112	-4.4088421	15.3383303	Ma Muyombe				bar	6		Kiri	
+node	6293492137	-4.4054404	15.3397894	Maison Mbala				bar	51		Kinzau	
+node	6293492157	-4.4132065	15.3559256	Malewa				restaurant	146		Avenue de la Paix	
+node	6293492167	-4.4037503	15.3419352	Couloir Kinshasa				bar	36		Avenue Mayinda	
+node	6293492168	-4.4045846	15.3552389	Espace Winner				bar			Avenue De la Paix	
+node	6393332727	-4.3548081	15.2850033	Pirou bar				bar				
+node	6393335519	-4.3539971	15.2866475	Pesennteur				bar				
+node	6398645037	-4.3550954	15.2857571	Pirou				bar				
+node	6414467285	-4.4088565	15.2543188	Pralicia House				nightclub				
+node	6415551387	-4.3200871	15.2742721	Planète J				restaurant				
+node	6426456185	-4.3018353	15.3113244	cathy iloo				bar				
+node	6427976013	-4.3262702	15.2987834	MP				bar				
+node	6427979702	-4.3217555	15.2950390	Welcome Bar				bar				
+node	6428020598	-4.3188730	15.2937771	le 24				bar				
+node	6428020600	-4.3245023	15.2970026	Aimé dollars				restaurant				
+node	6428020601	-4.3198876	15.2999520	Code Bar				bar				
+node	6500211765	-4.3188474	15.2805421	El Africano				bar				
+node	6560473727	-4.4169077	15.3303266	Resto Dumi				cafe	59		Dumi	
+node	6560546278	-4.3864457	15.3537056	Chez Maman Bébé				pub	22		Avenue de la Paix 2	
+node	6560546279	-4.3850260	15.3593341	Chez Clémence				bar	250		Boulevard Lumumba	
+node	6572524763	-4.3912720	15.3693782	Hôtel Bar Masevu				bar	31		Dianga	
+node	6572557193	-4.3883123	15.3687067	Bar Grand Monde				bar			Collège	
+node	6572591673	-4.3893940	15.3692225	Hôtel Auberge				bar	27		Collège	
+node	6572623284	-4.3917479	15.3704095	Cour Suprême				bar	58		Kisantu	
+node	6572671386	-4.3881614	15.3628220	Hotel Facebook				bar	7		Kikenge	
+node	6572681137	-4.3895181	15.3703430	Espace Meya Meya				bar			Collège	
+node	6572739801	-4.3880953	15.3626670	Terasse Nathan				bar	1		Nsonapangu	
+node	6574637580	-4.4150492	15.3226334	Bar Molangi ya Mboka				bar	65		Kwango	
+node	6574647621	-4.4169691	15.3162824	Chez Muyombe				bar				
+node	6574944466	-4.4123296	15.3775552	Bar Tshangu				bar			Mfu	
+node	6574944471	-4.4128642	15.3757954	Marché Quartier 5				pub	14		Marché Quartier5	
+node	6574947773	-4.4381950	15.3755808	Privé				pub	83		bendele	
+node	6575088998	-4.3615100	15.3612009	Terrasse Les Gravas				bar	74		Avenue Masiala	
+node	6581489629	-4.4109877	15.3162538	Chez Papa Martin				bar	63		Université	
+node	6581489630	-4.4109456	15.3164016	Chez Maze Kratos				bar	62		Université	
+node	6581489631	-4.4096460	15.3162371	Kovula				bar	58		Université	
+node	6581489641	-4.4116864	15.3159984	Espace Victor				bar	67		Université	
+node	6581492291	-4.4068545	15.3726806	Les Images Bakulutu				bar			Luti	
+node	6581492705	-4.3882726	15.3385399	Bar Lotoko				bar			Camp Kabila	
+node	6581585782	-4.3822259	15.3522979	Yaka to Coacher				bar	3		Kwenge 1	
+node	6581666914	-4.3814735	15.3498531	Chez Bibi				bar	4		Banunu	
+node	6581679058	-4.3971766	15.3790355	Harassed Triangle				bar	1		Kitobola	
+node	6581724964	-4.3942725	15.3754950	Chez Béatrice				bar	7		Ntadi	
+node	6581755684	-4.3968277	15.3802686	Place commerciale				bar	1		Akuta	
+node	6581774777	-4.3942348	15.3757663	Hôtel Salle de fêtes Mayamba				bar	6		Nsonapangu	
+node	6581816449	-4.3936820	15.3757472	Terasse				bar	10		Terasse	
+node	6581857234	-4.3943492	15.3757855	Staff Woow				bar	3		Nsonapangu	
+node	6581869963	-4.3939679	15.3757281	Bar at Hôtel Ndombe				bar	9		Nsonapangu	
+node	6581896653	-4.3942920	15.3757472	Staff damako				bar	4		Nsonapangu	
+node	6581917714	-4.4114774	15.3209234	Maison Blanche				bar			Landu	
+node	6581917722	-4.4107351	15.3161693	Staff M. J Kinal				bar	61		Université	
+node	6581917723	-4.4125915	15.3188230	Village 4 paillottes				bar				
+node	6581917725	-4.4099907	15.3162483	Shabani				pub	59		Université	
+node	6581946021	-4.3960455	15.3776015	Terasse				bar	8		Kitobola	
+node	6582001717	-4.3947860	15.3755593	Nossa Terra				bar	13		Kingunda	
+node	6582001732	-4.3946541	15.3757472	Staff Diagonal				bar	2		Nsonapangu	
+node	6582115446	-4.3964951	15.3496873	ONGD/AMDE Restaurant				pub	44		Bahumbu 7ème rue	
+node	6583647963	-4.3812379	15.3478823	Supermarché				pub	2		Banunu 2	
+node	6583723560	-4.4066224	15.3176870	Tout Livulu				bar	22		Mwana Wuta	
+node	6583723583	-4.4018672	15.3164150	Espace Noella				bar	1		Avenue de l'Université	
+node	6583749487	-4.4016587	15.3165112	Chez Guyzi				bar	2		Boulevard Salongo	
+node	6583749489	-4.4065995	15.3173518	Bakichant				bar	35		Trinité	
+node	6583749491	-4.4052407	15.3205947	Mère Yoyo				bar	33		Boulevard Salongo	
+node	6583749517	-4.4017662	15.3164150	Espace Horjuna				bar	1		Avenue de l'Université	
+node	6583749527	-4.4017261	15.3165956	Staff Relation				pub	3		Boulevard Salongo	
+node	6584026396	-4.3799574	15.3607732	H. Mervedi				bar			Liboke	
+node	6584026409	-4.3852207	15.3621611	Wavila				bar			Liboke	
+node	6584071947	-4.3941805	15.3518307	Bibi Play				pub			Lokele	
+node	6584212011	-4.3945299	15.3488425	El Shaddaï				pub			Bahumbu	
+node	6584271342	-4.3193046	15.2928583	Le Petit Marseillais				bar				
+node	6584446566	-4.3761212	15.3711726	Etoile				bar	1		Bahumbu	
+node	6584448927	-4.3709948	15.3766751	Terrase Mère Double				restaurant	9		Mobutu	
+node	6586268840	-4.3783772	15.3700295	Terrase				pub	1		Abattoire	
+node	6586268843	-4.3783269	15.3700344	Chez Celeo				bar	1		Abattoire	
+node	6586268868	-4.3871040	15.3683690	Maman Nganu				bar	2		Mobutu	
+node	6586311100	-4.4180496	15.3817349	Staff Sunduku				bar	99		Nsanga	
+node	6586941842	-4.4169859	15.3404429	Dazab				bar	1		De l'école	
+node	6588759687	-4.3963083	15.3460349	Papa wa Roma				biergarten				
+node	6588759689	-4.3965330	15.3469482	Vita Imana				bar				
+node	6588793399	-4.4070138	15.3241333	Chez Putsia				pub			Boulevard Salongo	
+node	6589914044	-4.3289852	15.2793661	Le Cactus				restaurant	16		Avenue Ntangu	
+node	6611244980	-4.3845269	15.2597240	Espace TATOU YOYO				bar	50C		Route de Matadi	
+node	6640143842	-4.3284308	15.2788764	la coté bar				bar	9		Avenue Kumbana	
+node	6790883966	-4.3087558	15.3030443	TABOO				restaurant				
+node	6886876159	-4.3416973	15.2804859	Restaurant Imperial				restaurant				
+node	6939052705	-4.3442282	15.2815680	Chez Barbara				bar				
+node	6939083039	-4.3433006	15.2824478	Lolo				bar				
+node	6939144899	-4.3438371	15.2823754	beberda				bar				
+node	7060363400	-4.3009412	15.3053383	Restaurant Marina				restaurant				
+node	7208694200	-4.3724899	15.3483285	EBEN EZER				restaurant	19		Rue	
+node	7487210726	-4.3462188	15.2666072	Moma'k				restaurant				
+node	7768176630	-4.3140599	15.2869137	Les Baguettes				restaurant				
+node	7817428848	-4.3190801	15.2770565	Nicolas Perle				restaurant				
+node	7856381337	-4.3236116	15.3085548	Pacifique hotel				restaurant			luvungi	
+node	7859545919	-4.3053700	15.3041623	Enigma				nightclub				
+node	7949104320	-4.3161299	15.2821676	Villa Royale				restaurant				
+node	8189664949	-4.3161307	15.2783881	Loving Hut				restaurant	67		Avenue de la Justice	
+node	8284142031	-4.3019552	15.3141897	Tucanos				restaurant				
+node	8284142050	-4.3116046	15.2797025	Auspices				restaurant				
+node	8288999518	-4.3330468	15.2589919	Balcon				bar			Avenue Colonel Mondjiba	
+node	8358833376	-4.3429344	15.2538246	J&As company				bar				
+node	8423736163	-4.3092041	15.2916518	Mt Café				cafe				
+node	8722730917	-4.3031259	15.3082073	Nice Cream				restaurant				
+node	8758298610	-4.3497183	15.2836833	Pima Bar				pub				
+node	8933248768	-4.3139598	15.2834187	1.3				cafe				
+node	8933248769	-4.3107074	15.2884237	1.4				cafe				
+node	8933248770	-4.3092364	15.2906982	1.5				cafe				
+node	8933248772	-4.3069630	15.2947966	1.7				cafe				
+node	8933248773	-4.3054318	15.2965528	1.8				cafe				
+node	8933248774	-4.3060375	15.2994422	1.9				cafe				
+node	8933248776	-4.3045772	15.3053806	1.11				cafe				
+node	8933248777	-4.3037320	15.3082184	1.12				cafe				
+node	8933248778	-4.3031329	15.3102247	1.13				cafe				
+node	8933248779	-4.3027424	15.3116355	1.14				cafe				
+node	8933248782	-4.3009391	15.3176738	1.17				cafe				
+node	9464572541	-4.3130696	15.2830520	Muskoka				cafe	876 Rose Mall		Avenue de la Justice	
+node	9493902692	-4.3021337	15.3106564	South African Airways				cafe			Avenue de l'Équateur	
+node	9509339438	-4.3191166	15.2829392	Waterloo 7/7				bar				
+node	9525457675	-4.3021392	15.3089891	New Baguette				restaurant				
+node	9528418627	-4.3048611	15.3038102	Café Najjar				cafe				
+node	9528418629	-4.3060334	15.2986293	Stern bar				bar				
+node	9789204708	-4.3048674	15.2997753	Moka & more				cafe				
+node	9823014050	-4.3569868	15.3553750	cafe javas				cafe			lugogo bypass	
+node	9823035571	-4.3541105	15.3581345	cafe javas				cafe			Avenue Lumumba	
+node	9977007188	-4.3229774	15.3003689	Belle France				restaurant				
+node	9977007189	-4.3249345	15.3039794	Baraka				bar				
+node	9977007194	-4.3216723	15.2745625	Cafeteria				restaurant				
+node	9977062293	-4.3244266	15.2830915	Espace MARANATHA				restaurant				
+node	10969833490	-4.3290523	15.2525300	Chez Fanny				restaurant				
+node	10982244805	-4.3487216	15.2303622	Ntala				bar			Avenue de l'École	
+node	11006289176	-4.3234551	15.2783277	Bonneige				bar				
+node	11262872037	-4.3167772	15.2825996	Chez Kalume				bar			Avenue Kalume	
+node	11266700369	-4.3144503	15.2865884	Consulat				bar			Avenue des Forces Armées	
+node	11420001943	-4.3726414	15.2551340	Le Gabriel by chef coco				restaurant				
+node	11565562319	-4.3225704	15.2803986	Abilio				restaurant				
+node	11875089870	-4.3496273	15.2368606	207				bar				
+node	11875089969	-4.3532354	15.2367585	Champs Elysées				bar				
+node	11875896669	-4.3474277	15.2195757	Élodie				bar				
+node	11875897270	-4.3453275	15.2304535	Gare Centrale				bar				
+node	11877157670	-4.3442643	15.2316808	Chez Erick Kambale				bar			Avenue de l'Escorte Présidentielle	
+node	11877157671	-4.3445154	15.2311294	Kouzou				pub			Avenue Dimbelenge	
+node	11939978570	-4.3519626	15.2253519	Ouragan				bar				
+node	11939978672	-4.3518689	15.2185957	Gare Centrale 1				bar			Avenue Maman Yemo	
+node	11968800869	-4.3037259	15.3071136	00243				restaurant			Boulevard du 30 Juin	
+node	12032838145	-4.3010422	15.2993723	Siscilia				restaurant			River Tower	
+node	12234983801	-4.3132039	15.2773048	EPSP				restaurant				
+node	12620509873	-4.3188300	15.2855551	Pinocchio cucina				restaurant				
+node	12743537297	-4.3145724	15.2868194	TerraCota				restaurant				
+node	12757560615	-4.3051164	15.3144559	Vilakazi Restaurant Kinshasa				restaurant	22	12	Avenue Tombalbaye	
+node	12943432285	-4.3415614	15.2148170	Tonda Food				restaurant				
+node	12985698364	-4.3903496	15.2606186	Restaurant Kivu				restaurant				
+node	13121081103	-4.3256493	15.3172269	Restaurant Chez Maman Judith				restaurant				
+node	13173307575	-4.3442728	15.2252541	Bar Novelas				bar			Avenue de l'École	
+node	13586547001	-4.3525341	15.3318512	Hautel Restaurant Bon goût				restaurant			Ixhoras Avenue	
+node	13658875270	-4.3321962	15.3063290	Café Garage Huilerie				cafe	3		Avenue des Huileries	
+node	13658938250	-4.3411280	15.3149751	Bar Huilerie				bar				
+node	13658953334	-4.3352734	15.3002086	jmk				bar				
+node	13658968270	-4.3322086	15.3063902	café garage huilerie				cafe				
+node	13661156737	-4.3321798	15.3063352	CAFETARIAT				cafe			Avenue des Huileries	
+node	13661161767	-4.3302028	15.3074213	Bar Paint Victoire				bar			Avenue des Huileries	
+node	13661186836	-4.3301457	15.3074463	bar chez le baron				bar			Avenue des Huileries	
+node	13661209884	-4.3498090	15.2822590	CAF JESETTE				cafe			Avenue Mavungu	
+node	13661209885	-4.3498064	15.2820579	CAF JESETTE				cafe			Avenue Mavungu	
+node	13661211172	-4.3365483	15.3104021	RACHEL				cafe			Rue Kanda-Kanda	
+node	13661381132	-4.3321394	15.3062766	Avenue de huillerie				restaurant				
+node	13669718387	-4.3881237	15.3119930	Bar chez mère Tania				bar			kukele	
+node	13758435514	-4.3306840	15.3065979	odc				cafe	04		huilerie	
+node	13796573008	-4.3265452	15.2959110	La case Resto-Grill Kinshasa Gombe				restaurant	16	1003020	Av. De la libération N°16 (Ex 24 Novembre) Gombe Réf: En face du saut de mouton Assanef	
+node	13849686268	-4.3918295	15.3214982	Chez les voisins				bar		243	Avenue By Pass	
+node	13952556238	-4.3258724	15.2958383	24 Signature By Eden				restaurant	16	1003020	Avenue de la Libération	
+node	13971515004	-4.4003194	15.3307208	Bar Karmapa				bar				
+node	14368832301	-4.3189871	15.3295995	Carré Club Kinshasa				nightclub			Avenue Kabasele Tshiamala Joseph	
+node	14378273002	-4.3070533	15.2902642	Limoncello Italian Restaurant				restaurant	1		Avenue des Étoiles	
+way	48526484	-4.4197210	15.3109464	RestoPOP				cafe				
+way	204547802	-4.3038352	15.3028381	Le Chantilly				restaurant				
+way	205764015	-4.3036564	15.3019100	Extreme				restaurant			Avenue Colonel Lukusa	
+way	205778192	-4.3064853	15.2999588	Restaurant Reginal				restaurant				
+way	205778193	-4.3077962	15.2999319	Reve de Sophie Alka				restaurant				
+way	289107158	-4.3048568	15.3148016	Limoncello				restaurant	20		Avenue Tombalbaye	
+way	298352628	-4.3034992	15.3143208	La Piscine				restaurant			Avenue Luambo Makiadi	
+way	300929837	-4.3103939	15.2750134	A Casa Mia				restaurant				
+way	300947061	-4.3045224	15.3144322	Green Garden				restaurant				
+way	323048776	-4.3363945	15.2638265	New Rex				cafe			rue de Maniema	
+way	323049024	-4.3356267	15.2645176	Gabriela				restaurant			Avenue de l'Uele	
+way	334666767	-4.3523862	15.3313278	la source				restaurant			Avenue Godetias	
+way	334803884	-4.3525670	15.3316279	Kemyli				restaurant	284		Ixhoras Avenue	
+way	372306789	-4.3036696	15.3038745	Paillote midi				restaurant				
+way	372339143	-4.3157609	15.2856332	Gekko's Sushi				restaurant				
+way	435004508	-4.4234321	15.3883077	Hotel Village Sagesse				restaurant	06		Weyi	
+way	435485135	-4.3953003	15.3557404	Chez Bona				bar	26		16ème Rue Ningi	
+way	441759711	-4.3126876	15.2902191	Restaurant Bar chez FRIDA				restaurant	2	B.P 7955	Oranger, Gombe	
+way	510309332	-4.3233065	15.2808124	Espace marinette				restaurant				
+way	547232361	-4.3858736	15.3149481	Bar Kipé ya Yo				bar				
+way	558456979	-4.3075222	15.2972078	Mythos/La maison des mezze				restaurant				
+way	595913439	-4.4022143	15.3527445	Nganda safu				bar	9		Kinzazi	
+way	595913443	-4.4022508	15.3526088	Maison Commerciale				bar	14		Avenue Kindu	
+way	595929267	-4.4048020	15.3526183	Malte calme				bar	13		Ndimba-Nzadi	
+way	595932609	-4.4039860	15.3527800	Tianga à l'aise				bar	19		Kimbondo	
+way	596028721	-4.3967798	15.3563309	Chez BMJ				bar	548		17ème Rue Mangoyo	
+way	596390357	-4.3860012	15.3622906	Espace Micolleta				pub	172		Boulevard Lumumba	
+way	596521308	-4.4121699	15.3555215	La Chitoura				bar			Voie Ferrée	
+way	596526201	-4.4128875	15.3540701	Baoba				biergarten	13		Avenue Boma	
+way	596530484	-4.3851164	15.3569123	Emerode				bar			Poids Lourds	
+way	596534588	-4.4125270	15.3550875	LJ				restaurant	15		Voie Ferrée	
+way	596547173	-4.4119713	15.3553200	Maison Mas				bar	20		Voie Ferrée	
+way	596558719	-4.3991659	15.3512540	Boutique Dieu Merci				pub	30		Kimayala	
+way	596558738	-4.3985212	15.3519890	Terrasse				bar	20		Avenue Mwanga	
+way	596563701	-4.4135424	15.3548023	Pamabel				bar	6		Bantandu	
+way	596571814	-4.3983453	15.3520539	Chez Fololo				bar	20		Mwanga	
+way	596640234	-4.4058165	15.3554143	Boissons de la Grâce				bar	68		De la Paix	
+way	596751954	-4.3849914	15.3589682	Etablissement Saio Basende				bar	155		Boulevard Lumumba	
+way	597439509	-4.3881105	15.3676408	Bar				bar			Tavoka	
+way	598026651	-4.3813072	15.3522241	Terrasse Kelelyse				biergarten			Avenue Fermier	
+way	598039112	-4.3973218	15.3401774	Papa Paul				cafe	23		Avenue Kanza	
+way	598048111	-4.3968556	15.3404885	Terrasse Sam				bar	59		Avenue Yangambi	
+way	598156398	-4.3928202	15.3458916	Lamentation				bar				
+way	598162383	-4.3798901	15.3500269	Espace Ya Lolo				restaurant	9		Avenue Fermier	
+way	598170490	-4.3790598	15.3490546	Seidoux				pub				
+way	598946718	-4.3869164	15.3502798	Bar				bar	62		Maï-ndombe	
+way	598952862	-4.3976602	15.3349027	Terrasse Pont Zefi				bar	86		Pont Zefi	
+way	598972461	-4.3926746	15.3433270	Terrasse Mère des Mères				biergarten	1		Ngufu	
+way	599303126	-4.3882651	15.3385741	Bar Lotoko				bar			Camp Kabila	
+way	599305880	-4.3927572	15.3380702	Terrasse Benda Basse				bar			vitamine 1	
+way	599825671	-4.4173374	15.3401878	Terrasse Couloir				biergarten	3		Lunkunga	
+way	599826454	-4.4192489	15.3407288	Terrasse				bar	14		Kingotolo	
+way	599826753	-4.4169296	15.3406247	Chez Dazab				bar	1		Avenue de l'école	
+way	610221596	-4.3930549	15.3421581	Espace Samsun				bar			Ngufu	
+way	611826596	-4.3387778	15.2760464	Lulu White Bar				bar	135		Rue Tsanga	
+way	617030554	-4.3975530	15.3444642	Terrasse Ilunga				bar	2		Rue Frontière	
+way	617424180	-4.3321388	15.3062879	café				cafe			Avenue des Huileries	
+way	619353982	-4.3930664	15.3425494	Chez Lina				biergarten			Ngufu	
+way	620917282	-4.3980766	15.3447088	Terrasse Iyayi				bar	1		Avenue Yangambi	
+way	635684686	-4.4152475	15.3389434	Chez papa Mbala				bar	7		Avenue Diomi	
+way	635695121	-4.4145214	15.3406358	bar				bar	54		Avenue Pinzi	
+way	635701609	-4.4042697	15.3490892	Akende				bar	10		Lonji	
+way	635704539	-4.4147144	15.3426067	Village Feux verts				bar	25		Avenue Kinzele	
+way	635714780	-4.3961602	15.3498987	Salle de Jeu La Bénédiction				bar	44		Bahumbu 7ème rue	
+way	635714791	-4.3963586	15.3498798	Malewa				restaurant	44		Bahumbu 7ème rue	
+way	635955441	-4.4059008	15.3425231	SOS				bar			Avenue Kimbenza	
+way	635960507	-4.4078312	15.3412554	Espace Vandom				bar	44		Avenue Tuka-congo	
+way	642546678	-4.4345637	15.3535304	Tege Likimbi				bar	1		Avenue Moanda	
+way	642562933	-4.4314602	15.3536501	Hotel Cristal				bar			Luki	
+way	642562953	-4.4312841	15.3534555	Chez Cristal City				bar	6		Avenue Luki	
+way	642572262	-4.4200596	15.3418291	Mont Fleury				bar	11		Kwanouth	
+way	642572296	-4.4207297	15.3406987	Hotel Koyaf				bar	28		Mayonda	
+way	642573378	-4.4194494	15.3318308	Bar na Biso				bar	29		Salongo	
+way	642584845	-4.4220204	15.3410928	Village Samy Mikobi Etshubu				bar	135		Avenue Mulele	
+way	642601579	-4.4211871	15.3223526	Terasse la Référence chez Double				bar				
+way	643338129	-4.4231457	15.3259359	Nganga bayaka				bar	1		Yumbi 1	
+way	644351667	-4.4225523	15.3302369	Sous les Manguiers				bar	17		Ngandajika	
+way	676531615	-4.3823356	15.3812416	Restaurant KB				restaurant			Bamputu	
+way	676545872	-4.4122311	15.3774971	Terrasse la Grâce				biergarten			Bosaba	
+way	676567881	-4.4395567	15.3767858	Bar Grégoire				bar	88		matota	
+way	676567941	-4.4410752	15.3770553	Hotel Mpembele				bar	109		fundulu	
+way	676570967	-4.4359681	15.3758249	Espace Sans Plaignant				bar			kibanza	
+way	676739792	-4.3856284	15.3814883	Chez patrick				bar			Ngapani	
+way	676788128	-4.3975092	15.3819690	Kiyedi				bar	20		Wizi	
+way	676788224	-4.3971609	15.3818984	Hôtel Joli Fils				bar	42		Bosonzo	
+way	676794824	-4.4090770	15.3719719	Espace Vita Imana				biergarten	4		Kimpese	
+way	676799878	-4.4180096	15.3880164	Shop Maza				pub	13		Nsanga	
+way	676800770	-4.4331825	15.3784017	Espace Cours de Grand				bar	19		Nzakimuene	
+way	676807409	-4.4230587	15.3816600	Boulangerie Salisa Congo Mboka na Yo				restaurant	99		Makungu	
+way	676824177	-4.4318766	15.3757703	Maison				pub	5		Nseko	
+way	676827975	-4.4238901	15.3839818	Hôtel Armand				restaurant				
+way	676833186	-4.4239943	15.3821283	Boulangerie Mains de l'Eternel				restaurant	81		Bitaditadi	
+way	676834914	-4.3941313	15.3746526	Sarkozy				bar	10		Ntadi	
+way	677012408	-4.4146418	15.3858563	Resto la star				restaurant	56		mobutu	
+way	677073709	-4.4033206	15.3164885	Espace Perfusion				bar	5		Avenue de l'Université	
+way	677073791	-4.4018027	15.3167121	Boule Propre				bar	3		Boulevard Salongo	
+way	677094785	-4.3601487	15.3592810	Groupe Lolo Trading				bar	10		Avenue Bobozo	
+way	677105959	-4.4131915	15.3248880	Chapitre 3				bar			Victoire	
+way	677394963	-4.4061384	15.3176987	La grâce Divine				bar	37		Mwana Wuta	
+way	677823361	-4.4090038	15.3161914	Chez Maman Elisa				bar	50		Université	
+way	677845797	-4.4031461	15.3177805	Chez Nadine Kabeya				bar	2		Mwana Wuta	
+way	680633328	-4.3115704	15.3077885	Restaurant du Zoo				restaurant				
+way	692723619	-4.3373491	15.2575463	Impact				bar				
+way	696416444	-4.3780761	15.3701745	Staff Ngwanzou				bar	2		Emission	
+way	696422059	-4.3615459	15.3596667	Terrasse Sokola Mata Coin				bar	15		Avenue Masiala	
+way	696422060	-4.3615179	15.3596496	Staff Sokola Mata Coin				bar	15		Avenue Masiala	
+way	696422066	-4.3617228	15.3596680	Terrasse Chaupping Alino				bar	13		Avenue Masiala	
+way	697803373	-4.4157582	15.3393623	Chez Kembo				bar	68		Avenue Pinzi	
+way	698120376	-4.3327118	15.2696295	La Sainte Helène				bar				
+way	698237491	-4.4139437	15.3546173	Chez Mère Eugène				bar	1		Bantandu	
+way	698609224	-4.3849295	15.3577347	Staff Hollywood				bar	264		Avenue Poids Lourds	
+way	698713695	-4.3900020	15.3579406	Mapasa				bar			5ème Rue	
+way	698719617	-4.4244747	15.3216338	Dépot boissons Restaurant et Terrasse				restaurant	24		Malomba	
+way	700135051	-4.3984176	15.3832405	Tozo Regné				biergarten	19		Mwanza	
+way	700135753	-4.4207658	15.3815054	Chez Marie Soldat				pub	103		Matanda	
+way	700160156	-4.4145983	15.3881890	Terrasse Mvuatu Ya Sika				bar	38		Mobutu	
+way	700605084	-4.4138873	15.3724663	Espace Digital				biergarten			Bakongo	
+way	700819992	-4.4092028	15.3721237	Place Vandom				biergarten	5		Kimpese	
+way	700825929	-4.3631450	15.3601343	Village Emanny				bar	2		Avenue Masiala	
+way	700844644	-4.4028154	15.3543937	Staff Bord ya Quartier				bar	4		Kinsende	
+way	700870759	-4.3940956	15.3760510	Gäel				bar	7		Nsonapangu	
+way	700886195	-4.4002901	15.3541231	Staff Kasangulu				bar	2		Matondo	
+way	701025639	-4.3839943	15.3851919	Bar Chez Tshintu Eloko				bar	21		matadi	
+way	701044542	-4.3898130	15.3417856	Chez Longomba				bar			Localité Kunda 1	
+way	701121427	-4.3724339	15.3716450	Le Verseau				restaurant	14		De l'Eglise	
+way	701273925	-4.4187035	15.3818325	CAJDC				pub	103		Mokali	
+way	701292101	-4.4183928	15.3819955	Ya Mado				pub	99		Mbeno	
+way	706714548	-4.4039283	15.2554120	La Casa				cafe				
+relation	8831680	-4.4065104	15.3430528	Espace Grand Libulu				bar	21		Avenue Tuka-congo	
+way	724438040	-4.3246130	15.2702517	Restaurant Paradise & Sushi Bar				restaurant	272		Avenue Colonel Mondjiba	
+way	724447652	-4.3344506	15.2590816	Le Cèdre				bar				
+way	951224800	-4.3744197	15.3386742	6 PAILLOTES				restaurant				
+way	1376491630	-4.3372506	15.3179461	restaurant				restaurant			oshue	
+way	1390076590	-4.3046725	15.3120573	Restaurant Hôtel Pour Vous				restaurant				
+way	1427290407	-4.3342704	15.3072849	testal				cafe			stade de marthyrs	
+way	1427292685	-4.3495016	15.3257173	Malewa				restaurant				
+way	1427292686	-4.3486223	15.3258601	mervy				restaurant				
+way	1427292695	-4.3495047	15.3253012	MALEWA PRO				restaurant				
+way	1427292696	-4.3491903	15.3253708	CAFETARIA				cafe				
+way	1427299644	-4.3479672	15.3237052	ODC YOLO				restaurant				
+way	1472343535	-4.3699139	15.2385273	8				cafe				
+way	1472343540	-4.3675518	15.2387237	22				cafe				
+way	1472343896	-4.3746798	15.2539806	EAT SHOW				restaurant	24		Avenue du Marché	
+way	1476835597	-4.3231676	15.3070359	Espace Le 155				restaurant	155	1020010	Avenue Kabambare	
+way	1490214450	-4.3323671	15.3062901	Hosto				restaurant				
+way	1536197976	-4.3878493	15.1953847	Espace MATELO				restaurant				
+way	1543042213	-4.3949609	15.2087487	Espace MERCI MAMAN				restaurant				
+relation	44			Kiromoni 2	8		CD					
+relation	9751577	-3.3476598	29.1739181	Ciel Bulumba Beach Club				bar				
+relation	45			Kisangani	8		CD					
+node	1931881882	0.5184000	25.1974903	Centre d'accueil Ruwenzorie (CAR)				restaurant				
+node	1932180080	0.5133331	25.1871510	Riviera				restaurant				
+node	1932297872	0.5428263	25.1866291	Plage Tshopo				bar				
+node	7022565222	0.5147465	25.1906311	Correction Club				nightclub				
+node	7022565223	0.5142844	25.1888727	Etoile Filante				nightclub				
+node	7024251377	0.5121382	25.1875332	Elysée Food				restaurant				
+node	7024251378	0.5134994	25.1882574	La Marmite				restaurant				
+node	7024251383	0.5125465	25.1865488	Pomme Rouge				restaurant	18		Avenue Munyororo	
+node	7024309387	0.4955534	25.2093020	Terasse Les Andjoipa				pub				
+node	7027173330	0.5121731	25.1885350	Chez Maguy Star				pub				
+node	7027173331	0.5117882	25.1886691	Bébé Civilisé				pub				
+node	7027173332	0.5110895	25.1886705	Chez Bronzetta				restaurant	3		Abbé Kaozi	
+node	7044949551	0.5000111	25.3188971	Bienvenue Chez Roda				pub				
+node	7044949579	0.5177585	25.2441694	Etoile de Kibibi				pub				
+node	7044960786	0.5095486	25.2279648	Espace T.B.K. Chez Inspecteur Bavon				cafe				
+node	7044960791	0.5064830	25.1967345	Chez Maman Samira				pub				
+node	8671055615	0.5075474	25.1956538	La Fourchette				restaurant				
+node	10948779105	0.5114542	25.1592443	KNH Vitamin's Bar				bar	10		Avenue Osundja	
+node	14193387602	0.5175651	25.1897111	Palace du plaisir				restaurant				
+way	177085625	0.5109434	25.1983485	La Bourgeoise				bar				
+way	196168017	0.5078464	25.1992980	Helenique				restaurant				
+way	196168022	0.5140844	25.1896234	Raman Club				bar				
+relation	46			Kisangolo	8		CD					
+node	7802162234	-4.4985972	15.3656030	Terrasse Chez Mère Mavuela				biergarten				
+relation	47			Kisantu	8		CD					
+node	6579196019	-5.1349657	15.0605473	B-one				biergarten				
+relation	48			Kisanu	8		CD					
+node	5241304099	-4.8736699	29.1067381	Bar Grand Prêtre de Tout				pub				
+relation	49			Kisenda	8		CD					
+node	8010561985	-10.7435607	25.6896295	King & Crab				restaurant				
+relation	50			Kolwezi	8		CD					
+node	6628917985	-10.7161271	25.4786655	Bar restaurant take away				restaurant				
+node	6695541685	-10.7168644	25.4925545	La difference				restaurant				
+node	6697076786	-10.7124052	25.4878910	Ristorante cinese chez florissant				restaurant				
+node	12280120564	-10.7424856	25.5121677	Moon Palace Bar				bar				
+node	12280120565	-10.7425330	25.5119772	Moon Palace Restaurant				restaurant				
+node	13190913459	-10.7211307	25.5076881	Liberty Bistro				restaurant				
+way	474384778	-10.7195375	25.5055380	Restaurant la Paillotte				restaurant			Boulevard Lumumba	
+relation	51			Kwilu-Ngongo	8		CD					
+way	517969780	-5.5106382	14.6905770	Guest House				restaurant				
+way	517970599	-5.5039620	14.6932350	Cercle CAROLI				bar				
+relation	52			Kyavitumbi	8		CD					
+node	9709411317	0.3348029	29.7471523	Restau-Café des Sœurs				restaurant				
+relation	53			Largu	8		CD					
+node	10031801017	1.7432038	30.5487762	Largu				pub				
+relation	54			Lose	8		CD					
+node	9462375418	0.3860807	29.0226073	Buvette				biergarten				
+relation	55			Lubero	8		CD					
+node	12435573446	-0.1553801	29.2423270	Espace weekend relax				pub				
+relation	56			Lubumbashi	8		CD					
+node	1684380969	-11.6466215	27.4632797	Restaurant du Lac				restaurant				
+node	2603383864	-11.6452233	27.4633668	Riviera Lake				pub				
+node	2603383867	-11.6549966	27.4613667	Côte Ouest				cafe				
+node	2737801819	-11.6723679	27.4793254	La paillotte Africaine				restaurant				
+node	2796544347	-11.6685847	27.4844828	FERMIL				restaurant				
+node	3689716420	-11.6198952	27.4794472	Maman na temps				restaurant				
+node	3906155719	-11.6511139	27.4723623	La Pelouse				bar				
+node	3959788781	-11.6551658	27.4646488	Mess des officiers				bar				
+node	3964605828	-11.6675922	27.4820982	La Brioche				cafe				
+node	4088713537	-11.6486002	27.4863090	Al Basha				restaurant	10		Avenue Lumumba	
+node	4095859089	-11.6442764	27.4823345	Latté lounge				restaurant				
+node	4165187991	-11.6492941	27.5488764	Terrasse 100$ c'est quoi?				bar				
+node	4273070090	-11.6557022	27.4634902	Alilac Center				restaurant			Route du Golf	
+node	4313023878	-11.6472401	27.4686004	Restaurant Kinkole				restaurant				
+node	4543118812	-11.6270266	27.4917836	Maman Ive				restaurant				
+node	4543118815	-11.6267482	27.4909746	Restaurant Maman Claudine				restaurant				
+node	4546175617	-11.6636980	27.4680178	Lido class				bar			Avenue Ruwe	
+node	4547853041	-11.6306273	27.4816257	Terrasse Espace MK				bar			avenue de l'eglise	
+node	4547853344	-11.6308477	27.4834630	Arche de Noe				restaurant				
+node	4547853345	-11.6308453	27.4835320	Pomme verte				restaurant				
+node	4549119814	-11.6325044	27.4744064	Terrasse				restaurant				
+node	4552019120	-11.6278109	27.4860908	+243 code ya mboka				bar				
+node	4552019126	-11.6310086	27.4839481	Night clun NONO				pub				
+node	4552021644	-11.6296498	27.4933225	terrasse tembo				pub				
+node	4552021656	-11.6287427	27.4941525	terrasse espace victoire				pub				
+node	4552021658	-11.6278077	27.4931025	Restaurant ive				restaurant				
+node	4553020160	-11.6442085	27.4829331	Les Arcades				restaurant	27		Avenue Kilela Balanda	
+node	4553480939	-11.6722638	27.4850331	Une pour la route				bar				
+node	4553488245	-11.6726914	27.4840840	Village N'Tay				bar				
+node	4563548852	-11.6194885	27.4799542	Maison Benie				bar				
+node	4763811821	-11.6530468	27.4741083	Tony & Tony				restaurant	13		Square Forrest	
+node	4954671248	-11.6632658	27.4819917	King Foods				restaurant				
+node	4957217475	-11.6653810	27.4852787	New Qovadis				restaurant				
+node	4957217477	-11.6730358	27.4810787	King Center				bar				
+node	4957233475	-11.6727882	27.4814378	Chez Francine				bar				
+node	4957233476	-11.6728574	27.4814698	RM				restaurant				
+node	5149629795	-11.6265006	27.5339684	Chez Martinaise				restaurant				
+node	5149981075	-11.6618061	27.4916442	Miska le Baron				nightclub				
+node	5153794358	-11.6434223	27.5385887	Arche de Noê				bar				
+node	6117217197	-11.6506683	27.4727197	Pelouse Synthétique				restaurant	190		Avenue Kilela Balanda	
+node	6326471294	-11.6251210	27.4823896	Bar avec table de billard				bar			Avenue Kapele	
+node	10655445705	-11.6605735	27.4848189	Chez Savannah				bar				
+node	12336668701	-11.7058881	27.4105688	Chez Olive				restaurant				
+node	13045834925	-11.6633482	27.4111113	MONTE CARLO Restaurant				restaurant				
+node	13045887737	-11.6658210	27.4201794	Groupe Fermil				restaurant			Boulevard Katumbi	
+node	13098446602	-11.6538169	27.4582956	Le Boucher				restaurant				
+node	13098458202	-11.6549768	27.4587841	La Brioche				cafe				
+node	13098458401	-11.6545586	27.4590894	Catch				restaurant				
+node	13098466302	-11.6527789	27.4499840	Chez Sunil Golf				restaurant				
+node	13098470701	-11.6451216	27.4429632	La Petite Cuisine				restaurant				
+node	13098471502	-11.6515553	27.4493552	TipTop Restaurant & Lounge				restaurant				
+node	13098472501	-11.6495764	27.4472001	Chez Marc				restaurant				
+node	13098472701	-11.6533984	27.4513532	Green Tee - Golf Club				restaurant				
+node	13098472801	-11.6407050	27.4468949	SteakHouse RDC				restaurant			Avenue Mweka	
+node	13157645801	-11.6455671	27.4392490	StarLight				restaurant				
+node	13157963001	-11.6472157	27.4445880	Kahawa - Congo coffee				cafe				
+node	13167581901	-11.6557269	27.4639650	Piazza Inn				restaurant				
+node	13810232701	-11.6539033	27.4504674	Nice Cream - Chocolate Sarayi				cafe				
+node	13891670401	-11.6465304	27.4447944	Triple-E				bar				
+node	14131338402	-11.6527172	27.4809175	BELL & RY				bar			coin sandoa, n°108, Av. Maniema, Lubumbashi	
+node	14184723539	-11.6485371	27.4766354	Le comptoir de Mathilda				cafe				
+node	14240574501	-11.6546916	27.4588877	Legends				bar				
+node	14282846001	-11.6655715	27.4816094	Hewa Bora lounge bar & restaurant				bar	3e étage			
+node	14358469001	-11.6414654	27.4444689	Oasis Lunch				bar				
+way	257640902	-11.6422723	27.4848105	Cercle de la Communauté Belge de Lubumbashi				restaurant	3		Avenue Kilela Balanda	
+way	692422077	-11.6694094	27.4815240	Le Crystal Club				nightclub				
+way	692428106	-11.5882041	27.5308629	Malabar Business Lounge				bar				
+relation	57			Maess	8		CD					
+node	4421657942	-4.2988262	15.5463602	Opiedsdanslo Paradis de Théa				restaurant				
+node	7816312876	-4.0942765	15.5250159	Domaine des Champignons				restaurant			Boulevard de Maluku	
+relation	58			Maluku	8		CD					
+way	922771230	-4.0595846	15.5531497	Le Meilleur				restaurant				
+relation	59			Manguredjipa	8		CD					
+node	9624372251	0.3529034	28.7648242	Code Ya Mboka				pub				
+relation	60			Mankanza	8		CD					
+node	797417502	-4.3224058	15.5134880	Terasse Miro				restaurant				
+node	797417509	-4.3209402	15.5124752	Chez Faustin Bolabwe				restaurant				
+node	797425195	-4.3220635	15.5131833	Paillotes Miguel				restaurant				
+node	797425200	-4.3220100	15.5125718	Pelisa Ngwagwuna				restaurant				
+node	2246677000	-4.3196555	15.5121158	Le Jardin Rose de Kinkole				restaurant				
+node	8922819401	-4.3067287	15.7248822	Le Tristar				restaurant				
+relation	61			Masina	8		CD					
+node	4798840104	-4.4031350	15.4075250	Aeroclub				bar				
+node	10559336209	-4.4040035	15.4075397	Chez ma Maguy				bar	123		Avenue Moboma	
+node	13893790402	-4.3739805	15.3731275	Soirée mipende				bar			Mobutu	
+way	676740453	-4.3875936	15.3824080	Bolenge				restaurant	30		bolenge	
+relation	62			Matadi	8		CD					
+node	1244240808	-5.8395881	13.4547797	La Ferme				restaurant				
+node	1244257132	-5.8197272	13.4615470	Zémuaki				restaurant				
+node	1244257133	-5.8228012	13.4607316	New Oriental				restaurant				
+node	1244257135	-5.8219686	13.4612852	La Fleur				restaurant				
+node	1244266712	-5.8229011	13.4626235	Krishna				restaurant				
+node	1244276149	-5.8316411	13.4574062	Village Vivi				restaurant				
+node	7059634785	-5.8259192	13.4823224	Belvédère				bar				
+node	7096802866	-5.8204299	13.4589641	The Fiesta				restaurant				
+node	10004214906	-5.8394458	13.4555854	Pepinière				bar				
+node	10004233841	-5.8360413	13.4575625	Chodron				bar				
+node	10017700356	-5.8418806	13.4458172	STAFF JERIDA MPOYO				bar				
+node	14095342444	-5.8303722	13.4368922	Lounge Bar Ngwende Marechal				bar				
+relation	63			Matari	8		CD					
+node	13531828645	-6.1641199	17.6432436	Chez Dibwidi				restaurant				
+node	13531896553	-6.1624811	17.6431881	Bar Albert Mumvumbi				bar				
+relation	64			Mayuano	8		CD					
+node	9462476530	0.9099257	29.1432892	Buvette wattssap				nightclub				
+relation	65			Mbandaka	8		CD					
+node	2460201868	0.0584418	18.2541874	Nina Club				nightclub				
+node	2461270847	0.0585764	18.2618369	Les 3 soeurs				restaurant				
+node	2461367118	0.0552422	18.2599099	Métropole 222				nightclub				
+node	2468532097	0.0666176	18.3166532	Maboke				restaurant				
+node	2473414542	0.0533650	18.2550201	HB				nightclub				
+node	5640497247	0.0526665	18.2555303	Espace Maisha				pub				
+node	7828825286	0.0334509	18.2449898	Chez Pierre				bar				
+node	8193615523	0.0611429	18.2630343	Maman Blandine				restaurant				
+node	8193714660	0.0617927	18.2576828	Djogolo				restaurant				
+node	8687829220	0.0584398	18.2608646	Salle de fête				nightclub				
+node	8687829221	0.0585435	18.2609158	Lokondo				bar				
+node	9809914927	0.0574343	18.2593409	Restaurant facebook				restaurant				
+node	10299401793	0.0586720	18.2608156	Lokondo				bar				
+node	10299401799	0.0564793	18.2564959	La marmite				restaurant				
+node	10300365770	0.0410854	18.2637922	Bar Chez Jamar				bar				
+node	10301509808	0.0377092	18.2583748	Terrasse Bolowa				restaurant				
+node	10301552053	0.0323233	18.2526194	Bar Chez Rody				bar				
+node	10302750532	0.0417600	18.2407828	Espace Masoda				bar				
+node	10304752104	0.0347877	18.2432025	Bar Volcan				bar				
+node	10313607172	0.0291442	18.2527549	Bar Uvira				bar				
+node	10313607183	0.0321275	18.2508364	Bar Ville de Boangi 2 Chez Roddy				bar				
+node	10313607185	0.0322106	18.2507774	Bar Ekabola bitumba				bar				
+node	10569167685	0.0286537	18.2517809	Terrasse				bar				
+node	10569167686	0.0287063	18.2532001	Terrasse Fados Lofukya				bar				
+relation	66			Mbanza-Ngungu	8		CD					
+node	2563915598	-5.2661332	14.8500741	Les Délices de la grâce				restaurant	540		Avenue Bois de Noki Q/ Noki. Ville de Mbanza-Ngungu	
+node	9465494874	-5.2636145	14.8576705	La difference				restaurant				
+way	1025333431	-5.2434720	14.8743851	les Nobles				bar				
+way	1322801854	-5.2667561	14.8564140	Restaurant Quisine				restaurant	345		Avenue du Palmier	
+relation	67			Mbuji-Mayi	8		CD					
+node	4099934589	-6.1363885	23.6027239	Abbé Julio Cibasu				cafe				
+node	4099973393	-6.1232673	23.5878014	Maman Nathalie				restaurant				
+node	4126686689	-6.1189113	23.5902821	New Number One				cafe				
+node	4126686789	-6.1176073	23.5885669	Ntakalu				nightclub				
+node	4126686790	-6.1173111	23.5877914	Tropical				restaurant				
+node	4688846709	-6.1216452	23.5859931	Club MIBA				bar				
+node	5000403869	-6.1173179	23.5901896	Espace Fimbu				bar				
+node	14363015601	-6.1237181	23.5873966	Le Coin Kavia				restaurant	10		Avenue Lukula	
+relation	68			Mikama	8		CD					
+node	9099208912	0.2624367	29.2539583	salle Kathasohire				restaurant				
+relation	69			Misha 1	8		CD					
+node	5246104065	-4.3699113	29.1530892	Restaurant Mtu ni Kula				restaurant				
+relation	70			Moanda	8		CD					
+node	5478633721	-5.9481544	12.3527996	Chez Bibiane				restaurant				
+node	5499377088	-5.9230857	12.3837636	Bali				nightclub				
+node	7105598399	-5.9385640	12.3570281	Restaurant APM				restaurant				
+relation	71			Mombele	8		CD					
+node	14063369218	-4.2546246	15.5758909	Nganda Yala				restaurant	144		Avenue Delmo	
+node	14063408331	-4.2557225	15.5760759	Jardin Eden				restaurant	12		Avenue Delmo	
+way	857573473	-4.2586222	15.5773966	La Sablière				restaurant	32		Avenue Sablière	
+relation	72			Mpatambalu	8		CD					
+node	8050861592	-2.2788514	18.3034997	beach				bar				
+relation	73			Muzebe	8		CD					
+node	5342598609	-4.1321549	29.2118320	Bar Karibu Some				pub				
+node	5342598611	-4.1321383	29.2118168	Restaurant Maman Nitiliye				restaurant				
+relation	74			N'djili	8		CD					
+node	3278282654	-4.3931960	15.3397953	musuja bar				bar				
+node	4769622686	-4.3898540	15.3726520	Espace Planète J				restaurant				
+node	4769629039	-4.3932100	15.3727540	Bar Cour Suprême				bar				
+node	4796297344	-4.3935320	15.3754950	Joli site				bar				
+node	4796298757	-4.3962610	15.3756460	Les Vieux Sages				bar				
+node	5765933152	-4.4071834	15.3479976	Bambier				bar				
+node	5766217769	-4.4057326	15.3579003	MPAMAT				restaurant				
+node	5767639400	-4.4020655	15.3528001	Bar Tout kin				bar				
+node	6560250007	-4.4221880	15.3294029	Les Palmiers				bar				
+node	6584228743	-4.3918970	15.3417180	Espace ONU				biergarten				
+node	8654966296	-4.3956610	15.3443949	Le prestige				pub			mulele	
+node	8820529638	-4.4127332	15.3802564	La Ndjiloise				restaurant			2e République	
+node	13685218603	-4.4148451	15.3741446	Philly ndombe				bar			Kibonoko	
+relation	75			Ndeke	8		CD					
+node	14308133620	1.0739009	20.0234926	Cercle DRC				bar				
+relation	76			Nguma	8		CD					
+node	5242870790	-4.6480620	29.1089912	Nganda Janvier				pub				
+relation	77			Nioki	8		CD					
+node	7296263285	-2.7225796	17.6893428	Chez MANU				bar				
+node	7296263385	-2.7207564	17.6880483	Chez MOZOR				bar				
+node	7783767585	-2.7257517	17.6880683	CACIA SODEFOR				bar				
+relation	78			Nkalamba	8		CD					
+node	9330411917	-0.4258995	18.2666105	Restaurant de lux				restaurant				
+relation	79			Nobili	8		CD					
+node	9734676813	0.6288192	29.9412347	Restaurant Umoja				restaurant				
+node	9734709155	0.6285968	29.9428224	Restaurant Gradi				restaurant				
+node	9735396906	0.6292514	29.9412488	Ishango				pub				
+node	9740861216	0.6291538	29.9411941	Ishango				pub				
+node	9741509577	0.6290762	29.9410747	Cafetariat la Frontière				pub				
+relation	80			Paiching	8		CD					
+node	6338269086	2.2803919	31.0794254	Groupes Producteurs Cafe GRAINS D OR				cafe				
+relation	81			Patambalu	8		CD					
+node	8050861789	-2.2218211	18.2969713	beach				bar				
+node	8050862087	-2.2101226	18.3011454	beach				bar				
+relation	82			Riviro	8		CD					
+node	8420551712	0.2773043	29.3280603	Buvette Marlique				bar				
+relation	83			Sakania	8		CD					
+way	1288768961	-12.7564036	28.4892476	Club				pub				
+relation	84			Sebele	8		CD					
+node	5115834192	-4.3118850	29.0456683	Nganda Bana bandale				pub				
+node	5115865703	-4.3131271	29.0427198	Nganda Dieu-Donné				pub				
+node	5115865706	-4.3121415	29.0430055	Restaurant Mungu Nipe				restaurant				
+node	13901978820	-4.3119096	29.0456492	Nganda Bana bandale				pub				
+relation	85			Talama	8		CD					
+node	5208278105	-4.9750278	29.1137772	Restaurant Rating house				restaurant				
+node	5351516680	-4.9750285	29.1137810	Restaurant Rating house				restaurant				
+relation	86			Tshikapa	8		CD					
+node	7227352886	-6.4274577	20.7913503	Restaurant des ministères				restaurant				
+node	9922267053	-6.4214195	20.7917465	Mik Mak				restaurant				
+node	9929960752	-6.4137620	20.7941043	Restaurant Vule				restaurant	39		Carrière	
+node	9947320055	-6.4163631	20.8016882	Village Emeneya				bar				
+node	9947320056	-6.4257130	20.7919937	Bon Soleil				bar				
+node	9961679607	-6.4087056	20.8146089	Mama Yao				bar				
+node	10004293632	-6.4150695	20.7855804	Cove Espace				bar				
+node	10006795747	-6.4111825	20.8110653	Chez Assurance				bar				
+node	10215004170	-6.4015726	20.8289985	Cantine de la paroisse				bar				
+node	10215004171	-6.3959787	20.8366060	Espace Mira D'or				bar				
+node	10220296111	-6.4146696	20.8185171	Mama Teté				bar				
+node	10795628257	-6.4162062	20.7936150	Plage Espace TATEM				restaurant				
+node	13330571191	-6.4225000	20.7922222	Restaurant Reina				restaurant				
+way	1076259332	-6.4176608	20.7996428	D'abord la santé				restaurant				
+relation	87			Ugongo	8		CD					
+node	6337599397	2.2191992	31.1437234	Au - Djegu  Grains D'Or Coffee Micro-Station				cafe				
+relation	88			Uvira	8		CD					
+way	197025564	-3.3804806	29.1430435	Boite de nuit Parc des Princes				nightclub				
+way	847587848	-3.3808374	29.1434980	Nganda Macroscopique				nightclub				
+relation	89			Village Kilomètre 5	8		CD					
+node	5478610423	-5.9791148	12.3759946	L'eldorado				restaurant				
+relation	90			Yungu	8		CD					
+node	5241351280	-4.8477928	29.1070171	Bar Restaurant				pub				
