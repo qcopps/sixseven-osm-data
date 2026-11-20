@@ -14,8 +14,13 @@ Town of each venue, in this order:
      distance weighted by importance (city 4, town 2, village 1);
   4. otherwise the nearest city / town / village, whatever the distance.
 
-Usage: python3 -I extract_country.py <input.osm.pbf> <out_dir> <code> <iso2>
+Usage: python3 -I extract_country.py <input.osm.pbf> <out_dir> <code> <iso2> [--venues=<overture.tsv>]
+  --venues : take the venues from this file (area/overture_venues.py) instead of OpenStreetMap; the OSM extract
+             still gives the country, the towns, addresses and roads, and its own venues are used to drop the
+             places OpenStreetMap already has (same or similar name within 150 m). Rows are written with the
+             type "overture".
 """
+import difflib
 import json
 import math
 import os
@@ -84,11 +89,48 @@ def area_polygon(a):
     return g if g.is_valid else shapely.make_valid(g)
 
 
+VNOISE = {"bar", "restaurant", "resto", "cafe", "coffee", "the", "le", "la", "les", "lounge", "club", "pub", "grill",
+          "and", "et", "n", "de", "du", "des", "hotel", "kitchen", "nightclub", "night"}
+
+
+def vnorm(s):
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    return " ".join(w for w in re.split(r"[^a-z0-9]+", s) if w and w not in VNOISE)
+
+
+def similar(a, b):
+    if not a or not b:
+        return False
+    if a == b or (min(len(a), len(b)) >= 4 and (a in b or b in a)):
+        return True
+    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.8
+
+
+def read_overture(path):
+    out = []
+    with open(path, encoding="utf-8") as f:
+        head = f.readline().rstrip("\n").split("\t")
+        for line in f:
+            r = dict(zip(head, line.rstrip("\n").split("\t")))
+            try:
+                lat, lon = float(r["lat"]), float(r["lon"])
+            except (KeyError, ValueError):
+                continue
+            out.append({"type": "overture", "id": r["id"], "lat": lat, "lon": lon, "conf": float(r.get("confidence") or 0),
+                        "tags": {"name": r.get("name", ""), "_kind": r.get("kind", ""), "addr:street": r.get("street", ""),
+                                 "addr:postcode": r.get("postcode", ""), "addr:city": r.get("locality", "")}})
+    return out
+
+
 def main():
-    src, out_dir, code, iso = sys.argv[1:5]
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    opts = dict(a[2:].split("=", 1) for a in sys.argv[1:] if a.startswith("--") and "=" in a)
+    src, out_dir, code, iso = args[:4]
     os.makedirs(out_dir, exist_ok=True)
 
     def kind_of(t):
+        if t.get("_kind"):
+            return t["_kind"]
         a = t.get("amenity")
         if a in AMENITIES:
             return a
@@ -146,6 +188,32 @@ def main():
     kept = [v for v in venues.values() if country.contains(Point(v["lon"], v["lat"]))]
     places = [p for p in places if country.contains(Point(p["lon"], p["lat"]))]
     print(f"venues inside {iso}: {len(kept)}; places inside: {len(places)}", flush=True)
+
+    if opts.get("venues"):
+        # Other source: keep its venues inside the country that OpenStreetMap does not already have.
+        lat0 = sum(v["lat"] for v in kept) / max(1, len(kept)) if kept else 0.0
+        kx = 111320 * math.cos(math.radians(lat0))
+        osm = defaultdict(list)
+        for v in kept:
+            osm[(int(v["lon"] * kx // 150), int(v["lat"] * 111000 // 150))].append((v["lon"] * kx, v["lat"] * 111000, vnorm(v["tags"].get("name"))))
+        other = [v for v in read_overture(opts["venues"]) if country.contains(Point(v["lon"], v["lat"]))]
+        fresh, dup_osm, dup_self, seen = [], 0, 0, defaultdict(list)
+        for v in sorted(other, key=lambda v: (-v["conf"], v["id"])):   # best-rated copy first
+            x, y, n = v["lon"] * kx, v["lat"] * 111000, vnorm(v["tags"]["name"])
+            cx, cy = int(x // 150), int(y // 150)
+            near = [(a, b, m) for i in (cx - 1, cx, cx + 1) for j in (cy - 1, cy, cy + 1) for a, b, m in osm.get((i, j), ())]
+            if any(math.hypot(a - x, b - y) <= 150 and similar(m, n) for a, b, m in near):
+                dup_osm += 1
+                continue
+            mine = [(a, b, m) for i in (cx - 1, cx, cx + 1) for j in (cy - 1, cy, cy + 1) for a, b, m in seen.get((i, j), ())]
+            if any(math.hypot(a - x, b - y) <= 60 and similar(m, n) for a, b, m in mine):
+                dup_self += 1
+                continue
+            seen[(cx, cy)].append((x, y, n))
+            fresh.append(v)
+        print(f"other source: {len(other)} venues inside {iso}; {dup_osm} already in OpenStreetMap, "
+              f"{dup_self} duplicates of each other; {len(fresh)} new", flush=True)
+        kept = fresh
     if not kept:
         sys.exit("no venue inside the country")
 
