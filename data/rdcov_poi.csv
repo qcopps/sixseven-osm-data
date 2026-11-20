@@ -1,0 +1,483 @@
+@type	@id	@lat	@lon	name	admin_level	postal_code	ref:INSEE	amenity	addr:housenumber	addr:postcode	addr:street	addr:place
+relation	1			Baringa	8		CD					
+overture	4094f867-5af8-40c3-8fbf-43236d5ffb81	0.7031073	20.7531738	Char and Chowder Restaurant				restaurant			182,	
+relation	2			Bauru	8		CD					
+overture	0ee036d0-1378-49ab-a6d4-f0b1a9d177cd	0.6666641	20.9833088	Marambá Frango Assado				restaurant		17030-026	Rua Galvão de Castro 1056\n	
+relation	3			Beni	8		CD					
+overture	56d8ad0c-b4ad-4caf-af87-3eafc1bd6253	0.5000000	29.4667015	Ishango				cafe			Boulevard Nyamwisi N° 51	
+overture	7cfc30e2-a22c-4313-ace7-2712553c409f	0.5000000	29.4667015	Peak Club Beni				bar			Boulevard Nyamwesi	
+overture	f41ac68c-ae58-40d0-89d5-407baf72be6b	0.5000000	29.4667015	Kwetu Partners Shop				restaurant			43e, Rwenzori Road	
+overture	3b4ae948-4d0d-4230-8ce1-9bad7bac8a45	0.5768438	29.4766846	Kwetu Partners Shop				restaurant			43e, Rwenzori Road	
+relation	4			Bogofo	8		CD					
+overture	a63754d0-6e79-4fe7-b3cf-4ab24e669d0f	3.5134208	21.0937500	Phoenicia Restaurant & Café				cafe		RDC	7ème étage de l’Immeuble Infinity Center : 17 C, Avenue Pierre Mulele sur le Boulevard 24 Novembre / Gombe	
+relation	5			Bukavu	8		CD					
+overture	8eced98c-6abb-4ea5-808c-6dcdd72eb537	-2.5053225	28.8588734	Brooklyn \n Bar-Resto				bar			68b, Avenue Maniema	
+overture	b772cb08-58a4-43ba-87c5-bebd7cc5faff	-2.5016303	28.8566360	Kin Elubu				restaurant		61	109 E.P LUMUMBA	
+overture	280c42a1-2084-421a-9729-16996d8f2502	-2.5068483	28.8607159	Kin Elubu				restaurant		00243	51 Av. Maman Yemo, derrière la DRNOFLU.	
+overture	509fc9cc-44bc-42b8-9d2f-a5fab7a6bafa	-2.4957705	28.8550701	Kiss Club Bukavu				bar			Av. P. E. Lumumba	
+overture	0530437d-9c0a-49f0-aaab-781402aefef9	-2.5205998	28.8532982	Kiss Club Bukavu				bar			Av. P. E. Lumumba	
+overture	e3d775e0-0f22-457f-8abb-c67d0dbeeaba	-2.5205998	28.8532982	Steakhouse Bar & Grill				restaurant			Avenue Fizi	
+overture	cdd8a9fe-42e2-4f91-8ee3-efc4e5567670	-2.5205998	28.8532982	GLASS - Resto Bar				restaurant		No51, Avenue Inga, Kadutu (en face de Kadurhu, Lycée Wima)	Bukavu - RD Congo	
+overture	fb559198-b81c-411d-bfbc-b9e23b0f934f	-2.5042293	28.8675499	On The Rocks Club				bar		32221	Derrier Lamane, Rond Point Mobile	
+overture	a097ff89-5ed0-44ca-b728-6f60eed18457	-2.5000000	28.8667011	Cosmo-Koweit				restaurant			MUHUMBA	
+overture	aae5f047-48f5-45a1-b640-caff08d5dfdf	-2.5053225	28.8588734	Ets KANIL				restaurant		250	05, Avenue MANIEMA, IBANDA	
+overture	50f11c21-292c-46b6-a872-30dbea68af63	-2.4977828	28.8761024	Wendy's Bar				bar		00243	Muhumba	
+overture	cccd29ed-cb7b-4f27-be21-858095ca66a5	-2.5039107	28.8683777	Rocks Club DRC				bar			Rond Point Mobile Derrier Lamane, Bukavu, Sud-Kivu	
+overture	a56ec06a-4ce2-4f8e-806c-681e51854d3d	-2.5036490	28.8562241	La Martina Restaurant Bukavu				restaurant		+243	AV. KASONGO N° 2	
+overture	1b3ea9cc-cb3b-43db-90c8-b8e56baebc29	-2.5000000	28.8667011	La Martina Restaurant Bukavu				restaurant		+243	AV. KASONGO N° 2	
+overture	0792b0a6-101a-43f4-8475-e5e237527ef2	-2.5000000	28.8667011	Kiss Club				bar			P.E Lumumba, Feu rouge	
+relation	6			Bunia	8		CD					
+overture	d66135a5-c924-4712-a95f-e0c39d095955	1.5664724	30.2467842	Gold Star International Hotel				restaurant			Av. du MArché	
+overture	5fa23d49-3172-460e-82b4-8df54f654e7e	1.5666701	30.2500000	PLACE MOLOKAÏMopep's				restaurant				
+overture	86f5cc85-8708-43f7-ac07-caf0f5bc89ca	1.5563883	30.2478046	PLACE MOLOKAÏMopep's				restaurant				
+relation	7			Durba	8		CD					
+overture	90c11a4d-ab58-4713-a9ab-f26512dacfeb	3.1164861	29.5843506	King Park Hôtel				restaurant		+243 993 282 594\n	Q. Kokiza village juste après lavage des motos premier boulevard à droite venant du côté marché Duembe Ref. Briqueterie Feni.\n	
+relation	8			Etoko	8		CD					
+overture	f7ecf260-6450-4b20-a324-272bcbf2a13f	-3.9395671	25.6627808	ZING Sky Bar Hyderabad				bar				
+relation	9			Fungurume	8		CD					
+overture	beaa87b1-3264-4ae1-84fd-d63cbd6f2057	-10.6166992	26.3000011	The Best one				restaurant			route:kamsolondo numero 05	
+overture	79aac328-8314-4c1f-bfb0-11d9f4fde0b6	-10.6161942	26.3173256	The Best one				restaurant			route:kamsolondo numero 05	
+relation	10			Goma	8		CD					
+overture	4e93e0aa-63c1-4414-906c-19be222db688	-1.6899894	29.2391205	The Saloon Goma				bar			AVENUE KANYAMUHANGA corner RUE BDGL	
+overture	5075cfc0-a2eb-493f-9cab-38c9777b632d	-1.6791699	29.2228012	Kashal Plazza				restaurant		00243	023, Av. Bunagana, Q. Katindo, en face de la MONUSCO RVA	
+overture	9cf15240-6bcf-43dc-8b49-ac869034fc1a	-1.6982230	29.2432308	Top Five Group ltd				restaurant			Av de la Corniche 005	
+overture	d2c4f5a2-2576-4d53-9808-b1abc9ff68d6	-1.6979350	29.2392635	Top Five Sport Club/Goma				restaurant			Av. de la Corniche 033	
+overture	ff6b1f88-d3c5-468c-85ea-2bacd4e36096	-1.6225654	29.1466751	Top Five Bistro VIP				restaurant			Q.Lac Vert	
+overture	d1d76ab5-36ee-4cba-978b-0218a75728cf	-1.6955141	29.2332249	Bamako chef Café Restaurant				cafe			Avenue revolution	
+overture	a4136e5e-3679-41fb-8ee5-e5be6d862227	-1.6883162	29.2383041	Kivu Lava Center				restaurant			Boulevard Karisimbi	
+overture	c7ad1d96-3dbc-445a-94a8-5d77aa844ff9	-1.6833299	29.2333012	Resto Bar le Petit Bruxelles				bar		+243	Av. des Rond-Point des Banques n°001/172 en face de l'hôpital MONUSCO	
+overture	8ccc1952-4e69-4e1f-bd69-38fa5819148d	-1.6833299	29.2333012	KCTA GIE : Kivu Coffee Trading Agency				cafe			Adresse Principale: Goma, Av. du Lac, Q. Katindo. Adresse Secondaire: Localité de Tchofi, Territoire de Kalehe, Province du Sud Kivu. ITURI, TERRITOIRES D'IRUMU ET MAMBASA, SPECIALEMENT DANSA CITE DE KOMANDA, QUARTIER BASE	
+overture	57628688-9e89-4a25-b921-426f18616b34	-1.6512551	29.2110424	Maître Cube lounge bar				bar			RD Congo Goma, République Démocratique du Congo	
+overture	aa37f65f-a8b4-4af6-bbd5-65d5dc09b2bd	-1.6717514	29.2293129	Cafe Club Phenix				cafe		1234	COMMUNE DE GOMA/Quartier LES VOLCANS	
+overture	d7574efd-4b5c-4b22-98c2-f9c34418680d	-1.6899201	29.2379990	Garden BAR				bar		00243	Grand lac GOMA	
+overture	fceb19f2-aa3b-4a0f-8cd3-aaceb83cee66	-1.6791699	29.2228012	Cafe Club Phenix				cafe		1234	COMMUNE DE GOMA/Quartier LES VOLCANS	
+overture	0c1119ff-bfc1-48cc-b1f5-1a02c4ca23b1	-1.6833299	29.2333012	Espace Vingt Sur Vin				cafe		00243	Boulevard Kanyamuwanga, Quartier des Volcans, Annexe Hôtel des Grands Lacs	
+overture	a1f5b197-57e7-4aaa-8bd4-168aff5270b2	-1.6791699	29.2228012	Astronaute Goma				bar			Goma, Himbi	
+overture	b8892937-bd9b-46bd-8d67-03e5858ddf7b	-1.6951358	29.2340050	Laliga Lounge				bar			14 Av. de la Corniche	
+overture	ad4d0d3c-87a0-43dd-96bf-57e1dbd836a2	-1.6801565	29.2356644	Nyumbani Café Goma				cafe			Institut Français Goma / Halle Des Volcans	
+overture	e4d9a1a2-4268-4fde-b8fc-52783f0aa33e	-1.6916399	29.2325783	Freedom plazza				bar		248	Av. du musée	
+overture	45653e9c-faa6-472f-ac80-c65ad7f57c5d	-1.6199001	29.1476364	La Kwanza House				restaurant			94JW+864 La kwanza house/Mugunga, Keshero	
+overture	f1f27737-8b2d-4737-bb65-57e25e482d68	-1.6880659	29.2351589	Salt and Pepper Restaurant				restaurant				
+overture	0069c3aa-8cd2-4653-90a7-4a1023155743	-1.6791699	29.2228012	La Calebasse				restaurant		6110102	08 avenue Des Musées	
+overture	09af13f4-445b-4cd8-86e1-82f8cd0dd952	-1.6982393	29.2375221	Bar-Resto Sous le Soleil ""				bar			GISENYI CENTRE	
+overture	c317cdd8-e6a1-4547-8643-cd9c7301bc0d	-1.6791699	29.2228012	Paradise Resto - Bar				restaurant			Avenue des messager	
+relation	11			Kalemie	8		CD					
+overture	83f0be6e-3b63-4b6a-bf76-d76cb87e41cb	-5.9138126	29.2049484	Aquarius				bar			168, Avenue industrielle	
+overture	2a589528-7b20-4ffc-9b9f-1cd91a9e79fa	-5.9012237	29.2197399	Chance Business Village Lubuye				bar		0000	Kalemie, Boulevard Lumumba, Entrée kichanga juste après le pont Lubuye	
+overture	59579178-0fb8-41c2-8cc9-193ee7b77f6a	-5.9333296	29.1999989	Restaurant Saint Benoit				restaurant		N/A	Avenue Lumumba	
+relation	12			Kananga	8		CD					
+overture	9d9bbd0d-12a5-4d07-a342-84039ec09b89	-5.8970003	22.4488010	和バル Peek-A-Boo ぴーかーぶー				restaurant		2110041	下小田中1-6-19	
+relation	13			Kazadi-Mbumba	8		CD					
+overture	b63e6310-1c91-4511-95d1-6d521ac71eae	-6.1000004	23.0332985	Rehoboth Food				restaurant			12 Avenue de la plaine Quartier Ville basse Commune de Matadi	
+relation	14			Kiano	8		CD					
+overture	c81c32cb-eb07-4cdf-9f5f-17d11e4e18e7	-5.9333296	25.7832985	Barbecue Tao-Tao				restaurant			Plage de la Rivière de Lulua bena Mande	
+relation	15			Kilamba	8		CD					
+overture	d9167cf8-78a4-43dd-957f-c5ab90d9b022	-5.4678097	19.1230192	Cerrado				restaurant		244	Rua Amilcar - Kilamba	
+relation	16			Kimpese	8		CD					
+overture	713f88dc-0cdd-4307-83ab-078652f00b83	-5.5614965	14.4496260	Noor Taj Village - NTV				restaurant			Av.Makundia No2, Q/4 ref en face de GRAFOD	
+overture	95687aca-3ffa-45dc-bc9e-2f45aaf1bf08	-5.5499997	14.4332991	Hotel Poulet-Show Kimpese				bar		030303	Avenue Kilueka 12-14	
+overture	9f1f157f-730b-42f8-bca0-15f03f75612a	-5.5639596	14.4380007	Lufuma-Salle de réception				restaurant			Masamuna	
+relation	17			Kinshasa	8		CD					
+overture	97e132a8-0769-4ba2-97ae-21a165adc249	-4.3036821	15.2990141	Restaurant d'Vins				restaurant		Gombe	Croisement Av. de la Mission et Av. Kalemie	
+overture	0f04b4d7-985f-45ce-a8b2-2747409e2dec	-4.3007939	15.3087425	Chacha Bar				bar			4 avenue du port , Immeuble Forescom	
+overture	24e979d4-a504-4e05-8da7-3e44d7521006	-4.3456790	15.2863646	Métro Bar				bar		+243	Inga 1bis avenue Inga réf croisement kasavubu et inga	
+overture	5b7c6ee9-28c3-481b-a46d-1f189f197fe7	-4.3055079	15.3227463	Tandoor Grills & Curries				restaurant			Modern Paradise 8225 Av Kabasele Tshiamala Joseph (Ex Flambeau), Gombe	
+overture	80b4a2cf-ca8f-4ec7-9557-377f5910d0fc	-4.3054349	15.3100510	Firengui Resto-Bar				restaurant		012	34 Colonel Ebeya	
+overture	dbf956dc-e8bf-40e3-8311-15f03f596d97	-4.3069417	15.2784157	The First MK				restaurant			2 Ave Okito, Gombe	
+overture	f3cbc813-86dc-4e0a-8294-b7b7b309291d	-4.3347507	15.2777777	PIMA Bar Officiel				bar		243	369, av. Mbanza - Boma	
+overture	45c3014a-5a70-4166-a276-63def5d2b95c	-4.3135402	15.3094006	Chacha Bar				bar			4 avenue du port , Immeuble Forescom	
+overture	58ecfb10-01a9-4335-8f7f-2e341f49c35b	-4.3054311	15.3100567	INDUS Resto-Bar				restaurant		<<not-applicable>>	Indus Resto-Bar 34 Colonel Ebeya	
+overture	b9abf0ec-62f0-482f-841f-1eb1c8b7955f	-4.3053863	15.3041382	Big Boss Lounge				bar		001	8943, Boulevard du 30 Juin	
+overture	cfd1ccfd-d062-42ea-bc11-41490280d951	-4.3355002	15.2575512	Palms by Nina				bar		24302	3 Ave Devinière	
+overture	8ce242fb-4c63-4fbe-aa3b-5141aacabe9f	-4.3113601	15.2873116	110 Street International Diner				restaurant		B.P 7955	110, 1113 Bd Du 30 Juin	
+overture	92240e31-c839-4292-91c9-0ff18635e2c4	-4.3028653	15.3083267	Black Gold - L’or Noir				bar			7/3 avenue de port	
+overture	a7f9e9c5-8e68-4df7-ad5d-48d61e209763	-4.3022625	15.3105555	Wabi Sabi Kinshasa				restaurant			10 Avenue de l'équateur, Kinshasa Gombe	
+overture	b65a5140-886e-4ee4-8120-ef5ac50b692b	-4.3038051	15.3027058	Fondue & Fondue				restaurant		01204	707 Avenue Colonel Lukusa	
+overture	cf507e59-8eb0-4726-820f-202c3847d1ec	-4.3016431	15.3136797	Le klub lounge bar Kinshasa				bar		00243	8 Avenue Isiro, C/Gombe, Réf : Derrière sozacom	
+overture	ce1dd7df-5dbc-408f-9407-71c7db859759	-4.3050606	15.2903910	Restaurant Chez Gaby				restaurant		00243	Avenue Roi Baudoin N -26 GOMBE	
+overture	44f605f6-b7f3-4e78-a037-dbf4e1cba05e	-4.3019922	15.3119812	Champagne Lounge Bar				bar		KIN243	179 avenue de la paix, GOMBE	
+overture	46f5c35c-c082-49eb-aeeb-37d26985e3c3	-4.3307283	15.2533922	Diamond's Place				bar		24302	33bc Avenue Kilimani	
+overture	ac8538ad-e1f3-46de-9795-fbc1e3a24648	-4.3241982	15.5315914	La Sablière				restaurant		<<not-applicable>>	32, Av Sablière, Q/ Mombele, Village Kindobo, C/ N'sele (à 500m après le mausolée Étienne Tshidekedi).	
+overture	afe2f405-6acb-4be0-8f77-9ba1648763ba	-4.3526897	15.2621994	Maman Colonel				restaurant		1015	Avenue Ring	
+overture	0646cddc-781d-408b-a317-14be416a917b	-4.3185570	15.2745123	Caprice				bar			Avenue Del'Uganda Kinshasa	
+overture	226550c8-5f87-430d-ad28-07ae57ca409f	-4.3035214	15.3057919	Flamboyant Restaurant & Lounge				bar		00004	14,Av De La Mongala, C/Gombe, Réf : Ex Mambo, Kinshasa, RDC	
+overture	247598e9-a4a7-4655-8dcb-19646cb627d4	-4.3307359	15.2587557	L'Atypique				restaurant		1901	N°, Q/BASOKO C, 12 Av. de L'avenir	
+overture	629f9ede-3b27-4265-a07f-4c0879e563af	-4.2985032	15.3112650	Sea Food RDC				restaurant		243	n° 9 et n° 19, Avenue de l'équateur	
+overture	805f201b-144b-40db-9ae0-cdad2a0c121b	-4.3064454	15.2960405	Millionaire Club				bar			72B, Boulevard du 30 Juin	
+overture	b510b66f-066f-4795-b583-351a3c9ffbce	-4.3187749	15.2745943	Maison Kayser Boulangerie				restaurant			"Kin Plaza mall, croisement avenue de la Justice et avenue de l'Uganda"	
+overture	d07f7836-9d1e-4ef2-a388-98c01425fdc9	-4.3038893	15.3038769	Cercle elais kinshasa				restaurant		243	Colonel Lukusa 15, Kinshasa	
+overture	f95f5c98-6d92-4195-b854-cf0b91c91d92	-4.3053539	15.3020658	Green Olive				restaurant		012	Bd Du 30 Juin	
+overture	0e7aa5a6-d25d-4ad4-818d-4cb403b6e3f1	-4.3095944	15.2981682	Restaurant INZIA Kinshasa				restaurant			avenue Cadeco 6, commune de la Gombe/ place des évolués	
+overture	17cce7c2-6c14-4a45-8f04-9b90ac4129fa	-4.2563622	15.5488300	Safari Beach Resort, N'sele - Kinshasa				restaurant		1	N'sele	
+overture	32e26d5f-53a9-4f9d-8e4d-5a9ae029a8b6	-4.3157370	15.2855225	Spirit Club & Bar-B-Q				bar		001	9, Avenue Kauka, Gombe	
+overture	bfb02b10-fe8f-4271-bae9-f8e0006a0695	-4.3012433	15.3083963	Chez Ntemba Kinshasa				bar			Ave Colonel Lukusa	
+overture	cd2d2426-3146-4998-90d3-99f6f125cbf9	-4.3060791	15.3039112	Village Royal				bar				
+overture	fb0eecf3-d5eb-4b57-a129-0af14f9b87dd	-4.3071449	15.3150959	Noor Taj Village - NTV				restaurant			Avenue Liboke no 1 , Q/Salango C/Limete (Ex Wavila )	
+overture	1a08a938-4522-4596-a096-eeeffde51cdf	-4.3000000	15.2999992	Espace VERT				restaurant		CD	07 AV. Tshilombo Kinsuka Pecheur/ Arrêt Pharmacie	
+overture	2191afea-9ee1-4667-b338-43af890a270c	-4.3261974	15.2856178	Pigeon vert Lounge Bar				bar			av. INGA n°1 C/ BANDALUNGWA	
+overture	3fc499dc-0ce8-40c3-b0c7-be7f8c605e9e	-4.3135402	15.3094006	Le Baron				bar		243	44B, Avenue du Livre - Réf : En face de l'Hopital Médecin de nuit	
+overture	54c0ab56-4bd9-4ce6-805e-ab1302f832ef	-4.3064761	15.2913895	Amen - Moi à la Montagne				restaurant		CD	14, Avenue de la justice, Gombe ref: maison communale de la gombe	
+overture	cc3a5387-ccaf-4192-bbcb-56362d7acb4f	-4.3362582	15.2541142	Diamond's Place				bar		00243	kilimani, 33, BC, Kintambo	
+overture	f2c270b7-56bf-4084-adcd-128b7b080791	-4.3063791	15.3027802	Le Baron				bar		243	44B, Avenue du Livre - Réf : En face de l'Hopital Médecin de nuit	
+overture	3845c72e-95a6-41fd-995b-2d375570df93	-4.3127277	15.2851572	K Lounge				bar			124 , boulevard du 30Juin	
+overture	4b4ec1ce-1d43-4043-9bf8-d50ee1db0ee5	-4.3135402	15.3094006	LE jardin miracle				restaurant			gombe, revolution, avenu de marché, centre ville kinshasa, derrière la poste	
+overture	527c455e-2dde-4ad0-9773-7f200a0abf2c	-4.3053200	15.3086243	LE jardin miracle				restaurant			gombe, revolution, avenu de marché, centre ville kinshasa, derrière la poste	
+overture	5400f999-493a-4065-9e3e-da7b7d6a56cf	-4.3180888	15.2861414	Pizza Inn Kinshasa				restaurant			Croisement des Av. Des Forces Armées et Av. de la Gombe Kinshasa, République démocratique du Congo	
+overture	8b67a2d1-ad5a-4f8b-915a-0d6bb8a91af1	-4.3192906	15.3051176	Lounge_Bar_Planète_J.Socimat				bar		012	Boulevard du 30 juin Proche de l'ambassade de France et de la station essence - Rond point Socimat Gombe - Kinshasa, Socimat Avenue Adama.	
+overture	94f7e38a-8c70-45c1-837b-1e50da25318d	-4.3264749	15.2959671	Big Bite				restaurant			N° 16, Avenue 24 Novembre, Croisement des Avenues Prince de Liège et la Libération Immeuble Congo Loisir, En face d’Assanef vers le Saut de Mouton.	
+overture	b280ab86-2a7c-4256-ab04-0f1ef9026b2c	-4.3153312	15.2797937	Restaurant La Villa Tricana				restaurant				
+overture	ed04f60d-93fc-4317-b514-862722aecdd4	-4.3899558	15.4460535	Salon VIP N'Djili International Airport				bar				
+overture	eed894d3-9bfe-47cc-a185-2dbd1586a727	-4.3087165	15.3029461	LE TABOU Kinshasa				restaurant			Avenue Tombalbaye 1148 A - Gombe	
+overture	0e13acab-caf4-4b43-88ad-bb7b29ec1015	-4.3227127	15.3050346	Le festin bar				bar		+243	Avenue : aketi, numéro : 175, commune de lingwala, référence huilerie \n	
+overture	202f21fa-822b-4c98-9fb3-5e0258404acf	-4.3332922	15.2796860	Platinum Café				cafe			Musee National de la RDC, 4422, Blvd Triomphal	
+overture	396b9ec1-c9d1-4a36-8639-ac731351c080	-4.3353975	15.2991867	Platinum Café				restaurant		1015	Boulevard Triomphal	
+overture	4f668073-3e6b-4691-b22f-6c16a9f59b61	-4.3027937	15.3121643	Hunga Busta				restaurant		24	Avenue des aviateurs	
+overture	61863892-1c4c-4e4d-85f1-46702d2d0c1d	-4.3007138	15.3085403	Blason.Kinshasa				bar		012	1358 Avenue De La Douane	
+overture	62491349-30a5-4a40-86e9-94b00d8180a7	-4.3465657	15.3017187	Restaurant 40-45				restaurant		1015	75A Ave De La Force Publique	
+overture	6401c8f7-09c2-4c9c-8a05-3a6050873f47	-4.3416359	15.3140907	Central Bar				bar		1015	03 Ave Badjoko	
+overture	cc03c36c-71e8-4193-b91c-bcafd21c3401	-4.3430169	15.2765999	Le Rooftop Bandal				bar		<<not-applicable>>	M74F+GQF, Ave Kasa-Vubu, Kinshasa, Congo-Kinshasa	
+overture	cfdcf282-a8c4-41bc-9cfc-f267e539483b	-4.3349426	15.2688112	Blason.Kinshasa				bar		012	1358 Avenue De La Douane	
+overture	e425d2ef-5e0a-44e6-abad-4df145487ec2	-4.3065774	15.2893343	Adonic Center				restaurant		CD	5, avenue cadeco, commune de la gombe	
+overture	23e20848-d115-4352-9610-9f0ba552a8de	-4.3488986	15.2839537	Le Central Bar				bar			A3, Badjoko, Rond-point Victoire	
+overture	820dc887-db4a-4929-8934-90b6dc48a627	-4.3231857	15.3070507	Le 155				restaurant		+243	kalembelembe n°155	
+overture	95df96c7-82f1-4243-bfeb-8c5eaaebdedd	-4.3047292	15.2903366	Restaurant 40-45				restaurant		243	75A Avenue Force Publique, Kasa-vubu	
+overture	9f11802c-7bff-4d44-a98d-d6f01817cfb6	-4.3153722	15.2822161	Natka hôtel restaurant				restaurant			Nº 165 Blvd. 30 juin / Gombe	
+overture	bd47e79e-7bb1-4ef5-90cf-71ab05cfd221	-4.3022554	15.3103819	Restaurant Patisserie Merveilles				restaurant		00243	N°25, Avenue de l'équateur Commune de Gombe	
+overture	d7620541-1370-44b2-ad05-c062a0c4da33	-4.3169467	15.2787056	Patachoux Kinshasa				restaurant				
+overture	f87d98dd-1cfa-4977-a7b2-459cc5147657	-4.3000000	15.2999992	Amen - Moi à la Montagne				restaurant		CD	14, Avenue de la justice, Gombe ref: maison communale de la gombe	
+overture	ffc171c8-86c3-455d-94c0-3502702ca7ca	-4.3135402	15.3094006	Lounge_Bar_Planète_J.Socimat				bar		012	Boulevard du 30 juin Proche de l'ambassade de France et de la station essence - Rond point Socimat Gombe - Kinshasa, Socimat Avenue Adama.	
+overture	0b2cdddb-0d6b-4558-91cd-53efffb727ab	-4.3135402	15.3094006	Le Chalet				restaurant		243	Quartier Imo Congo, Avenue Mangenge, N°09, C/Kalamu /Ref : Faculté Catholique/Première Rue Limete	
+overture	3b9d0199-7b64-4c3c-9d60-dd3e09bb292c	-4.3196490	15.3294773	DFC Restaurant Rapide				restaurant		BP3307	261 Av. Kabasele Tshamala	
+overture	62fa5574-a844-465c-b22d-a45a2b8b57ad	-4.3135402	15.3094006	Le Waterloo 7/7				bar		01204	Avenue de la Gombe 311	
+overture	8e802b51-d512-42b6-8a35-57f893031d29	-4.3523424	15.1977062	Golden plazza				restaurant			avenue omedji 7 quartier cpa_mutshie, localité matsungu, commune de mont-ngafula. référence: arrêt église kimbanguiste ou arrêt pharmacie sur la route de mbudi	
+overture	a2ad343c-6537-4447-b809-50bb6f7b7e2d	-4.3213553	15.2792282	La Villa LM				restaurant			03 Av. Milambo Q/Socimat C/Gombe	
+overture	c6974a7d-8259-4f6c-a12d-0cc0e21c6148	-4.3518264	15.3312607	Platinium Lounge				bar			7eme rue limite résidentiel	
+overture	0fbbfa54-a21c-4859-b9c7-600c45bd6c4c	-4.3451686	15.2863293	QG Agency Exclusif				bar				
+overture	37260876-24a5-4fec-904d-ea19f19f13ad	-4.3154843	15.2830772	Royal Garden				restaurant		01011	avenue Likasi, Commune de la Gombe/Place Royal Réf. DGDA ou en face du supermarché SK.	
+overture	65663f25-7b44-4b65-8546-554d6bd364a5	-4.3374388	15.2571316	KINTACOS Monfleury				restaurant		24302	16 Ave Devinière	
+overture	86949f86-736e-4282-b73c-0839bb08f90f	-4.3149312	15.2913303	Phoenicia Restaurant & Cafe				restaurant			Avenue De La Liberation	
+overture	91f98cc0-0218-47cd-ad29-48b8e9c8338e	-4.3239362	15.2848473	Restaurant Chez LuLu				restaurant			4336, Av Prince de liège, Quartier Révolution, Commune de Gombe	
+overture	b6c7fac1-72d1-4ba6-bdab-a8f2a490142c	-4.3435211	15.2750797	VIBE Lounge kin				restaurant		<<not-applicable>>	104,KASA VUBU	
+overture	d06c019e-ea7d-4fe5-9ea7-41793e7a11c5	-4.3135402	15.3094006	QG Agency Exclusif				bar				
+overture	03e827f5-ffe7-4432-8f05-193ccb170a66	-4.3424656	15.2778072	Klub les deux				bar		00243	50 avenue Kasa-vubu	
+overture	1ef5c1af-1504-4b77-abe1-38e31079bb00	-4.3135402	15.3094006	KinTacos				restaurant			10, de l’avenue LOANO, commune de Ngaliema. Référence : en face de l’entrée Mont-Fleury	
+overture	f81b4a44-9f98-4626-a644-008d1ccd5334	-4.3056676	15.3044672	Village Royal				bar				
+overture	1eb8d82d-bb9b-468e-9336-400ecd1fbeb8	-4.3000000	15.2999992	Quickfish Fumbanaise				restaurant		243	Rue Allee verte\n , place commerciale joli Park\n	
+overture	2ce20157-8a1b-4dab-a78b-2a81748922d2	-4.3951895	15.3228741	K-zy Group				restaurant		<<not-applicable>>	Commune : Limete, 29, Avenue de l'Université, Quartier : Malula	
+overture	d955df50-3545-4a1b-b934-21e057753336	-4.3852863	15.3688498	K-zy Group				restaurant		<<not-applicable>>	Commune : Limete, 29, Avenue de l'Université, Quartier : Malula	
+overture	e590c7b3-ffb3-49d7-94a4-31ea579b9440	-4.3037245	15.3027020	Meat The Cheese				restaurant		012	Ave Lt. Colonel Lukusa	
+overture	fb66887f-ed60-4d00-a4fa-1714a6a68fef	-4.3054149	15.3268633	Quickfish Fumbanaise				restaurant		243	Rue Allee verte\n , place commerciale joli Park\n	
+overture	0ccf1ee8-10f6-458e-8f78-1695c1fcbbf1	-4.3359535	15.3435955	Firenze : Pâtisserie / Bar Kinshasa				bar			Avenue Tabu Ley, (ex Tombalbaye) numéro 62	
+overture	2b7061f1-46bd-4072-8d2e-842993722cf3	-4.5098021	15.5218325	Tayash Lounge Bar				restaurant		9918	Avenue Bangala 413 Kintambo	
+overture	4192208d-ef22-4e0c-8cb1-c429da78051c	-4.3898122	15.4458380	Business Lounge				bar			N'Djili International Airport	
+overture	5d8dd124-c911-4008-8d11-949810d92459	-4.3815100	15.3341131	Espace chez Théo				restaurant			AV/ bangwelo n•46 lemba super	
+overture	6e68e662-0233-41fb-a1b7-9f00e017702a	-4.3467724	15.3117151	Food Bar				restaurant		1033	9, avenue Eléphant Q/Résidentiel 2ième rue Commune de Limete	
+overture	ac0c6678-4590-45cc-b3eb-26ec09d62e85	-4.3389843	15.3256159	Le Chalet de Kinshasa				restaurant		1015	Q/Imo Congo En diagonale de l'Université Catholique au Congo, Av. de l'Université	
+overture	e8f54e05-73ef-4b46-8f48-815d082c88a0	-4.3301713	15.2541027	The First MK				restaurant		00243	2 Ave Okito, Kinshasa	
+overture	ff07d85c-70ab-4893-b520-95da152238f2	-4.3092244	15.3229675	Standing Club Kinshasa				bar		682	Av. du Syndicats 315 C/Gombe, 682 Kinshasa	
+overture	57a25f31-da22-498f-b8b2-1e5c1a447cd0	-4.3146088	15.2804165	La Bodeguita				restaurant		B.P 7955	81 Av. de la Justice	
+overture	587d6c06-53d0-4144-aa7b-ede393fa6b06	-4.3064086	15.2894297	Bilengi bio				bar			5 avenue Cadéco, commune de la Gombe Réf :place des évolués	
+overture	88211d63-b2ff-4a6b-95be-e8094e662e1e	-4.3133218	15.2822714	Lecloud				bar			avenue de la justice 5448	
+overture	89a1c621-947e-4184-985a-df60a7d8c4bf	-4.3224862	15.2726498	Paradise Restaurant & Sushi Bar				restaurant		243	272, Av. Colonel Mondjiba C/Ngaliema Réf : En face d'Utex Africa, à côté de ShowBuzz	
+overture	cfc6a187-0f2a-4be9-b342-2c58f53e1a7d	-4.3165967	15.2864838	QuickPoulet				restaurant		Gombe	25 Avenue des forces armées	
+overture	f0b3b725-5e3f-41be-9fbf-cb25bf8752ca	-4.3200891	15.2742758	Planet J Socimat				pub				
+overture	875ab824-62f9-4b38-8885-1f855033cd0f	-4.3162076	15.2729816	Villa Kilimandjaro				bar			36, Avenue des Cliniques	
+overture	8a49bd83-fc1c-4c06-9aa4-b356ee64ea7e	-4.3135402	15.3094006	StandBy				cafe			10, Avenue Wagenia	
+overture	8d2a970b-3819-4205-b877-559a4ecc59ef	-4.3665590	15.2455835	Village Molokaï				bar				
+overture	96b74e2d-cc48-4c6d-900b-674093514b50	-4.3269837	15.2677126	Sokin Agro-alimentaire				restaurant			134 Avenue Colonel Mondjiba .Ngalima	
+overture	9fc5caf9-1928-4a67-af7d-f0fd776c6f7c	-4.3495624	15.2096138	𝐔𝐧 𝐜𝐡𝐨𝐞𝐮𝐫 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐜𝐨𝐞𝐮𝐫				restaurant		243	Avenue Lisala n°3 Pompage Q/ Mama- yemo	
+overture	b535dfdf-9b76-4492-b9b8-541bd1af5f76	-4.3028905	15.3107796	Restaurant Hamburgers de Kinshasa				restaurant			39 Boulevard du 30 juin en face de la banque BCDC	
+overture	bf4039c7-f43a-4389-a468-5bba9931b2e8	-4.3170450	15.2880974	Le Rubis				restaurant		00243	2, Av père Boka ( réf: sacré coeur, lycée bosangani)	
+overture	ca25ee0a-4144-4d32-933f-f6213d6a9d13	-4.3182428	15.2860804	Food Court Kinshasa				restaurant			Croisement des Av. Des Forces Armées et Av. de la Gombe	
+overture	f72ee5a7-666c-4575-95e5-781444fc7757	-4.3058994	15.2940826	Le Pain Quotidien				cafe			02, Av.Justice, Kinshasa/gombe	
+overture	17a2e3e2-43fa-4abd-9916-ca405003745c	-4.3059967	15.3232985	Fiesta Club				bar		7759	8225 Av. Kabasele Tshamala	
+overture	2b563b46-f488-420a-b3fa-02aa391281e3	-4.3535640	15.2367086	K29				bar			Kivuila 29, Q/ Mfinda, C/ Ngaliema	
+overture	3483aa54-347d-4f6e-bf2f-03db8a97c8e8	-4.3094718	15.3242016	Hôtel Idéal 24				restaurant			Limete quartier industriel, sur 20424	
+overture	3681fe5e-0ecf-4d40-9bd7-fb8e2178ec18	-4.3041713	15.3118629	Steers et debonairs pizza				restaurant				
+overture	ded48a12-46b8-4140-b76c-208ab0908047	-4.3259299	15.3103514	Tacos Land				restaurant			Avenue Kalembe-lembe	
+overture	f41ca180-68e1-4749-bb1e-29463520659d	-4.3296168	15.3026905	Restaurant Beaureve Kin				restaurant		LINGWALA	+243 975652724 01 croisement mushi et de la paix sur Beau vent Lingwala Derrière le palais du, Peuple	
+overture	a1a085ec-0688-4946-8640-92ab91242a64	-4.3092115	15.3026924	Reine de la paix - Restaurant				restaurant			Avenue Gombe, Kinshasa, République Démocratique du Congo	
+overture	d9a1ed4d-6eb7-4ef6-901d-6441f4dd116e	-4.3066227	15.2959261	Cafe Muzik				cafe				
+overture	ed1f5609-7ea0-47bd-b702-db4a0ffb7159	-4.3352292	15.2582426	Facebook Restaurant				restaurant			Av. Kasavubu No.7, Commune De Ngaliema, Ref. Kintambo Magasin	
+overture	403770cc-b522-4a47-9ec2-1de75e806589	-4.3045897	15.2860889	Chez Gaby				restaurant			Avenue Roi boudin	
+overture	5a124ccd-b142-43d5-8e83-ba23ae628c1c	-4.3056319	15.3100023	Rubbys institute Kinshasa				pub		243	14, avenue de justice / kinshasa-Gombe	
+overture	851f0472-15db-45c5-b03b-5296d1884857	-4.3046901	15.2996092	Pera Resto Drink				restaurant			Avenue Colonel Lukusa No: 6113 Le Premier Shopping Mall 2. Etage KINSHASA Congo	
+overture	a9a72e0a-bd51-452c-9b3a-3eac73b8c778	-4.3135402	15.3094006	Hôtel Idéal 24				restaurant			Limete quartier industriel, sur 20424	
+overture	fda0a034-3888-4fbb-b7d2-1a895562c2ee	-4.2994840	15.3179922	Bao Kinshasa				bar		Gombe	1 Avenue Wagenia	
+overture	ff62468d-096a-454f-a44a-d28bf30c586d	-4.3491356	15.2870378	Golden Choice				bar		1025	Msiri	
+overture	529d257a-9fa0-45d5-9e1f-2e1c721e5003	-4.3435130	15.2756405	Tout Le Monde En Parle				restaurant			Bandale Tshibangu kinshasa	
+overture	bacea4cc-b25a-491e-b3e7-8545298c1a04	-4.3519685	15.3358240	Chez Bi-Leonie Kinshasa				restaurant			316,7eme rue petit boulevard limete	
+overture	c684acf2-62e4-48ca-a0d5-3bc473750ac3	-4.3135402	15.3094006	Bien-être au naturel by RLB				bar			Kinshasa	
+overture	f7d56233-ded6-4656-a82a-a8da6afd27a8	-4.3019397	15.3133068	The Fiesta Club				bar			avenue kabasele N• 8225 commune de la Gombe immeuble modern paradise 4 eme étage	
+overture	4502095e-097c-4dfc-a98d-9881aa2a9b70	-4.3006380	15.3107224	CFC Citymarket Fried Chicken				restaurant		2799	713 Avenue des Aviateurs, Kinshasa, Democratic Republic of the	
+overture	5bf1c145-f30a-4d34-acb1-d51c86b28094	-4.3021758	15.3105564	Nuvo Kinshasa				bar			Avenue de la Paix 20, Gombe	
+overture	b8b46424-4d1c-4b8b-9789-91fbfd64879f	-4.3135402	15.3094006	GOEN Restaurant				restaurant			ISP GOMBE	
+overture	bb20c578-4da4-4f76-9200-2d76a16f3e1d	-4.3023541	15.3094139	K12 Night Club				bar		00243	7 av MUTOMBO KATSHI kinshasa Gombe	
+overture	db0d55d5-8d6a-4777-88a6-ef51ea120ae5	-4.3050215	15.2997913	Le Meilleur				cafe		RDC	Le Premier Shopping Mall : 6133, Avenue Colonel Lukusa	
+overture	55aa7164-27fb-493c-9cfe-bb96dcb6c3af	-4.3143895	15.2903910	Cafe Mozart				restaurant				
+overture	5727106b-3763-4128-9b27-44e901a4c316	-4.3034794	15.3141031	Kinshasa Au Restaurant Le Délice				restaurant				
+overture	70d87310-d8ac-4fc4-86c7-60a1a8cac76d	-4.3075750	15.3069391	Tombalbaye, Gombe				bar				
+overture	9e485715-1a73-497d-adb6-c7030210526d	-4.3135402	15.3094006	Galito's Kinshasa				restaurant				
+overture	07f2a0f5-5802-409d-bd8d-95403da0f4ad	-4.3409874	15.2185144	Chez Elkana				restaurant		1017090	Croisement Komoriko / Bangala - Référence Stade Vélodrôme, Kintambo	
+overture	0eeffc74-4908-4632-92e3-c88d38e8f2ba	-4.3000000	15.2999992	Nexxt Club kin				pub		01	695 colonel ebeya / kinshasa-Gombe	
+overture	32f7b5b0-c9bf-4761-9562-1611f06f5866	-4.4028471	15.2553539	OMNIS FAITH Restaurant				restaurant			av de l'equateur n°4	
+overture	54baf3b2-44fd-4438-90cd-b7c386e28809	-4.3071232	15.2881460	Villa Kamiah				restaurant			Sofide, Av: Marinel	
+overture	85982558-5357-471f-8938-4e5a8d454819	-4.3135402	15.3094006	Snack Bar Le Bon Coin				bar			3 ème Rue industrielle limete N*8	
+overture	8a5ed21d-b74f-467b-88a8-ec721974daed	-4.3972263	15.4016447	Planète J n'djili Q1				restaurant				
+overture	ca362715-54e4-4c58-b790-6bb3823cd7cb	-4.3018301	15.3088827	Gambini Restaurant				restaurant			Rond-point Forescom	
+overture	f8539a4b-b912-442a-9b21-c79cfeb4e161	-4.4021389	15.3293171	HOTEL imperium kinshasa				restaurant		00243	A3S 142, BLVD SALONGO, COMMUNE DE LEMBA, QUARTIER SALONGO SUD	
+overture	fee1217a-bca5-4a31-83e0-a841704a8bcb	-4.3040192	15.3050861	Lounge bar Lebaron				restaurant			Avenue du Livre n°44, Quartier Golf, Commune de la Gombe	
+overture	1f93b0f5-9497-487d-8a21-72775771b6c2	-4.3071382	15.3140306	Mahir Restaurant				restaurant		BP3307	Avenue du Commerce	
+overture	29c73ef0-d584-402c-b920-15172b4e42df	-4.3229077	15.2787561	Musafir Restaurant				restaurant				
+overture	32481ecd-6c99-470f-8695-935519dbcf80	-4.3040807	15.3119183	Debonnairs				restaurant			Near Memling	
+overture	5d9df823-ea9c-49ba-bf98-0c80c285926a	-4.3439252	15.2749338	Le Terminal				bar			avenue Kasa-Vubu	
+overture	6b0be3d3-0387-4196-8cd5-8f27cff0f396	-4.3056788	15.3097811	Nexxt club				bar		01	695 colonel ebeya / kinshasa-Gombe	
+overture	9dad2f50-5fe1-406c-b40c-bb831d586497	-4.3050401	15.3077507	Kinchill café				restaurant		002	111 avenue du Bas Congo, Gombe Ref : derrière la poste - face à ANAPEX	
+overture	a9e4a058-b928-4355-9d21-4da1c06be2b6	-4.3305123	15.2611790	Delmas Tacos				restaurant		<<not-applicable>>	74, Colonel Monjiba Kintambo magasin	
+overture	bf84f513-9017-4a00-bf9b-aba72ee537b0	-4.3246844	15.3015842	Grand Chef Resto Bar				restaurant			212 Av. Kalembelembe Q. Lokole C. Lingwala	
+overture	13af0075-a33a-41b7-b9e1-3c8e94f7ff33	-4.3008492	15.3127680	Tata Juice				restaurant		11097	Avenue des Aviateurs	
+overture	20b1038d-e636-4bdb-a49c-8dddfdb59d58	-4.3013546	15.3147583	𝐓𝐚𝐭𝐚 𝐉𝐮𝐢𝐜𝐞				bar			1, Av. Des Aviateurs, Quartier Gare, Commune de Gombe Bâtiment GG Mart, Réf. Blvd du 30 Juin derrière la CENI	
+overture	243b3ef1-2c56-4919-b4b6-c1e299a14ca9	-4.3441927	15.2183695	Le-Clan				restaurant		00243	Avenue de l'école, N°36178, Quartier Kinsuka pêcheur, Ngaliema	
+overture	31105e89-ec23-4765-bcf1-f83e056fa99a	-4.3250000	15.3222008	Wembley SPORT BAR				pub			306 Av. De la Gombe C/ Gombe ref. Hotel Venus Kinshasa, Congo.	
+overture	38070d68-9855-42c5-8eed-e28e2cf51866	-4.3143232	15.2865124	Snack Bar Le Bon Coin				bar			3 ème Rue industrielle limete N*8	
+overture	55755c04-bab6-44ed-a27c-132cac16c551	-4.3999932	15.2636948	OMNIS FAITH Restaurant				restaurant			av de l'equateur n°4	
+overture	7d9094fa-8ff8-4363-b6e7-a4721dc73ad2	-4.3382189	15.3096743	Sans Frontiere				restaurant			Assossa	
+overture	8b3d7c39-5169-4fb3-9ba0-8311dbd6ec1c	-4.3382781	15.2758121	Seph La Queen B				bar		257	Synkin, Bungu	
+overture	a3e45abb-f677-497a-8876-d5352d3c252d	-4.3468943	15.2832088	Le Quartier Lounge Bar				bar			337 Avenue Balari, Bandal	
+overture	e62fab87-7b63-4387-bc68-b704ed062ac2	-4.3481946	15.3114653	Le Patron Restaurant Night club				bar		<<not-applicable>>	22 Oshwe C/Kasa-vubu	
+overture	ec1310c3-8177-43ce-a872-fd13c5590017	-4.3248436	15.2485075	Exotik river				bar			� �C/Ngaliema, Avenue du Tourisme (Nzela Mayi)� Référence : avant l'arrêt Maboke.� �Ouvert tous les jours de 11h à 21h	
+overture	3b05bf8c-4464-4b89-9a8d-94a87b0f8821	-4.3123810	15.2702961	Hevea and Grill				restaurant				
+overture	5782286a-403e-4c97-ad25-972d908e4f6e	-4.3336031	15.2180290	Site touristique Chez tintin				restaurant			https://g.co/kgs/NTR7X5	
+overture	a36172b4-60c6-4d6e-8e13-d0902d329acb	-4.3452232	15.2363062	Rema Restaurant				restaurant			Av. Kasa Vubu, No.7, Commune de Ngaliema,	
+overture	b4523382-440e-441a-ba63-f5da75102ad4	-4.3205121	15.2814703	Restaurant Algarve RDC				restaurant		+243	231, Avenue : Kabinda, Q/ Beau-vent, C/ Lingwala, Rép. Dém. du Congo	
+overture	b6f4ae34-fe24-43bf-81d1-144813c6323f	-4.3016813	15.3136683	Jungle Bar Kin				bar		2429	8, avenue Isiro / gombe juste derrière sozacom ex black and white	
+overture	e1c5a34a-c046-43f1-a33f-bee09db9d387	-4.3250000	15.3222008	Printing Station				cafe		1003071	BLVRD DU 30 JUIN/GOMBE\nRef: en face de vodacom 2xT à côté du restaurant al Dar	
+overture	f150ffc0-61a7-4470-8bda-5dd30815cabc	-4.3250000	15.3222008	Restaurant Algarve RDC				restaurant		+243	231, Avenue : Kabinda, Q/ Beau-vent, C/ Lingwala, Rép. Dém. du Congo	
+overture	7eb4ccd5-e2fa-4915-abea-a8c3f5d995aa	-4.3177311	15.2925777	King Fried Chicken KFC				restaurant				
+overture	b304b6b9-eec7-47c0-94d4-022157f93760	-4.3468843	15.2849283	Yesu Ni Jibu				restaurant				
+overture	034426af-6ac9-4dfe-a9ab-0b1b9e895082	-4.3900228	15.2607145	S&K Aroma				restaurant			Complexe Commercial, 821 Rte de Matadi,	
+overture	0dfb1be5-427e-4ca3-90d1-7f479265a8d1	-4.3332889	15.2259855	Atlantis City				bar				
+overture	8f1b31a0-de65-4fb4-86e1-36866de5a3a1	-4.3160775	15.2839165	Royaume 25				bar				
+overture	b3669ae2-e5ce-4ab1-9b94-0cf8b63fa247	-4.3461487	15.2860374	Item Différent				restaurant		KIN	180 MBIDI, BANDAL INGA	
+overture	dd9806b1-9e66-49d8-8ff6-9a271a5163f0	-4.3224552	15.2726927	Ballers House DRC				bar			272 Avenue Colonel Mondjiba	
+overture	f347dc21-75c2-47da-9268-5e7cecae7ef8	-4.3467724	15.3117151	Kinkole prestige				restaurant		<<not-applicable>>	Kinkole pêcheur avenue Etonga numéro 281 �référence en diagonale de l’église catholique saint Jacques	
+overture	fdc43430-d090-414e-be24-434e777587f2	-4.3135402	15.3094006	Restaurant Chez Claudicia Ayongo				restaurant			42 Avenue Inga, Q/ Adoula, C/ Bandalungwa	
+overture	05d225e5-4501-4fed-b30c-ee03b3a8ea16	-4.3072920	15.2901497	Poivre Noir Kinshasa				restaurant			19 avenue du comite urbain	
+overture	2e7900f5-8061-4f0e-9eff-9b5236315d1c	-4.3141446	15.2872972	Poivre Noir Kinshasa				restaurant			19 avenue du comite urbain	
+overture	344dd66e-161f-49b1-8b7e-0f6403fc8b3e	-4.3073564	15.2968731	Greek Restaurant				restaurant				
+overture	5c0e94ac-55ab-468d-9921-7994139cb53e	-4.3467724	15.3117151	Espace 72/27 Lounge BAR.				bar			Mbuku n° 27/ REGIDESO /KISENSO	
+overture	60720d68-1694-417b-b33d-5a5cf6cf7377	-4.3018897	15.3099051	New Bella restaurant				restaurant		<<not-applicable>>	Gombe Av de la paix no 16	
+overture	95ac77e2-bf57-47a5-b85b-3c2dcd42a191	-4.3215477	15.2746506	Cotex- MONUSCO				bar			Colonel Mondjiba	
+overture	a7bd0bae-b57d-4013-80f5-b99cfffc3a3e	-4.3999932	15.2636948	Delmas Tacos				restaurant		<<not-applicable>>	74, Colonel Monjiba Kintambo magasin	
+overture	abb98c45-466c-42ef-b4ce-de00364d1991	-4.3120916	15.2737532	Carpe Diem Thai Restaurant				restaurant		1901	Ave des Batetela	
+overture	b48ea701-f22a-4396-be1c-5f3dbb6fdb55	-4.3053539	15.3038082	Sky Lounge Kinshasa				bar		Gombe	387, Boulevard du 30 juin	
+overture	08f7cb54-408e-4fbd-a197-addef74eb317	-4.3069203	15.3142576	Pomme				restaurant		BP3307	44 Avenue du Commerce	
+overture	223dbbb5-a385-4f69-b541-216c2db789dc	-4.3825357	15.4541101	AIR Bridge Lounge Bar				bar		<<not-applicable>>	AÉROPORT INTERNATIONAL DE NDJILI, DÉPART NATIONAL , 1er NIVEAU au dessus de la salle d’embarquement .\n	
+overture	286db65d-3921-4185-832c-c4d3fb8eddd8	-4.3135402	15.3094006	Kafe Kongo				cafe		1000	Boulevard du 30 Juin	
+overture	4048afa1-a439-4b19-bf7a-766c9bd515ea	-4.3251436	15.3234177	Mumbunda Gecamines				restaurant		00243	314, Avenue de la Gombe, C/Gombe	
+overture	45e37712-9693-40ba-a3db-cbfbcea8a7cc	-4.3265231	15.2987652	Terrasse Hôtel Mp Fils				bar				
+overture	79d66776-e89e-4a5a-b97d-d188b817bfd7	-4.3858225	15.2401962	Le Gabriel				restaurant		36027	36027, Route de Matadi, Binza Météo, Ngaliema	
+overture	a3573375-b581-4270-841e-200355edc66b	-4.3282688	15.3351498	Confort RDC				restaurant		01013	PORT ONATRA, ROND POINT FORESCOM	
+overture	a91ebff1-270a-4c0b-a56a-3779ed263c99	-4.3254983	15.3020992	Couloir Nyangwe				bar			Av. Mushi, Lingwala	
+overture	ad947ef6-d4ab-4f73-b553-7c741076f9de	-4.3057814	15.3154116	Spice Restaurant et Lounge Bar				bar			436, Croisement des avenues	
+overture	bec497ae-69ff-4214-ad49-633ae2257d4c	-4.3092401	15.3000307	Ze Bar by Taboo				restaurant			1148A,Avenue Tombalbaye-Gombe (Réf: Terrain Maman Yemo)	
+overture	c6342f5d-f33f-4431-ad38-139ee4466868	-4.3088901	15.3108606	Esengo Lounge				bar			N. 4359 av. Kabambara Quartier. Bon marche Kinshasa	
+overture	e227e671-ae11-44ca-8f31-f2379477076f	-4.4992483	15.2227583	CE La Maisonnée de la Restauration				restaurant			Avenue Indépendance, Quartier Mitendi, Commune de Mont-Ngafula, Référence : Joli Site	
+overture	fdf8ffe0-101c-441c-b7dd-1b67323330b4	-4.3325014	15.2224417	Libaya restaurant				restaurant		+243	03 Av. Teko Kinsuka Pecheur/ arrêt pharmacie	
+overture	3bc75700-5032-4f80-a361-fc2eaa499e12	-4.3505733	15.3410311	Arlo pop's Unikin				restaurant			unikin, home8	
+overture	437c6c3d-5f28-4901-94c0-48bd629625e5	-4.3135402	15.3094006	Restaurant C.F.C				restaurant		1234	713 Avenue. des Aviateurs, Gombe	
+overture	4920dc1d-5e64-4b34-a6f6-f33151640d10	-4.3005345	15.3107653	Restaurant C.F.C				restaurant		1234	713 Avenue. des Aviateurs, Gombe	
+overture	87ac4840-ac65-4382-be2b-e080c5916456	-4.3135402	15.3094006	Kin Chicken & Sauce				restaurant		+243	Commune de Kintambo,17 avenue kasa-vubu, Quartier Nganda, référence station ML	
+overture	90320a12-f725-47b2-8109-4d69c7dd690d	-4.3046453	15.2998571	Lacosta				cafe			Avenue colonel Lukusa	
+overture	c4231fad-5959-408a-98b3-d1b35a1d1da9	-4.3135402	15.3094006	Quartier Marin				bar			1538, avenue de la DOUANE Gombe / Réf : Rond-point FORESCOM	
+overture	f95f312e-3aba-415d-a88e-171fcde968b0	-4.3019593	15.3113203	Poulet Chaud				bar				
+overture	fae1aa65-6624-48c5-829d-1a463affbf44	-4.3312347	15.2578602	Cycy Bar				restaurant			N’94 ,Rue: Bula, Q/ ADOULA\n, C/Bandalungwa Réf. Église Mongemba\n	
+overture	172839f5-a461-455f-ad1c-22f88c8188bc	-4.3250000	15.3222008	Hot & Cold				bar		B.P. 1013	Galerie du Fleuve 9, Avenue de l'Equateur Gombe KINSHASA R D Congo	
+overture	72cda1c2-73df-4510-9683-123e29b994d8	-4.3037195	15.3027258	Cosy Grillhouse & Bar				pub			707 Ave. Lt. Col. Lukusa	
+overture	9871918b-749a-4663-b799-e69ef749e6ac	-4.3150227	15.3033552	Crep-Eat				restaurant		Commune de Kinshasa	Croisement Huilerie Kato n°167	
+overture	9c364643-458d-4e90-ade2-e839d97038b5	-4.3446341	15.3443441	Restaurant Orchidee				restaurant				
+overture	a86f7b24-8215-4ad1-8125-392d5bf1b6ed	-4.3027985	15.3110981	Restaurant L'Orangeraie				restaurant			Boulevard Du 30 Juin	
+overture	aa93fbc9-7b8c-46b8-a1e3-50ee66692eef	-4.2986004	15.3114100	Hot & Cold				bar		B.P. 1013	Galerie du Fleuve 9, Avenue de l'Equateur Gombe KINSHASA R D Congo	
+overture	c1e073b7-fe12-4c46-8d2b-808a7b712dbc	-4.3141618	15.2901735	Corest				restaurant			ISC GOMBE	
+overture	c4b44b23-0b3b-4091-94e2-816f92bbe947	-4.3337166	15.3142786	Jackcy Resto				restaurant		1015	5677	
+overture	c5709ba5-b6b0-4e01-804f-c3379d22483d	-4.3186557	15.2855320	Chicken Inn Kinshasa				restaurant			Croisement des Av. Des Forces Armées et Av. de la Gombe Kinshasa, République démocratique du Congo	
+overture	fc236d07-81c8-41b0-9c5b-fda11249ce7d	-4.3149049	15.2797279	Crepolia				restaurant		B.P 7955	54 Ave De La Justice	
+overture	03a93a32-2f3e-4634-9dc2-e518c2d86d75	-4.3072593	15.3071995	Le Klubb				bar				
+overture	0e905029-21c9-4464-b965-24b31499e9a2	-4.3135402	15.3094006	Chicken Inn Kinshasa				restaurant			Croisement des Av. Des Forces Armées et Av. de la Gombe Kinshasa, République démocratique du Congo	
+overture	1e83f13f-48e3-41ba-b84b-029060384248	-4.3135402	15.3094006	Fondation Ralph Diayika/Computing Services Center				restaurant		243	1BIS, av. Mulele Pière (ex. 24 Nov), En face de l’ISC/Gombe	
+overture	4d907178-df81-4a7c-b881-082518cdf634	-4.3000000	15.2999992	Autotech Motors Kinshasa				bar		00243	145, Av Lowa croisement Wangata C/ Kinshasa	
+overture	94ab7a40-cee8-46f4-a458-7bbab0453944	-4.3161309	15.2811146	Jolive Steak House Restaurant				restaurant		B.P 7955	173 Bd Du 30 Juin	
+overture	b71cd504-3f30-495b-9a52-d88cd790b4ba	-4.3127444	15.2701416	Salon Privé Fleuve Congo Hotel				restaurant				
+overture	c4546451-e354-498e-a44d-59389ffba074	-4.3371098	15.3275309	Poulet Mayo Chaud				restaurant		012	8em rue sur le petit boulevards industriel numéros 317,limété	
+overture	def4e60a-e26f-4d20-8958-3b02813df645	-4.3094971	15.2992201	Confort RDC				restaurant		01013	PORT ONATRA, ROND POINT FORESCOM	
+overture	ed32cdfe-e0f7-4aad-80ef-f560ef57beb6	-4.3135402	15.3094006	Biothi Crystal				restaurant		1011	C/Ngaliema Q/pigeon AV/Poto galo numéro 01	
+overture	f3955066-4f25-4bb9-a20a-9d8d20f25a3a	-4.3186228	15.3240385	Nightclub Cascade				bar		00243	Av. Kabambare N°A7 Commune de Barumbu	
+overture	f5c756e5-fb01-48ca-b2d1-faa3ffecf2c2	-4.3040926	15.3118515	Cockpit bar				bar			Memling Hôtel	
+overture	2fbececc-e68d-4c3d-b3a7-0718e30b4a2b	-4.3381553	15.3193493	Muana kin				restaurant				
+overture	313d03bf-2eae-4152-a9dc-d5b70b916eb7	-4.3720202	15.3714991	Good Music Lounge Bar				bar		012	1 Democratie Quartier petro-congo Commune de Masina	
+overture	41a6e338-09bf-40d3-a8b2-d534c722b5d3	-4.3287652	15.3073692	GOAL 'Grill & Bar'				restaurant			Lingwala	
+overture	5a8fba67-3258-4354-a0de-c6ee43427650	-4.3080475	15.2994776	Favelas snack & shisha				bar			Colonel ebeya 4913 quartier Golf commune de la Gombe	
+overture	7468ad09-3015-4ce0-9f41-a80f572ee87b	-4.3121819	15.2736578	Take Away Carpe-Diem				restaurant			69 Avenue Batetela	
+overture	8c88957f-ffca-4469-b3dd-fc90678ceee4	-4.3557532	15.2629757	Restaurant SNACK NICE FOOD Chez Ma Charlène				restaurant		0123	Av. Benseke n°01 C/Kintambo (Voir Station ML et Total venant de MONISHOP)	
+overture	9008b798-311a-4036-867b-eb8ff95c2693	-4.3000000	15.2999992	Cyber & Imprimerie Grace of God				cafe		+243	23, 7eme Rue, Limete Industriel, Kinshasa	
+overture	c43129fa-ba7a-4a9d-a50e-5ee32e36fc09	-4.3316171	15.2634563	Zamani restaurant				restaurant			Avenue zamani N7 Gombe	
+overture	d0ab3f22-73a1-4b18-9d77-4588abac6638	-4.3237588	15.3237886	Restaurant Grécque Kinshasa				restaurant			87, Boulevard du 30 juin Gombe	
+overture	0f0e89ff-7294-4a87-bb56-1d16aac6a786	-4.3135402	15.3094006	Fan Zone				bar			Avenue Kabambare n°63 C/Kinshasa	
+overture	2604bbb4-d2a2-424a-baca-cc446bbba450	-4.3119519	15.2732697	La Terrasse				restaurant			Avenue Batetela Commune Gombe	
+overture	41ac67c5-5742-45ff-8a06-6d4f1109adbc	-4.4198592	15.3084688	Mah Crêperie officiel				restaurant			Lemba foire	
+overture	77cd2e4e-f92a-4a00-b059-04a8402ba30d	-4.3335230	15.3142357	Muka Kin 01 Resto				restaurant		012	Kinshasa\n9521 Avenue kasa-vubu bandal molaert C/kasa-vubu,oasis mall	
+overture	79739c46-3ee9-48b7-ae8a-444f0b4f5039	-4.3191164	15.3056288	Star Bar				bar				
+overture	aa893527-b902-4c3a-a21d-8a004a929948	-4.3344147	15.2580633	Kin Tacos				restaurant			Kitambo Magasin	
+overture	b53da4d1-1cce-41fb-bcdb-80415b3dbb5d	-4.3135402	15.3094006	La maison des crêpes				restaurant			374 Avenue colonel Mondjiba Ngaliema	
+overture	69f98d32-c464-48d6-aaa6-055779beff5d	-4.3020651	15.3107834	36 15 Bar Lounge				bar		KIN243	Bld. du 30 Juin	
+overture	8ca1de7e-4e69-4285-888b-50dee80c863e	-4.3469374	15.2172718	Hôtel Clémence de Kinshasa				bar		<<not-applicable>>	Mukulungu Mukulungu N°9 Q/ Kinsuka Pêcheur (Brikin) Réf station Okapi Brikin 1ère Virage.\n\n	
+overture	9b259877-d96c-45bf-9096-c3c8b0942047	-4.3598573	15.1957045	Wakady.Restaurant				restaurant		<<not-applicable>>	1, avenue BOYOMA	
+overture	c4b232f4-1fcd-442f-9cf5-f93025a5f40c	-4.3019497	15.3108521	TORIKAGO.loungebar				bar				
+overture	f0159f43-9671-42e2-b6bc-1539a381c4f7	-4.3074496	15.2969313	Restaurant Grécque Kinshasa				restaurant			87, Boulevard du 30 juin Gombe	
+relation	18			Kisangani	8		CD					
+overture	d6e48f0e-ddae-4f86-9c43-773699e73d25	0.5110718	25.1880283	La fourchette, Foundation Bamanisa				restaurant				
+relation	19			Kisantu	8		CD					
+overture	cb835822-c9bc-4f26-9e82-3088cbe534d5	-5.1286397	15.0785007	Mbuela Village				restaurant			Avenue 5ème rue, quartier laula	
+relation	20			Kolwezi	8		CD					
+overture	d988cae5-eacb-42cb-a346-5087630fb691	-10.7448597	25.5146942	Colibri Inn Restaurant & Lounge Bar				bar		1825	27 avenue Colibri coin Avenue Yav Katshung Joseph	
+overture	aa9f44b6-3ef8-4b1b-92f2-0378b231931f	-10.7106996	25.5021019	Colibri Inn Restaurant & Lounge Bar				bar		1825	27 avenue Colibri coin Avenue Yav Katshung Joseph	
+overture	804763be-93d0-4b64-949c-da2a852c46f6	-10.7214217	25.4779510	D7Hotel				bar			QUARTIER, JOLIE SITE RVA; COMMUNE DE MANIKA; REF : ENTREE AEROPORT DEUXIEME AVENUE A DROITE	
+overture	f1860d16-6cf6-4c4c-820a-f0f18b3a4c0e	-10.7167006	25.4725018	Restaurant New Josyve Center				restaurant		4562	Quartier MUSOMPO avenue chemin public, à 50m de L'UNIKOl	
+overture	d3cae15d-5c4b-4618-84aa-ea99fbc3ceca	-10.7645741	25.5083351	Kolwezi Airport VIP Lounge				bar				
+overture	ed1443a6-8f92-4f45-b562-c4909192d2fa	-10.7167006	25.4725018	Hôtel Restaurant Bar LE Manguier				restaurant		+243	63, Avenue Kasavubu / C. Dilala	
+overture	b1ab8a52-fa84-4ee6-9b9e-2c00dd109320	-10.7168131	25.4639397	Lapaillotte				restaurant		455	N° 1262, Av. LUMUMBA, QUARTIER MUTOSHI	
+overture	3a4fdc54-bda1-4b82-b17b-dae8f8d50560	-10.7693157	25.2548141	Kamoa Camp				bar				
+overture	3f7ed5a6-4541-40d2-847c-543b56da896d	-10.7169275	25.4608173	Le Food Court				restaurant		15540	Shop No 15, 15540 Av, De Palmiers, Commune Dilala, Kolwezi	
+overture	e2f94334-a6c1-407f-83f0-504ca6bb1ee0	-10.7108774	25.5016785	Pam's Lodge Hôtel				bar			Avenue Kalima V/ Kolwezi C/ Manika	
+relation	21			Kunstshankoie	8		CD					
+overture	ff44b016-4a41-4476-9f12-d0528bace902	-3.0940328	23.5548601	Restaurant 19, Royal Event				restaurant			19 Av du Cercle, Gombe/Kinshasa	
+relation	22			Kuta	8		CD					
+overture	a71c052d-3fab-46cf-b70f-18ca244f1761	-2.3293571	17.2664804	Ocean Dynasty Bali				restaurant		80361	Ocean Dynasty	
+relation	23			Kwilu-Ngongo	8		CD					
+overture	c0d49515-90a3-45c4-a2d5-080b154514b1	-5.5089338	14.6922483	Sucrière Kwilu-Ngongo				cafe				
+relation	24			Laru	8		CD					
+overture	bdeddf1b-1d38-41a3-be2f-9a53257090a8	2.8666701	24.3499985	Cronchy Pollo CA				restaurant				
+relation	25			Likasi	8		CD					
+overture	05455b11-9519-4e78-a037-0584f2f55e37	-10.9832587	26.7446194	Lascala Horeca				restaurant			1287 Avenue de la Mine	
+overture	ec97f82d-b097-4be2-851e-170965273532	-10.9844398	26.7332973	Crice Multimédia				cafe		+243	Av. De l'Eglise N°01	
+overture	8083798d-c2de-46b9-9cd3-b73abad54df9	-10.9856815	26.7709522	Côte à L'os Restaurant				restaurant		243	5003, Av Kamanyola, Commune de Likasi	
+overture	edb2dc28-aacf-4894-8786-8cb24ed9069d	-10.9761906	26.7393188	La Chapelle				bar			Avenue De L'abattoir	
+relation	26			Lubumbashi	8		CD					
+overture	06a7fd3c-b551-4ab2-a2d1-2e44f53feeb9	-11.6655188	27.4650497	Prestige Lounge Bar				bar			Ruwe coin kilwa, Q/Lido Golf	
+overture	edac6d32-c2a5-4127-ac1d-29eab4a7c9ef	-11.6623993	27.4877987	Prestige Lounge Bar				bar			Ruwe coin kilwa, Q/Lido Golf	
+overture	9cc6ffda-b6a9-4b32-9136-af0cea189f69	-11.6306343	27.4550209	Kalubwe Lodge Lubumbashi				bar		0033	9, Chemin public Quartier Golf Kalubwe, Lubumbashi	
+overture	10d2e1c4-70d2-4f3a-a856-c3b4f8302160	-11.6730843	27.4674301	Kick Plaza				bar		7110501	05, Boulevard Kilwa, Q/ Lido-Golf, C/Lubumbashi	
+overture	348efc11-ab16-4931-896f-7031b54a99ac	-11.6541023	27.4649391	Rivonia lounge Bar				bar			kasongo nyembo	
+overture	79f29f87-ced9-4783-82c9-d7bce79f9265	-11.6575966	27.4713860	The Burger KING				restaurant		10001	(-11.6578520, 27.4717640), Avenue des chutes (et Kimbangu) , No 5391 , après la Polyclinique St Luc, portail Noire à gauche.	
+overture	94e88fb9-0fba-46f6-ac4a-accca0fd2a58	-11.5758686	27.5344257	Utetemeko Wa Udongo				restaurant			Route Kasenga Nationale N°5	
+overture	ae71434e-07f0-4fe9-96d8-6e9eb2d9f381	-11.6586123	27.4637527	New Tremplin International Lounge Bar				bar		0243	Avenue Kidicho 57, REF (Allilac)	
+overture	c4bbd522-5eb5-46f3-8ea9-c29be42d6ee0	-11.6454124	27.4784641	Le Rooftop				bar			Av. De La Révolution, Coin du 30 Juin	
+overture	dc4647d1-429f-47f5-9602-2eac333f093c	-11.6471014	27.4856987	Cercle Hellenique				restaurant				
+overture	59435777-87f4-47f5-b372-2cf50ebed6d9	-11.6861792	27.4912491	Bush Camp				restaurant			Bush Camp, Number One 33, Av Kapwassa, Commune Kapemba, Lubumbashi R.D.C	
+overture	5d37df68-aa16-4e62-8389-63bb25931e27	-11.5961962	27.5053787	Restaurant Luano City Farmer's Market				bar		<<not-applicable>>	Route de l'aéroport en diagonal avec la route Hewa Bora non loin du Terminal Mulykap Route Luano N° 01	
+overture	aa9e294f-4d53-476c-a4ee-f46cfb8fb11f	-11.6432743	27.4519978	New IKOMA LODGE				bar			10 Avenue de la Libération Q/Golf Le Battant	
+overture	e6094f92-78d0-4214-91fc-9c7f3b8419b4	-11.6561747	27.4579487	TipTop Restaurant				restaurant			40b de l’avenue Leverger, Route Golf, En face de Golf club Lubumbashi	
+overture	c915ba59-702c-445b-adf3-d26acf0805d0	-11.6473093	27.4753685	Mambo’s bar				bar			De la révolution coin kamalondo 2	
+overture	d66839f9-c78f-46ce-9d3c-6811c7bd71f8	-11.6431942	27.4710197	Prestige Nightclub Lubumbashi				bar			Avenue Ruwe Coin Kilwa, Golf Lido	
+overture	254b1f67-72d1-4cd1-b01a-196c3fa9199d	-11.6612234	27.4737110	TCL				bar			611b Avenue des chutes, Lubumbashi, DR Congo	
+overture	c0de0751-151a-428d-8d53-45d99c205054	-11.6623993	27.4877987	Restaurant "Chez K-Sol"				restaurant		+243	Avenue des Cassitérites N°16 Makomeno	
+overture	338f503f-ab7b-4b36-8231-f42c4cc1713f	-11.6388488	27.4226055	Restaurant la katangaise				restaurant			Avenue dikuku	
+overture	59a23691-c593-4309-8c98-cb87584ac1b3	-11.6623993	27.4877987	PIZZA INN Lubumbashi				restaurant		7110501	Carrefour food court, Avenue n'1, commune Kampemba	
+overture	52dad050-f336-43ac-af0c-9d6261b22b20	-11.6623993	27.4877987	Life Tabernacle				bar		243	AV: BEFONIAS, BEL AIR MUKALA/ KAMPEMBA	
+overture	65d3bcd4-e69d-424c-83e7-f524f73dd174	-11.5877886	27.5311413	Luano International Airport Hotel				bar			Luano Airport	
+overture	39324a19-b47a-4849-95fd-feb8944bd8bf	-11.6545181	27.4589996	Cafe Du lac				cafe				
+overture	a504bc5e-dbbf-4d72-94c1-851a6a6a35e3	-11.6399584	27.4887009	Meazza Restaurant & Café				cafe		7110501	Q/Industriel, Av.Assosa , a coté de la mosquée libanaise	
+overture	813dcdc1-d730-4c50-8541-f583bac20e58	-11.6485796	27.4724350	Restaurant La Bonne Fourchette Lubumbashi				restaurant			88 avenue de la Révolution	
+overture	b9b9d944-0951-446b-93e7-c1b1abe1a0fe	-11.6415205	27.4851685	Le Cercle Wallon				restaurant				
+overture	e7b5f937-e512-4557-b47d-328a3b0328a0	-11.6538744	27.4723282	The King				bar		+243844055544	Square Georges Arthur Forrest	
+overture	0c5f53c7-ee41-4a30-8c15-42f82b80923d	-11.6679964	27.4831219	Mahir Restaurant Lubumbashi				restaurant			551/B,Avenue mama yemo, c/Lubumbashi	
+overture	c40d970b-4fca-42dc-a258-a39b95174410	-11.6429691	27.4775562	Kilimanjaro-nightclub				bar			guest house new africa, au 2921 Avenue MPOLO coin 30 juin, Q/Gambela II; C/Lubumbashi en Republique Democratique du Congo	
+overture	0de5973f-75ee-4934-8ef5-a838975712be	-11.5882874	27.5306454	Jeffrey Travels Lounge - Lubumbashi Airport				bar				
+overture	736087ca-7226-4f50-86c4-2f2df5fd2a25	-11.6477270	27.4858036	Rencontres RDCongo - Italie, Casa Mia, Lubumbashi				restaurant			2900, Av. Lumumba	
+overture	9ce94252-d090-4587-aec8-fa2bb620e438	-11.6589899	27.4848270	Yoyo Lounge & Market, Lubumbashi				bar			648 av du 30 Juin	
+overture	d5031af9-3bd5-4f6f-a868-86d1025d3d1a	-11.6394644	27.4508533	Le Ciel				bar			8 av. Tuta, Golf le battant	
+overture	d908d3b2-21ea-4508-9c63-eba5995505cc	-11.6623993	27.4877987	Le Klub Lubum				bar			55 Route Du Golf	
+overture	f90c398b-9cf1-4f20-88e1-3441bdd04286	-11.6666994	27.4667015	Copper Lounge Sport Bar				bar			195, Avenue Kilela Balanda	
+overture	143c9954-946c-49c8-9d22-dc5d5a448498	-11.6662540	27.4845505	Kazouz Dine				restaurant			Chaussée Laurent Désiré Kabila, N.39	
+overture	3dade489-0dd7-4a9b-832c-d13b22a079be	-11.6595144	27.4534149	Le Percheron & l’Abreuvoir				restaurant			Avenue Shiwala n°14, Quartier Golf	
+overture	9adbee9b-f397-4bc7-9f66-47bd2a43fe41	-11.6666994	27.4667015	Nadine La Différence Plus Plus				bar			Avenue de la Révolution, No 1636	
+overture	9cf55c18-ec8a-4661-99f6-57a44666b271	-11.6473093	27.4753685	Pizza 24/7 Lubumbashi				restaurant			Ave. De La Revolution enface Latte lounge, Lubumbashi	
+overture	c0e5b62b-a846-4856-83b2-3e1b683435b7	-11.6487522	27.4738636	EDEN GRILL Resto & Fast food				restaurant		7110300	4933 Av. de la Révolution, Lubumbashi	
+overture	dc6beb40-fb9b-4f44-a4c7-799d7b923389	-11.6655455	27.4813099	Hipnose Lubumbashi				restaurant			Hipnose	
+overture	087d715c-71ea-46c1-aa32-743090c78e10	-11.6604557	27.4743423	Nadine La Différence Plus Plus				bar			Avenue de la Révolution, No 1636	
+overture	612a3718-9ea9-43da-a70a-cd9b8908ecd6	-11.6444969	27.4822731	Ristorante Italiano				restaurant			2900 Avenue Lumumba	
+overture	56357700-2488-4eb2-9b1d-f25cd691b570	-11.6477413	27.4877071	Istanbul Restaurant				restaurant				
+overture	92f6914d-c5f7-4202-8cb2-dc05fc0146dc	-11.6457767	27.4818344	Copper Lounge Sport Bar				bar			195, Avenue Kilela Balanda	
+overture	de116aec-f44d-44db-b99f-21db67358c8e	-11.6457262	27.4815445	Next to the moon				bar				
+overture	ecf59523-f00a-4577-b3f5-8d9043ad2c72	-11.6452618	27.4633980	Restaurant Mykonos, 34 Avenue Haute Tension. Quartier Kalubwe, Lubumbashi.				restaurant			34, Haute Tension. Q. Kalubwe	
+overture	45b0245f-43f3-4748-99e7-4b4c9144c4cd	-11.5887022	27.5311565	Hotel Lubumbashi Airport Restaurant ️				restaurant				
+overture	bf91a997-b573-41d1-8d7c-74e1e978a6cf	-11.6561747	27.4579487	Chez Sunil				restaurant		0000	42 Route Du Golf, Coin Musofi 2	
+overture	239bfa37-5150-4b82-86b7-6f78272b531b	-11.6448669	27.4512615	La Cite Interdite				restaurant			Le Battant	
+overture	27f1fef5-d1b2-4f42-ad37-98ddd768c238	-11.6632080	27.4754009	South African Guesthouse Lubumbashi				restaurant				
+overture	75a16f1b-962c-409b-b0e7-8e6a8e04fbb1	-11.6624012	27.4878025	La_Bodeguita_Carnivore				restaurant		<<not-applicable>>	Monkoto plateau	
+overture	537ff366-e427-4449-a4ac-c36cfd0221e1	-11.6561747	27.4579487	Chez Georges Restaurant				restaurant			Route du Golf	
+overture	b792ca46-6c1c-43dc-843b-8efae5007df7	-11.6561747	27.4579487	Le Green Tee				restaurant			Route du Golf	
+overture	d3c2cb0b-c7fa-40b1-a0f6-a593c0dd0dde	-11.6760039	27.4772720	L'Anonymat				restaurant		13	Av. du Parc	
+overture	7601b386-8d03-4f35-b2e5-fd12840bb43a	-11.6763616	27.4747696	Restaurant "L' Anonymat - Chez Delta"				restaurant		00243	avenue du parc dans l enceinte du tennis club de kilima, quartier makomeno	
+overture	fafd7aa4-6310-46bb-a8bd-08c2a46f7e93	-11.6708126	27.4728565	Ceda Multi-service Méli-mélo				cafe		Lubumbashi	145B, Route Munama, Commune Kampemba Autre adresse; 2, Av Sendwe, Commune de Lubumbashi	
+overture	376cffb8-8d49-4991-a6cf-ba812c932361	-11.7135792	27.4989815	The Empire Ifoku				bar			10, Avenue Mwalula, Hewabora	
+overture	7c8cfa88-1c45-4de1-9f19-c1a490e51f94	-11.6666994	27.4667015	NELLA Burger, Bar, Grill et Traiteur				restaurant		1212	libération 397,golf les battants	
+overture	16b4b98f-4a71-4117-90df-9532ebb9b52c	-11.6521130	27.4552174	Ilevel_lounge				bar		+234	13,Bantale ore avenue meiran lagos	
+overture	8706c9c0-600c-473f-b5c0-79541a9af5d8	-11.6541409	27.4775887	Owa Shawarma				restaurant			Mama Yemo coins Sandoa au Workspace	
+overture	a998eadc-d84b-42d6-b623-9f8f659fc51c	-11.6680403	27.4162922	Matobeto And Grill				restaurant			Av Arron ngwashi n°25, Golf Plateau	
+relation	27			Lwem II	8		CD					
+overture	afdf0511-70ae-4be9-a85b-3e121d278faf	-4.9166703	19.2167006	Dignity Restaurant				restaurant			Paidha Road	
+relation	28			Madimba	8		CD					
+overture	52e6c86b-b5b9-4e1f-a414-bf4aa2cc7c69	-5.1309736	15.0759344	Mbuela Village				restaurant			Route National 16	
+relation	29			Mafifi	8		CD					
+overture	dd0bd066-25c4-4281-9cab-825f988e7526	1.4030328	29.6837883	Biliti Cafe				cafe		700084	Goria	
+relation	30			Matadi	8		CD					
+overture	bdd370ff-5039-460f-96db-bdf65cbc8f60	-5.8218708	13.4585381	Restaurant Almadina				restaurant			Ave Dela Poste	
+overture	fdd784aa-ac3c-4e2e-9c7e-cc528e60560c	-5.8098392	13.4653845	Restaurant ALMADINA				restaurant		00243	matadi-ville basse posste 14 " en face contrubition (DGI)	
+overture	c9b2453c-e2fa-4d06-adaa-839b37cd4615	-5.8220930	13.4584055	Al-Amir Matadi				restaurant				
+relation	31			Mbali	8		CD					
+overture	d6934db3-625a-4d02-ad8d-fedf0ceb9e0c	-2.8470302	16.1948996	Rossa Garden Hotel Bali				restaurant		80851	Jalan Pantai Indah Karangasem, Nusa Tenggara Barat, Indonesia	
+overture	0ecea29e-0f74-4d94-9ad1-a5b50f05c44f	-2.8470302	16.1948996	The Beach House Legian				restaurant			Jl. Padma Utara, Legian, Kuta, Kabupaten Badung, Bali 80361	
+overture	5f0ba92d-6a75-4234-81fb-67b437d532dc	-2.8470302	16.1948996	Bali United Cafe				cafe		80581	Jl. Tribun Tenggara, Buruan, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581	
+overture	da1c9227-0c68-441a-b1ad-c58895006a69	-2.8333302	16.1999998	Greenkubu Coffee & Donut				cafe			Jl. Raya Tegallalang, Desa Tegallalang, Gianyat	
+overture	dc0c3bc9-fd26-409c-bf70-8009e94f1f5b	-2.8333302	16.1999998	Api Jiwa Ubud				restaurant		80561	Jalan raya dalem desa keliki kecamatan tegallalang	
+overture	ac3f68b4-1e9a-4745-8f46-aeb35d3ecd53	-2.8532052	16.2474051	Erlangga Resto Ubud				restaurant		80571	Jalan Raya Goa Gajah, Kemenuh, Sukawati, Peliatan	
+overture	eb59126f-c245-46ff-86f2-7c45ecad7625	-2.8470302	16.1948996	Erlangga Resto Ubud				restaurant		80571	Jalan Raya Goa Gajah, Kemenuh, Sukawati, Peliatan	
+overture	6c063a04-d40d-4f5a-a57b-ba79992a2c3f	-2.8470302	16.1948996	Bio Cafe Canggu				cafe		80361	Jalan Raya Canggu, In Front of SMP Pancasila	
+relation	32			Minga	8		CD					
+overture	708aaebf-c83f-4e2e-b2fd-4900c3789af4	-11.1282005	27.9537010	Mamuchi Cafeteria				cafe			Calle General Bernardino Caballero	
+relation	33			Misisi	8		CD					
+overture	8eeb08d0-a7d1-4bba-ad10-316a3a95ed3f	-4.7622268	28.6951065	Pizzeria El Niño				restaurant		30170	plaza del cigarralejo s/n	
+relation	34			Moanda	8		CD					
+overture	ee3b1e83-febc-4053-99fb-b79be2be8216	-5.9477959	12.3539276	Noor Taj Village - NTV				restaurant			Boulvard de 30juin en Diagonale de la raw bank ville	
+overture	7cc5705e-7d83-4b58-a851-63c916a1a5d4	-5.9267368	12.3778715	Novelas Bar				bar		00243	87 sodep, réf : Station cobil	
+relation	35			Moba	8		CD					
+overture	05996b04-5c00-49a9-adfc-a5406a3c4088	-7.0306544	29.7666626	Port Moba				bar				
+relation	36			Mombanza	8		CD					
+overture	bb970821-944d-4ef1-a861-e7529716cfea	3.4956012	21.0449972	Phoenicia Restaurant & Café				cafe		RDC	7ème étage de l’Immeuble Infinity Center : 17 C, Avenue Pierre Mulele sur le Boulevard 24 Novembre / Gombe	
+relation	37			Mutupeke	8		CD					
+overture	8766d523-5726-4754-b486-65e4782d5cd4	-4.7333302	28.7500000	Pizzeria El Niño				restaurant		30170	plaza del cigarralejo s/n	
+relation	38			Mwerazi	8		CD					
+overture	238773a5-6e58-4767-9cb6-d553841220b4	-7.4333296	30.1999989	Crema, Rwanda				cafe			NR 4 RD, Corner House of NR 8 (Road to Ugandan boarder)	
+relation	39			Noki	8		CD					
+overture	6684184b-7ff4-4a4b-8af7-e6d61207981d	-4.9858792	14.7036409	Wineq’s Restaurant				bar		00243848498775	Avenue Bandudu à l'intérieur du port de l'onatra \nà côté de l'ambassade des États-Unis sur lukusa	
+overture	d019d267-768d-4f15-9865-37081c5c2242	-4.9772453	14.7020540	L'Atmosphère Night Club				bar		BP9535	4 Avenue Batetela/BP9535-Kinshasa	
+overture	4d77dc70-7496-4e02-82e6-b2aa211c0671	-4.9833302	14.7167006	Wineq’s Restaurant				bar		00243848498775	Avenue Bandudu à l'intérieur du port de l'onatra \nà côté de l'ambassade des États-Unis sur lukusa	
+relation	40			Nsongo Mbudi Nseke	8		CD					
+overture	33be9258-d4b4-4fd8-a823-b3caaa9961cf	-4.5837493	19.9594336	ก๋วยเตี๋ยวเรือกะทิสด นายเตี้ย อำเภอบ้านผือ จังหวัดอุดรธานี				restaurant			ศรีสะอาด	
+relation	41			Tadilua	8		CD					
+overture	6bd4c0a6-b167-4a02-9581-e4326f1b8fb9	-5.3166702	14.4000006	Cotton Club Goma et Gisenyi : restaurant, bar night club				bar			COTTON CLUB. Goma Ville, en face de l'eglise st Esprit. Av. Accasia numero 1	
+relation	42			Togo	8		CD					
+overture	ad8596ba-cb02-442d-bfcd-d2e29616adaa	3.9666698	28.6999989	ReFresh Spot :Cafe ,Bar ,Restaurant				cafe			Lomé-Adido Adin, prés de pharmacie Le Galien	
+relation	43			Uvira	8		CD					
+overture	7e3ec53c-b3fa-4156-8cc1-7c5e7b8605cb	-3.3888929	29.1430702	New - Hope Guest House& Restaurant				restaurant				
+overture	299b60eb-cdc3-4e80-85af-98295a3fd7b9	-3.3959813	29.1396465	New - Hope Guest House& Restaurant				restaurant				
+relation	44			Wema	8		CD					
+overture	75da6a87-0d6d-4f98-8a7d-79b5d91b72cb	-0.6833330	21.3333015	Loving Hut Kinshasa				restaurant			Av, bosoliambe 07, district/two ngamayo, Commune/n'sele Bibwa Kinshasa	
+overture	51159e72-4034-435c-88da-8c4a660404bd	-0.6833330	21.3333015	Tapis rouge Kinshasa				bar			9 Av. de la Nation (ref: Derrière les Galeries Présidentielles - City Market).	
+relation	45			Yakusu	8		CD					
+overture	fe2c6fca-e477-4dcc-af33-ec059b95dcf6	0.5500000	24.7666988	Cyber Café DGI/Watsa				cafe			Bureau de la DGI/Watsa	
+relation	46			Yampekwa	8		CD					
+overture	ee37cc83-b355-4c6d-92b7-385d9657cee7	0.7279963	22.0786343	COCO JAMBO Kinshasa				bar		00243	11-14 AVENUE DE LA PRESSE COMMUNE DE LA GOMBE	
+relation	47			Yanga	8		CD					
+overture	8ca92639-c191-4fdb-a72c-9b5f59da3c73	-4.5873630	24.2734375	Crepolia				restaurant			Galeries Présidentielles / Gombe	
