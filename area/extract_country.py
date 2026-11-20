@@ -160,7 +160,9 @@ def main():
             an = norm(name)
             if not pn or not an or not (an == pn or an.startswith(pn + " ") or pn.startswith(an + " ")):
                 continue
-            if g.contains(pt) and (best is None or g.area < best.area):
+            # The capital takes its largest area (Kinshasa the city-province, not Kinshasa the commune);
+            # other towns their smallest one.
+            if g.contains(pt) and (best is None or (g.area > best.area if p["capital"] else g.area < best.area)):
                 best = g
         if best is None:
             continue
