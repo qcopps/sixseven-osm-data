@@ -1,0 +1,95 @@
+name: build-overture
+
+# Builds extra venue files from the Overture Maps places theme (Meta, Microsoft, Foursquare, AllThePlaces…),
+# for the countries where OpenStreetMap is thin: area/overture_venues.py reads the places, then
+# area/extract_country.py --venues drops what OpenStreetMap already has and attaches each venue to its town.
+# Overture places: CDLA-Permissive-2.0 / Apache-2.0 / CC0 depending on the source; OSM data © OpenStreetMap contributors, ODbL.
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_confidence: { description: 'Minimum Overture confidence (0-1)', default: '0.6' }
+  push:
+    branches: [main]
+    paths: ['.github/workflows/build-overture.yml', 'area/overture_venues.py']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-overture
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        include:
+          - { code: kenyaov, extract: africa/kenya, iso: KE, bbox: '33.9,-4.8,41.95,5.1' }
+          - { code: rdcov, extract: africa/congo-democratic-republic, iso: CD, bbox: '12.2,-13.5,31.4,5.4' }
+          - { code: congoov, extract: africa/congo-brazzaville, iso: CG, bbox: '11.1,-5.1,18.7,3.8' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install libraries
+        run: |
+          pip install osmium==4.3.2 shapely duckdb
+          sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool
+      - name: Read the Overture places
+        run: |
+          mkdir -p dl out
+          RELEASE=$(aws s3 ls --no-sign-request s3://overturemaps-us-west-2/release/ | awk '{print $2}' | tr -d '/' | sort | tail -1)
+          echo "Overture release: $RELEASE" | tee "out/log_${{ matrix.code }}.txt"
+          set -o pipefail
+          python3 -I area/overture_venues.py "$RELEASE" "${{ matrix.bbox }}" dl/overture.tsv "${{ inputs.min_confidence || '0.6' }}" 2>&1 | tee -a "out/log_${{ matrix.code }}.txt"
+      - name: Download the Geofabrik extract
+        run: |
+          curl -fsSL --retry 3 --retry-delay 30 -A "sixseven-osm-data (GitHub Actions)" \
+            -o dl/full.osm.pbf "https://download.geofabrik.de/${{ matrix.extract }}-latest.osm.pbf"
+          osmium tags-filter dl/full.osm.pbf nwr/amenity nwr/leisure=beach_resort r/boundary=administrative \
+            n/place=city,town,village nwr/addr:housenumber w/highway -o dl/extract.osm.pbf --overwrite
+          rm dl/full.osm.pbf
+      - name: Drop what OpenStreetMap has, attach towns, addresses and roads
+        run: |
+          set -o pipefail
+          python3 -I area/extract_country.py dl/extract.osm.pbf out "${{ matrix.code }}" "${{ matrix.iso }}" --venues=dl/overture.tsv 2>&1 | tee -a "out/log_${{ matrix.code }}.txt"
+      - name: Keep the log even on failure
+        if: failure()
+        run: |
+          mkdir -p out
+          echo "FAILED: ${{ matrix.code }}" >> "out/log_${{ matrix.code }}.txt"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: out-${{ matrix.code }}
+          path: out/
+          retention-days: 7
+
+  commit:
+    needs: extract
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: out-*
+          merge-multiple: true
+      - name: Commit the files
+        run: |
+          mkdir -p data logs
+          cp artifacts/*_poi.csv artifacts/*_addr.csv artifacts/*_roads.json data/ 2>/dev/null || true
+          cp artifacts/log_* logs/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data logs
+          git commit -m "Overture venue files (Overture Maps places; OSM data © OpenStreetMap contributors, ODbL)" || echo "nothing to commit"
+          git pull --rebase origin main
+          git push
