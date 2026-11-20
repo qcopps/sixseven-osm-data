@@ -9,10 +9,11 @@ columns: ['addresses', 'basic_category', 'bbox', 'brand', 'confidence', 'emails'
   confidence >= 0.9: 309
   operating status: {'': 3396}
   top categories: [(('restaurant', 'restaurant'), 1225), (('bar', 'bar'), 552), (('cafe', 'cafe'), 188), (('bar', 'dance_club'), 151), (('bar', 'lounge'), 128), (('restaurant', 'bar_and_grill_restaurant'), 116), (('cafe', 'coffee_shop'), 107), (('restaurant', 'african_restaurant'), 87), (('restaurant', 'burger_restaurant'), 84), (('restaurant', 'pizza_restaurant'), 75), (('restaurant', 'chicken_restaurant'), 53), (('restaurant', 'barbecue_restaurant'), 51), (('pub', 'pub'), 51), (('restaurant', 'indian_restaurant'), 39), (('cafe', 'internet_cafe'), 32), (('restaurant', 'french_restaurant'), 30), (('restaurant', 'italian_restaurant'), 26), (('restaurant', 'chinese_restaurant'), 25), (('bar', 'cocktail_bar'), 24), (('bar', 'tapas_bar'), 21), (('restaurant', 'portuguese_restaurant'), 19), (('restaurant', 'asian_restaurant'), 17), (('restaurant', 'breakfast_and_brunch_restaurant'), 17), (('bar', 'smoothie_juice_bar'), 16), (('bar', 'airport_lounge'), 15), (('restaurant', 'lebanese_restaurant'), 14), (('bar', 'beer_garden'), 14), (('restaurant', 'seafood_restaurant'), 13), (('restaurant', 'buffet_restaurant'), 13), (('restaurant', 'steakhouse'), 12), (('restaurant', 'japanese_restaurant'), 11), (('restaurant', 'sushi_restaurant'), 10), (('restaurant', 'brazilian_restaurant'), 10), (('cafe', 'tea_room'), 9), (('restaurant', 'turkish_restaurant'), 9), (('restaurant', 'greek_restaurant'), 9), (('bar', 'hotel_bar'), 8), (('restaurant', 'comfort_food_restaurant'), 7), (('restaurant', 'vegetarian_restaurant'), 7), (('bar', 'sports_bar'), 7)]
-kept 1856 places (confidence >= 0.6, not closed)
+  29 crowded points (189 places on them)
+kept 1687 places (confidence >= 0.6); dropped {'confidence': 1540, 'closed': 0, 'category': 37, 'name': 35, 'point': 97}
 pass A: 1068 venues in the file, 14879 places, 631 admin areas, country CD found: True
 venues inside CD: 1049; places inside: 14379
-other source: 524 venues inside CD; 85 already in OpenStreetMap, 4 duplicates of each other; 435 new
+other source: 444 venues inside CD; 84 already in OpenStreetMap, 4 duplicates of each other; 356 new
   not a metropolitan area: Mbanza-Ngungu (8806 km²)
   not a metropolitan area: Boma (3000 km²)
   not a metropolitan area: Bukama (18755 km²)
@@ -24,7 +25,7 @@ other source: 524 venues inside CD; 85 already in OpenStreetMap, 4 duplicates of
   not a metropolitan area: Dilolo (24727 km²)
   not a metropolitan area: Tshela (3818 km²)
 metropolitan areas: 13 Uvira, Lubumbashi, Bukavu, Goma, Bunia, Kikwit, Kolwezi, Kalemie, Butembo, Matadi, Bandundu, Beni, Kinshasa
-kinds: {'bar': 150, 'restaurant': 249, 'cafe': 31, 'pub': 5}
-town source: {'metro': 365, 'near': 18, 'addr_city': 37, 'nearest': 15}; 47 towns
-biggest towns: Kinshasa 256, Lubumbashi 62, Goma 23, Bukavu 15, Kolwezi 10, Mbali 8, Beni 4, Likasi 4, Kalemie 3, Matadi 3, Noki 3, Bunia 3, Kimpese 3, Moanda 2, Wema 2, Uvira 2, Fungurume 2, Mombanza 1, Bogofo 1, Madimba 1, Kilamba 1, Kananga 1, Kisantu 1, Yampekwa 1, Baringa 1
-rdcov: 435 venues in 47 towns, 50 addresses, 657 roads
+kinds: {'bar': 121, 'restaurant': 213, 'cafe': 19, 'pub': 3}
+town source: {'metro': 295, 'near': 17, 'nearest': 15, 'addr_city': 29}; 46 towns
+biggest towns: Kinshasa 213, Lubumbashi 46, Goma 14, Bukavu 12, Kolwezi 8, Beni 4, Kalemie 3, Matadi 3, Noki 3, Bunia 3, Kimpese 3, Likasi 3, Mbali 3, Kisantu 2, Moanda 2, Wema 2, Uvira 2, Fungurume 2, Mombanza 1, Bogofo 1, Kilamba 1, Kananga 1, Yampekwa 1, Baringa 1, Mwerazi 1
+rdcov: 356 venues in 46 towns, 42 addresses, 631 roads

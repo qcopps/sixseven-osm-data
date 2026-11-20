@@ -9,13 +9,14 @@ columns: ['addresses', 'basic_category', 'bbox', 'brand', 'confidence', 'emails'
   confidence >= 0.9: 859
   operating status: {'': 7153}
   top categories: [(('restaurant', 'restaurant'), 2002), (('bar', 'bar'), 1146), (('bar', 'lounge'), 492), (('restaurant', 'bar_and_grill_restaurant'), 424), (('restaurant', 'african_restaurant'), 390), (('cafe', 'cafe'), 385), (('bar', 'dance_club'), 363), (('pub', 'pub'), 259), (('cafe', 'coffee_shop'), 231), (('restaurant', 'pizza_restaurant'), 153), (('restaurant', 'chicken_restaurant'), 138), (('cafe', 'internet_cafe'), 130), (('restaurant', 'barbecue_restaurant'), 129), (('restaurant', 'indian_restaurant'), 94), (('restaurant', 'seafood_restaurant'), 61), (('restaurant', 'italian_restaurant'), 60), (('restaurant', 'chinese_restaurant'), 58), (('bar', 'smoothie_juice_bar'), 39), (('bar', 'cocktail_bar'), 38), (('cafe', 'tea_room'), 36), (('restaurant', 'burger_restaurant'), 31), (('restaurant', 'steakhouse'), 31), (('bar', 'wine_bar'), 28), (('restaurant', 'breakfast_and_brunch_restaurant'), 28), (('bar', 'sports_bar'), 27), (('bar', 'airport_lounge'), 27), (('restaurant', 'american_restaurant'), 26), (('restaurant', 'japanese_restaurant'), 23), (('restaurant', 'fish_and_chips_restaurant'), 20), (('bar', 'hookah_bar'), 19), (('bar', 'beer_garden'), 17), (('bar', 'hotel_bar'), 17), (('restaurant', 'middle_eastern_restaurant'), 16), (('restaurant', 'vegetarian_restaurant'), 15), (('restaurant', 'ethiopian_restaurant'), 14), (('restaurant', 'asian_restaurant'), 14), (('bar', 'whiskey_bar'), 14), (('bar', 'tapas_bar'), 13), (('restaurant', 'mexican_restaurant'), 12), (('restaurant', 'theme_restaurant'), 10)]
-kept 4182 places (confidence >= 0.6, not closed)
+  41 crowded points (275 places on them)
+kept 3847 places (confidence >= 0.6); dropped {'confidence': 2970, 'closed': 0, 'category': 93, 'name': 105, 'point': 138}
 pass A: 3778 venues in the file, 8874 places, 1498 admin areas, country KE found: True
 venues inside KE: 3775; places inside: 8577
-other source: 3950 venues inside KE; 727 already in OpenStreetMap, 24 duplicates of each other; 3199 new
+other source: 3628 venues inside KE; 715 already in OpenStreetMap, 23 duplicates of each other; 2890 new
   not a metropolitan area: Kakamega (3012 km²)
 metropolitan areas: 6 Kisumu, Nakuru, Mombasa, Kitui, Nairobi, Garissa
-kinds: {'restaurant': 1737, 'cafe': 331, 'pub': 102, 'bar': 1029}
-town source: {'metro': 1748, 'nearest': 62, 'addr_city': 813, 'near': 576}; 247 towns
-biggest towns: Nairobi 1489, Mombasa 219, Kiambu 129, Nakuru 90, Kisumu 80, Eldoret 63, Malindi 48, Kwale 43, Thika 41, Nyeri 41, Kisii 40, Ongata Rongai 35, Nanyuki 34, Watamu 32, Kakamega 29, Kitengela 29, Narok 28, Meru 26, Bungoma 26, Kilifi 25, Embu 23, Mtwapa 22, Machakos 22, Murang'a 20, Athi River 19
-kenyaov: 3199 venues in 247 towns, 270 addresses, 3640 roads
+kinds: {'restaurant': 1622, 'cafe': 239, 'pub': 97, 'bar': 932}
+town source: {'metro': 1585, 'nearest': 72, 'near': 794, 'addr_city': 439}; 307 towns
+biggest towns: Nairobi 1311, Mombasa 196, Nakuru 77, Kisumu 63, Ruiru 59, Eldoret 57, Malindi 44, Thika 38, Ongata Rongai 36, Kitengela 34, Nyeri 32, Kiambu 31, Ukunda 27, Mtwapa 27, Nanyuki 25, Kisii 25, Kikuyu 25, Watamu 23, Narok 21, Kilifi 21, Meru 21, Bungoma 19, Kakamega 18, Ngong 18, Athi River 18
+kenyaov: 2890 venues in 307 towns, 264 addresses, 3528 roads

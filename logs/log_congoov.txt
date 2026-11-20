@@ -9,14 +9,6 @@ columns: ['addresses', 'basic_category', 'bbox', 'brand', 'confidence', 'emails'
   confidence >= 0.9: 85
   operating status: {'': 959}
   top categories: [(('restaurant', 'restaurant'), 352), (('bar', 'bar'), 161), (('bar', 'lounge'), 76), (('bar', 'dance_club'), 63), (('restaurant', 'bar_and_grill_restaurant'), 33), (('cafe', 'cafe'), 30), (('restaurant', 'african_restaurant'), 24), (('restaurant', 'french_restaurant'), 23), (('restaurant', 'pizza_restaurant'), 16), (('pub', 'pub'), 13), (('restaurant', 'burger_restaurant'), 11), (('cafe', 'coffee_shop'), 10), (('restaurant', 'italian_restaurant'), 10), (('restaurant', 'barbecue_restaurant'), 10), (('bar', 'cocktail_bar'), 9), (('restaurant', 'indian_restaurant'), 9), (('bar', 'tapas_bar'), 8), (('cafe', 'internet_cafe'), 7), (('restaurant', 'chinese_restaurant'), 7), (('bar', 'beer_garden'), 7), (('restaurant', 'chicken_restaurant'), 7), (('bar', 'airport_lounge'), 5), (('restaurant', 'breakfast_and_brunch_restaurant'), 4), (('restaurant', 'lebanese_restaurant'), 4), (('cafe', 'tea_room'), 4), (('bar', 'smoothie_juice_bar'), 4), (('restaurant', 'pancake_house'), 4), (('pub', 'gastropub'), 4), (('restaurant', 'asian_restaurant'), 4), (('restaurant', 'greek_restaurant'), 4), (('restaurant', 'buffet_restaurant'), 3), (('restaurant', 'vegetarian_restaurant'), 3), (('restaurant', 'seafood_restaurant'), 3), (('restaurant', 'portuguese_restaurant'), 3), (('bar', 'wine_bar'), 2), (('restaurant', 'sushi_restaurant'), 2), (('bar', 'whiskey_bar'), 2), (('bar', 'hotel_bar'), 2), (('restaurant', 'thai_restaurant'), 2), (('restaurant', 'fondue_restaurant'), 2)]
-kept 573 places (confidence >= 0.6, not closed)
-pass A: 666 venues in the file, 467 places, 78 admin areas, country CG found: True
-venues inside CG: 666; places inside: 345
-other source: 231 venues inside CG; 43 already in OpenStreetMap, 1 duplicates of each other; 187 new
-  not a metropolitan area: Impfondo (6745 km²)
-  not a metropolitan area: Owando (10588 km²)
-metropolitan areas: 4 Pointe-Noire, Brazzaville, Madingou, Nkayi
-kinds: {'restaurant': 97, 'bar': 78, 'cafe': 11, 'pub': 1}
-town source: {'metro': 184, 'addr_city': 1, 'nearest': 1, 'near': 1}; 5 towns
-biggest towns: Brazzaville 111, Pointe-Noire 73, Kilebe Moussia 1, Sialivakou 1, Madingou 1
-congoov: 187 venues in 5 towns, 17 addresses, 417 roads
+  11 crowded points (90 places on them)
+kept 503 places (confidence >= 0.6); dropped {'confidence': 386, 'closed': 0, 'category': 9, 'name': 8, 'point': 53}
+FAILED: congoov
