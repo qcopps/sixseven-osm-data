@@ -24,6 +24,7 @@ node	3291519904	-4.2736122	15.2832989	La Coupole				restaurant
 node	3291519909	-4.2740194	15.2801490	Orchidée				restaurant				
 node	3291519910	-4.2729085	15.2785269	Ginger				restaurant				
 node	3291519913	-4.2693432	15.2689501	Le Jardin des Saveurs				restaurant				
+node	3295658535	-4.1590738	15.3498350	L'Ile de la Reine Feignod				restaurant				
 node	3725418809	-4.2755438	15.2850787	Le Rialto night club				nightclub				
 node	3725418819	-4.2708270	15.2813282	Gourmandine				cafe				
 node	3725418820	-4.2698419	15.2809379	Filo Tempo				restaurant				
@@ -226,7 +227,6 @@ relation	10			Impfondo	8		CG
 node	4667741291	1.6143270	18.0640233	Tropicana				restaurant				
 node	4675601189	1.6155684	18.0653209	hôtel Tropicana				restaurant			Blvd Denis Sassou NGUESSO	
 relation	11			Kintélé	8		CG					
-node	3295658535	-4.1590738	15.3498350	L'Ile de la Reine Feignod				restaurant				
 node	10847196307	-4.1646066	15.3148514	Mossaka Beach				restaurant				
 way	508396271	-4.1464934	15.3408857	Night Club Terminator				nightclub				
 way	695605948	-4.1368689	15.3584089	Cantine Universitaire				restaurant				
