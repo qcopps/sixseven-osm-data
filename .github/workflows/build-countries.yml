@@ -1,0 +1,90 @@
+name: build-countries
+
+# Builds the venue files of whole COUNTRIES for the Six-seven app (area/extract_country.py):
+# every bar, pub, café and restaurant inside the country, each attached to its town.
+# Add a line to the matrix to build another country. Data © OpenStreetMap contributors, ODbL.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/build-countries.yml', 'area/extract_country.py']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-countries
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        include:
+          - { code: kenya, extract: africa/kenya, iso: KE }
+          - { code: rdc, extract: africa/congo-democratic-republic, iso: CD }
+          - { code: congo, extract: africa/congo-brazzaville, iso: CG }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install libraries
+        run: |
+          pip install osmium==4.3.2 shapely
+          sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool
+      - name: Download the Geofabrik extract
+        run: |
+          mkdir -p dl out
+          curl -fsSL --retry 3 --retry-delay 30 -A "sixseven-osm-data (GitHub Actions)" \
+            -o dl/full.osm.pbf "https://download.geofabrik.de/${{ matrix.extract }}-latest.osm.pbf"
+          ls -la dl
+      - name: Keep only what the extraction reads
+        run: |
+          osmium tags-filter dl/full.osm.pbf nwr/amenity nwr/leisure=beach_resort r/boundary=administrative \
+            n/place=city,town,village nwr/addr:housenumber w/highway -o dl/extract.osm.pbf --overwrite
+          rm dl/full.osm.pbf
+          ls -la dl
+      - name: Extract venues, addresses and roads
+        run: |
+          set -o pipefail
+          python3 -I area/extract_country.py dl/extract.osm.pbf out "${{ matrix.code }}" "${{ matrix.iso }}" 2>&1 | tee "out/log_${{ matrix.code }}.txt"
+      - name: Keep the log even on failure
+        if: failure()
+        run: |
+          mkdir -p out
+          echo "FAILED: ${{ matrix.code }}" >> "out/log_${{ matrix.code }}.txt"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: out-${{ matrix.code }}
+          path: out/
+          retention-days: 7
+
+  commit:
+    needs: extract
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: out-*
+          merge-multiple: true
+      - name: Commit the files
+        run: |
+          mkdir -p data logs
+          cp artifacts/*_poi.csv artifacts/*_addr.csv artifacts/*_roads.json data/ 2>/dev/null || true
+          cp artifacts/log_* logs/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data logs
+          git commit -m "Venue files for Kenya and the two Congos (data © OpenStreetMap contributors, ODbL)" || echo "nothing to commit"
+          git pull --rebase origin main
+          git push
