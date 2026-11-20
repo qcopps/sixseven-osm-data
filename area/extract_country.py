@@ -275,9 +275,11 @@ def main():
             if g.contains(pt):
                 return name, "metro"
         ac = norm(v["tags"].get("addr:city", ""))
+        # Overture "locality" is often the county (Kiambu, Machakos…): trust it only close to the town itself.
+        reach_city = 10000 if v["type"] == "overture" else 30000
         if ac and ac in by_name:
             cand = min(by_name[ac], key=lambda p: (p["x"] - x) ** 2 + (p["y"] - y) ** 2)
-            if math.hypot(cand["x"] - x, cand["y"] - y) <= 30000:
+            if math.hypot(cand["x"] - x, cand["y"] - y) <= reach_city:
                 return cand["name"], "addr_city"
         cx, cy = int(x // PCELL), int(y // PCELL)
         best, score = None, None
